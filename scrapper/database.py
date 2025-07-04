@@ -221,14 +221,13 @@ class AutoScoutDatabase:
                     inserted_count += 1
             
             self.connection.commit()
-            total_count = inserted_count + updated_count
             
             self.logger.info(
                 f"Listings gespeichert: {inserted_count} neu, {updated_count} aktualisiert "
                 f"für {make} {model}"
             )
             
-            return total_count
+            return inserted_count  # Nur neue Listings zurückgeben
             
         except sqlite3.Error as e:
             self.connection.rollback()
@@ -552,4 +551,174 @@ class AutoScoutDatabase:
             
         except Exception as e:
             self.logger.error(f"Fehler beim CSV-Export: {e}")
+            raise
+    
+    def create_multi_model_summary(self, output_dir: str = "data") -> str:
+        """
+        Erstellt eine zentrale Zusammenfassung aller Fahrzeugmodelle mit neuesten Updates im logs Ordner
+        
+        Args:
+            output_dir: Ausgabeverzeichnis
+            
+        Returns:
+            Pfad zur erstellten Summary-Datei
+        """
+        try:
+            timestamp = datetime.now()
+            date_str = timestamp.strftime("%Y-%m-%d")
+            time_str = timestamp.strftime("%H-%M-%S")
+            
+            output_path = Path(output_dir)
+            output_path.mkdir(exist_ok=True)
+            
+            # Erstelle logs Verzeichnis und multi-model Unterordner
+            logs_dir = output_path / "logs"
+            logs_dir.mkdir(exist_ok=True)
+            
+            multi_model_dir = logs_dir / "multi_model"
+            multi_model_dir.mkdir(exist_ok=True)
+            
+            # Summary-Datei jetzt im logs/multi_model Ordner
+            summary_filename = multi_model_dir / f"multi_model_summary_{date_str}_{time_str}.txt"
+            
+            cursor = self.connection.cursor()
+            
+            with open(summary_filename, 'w', encoding='utf-8') as f:
+                f.write("AutoScout24 Multi-Model Update Summary\n")
+                f.write("======================================\n\n")
+                f.write(f"Generiert am: {timestamp.strftime('%Y-%m-%d %H:%M:%S')}\n")
+                f.write(f"AutoScout24 Luxembourg Scraper v2.0\n\n")
+                
+                # Hole alle Fahrzeugmodelle mit deren Metadaten
+                cursor.execute("""
+                    SELECT m.make, m.model, m.last_scrape_date, m.total_listings, 
+                           m.new_listings, m.price_changes, m.status
+                    FROM scraping_metadata m
+                    ORDER BY m.last_scrape_date DESC, m.make, m.model
+                """)
+                
+                metadata_rows = cursor.fetchall()
+                
+                if not metadata_rows:
+                    f.write("Keine Scraping-Daten verfügbar.\n")
+                    return str(summary_filename)
+                
+                # Zusammenfassung der Gesamtstatistiken
+                total_models = len(metadata_rows)
+                total_listings = sum(row[3] for row in metadata_rows if row[3])
+                total_new = sum(row[4] for row in metadata_rows if row[4])
+                total_price_changes = sum(row[5] for row in metadata_rows if row[5])
+                
+                f.write("GESAMTÜBERSICHT\n")
+                f.write("===============\n")
+                f.write(f"Überwachte Fahrzeugmodelle: {total_models}\n")
+                f.write(f"Gesamte aktive Listings: {total_listings:,}\n")
+                f.write(f"Neue Listings heute: {total_new:,}\n")
+                f.write(f"Preisänderungen heute: {total_price_changes:,}\n\n")
+                
+                # Fahrzeugmodelle mit neuen Listings
+                models_with_new = [row for row in metadata_rows if row[4] and row[4] > 0]
+                if models_with_new:
+                    f.write(f"🆕 MODELLE MIT NEUEN LISTINGS ({len(models_with_new)})\n")
+                    f.write("=" * 50 + "\n")
+                    for row in models_with_new:
+                        make, model, last_scrape, total, new, changes, status = row
+                        f.write(f"• {make.upper()} {model.upper()}\n")
+                        f.write(f"  📊 {new:,} neue von {total:,} Listings")
+                        if changes and changes > 0:
+                            f.write(f" | 💰 {changes} Preisänderungen")
+                        f.write(f"\n  🕐 {last_scrape}\n\n")
+                else:
+                    f.write("🆕 MODELLE MIT NEUEN LISTINGS\n")
+                    f.write("=" * 30 + "\n")
+                    f.write("Keine neuen Listings gefunden.\n\n")
+                
+                # Fahrzeugmodelle mit Preisänderungen
+                models_with_changes = [row for row in metadata_rows if row[5] and row[5] > 0]
+                if models_with_changes:
+                    f.write(f"💰 MODELLE MIT PREISÄNDERUNGEN ({len(models_with_changes)})\n")
+                    f.write("=" * 50 + "\n")
+                    for row in models_with_changes:
+                        make, model, last_scrape, total, new, changes, status = row
+                        f.write(f"• {make.upper()} {model.upper()}: {changes} Änderungen\n")
+                        
+                        # Detaillierte Preisänderungen für dieses Modell
+                        cursor.execute("""
+                            SELECT change_type, COUNT(*), AVG(price_difference)
+                            FROM price_history 
+                            WHERE make = ? AND model = ? 
+                            AND DATE(change_date) = DATE('now')
+                            GROUP BY change_type
+                        """, (make, model))
+                        
+                        change_details = cursor.fetchall()
+                        for change_type, count, avg_diff in change_details:
+                            symbol = "📉" if "GESUNKEN" in change_type else "📈"
+                            f.write(f"  {symbol} {count}x {change_type.replace('PREIS_', '').lower()}")
+                            f.write(f" (Ø {abs(avg_diff):,.0f}€)\n")
+                        f.write("\n")
+                else:
+                    f.write("💰 MODELLE MIT PREISÄNDERUNGEN\n")
+                    f.write("=" * 30 + "\n")
+                    f.write("Keine Preisänderungen heute.\n\n")
+                
+                # Alle Fahrzeugmodelle - Detailliste
+                f.write("📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE\n")
+                f.write("=" * 40 + "\n")
+                
+                for row in metadata_rows:
+                    make, model, last_scrape, total, new, changes, status = row
+                    
+                    # Status-Symbol
+                    status_symbol = "✅" if status == "success" else "❌"
+                    
+                    f.write(f"{status_symbol} {make.upper()} {model.upper()}\n")
+                    f.write(f"   📊 Listings: {total:,} ({new:,} neu)")
+                    
+                    if changes and changes > 0:
+                        f.write(f" | 💰 {changes} Preisänderungen")
+                    
+                    f.write(f"\n   🕐 Letztes Update: {last_scrape}\n")
+                    
+                    # Schnelle Preisstatistiken
+                    cursor.execute("""
+                        SELECT AVG(price), MIN(price), MAX(price), COUNT(*)
+                        FROM listings 
+                        WHERE make = ? AND model = ? AND is_active = 1 AND price IS NOT NULL
+                    """, (make, model))
+                    
+                    price_stats = cursor.fetchone()
+                    if price_stats and price_stats[3] > 0:
+                        avg_price, min_price, max_price, count = price_stats
+                        f.write(f"   💶 Preise: Ø €{avg_price:,.0f} | €{min_price:,.0f} - €{max_price:,.0f}\n")
+                    
+                    f.write("\n")
+                
+                # Top-Angebote (günstigste über alle Modelle)
+                f.write("🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)\n")
+                f.write("=" * 50 + "\n")
+                
+                cursor.execute("""
+                    SELECT make, model, title, price, url
+                    FROM listings 
+                    WHERE is_active = 1 AND price IS NOT NULL AND price > 0
+                    ORDER BY price ASC
+                    LIMIT 10
+                """)
+                
+                top_deals = cursor.fetchall()
+                for i, (make, model, title, price, url) in enumerate(top_deals, 1):
+                    short_title = title[:50] + "..." if len(title) > 50 else title
+                    f.write(f"{i:2d}. €{price:8,.0f} - {make.upper()} {model.upper()}\n")
+                    f.write(f"    {short_title}\n\n")
+                
+                f.write(f"\n{'='*60}\n")
+                f.write(f"Generiert am: {timestamp.strftime('%Y-%m-%d %H:%M:%S')}\n")
+                f.write(f"AutoScout24 Luxembourg Multi-Model Scraper v2.0\n")
+            
+            self.logger.info(f"Multi-Model Summary erstellt: {summary_filename}")
+            return str(summary_filename)
+            
+        except Exception as e:
+            self.logger.error(f"Fehler beim Erstellen der Multi-Model Summary: {e}")
             raise

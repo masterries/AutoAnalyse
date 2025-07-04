@@ -112,34 +112,16 @@ class AutoScout24LuxembourgScraper:
             self.database.close()
 
     def _setup_logging(self):
-        """Richtet das Logging ein mit automatischer Komprimierung nach 1 Woche"""
-        import logging.handlers
-        import gzip
-        import shutil
-        
+        """Richtet das Logging ein - nur Console-Output"""
+        # Erstelle logs Verzeichnis für Summary-Dateien
         log_dir = self.data_dir / "logs"
         log_dir.mkdir(exist_ok=True)
         
-        # Komprimiere alte Logs (älter als 7 Tage)
-        self._compress_old_logs(log_dir)
-        
-        log_filename = log_dir / f"scraper_{date.today().isoformat()}.log"
-        
-        # Erstelle RotatingFileHandler mit automatischer Rotation
-        file_handler = logging.handlers.TimedRotatingFileHandler(
-            filename=str(log_filename),
-            when='midnight',  # Rotiere täglich um Mitternacht
-            interval=1,
-            backupCount=7,  # Behalte 7 Tage
-            encoding='utf-8'
-        )
-        
-        # Console Handler
+        # Nur Console Handler - keine Datei-Logs mehr
         console_handler = logging.StreamHandler()
         
         # Formatter
         formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-        file_handler.setFormatter(formatter)
         console_handler.setFormatter(formatter)
         
         # Logger konfigurieren
@@ -150,73 +132,47 @@ class AutoScout24LuxembourgScraper:
         for handler in logger.handlers[:]:
             logger.removeHandler(handler)
         
-        logger.addHandler(file_handler)
+        # Nur Console-Logging
         logger.addHandler(console_handler)
         
         self.logger = logger
         
-    def _compress_old_logs(self, log_dir: Path):
-        """Komprimiert Log-Dateien die älter als 7 Tage sind"""
-        import gzip
-        import shutil
-        
+    def _cleanup_old_summary_files(self):
+        """Löscht nur die alten Summary-Dateien des aktuellen Modells vor einem neuen Scraping-Lauf"""
         try:
-            cutoff_date = datetime.now() - timedelta(days=7)
+            # Prüfe sowohl im data-Verzeichnis als auch im logs-Verzeichnis
+            log_dir = self.data_dir / "logs"
             
-            for log_file in log_dir.glob("scraper_*.log*"):
-                # Überspringe bereits komprimierte Dateien
-                if log_file.suffix == '.gz':
-                    continue
+            # Pattern für dieses spezifische Modell
+            model_pattern = f"update_summary_{self.make}_{self.model}_*.txt"
+            
+            deleted_count = 0
+            
+            # Lösche aus data-Verzeichnis (falls noch welche da sind) - nur für dieses Modell
+            for summary_file in self.data_dir.glob(model_pattern):
+                try:
+                    summary_file.unlink()
+                    deleted_count += 1
+                    self.logger.info(f"Alte Summary-Datei gelöscht: {summary_file.name}")
+                except Exception as e:
+                    self.logger.warning(f"Fehler beim Löschen von {summary_file}: {e}")
+            
+            # Lösche aus logs-Verzeichnis - nur für dieses Modell
+            for summary_file in log_dir.glob(model_pattern):
+                try:
+                    summary_file.unlink()
+                    deleted_count += 1
+                    self.logger.info(f"Alte Summary-Datei gelöscht: logs/{summary_file.name}")
+                except Exception as e:
+                    self.logger.warning(f"Fehler beim Löschen von {summary_file}: {e}")
+            
+            if deleted_count > 0:
+                self.logger.info(f"🗑️  {deleted_count} alte Summary-Dateien für {self.make} {self.model} gelöscht")
+            else:
+                self.logger.info(f"ℹ️  Keine alten Summary-Dateien für {self.make} {self.model} zum Löschen gefunden")
                 
-                # Prüfe Alter der Datei
-                file_mtime = datetime.fromtimestamp(log_file.stat().st_mtime)
-                
-                if file_mtime < cutoff_date:
-                    # Komprimiere die Datei
-                    compressed_file = log_file.with_suffix(log_file.suffix + '.gz')
-                    
-                    # Überspringe wenn bereits komprimiert
-                    if compressed_file.exists():
-                        log_file.unlink()  # Lösche Original
-                        continue
-                    
-                    try:
-                        with open(log_file, 'rb') as f_in:
-                            with gzip.open(compressed_file, 'wb') as f_out:
-                                shutil.copyfileobj(f_in, f_out)
-                        
-                        # Lösche Original nach erfolgreicher Komprimierung
-                        log_file.unlink()
-                        
-                        print(f"📦 Log komprimiert: {log_file.name} -> {compressed_file.name}")
-                        
-                    except Exception as e:
-                        print(f"Warnung: Fehler beim Komprimieren von {log_file}: {e}")
-            
-            # Lösche sehr alte komprimierte Logs (älter als 30 Tage)
-            self._cleanup_old_compressed_logs(log_dir)
-            
         except Exception as e:
-            # Fehler beim Log-Management sollten das Hauptprogramm nicht stoppen
-            print(f"Warnung: Fehler beim Log-Management: {e}")
-    
-    def _cleanup_old_compressed_logs(self, log_dir: Path):
-        """Lösche komprimierte Logs die älter als 30 Tage sind"""
-        try:
-            cutoff_date = datetime.now() - timedelta(days=30)
-            
-            for compressed_log in log_dir.glob("scraper_*.log.gz"):
-                file_mtime = datetime.fromtimestamp(compressed_log.stat().st_mtime)
-                
-                if file_mtime < cutoff_date:
-                    try:
-                        compressed_log.unlink()
-                        print(f"🗑️  Alter komprimierter Log gelöscht: {compressed_log.name}")
-                    except Exception as e:
-                        print(f"Warnung: Fehler beim Löschen von {compressed_log}: {e}")
-                        
-        except Exception as e:
-            print(f"Warnung: Fehler beim Cleanup komprimierter Logs: {e}")
+            self.logger.warning(f"Fehler beim Aufräumen von Summary-Dateien: {e}")
 
     def get_total_pages(self, first_page_soup) -> int:
         """Ermittelt die Gesamtanzahl der verfügbaren Seiten"""
@@ -597,9 +553,9 @@ class AutoScout24LuxembourgScraper:
                     }
                     
                     change_type = "PREIS_GESUNKEN" if price_new < price_old else "PREIS_GESTIEGEN"
-                    change['change_type'] = change_type
+                    change['change_type'] = change_type;
                     
-                    price_changes.append(change)
+                    price_changes.append(change);
                     
                     self.logger.info(
                         f"{change_type}: {row['title']} - "
@@ -679,6 +635,9 @@ class AutoScout24LuxembourgScraper:
                 # Optional: Exportiere auch zu CSV für Frontend-Kompatibilität
                 self.database.export_to_csv(self.make, self.model, str(self.data_dir))
                 
+                # Erstelle Datei mit neuen Listings und Preisänderungen
+                self._create_update_summary(new_listings_count)
+                
             else:
                 # Legacy CSV-Modus
                 if not self.current_listings.empty:
@@ -703,6 +662,10 @@ class AutoScout24LuxembourgScraper:
                     json.dump(metadata, f, indent=2)
                     
                 self.logger.info("Metadata gespeichert")
+                
+                # Erstelle Datei mit neuen Listings und Preisänderungen
+                # Im CSV-Modus können wir neue Listings schwer bestimmen, also nehmen wir 0
+                self._create_update_summary(0)
                 
         except Exception as e:
             self.logger.error(f"Fehler beim Speichern: {e}")
@@ -729,6 +692,9 @@ class AutoScout24LuxembourgScraper:
         self.logger.info(f"⚙️  Stop-on-Empty: {stop_on_empty}, Adaptive-Delay: {adaptive_delay}")
         
         try:
+            # 0. Lösche alte Summary-Dateien vor dem neuen Lauf
+            self._cleanup_old_summary_files()
+            
             # 1. Lade bestehende Daten
             existing_listings, existing_price_history = self.load_existing_data()
             
@@ -856,6 +822,42 @@ class AutoScout24LuxembourgScraper:
         """
         results = {}
         
+        # Lösche nur alte Multi-Model-Summary-Dateien vor dem Multi-Model-Scraping
+        print("🗑️  Lösche alte Multi-Model-Summary-Dateien...")
+        try:
+            data_path = Path(data_dir)
+            log_dir = data_path / "logs"
+            multi_model_dir = log_dir / "multi_model"
+            
+            deleted_count = 0
+            
+            # Lösche nur Multi-Model-Summary aus data-Verzeichnis (falls noch welche da sind)
+            for summary_file in data_path.glob("multi_model_summary_*.txt"):
+                try:
+                    summary_file.unlink()
+                    deleted_count += 1
+                    print(f"   Gelöscht: {summary_file.name}")
+                except Exception as e:
+                    print(f"   Warnung: Fehler beim Löschen von {summary_file}: {e}")
+            
+            # Lösche nur Multi-Model-Summary aus logs/multi_model-Verzeichnis
+            if multi_model_dir.exists():
+                for summary_file in multi_model_dir.glob("multi_model_summary_*.txt"):
+                    try:
+                        summary_file.unlink()
+                        deleted_count += 1
+                        print(f"   Gelöscht: logs/multi_model/{summary_file.name}")
+                    except Exception as e:
+                        print(f"   Warnung: Fehler beim Löschen von {summary_file}: {e}")
+            
+            if deleted_count > 0:
+                print(f"✅ {deleted_count} alte Multi-Model-Summary-Dateien gelöscht")
+            else:
+                print("ℹ️  Keine alten Multi-Model-Summary-Dateien gefunden")
+                
+        except Exception as e:
+            print(f"⚠️  Fehler beim Aufräumen von Multi-Model-Summary-Dateien: {e}")
+        
         for make, model in vehicle_models:
             try:
                 print(f"\n{'='*60}")
@@ -895,9 +897,161 @@ class AutoScout24LuxembourgScraper:
                     'error': str(e)
                 }
         
+        # Erstelle zentrale Multi-Model-Zusammenfassung
+        try:
+            # Verwende die erste erfolgreiche Scraper-Instanz für die Datenbank
+            successful_scraper = None
+            for make, model in vehicle_models:
+                try:
+                    test_scraper = cls(make=make, model=model, data_dir=data_dir)
+                    if test_scraper.database:
+                        successful_scraper = test_scraper
+                        break
+                except:
+                    continue
+            
+            if successful_scraper and successful_scraper.database:
+                summary_file = successful_scraper.database.create_multi_model_summary(data_dir)
+                print(f"\n📋 Multi-Model-Zusammenfassung erstellt: {summary_file}")
+            else:
+                print(f"\n⚠️  Keine Datenbankverbindung für Multi-Model-Zusammenfassung verfügbar")
+                
+        except Exception as e:
+            print(f"\n❌ Fehler beim Erstellen der Multi-Model-Zusammenfassung: {e}")
+        
         return results
 
+    def _create_update_summary(self, new_listings_count: int = 0):
+        """Erstellt eine Datei mit neuen Listings und Preisänderungen im logs Ordner"""
+        try:
+            timestamp = datetime.now()
+            date_str = timestamp.strftime("%Y-%m-%d")
+            time_str = timestamp.strftime("%H-%M-%S")
+            
+            # Logs-Verzeichnis erstellen falls nicht vorhanden
+            log_dir = self.data_dir / "logs"
+            log_dir.mkdir(exist_ok=True)
+            
+            # Dateiname mit Datum und Zeit - jetzt im logs Ordner
+            summary_filename = log_dir / f"update_summary_{self.make}_{self.model}_{date_str}_{time_str}.txt"
+            
+            with open(summary_filename, 'w', encoding='utf-8') as f:
+                f.write(f"AutoScout24 Scraping Update Summary\n")
+                f.write(f"=====================================\n\n")
+                f.write(f"Fahrzeug: {self.make} {self.model}\n")
+                f.write(f"Datum: {timestamp.strftime('%Y-%m-%d %H:%M:%S')}\n")
+                f.write(f"Scraper Version: 2.0\n\n")
+                
+                # Neue Listings Zusammenfassung
+                f.write(f"NEUE LISTINGS\n")
+                f.write(f"=============\n")
+                
+                if not self.current_listings.empty:
+                    f.write(f"Gesamt gefundene Listings: {len(self.current_listings)}\n")
+                    f.write(f"Neue Listings: {new_listings_count}\n\n")
+                    
+                    # Preisstatistiken
+                    prices = pd.to_numeric(self.current_listings['price'], errors='coerce').dropna()
+                    if not prices.empty:
+                        f.write(f"PREISSTATISTIKEN\n")
+                        f.write(f"================\n")
+                        f.write(f"Durchschnittspreis: €{prices.mean():,.0f}\n")
+                        f.write(f"Median-Preis: €{prices.median():,.0f}\n")
+                        f.write(f"Günstigstes: €{prices.min():,.0f}\n")
+                        f.write(f"Teuerstes: €{prices.max():,.0f}\n")
+                        f.write(f"Preisspanne: €{prices.max() - prices.min():,.0f}\n\n")
+                    
+                    # Top 5 günstigste neue Listings
+                    if new_listings_count > 0:
+                        # Konvertiere Preise zu numerisch für Sortierung
+                        listings_with_numeric_price = self.current_listings.copy()
+                        listings_with_numeric_price['price_numeric'] = pd.to_numeric(listings_with_numeric_price['price'], errors='coerce')
+                        
+                        # Entferne Listings ohne gültigen Preis und sortiere
+                        valid_price_listings = listings_with_numeric_price.dropna(subset=['price_numeric'])
+                        if not valid_price_listings.empty:
+                            cheapest = valid_price_listings.nsmallest(5, 'price_numeric')
+                            f.write(f"TOP 5 GÜNSTIGSTE LISTINGS\n")
+                            f.write(f"=========================\n")
+                            for idx, row in cheapest.iterrows():
+                                price = f"€{row['price_numeric']:,.0f}" if pd.notna(row['price_numeric']) else "N/A"
+                                title = row['title'][:60] + "..." if len(str(row['title'])) > 60 else row['title']
+                                f.write(f"• {price} - {title}\n")
+                            f.write("\n")
+                else:
+                    f.write("Keine Listings gefunden.\n\n")
+                
+                # Preisänderungen
+                f.write(f"PREISÄNDERUNGEN\n")
+                f.write(f"===============\n")
+                
+                if not self.price_history.empty and len(self.price_history) > 0:
+                    # Nur die neuesten Preisänderungen (von heute)
+                    today_changes = self.price_history[
+                        pd.to_datetime(self.price_history['change_date']).dt.date == timestamp.date()
+                    ] if 'change_date' in self.price_history.columns else pd.DataFrame()
+                    
+                    if not today_changes.empty:
+                        f.write(f"Preisänderungen heute: {len(today_changes)}\n\n")
+                        
+                        # Gruppiere nach Änderungstyp
+                        price_drops = today_changes[today_changes['price_difference'] < 0] if 'price_difference' in today_changes.columns else pd.DataFrame()
+                        price_increases = today_changes[today_changes['price_difference'] > 0] if 'price_difference' in today_changes.columns else pd.DataFrame()
+                        
+                        f.write(f"📉 PREISSENKUNGEN ({len(price_drops)})\n")
+                        f.write(f"{'='*30}\n")
+                        for idx, row in price_drops.iterrows():
+                            title = row['title'][:50] + "..." if len(str(row['title'])) > 50 else row['title']
+                            old_price = f"€{row['price_old']:,.0f}" if pd.notna(row['price_old']) else "N/A"
+                            new_price = f"€{row['price_new']:,.0f}" if pd.notna(row['price_new']) else "N/A"
+                            diff = f"€{abs(row['price_difference']):,.0f}" if pd.notna(row['price_difference']) else "N/A"
+                            f.write(f"• {title}\n")
+                            f.write(f"  {old_price} → {new_price} (-{diff})\n\n")
+                        
+                        f.write(f"📈 PREISERHÖHUNGEN ({len(price_increases)})\n")
+                        f.write(f"{'='*30}\n")
+                        for idx, row in price_increases.iterrows():
+                            title = row['title'][:50] + "..." if len(str(row['title'])) > 50 else row['title']
+                            old_price = f"€{row['price_old']:,.0f}" if pd.notna(row['price_old']) else "N/A"
+                            new_price = f"€{row['price_new']:,.0f}" if pd.notna(row['price_new']) else "N/A"
+                            diff = f"€{row['price_difference']:,.0f}" if pd.notna(row['price_difference']) else "N/A"
+                            f.write(f"• {title}\n")
+                            f.write(f"  {old_price} → {new_price} (+{diff})\n\n")
+                    else:
+                        f.write("Keine Preisänderungen heute.\n\n")
+                else:
+                    f.write("Keine Preisänderungen verfügbar.\n\n")
+                
+                # Zusätzliche Statistiken
+                f.write(f"ZUSÄTZLICHE INFORMATIONEN\n")
+                f.write(f"=========================\n")
+                
+                if not self.current_listings.empty:
+                    # Kraftstofftypen
+                    fuel_counts = self.current_listings['fuel_type'].value_counts()
+                    if not fuel_counts.empty:
+                        f.write(f"Kraftstofftypen:\n")
+                        for fuel, count in fuel_counts.items():
+                            f.write(f"  {fuel}: {count}\n")
+                        f.write("\n")
+                    
+                    # Verkäufertypen
+                    seller_counts = self.current_listings['seller_type'].value_counts()
+                    if not seller_counts.empty:
+                        f.write(f"Verkäufertypen:\n")
+                        for seller, count in seller_counts.items():
+                            f.write(f"  {seller}: {count}\n")
+                        f.write("\n")
+                
+                f.write(f"Generiert am: {timestamp.strftime('%Y-%m-%d %H:%M:%S')}\n")
+                f.write(f"AutoScout24 Luxembourg Scraper v2.0\n")
+            
+            self.logger.info(f"Update-Zusammenfassung erstellt: {summary_filename}")
+            
+        except Exception as e:
+            self.logger.warning(f"Fehler beim Erstellen der Update-Zusammenfassung: {e}")
 
+    # ...existing code...
 def main():
     """Hauptfunktion für die Ausführung als Skript"""
     import argparse
