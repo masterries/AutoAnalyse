@@ -1,0 +1,690 @@
+2025-07-04 17:44:54,962 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:44:54,962 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:44:54,963 - INFO - Scraper initialisiert für mercedes-benz a-180
+2025-07-04 17:44:54,963 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:44:54,964 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:44:54,964 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:44:54,966 - INFO - Bestehende Listings geladen: 0 für mercedes-benz a-180
+2025-07-04 17:44:54,967 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-180
+2025-07-04 17:44:54,967 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:44:54,967 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:44:55,981 - INFO - Serverantwortzeit: 1.01s, angepasste Verzögerung: 2.03s
+2025-07-04 17:44:56,056 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:44:56,058 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:44:56,066 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:44:56,067 - ERROR - ❌ Fehler beim intelligenten Scraping: cannot access local variable 'page_num' where it is not associated with a value
+2025-07-04 17:44:56,069 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:44:56,069 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:44:56,070 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 17:44:56,070 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:44:56,070 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:44:56,070 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:44:56,070 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:44:56,072 - INFO - Bestehende Listings geladen: 0 für mercedes-benz a-200
+2025-07-04 17:44:56,073 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:44:56,074 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:44:56,074 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:44:56,716 - INFO - Serverantwortzeit: 0.64s, angepasste Verzögerung: 2.00s
+2025-07-04 17:44:56,791 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:44:56,792 - INFO - Seite 1/1: 18 article-Elemente gefunden
+2025-07-04 17:44:56,796 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 17:44:56,797 - ERROR - ❌ Fehler beim intelligenten Scraping: cannot access local variable 'page_num' where it is not associated with a value
+2025-07-04 17:44:56,798 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:44:56,798 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:44:56,799 - INFO - Scraper initialisiert für mercedes-benz c-200
+2025-07-04 17:44:56,799 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:44:56,800 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:44:56,800 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:44:56,800 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:44:56,802 - INFO - Bestehende Listings geladen: 0 für mercedes-benz c-200
+2025-07-04 17:44:56,803 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-200
+2025-07-04 17:44:56,803 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:44:56,803 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:44:57,792 - INFO - Serverantwortzeit: 0.99s, angepasste Verzögerung: 2.00s
+2025-07-04 17:44:57,858 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:44:57,859 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:44:57,862 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:44:57,863 - ERROR - ❌ Fehler beim intelligenten Scraping: cannot access local variable 'page_num' where it is not associated with a value
+2025-07-04 17:44:57,864 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:44:57,865 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:44:57,866 - INFO - Scraper initialisiert für mercedes-benz c-220
+2025-07-04 17:44:57,866 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:44:57,866 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:44:57,866 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:44:57,866 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:44:57,868 - INFO - Bestehende Listings geladen: 0 für mercedes-benz c-220
+2025-07-04 17:44:57,869 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-220
+2025-07-04 17:44:57,869 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:44:57,869 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:44:58,723 - INFO - Serverantwortzeit: 0.85s, angepasste Verzögerung: 2.00s
+2025-07-04 17:44:58,782 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:44:58,783 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:44:58,787 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:44:58,787 - ERROR - ❌ Fehler beim intelligenten Scraping: cannot access local variable 'page_num' where it is not associated with a value
+2025-07-04 17:44:58,789 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:44:58,789 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:44:58,790 - INFO - Scraper initialisiert für bmw 120
+2025-07-04 17:44:58,790 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:44:58,790 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:44:58,790 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:44:58,790 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:44:58,792 - INFO - Bestehende Listings geladen: 0 für bmw 120
+2025-07-04 17:44:58,793 - INFO - Preishistorie geladen: 0 Einträge für bmw 120
+2025-07-04 17:44:58,793 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:44:58,794 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:44:59,367 - INFO - Serverantwortzeit: 0.57s, angepasste Verzögerung: 2.00s
+2025-07-04 17:44:59,463 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:44:59,464 - INFO - Seite 1/1: 20 article-Elemente gefunden
+2025-07-04 17:44:59,467 - INFO - Seite 1: 20 neue Listings extrahiert
+2025-07-04 17:44:59,468 - ERROR - ❌ Fehler beim intelligenten Scraping: cannot access local variable 'page_num' where it is not associated with a value
+2025-07-04 17:44:59,469 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:45:16,588 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:45:16,588 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:45:16,589 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 17:45:16,590 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:45:16,590 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:45:16,590 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:45:16,592 - INFO - Bestehende Listings geladen: 0 für mercedes-benz a-200
+2025-07-04 17:45:16,593 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:45:16,593 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:45:16,593 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:45:17,850 - INFO - Serverantwortzeit: 1.26s, angepasste Verzögerung: 2.51s
+2025-07-04 17:45:17,910 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:45:17,910 - INFO - Seite 1/1: 18 article-Elemente gefunden
+2025-07-04 17:45:17,915 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 17:45:17,916 - ERROR - ❌ Fehler beim intelligenten Scraping: cannot access local variable 'page_num' where it is not associated with a value
+2025-07-04 17:45:17,937 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:47:58,754 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:47:58,754 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:47:58,755 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 17:47:58,755 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:47:58,756 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:47:58,756 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:47:58,758 - INFO - Bestehende Listings geladen: 0 für mercedes-benz a-200
+2025-07-04 17:47:58,759 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:47:58,759 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:47:58,759 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:47:59,740 - INFO - Serverantwortzeit: 0.98s, angepasste Verzögerung: 2.00s
+2025-07-04 17:47:59,851 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:47:59,853 - INFO - Seite 1/1: 18 article-Elemente gefunden
+2025-07-04 17:47:59,857 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 17:47:59,858 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 18 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:47:59,858 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:47:59,867 - INFO - Listings gespeichert: 18 neu, 0 aktualisiert für mercedes-benz a-200
+2025-07-04 17:47:59,867 - INFO - Listings in Datenbank gespeichert: 18
+2025-07-04 17:47:59,870 - INFO - Metadaten aktualisiert für mercedes-benz a-200
+2025-07-04 17:47:59,872 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:47:59,874 - INFO - Listings exportiert: data/mercedes-benz_a-200_listings.csv
+2025-07-04 17:47:59,875 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:47:59,875 - INFO - ✅ Intelligentes Scraping abgeschlossen in 1.1 Sekunden
+2025-07-04 17:47:59,876 - INFO - 📊 Einzigartige Listings: 18
+2025-07-04 17:47:59,876 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:47:59,876 - INFO - ⚡ Effizienz: 16.07 Listings/Sekunde
+2025-07-04 17:47:59,878 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:47:59,878 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:48:10,896 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:48:10,896 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:48:10,898 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 17:48:10,898 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:48:11,849 - INFO - Serverantwortzeit: 0.95s, angepasste Verzögerung: 1.90s
+2025-07-04 17:48:11,889 - INFO - Seite 1/2: 18 article-Elemente gefunden
+2025-07-04 17:48:11,893 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 17:48:15,398 - INFO - Seite 2/2: 0 article-Elemente gefunden
+2025-07-04 17:48:15,398 - INFO - Seite 2: 0 neue Listings extrahiert
+2025-07-04 17:48:15,398 - INFO - Stoppe nach Seite 2 - keine neuen Listings gefunden
+2025-07-04 17:48:15,399 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 18 eindeutige Listings gesammelt aus 2 Seiten.
+2025-07-04 17:48:15,399 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:48:15,399 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:48:26,816 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:48:26,816 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:48:26,817 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 17:48:26,817 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:48:26,817 - INFO - 📄 Maximale Seiten: 2
+2025-07-04 17:48:26,817 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:48:26,819 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:48:26,821 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:48:26,821 - INFO - Daten aus Datenbank geladen: 18 Listings, 0 Preisänderungen
+2025-07-04 17:48:26,821 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:48:27,689 - INFO - Serverantwortzeit: 0.87s, angepasste Verzögerung: 1.74s
+2025-07-04 17:48:27,730 - INFO - Seite 1/2: 18 article-Elemente gefunden
+2025-07-04 17:48:27,734 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 17:48:30,025 - INFO - Seite 2/2: 0 article-Elemente gefunden
+2025-07-04 17:48:30,025 - INFO - Seite 2: 0 neue Listings extrahiert
+2025-07-04 17:48:30,025 - INFO - Stoppe nach Seite 2 - keine neuen Listings gefunden
+2025-07-04 17:48:30,026 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 18 eindeutige Listings gesammelt aus 2 Seiten.
+2025-07-04 17:48:30,031 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:48:30,043 - INFO - Listings gespeichert: 0 neu, 18 aktualisiert für mercedes-benz a-200
+2025-07-04 17:48:30,044 - INFO - Listings in Datenbank gespeichert: 18
+2025-07-04 17:48:30,049 - INFO - Metadaten aktualisiert für mercedes-benz a-200
+2025-07-04 17:48:30,052 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:48:30,058 - INFO - Listings exportiert: data/mercedes-benz_a-200_listings.csv
+2025-07-04 17:48:30,060 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:48:30,062 - INFO - ✅ Intelligentes Scraping abgeschlossen in 3.2 Sekunden
+2025-07-04 17:48:30,062 - INFO - 📊 Einzigartige Listings: 18
+2025-07-04 17:48:30,062 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:48:30,062 - INFO - ⚡ Effizienz: 5.55 Listings/Sekunde
+2025-07-04 17:48:30,066 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:48:30,066 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:48:40,667 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:48:40,668 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:48:40,669 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 17:48:40,669 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:48:40,669 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:48:40,669 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:48:40,672 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:48:40,674 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:48:40,674 - INFO - Daten aus Datenbank geladen: 18 Listings, 0 Preisänderungen
+2025-07-04 17:48:40,674 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:48:41,808 - INFO - Serverantwortzeit: 1.13s, angepasste Verzögerung: 2.27s
+2025-07-04 17:48:41,864 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:48:41,865 - INFO - Seite 1/1: 18 article-Elemente gefunden
+2025-07-04 17:48:41,869 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 17:48:41,870 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 18 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:48:41,874 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:48:41,880 - INFO - Listings gespeichert: 0 neu, 18 aktualisiert für mercedes-benz a-200
+2025-07-04 17:48:41,880 - INFO - Listings in Datenbank gespeichert: 18
+2025-07-04 17:48:41,883 - INFO - Metadaten aktualisiert für mercedes-benz a-200
+2025-07-04 17:48:41,885 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:48:41,886 - INFO - Listings exportiert: data/mercedes-benz_a-200_listings.csv
+2025-07-04 17:48:41,888 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:48:41,888 - INFO - ✅ Intelligentes Scraping abgeschlossen in 1.2 Sekunden
+2025-07-04 17:48:41,888 - INFO - 📊 Einzigartige Listings: 18
+2025-07-04 17:48:41,888 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:48:41,888 - INFO - ⚡ Effizienz: 14.77 Listings/Sekunde
+2025-07-04 17:48:41,890 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:48:41,890 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:49:00,356 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:00,356 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:00,357 - INFO - Scraper initialisiert für mercedes-benz a-180
+2025-07-04 17:49:00,357 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:49:00,357 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:49:00,357 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:49:00,359 - INFO - Bestehende Listings geladen: 0 für mercedes-benz a-180
+2025-07-04 17:49:00,360 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-180
+2025-07-04 17:49:00,361 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:49:00,361 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:49:02,586 - INFO - Serverantwortzeit: 2.23s, angepasste Verzögerung: 4.45s
+2025-07-04 17:49:02,645 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:49:02,646 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:49:02,650 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:49:02,650 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:49:02,651 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:49:02,658 - INFO - Listings gespeichert: 19 neu, 0 aktualisiert für mercedes-benz a-180
+2025-07-04 17:49:02,659 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:49:02,662 - INFO - Metadaten aktualisiert für mercedes-benz a-180
+2025-07-04 17:49:02,664 - INFO - Bestehende Listings geladen: 19 für mercedes-benz a-180
+2025-07-04 17:49:02,666 - INFO - Listings exportiert: data/mercedes-benz_a-180_listings.csv
+2025-07-04 17:49:02,667 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-180
+2025-07-04 17:49:02,668 - INFO - ✅ Intelligentes Scraping abgeschlossen in 2.3 Sekunden
+2025-07-04 17:49:02,668 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:49:02,668 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:49:02,668 - INFO - ⚡ Effizienz: 8.22 Listings/Sekunde
+2025-07-04 17:49:07,670 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:07,670 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:07,671 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 17:49:07,672 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:49:07,672 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:49:07,672 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:49:07,672 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:49:07,674 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:49:07,675 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:49:07,675 - INFO - Daten aus Datenbank geladen: 18 Listings, 0 Preisänderungen
+2025-07-04 17:49:07,675 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:49:08,492 - INFO - Serverantwortzeit: 0.82s, angepasste Verzögerung: 2.00s
+2025-07-04 17:49:08,568 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:49:08,568 - INFO - Seite 1/1: 18 article-Elemente gefunden
+2025-07-04 17:49:08,572 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 17:49:08,573 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 18 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:49:08,577 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:49:08,581 - INFO - Listings gespeichert: 0 neu, 18 aktualisiert für mercedes-benz a-200
+2025-07-04 17:49:08,582 - INFO - Listings in Datenbank gespeichert: 18
+2025-07-04 17:49:08,585 - INFO - Metadaten aktualisiert für mercedes-benz a-200
+2025-07-04 17:49:08,587 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:49:08,588 - INFO - Listings exportiert: data/mercedes-benz_a-200_listings.csv
+2025-07-04 17:49:08,589 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:49:08,589 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.9 Sekunden
+2025-07-04 17:49:08,590 - INFO - 📊 Einzigartige Listings: 18
+2025-07-04 17:49:08,590 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:49:08,590 - INFO - ⚡ Effizienz: 19.62 Listings/Sekunde
+2025-07-04 17:49:13,592 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:13,592 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:13,593 - INFO - Scraper initialisiert für mercedes-benz c-200
+2025-07-04 17:49:13,593 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:49:13,593 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:49:13,594 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:49:13,594 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:49:13,596 - INFO - Bestehende Listings geladen: 0 für mercedes-benz c-200
+2025-07-04 17:49:13,597 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-200
+2025-07-04 17:49:13,597 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:49:13,597 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:49:14,464 - INFO - Serverantwortzeit: 0.87s, angepasste Verzögerung: 2.00s
+2025-07-04 17:49:14,520 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:49:14,521 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:49:14,525 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:49:14,526 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:49:14,526 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:49:14,532 - INFO - Listings gespeichert: 19 neu, 0 aktualisiert für mercedes-benz c-200
+2025-07-04 17:49:14,533 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:49:14,536 - INFO - Metadaten aktualisiert für mercedes-benz c-200
+2025-07-04 17:49:14,537 - INFO - Bestehende Listings geladen: 19 für mercedes-benz c-200
+2025-07-04 17:49:14,538 - INFO - Listings exportiert: data/mercedes-benz_c-200_listings.csv
+2025-07-04 17:49:14,540 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-200
+2025-07-04 17:49:14,540 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.9 Sekunden
+2025-07-04 17:49:14,541 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:49:14,541 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:49:14,541 - INFO - ⚡ Effizienz: 20.07 Listings/Sekunde
+2025-07-04 17:49:19,543 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:19,543 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:19,545 - INFO - Scraper initialisiert für mercedes-benz c-220
+2025-07-04 17:49:19,545 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:49:19,546 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:49:19,546 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:49:19,546 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:49:19,549 - INFO - Bestehende Listings geladen: 0 für mercedes-benz c-220
+2025-07-04 17:49:19,551 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-220
+2025-07-04 17:49:19,551 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:49:19,551 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:49:20,094 - INFO - Serverantwortzeit: 0.54s, angepasste Verzögerung: 2.00s
+2025-07-04 17:49:20,157 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:49:20,158 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:49:20,162 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:49:20,162 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:49:20,163 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:49:20,171 - INFO - Listings gespeichert: 19 neu, 0 aktualisiert für mercedes-benz c-220
+2025-07-04 17:49:20,171 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:49:20,174 - INFO - Metadaten aktualisiert für mercedes-benz c-220
+2025-07-04 17:49:20,176 - INFO - Bestehende Listings geladen: 19 für mercedes-benz c-220
+2025-07-04 17:49:20,178 - INFO - Listings exportiert: data/mercedes-benz_c-220_listings.csv
+2025-07-04 17:49:20,180 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-220
+2025-07-04 17:49:20,180 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.6 Sekunden
+2025-07-04 17:49:20,180 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:49:20,180 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:49:20,180 - INFO - ⚡ Effizienz: 29.96 Listings/Sekunde
+2025-07-04 17:49:25,183 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:25,183 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:25,184 - INFO - Scraper initialisiert für bmw 120
+2025-07-04 17:49:25,184 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:49:25,184 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:49:25,184 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:49:25,184 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:49:25,186 - INFO - Bestehende Listings geladen: 0 für bmw 120
+2025-07-04 17:49:25,187 - INFO - Preishistorie geladen: 0 Einträge für bmw 120
+2025-07-04 17:49:25,187 - INFO - Daten aus Datenbank geladen: 0 Listings, 0 Preisänderungen
+2025-07-04 17:49:25,187 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:49:25,771 - INFO - Serverantwortzeit: 0.58s, angepasste Verzögerung: 2.00s
+2025-07-04 17:49:25,831 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:49:25,832 - INFO - Seite 1/1: 20 article-Elemente gefunden
+2025-07-04 17:49:25,835 - INFO - Seite 1: 20 neue Listings extrahiert
+2025-07-04 17:49:25,836 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 20 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:49:25,836 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:49:25,846 - INFO - Listings gespeichert: 20 neu, 0 aktualisiert für bmw 120
+2025-07-04 17:49:25,847 - INFO - Listings in Datenbank gespeichert: 20
+2025-07-04 17:49:25,849 - INFO - Metadaten aktualisiert für bmw 120
+2025-07-04 17:49:25,851 - INFO - Bestehende Listings geladen: 20 für bmw 120
+2025-07-04 17:49:25,852 - INFO - Listings exportiert: data/bmw_120_listings.csv
+2025-07-04 17:49:25,854 - INFO - Preishistorie geladen: 0 Einträge für bmw 120
+2025-07-04 17:49:25,854 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.7 Sekunden
+2025-07-04 17:49:25,854 - INFO - 📊 Einzigartige Listings: 20
+2025-07-04 17:49:25,854 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:49:25,854 - INFO - ⚡ Effizienz: 29.86 Listings/Sekunde
+2025-07-04 17:49:30,856 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:49:59,214 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:59,214 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:49:59,215 - INFO - Scraper initialisiert für mercedes-benz a-180
+2025-07-04 17:49:59,215 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:49:59,216 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:49:59,216 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:49:59,218 - INFO - Bestehende Listings geladen: 19 für mercedes-benz a-180
+2025-07-04 17:49:59,219 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-180
+2025-07-04 17:49:59,219 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 17:49:59,219 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:49:59,825 - INFO - Serverantwortzeit: 0.61s, angepasste Verzögerung: 2.00s
+2025-07-04 17:49:59,892 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:49:59,894 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:49:59,905 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:49:59,907 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:49:59,915 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:49:59,928 - INFO - Listings gespeichert: 0 neu, 19 aktualisiert für mercedes-benz a-180
+2025-07-04 17:49:59,928 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:49:59,932 - INFO - Metadaten aktualisiert für mercedes-benz a-180
+2025-07-04 17:49:59,935 - INFO - Bestehende Listings geladen: 19 für mercedes-benz a-180
+2025-07-04 17:49:59,938 - INFO - Listings exportiert: data/mercedes-benz_a-180_listings.csv
+2025-07-04 17:49:59,940 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-180
+2025-07-04 17:49:59,941 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.7 Sekunden
+2025-07-04 17:49:59,941 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:49:59,941 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:49:59,941 - INFO - ⚡ Effizienz: 26.20 Listings/Sekunde
+2025-07-04 17:50:04,947 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:50:04,947 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:50:04,947 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 17:50:04,948 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:50:04,948 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:50:04,948 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:50:04,948 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:50:04,950 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:50:04,952 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:50:04,952 - INFO - Daten aus Datenbank geladen: 18 Listings, 0 Preisänderungen
+2025-07-04 17:50:04,952 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:50:05,797 - INFO - Serverantwortzeit: 0.84s, angepasste Verzögerung: 2.00s
+2025-07-04 17:50:05,871 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:50:05,872 - INFO - Seite 1/1: 18 article-Elemente gefunden
+2025-07-04 17:50:05,875 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 17:50:05,876 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 18 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:50:05,879 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:50:05,885 - INFO - Listings gespeichert: 0 neu, 18 aktualisiert für mercedes-benz a-200
+2025-07-04 17:50:05,885 - INFO - Listings in Datenbank gespeichert: 18
+2025-07-04 17:50:05,889 - INFO - Metadaten aktualisiert für mercedes-benz a-200
+2025-07-04 17:50:05,891 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:50:05,892 - INFO - Listings exportiert: data/mercedes-benz_a-200_listings.csv
+2025-07-04 17:50:05,894 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:50:05,894 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.9 Sekunden
+2025-07-04 17:50:05,894 - INFO - 📊 Einzigartige Listings: 18
+2025-07-04 17:50:05,894 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:50:05,894 - INFO - ⚡ Effizienz: 19.02 Listings/Sekunde
+2025-07-04 17:50:10,897 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:50:10,897 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:50:10,898 - INFO - Scraper initialisiert für mercedes-benz c-200
+2025-07-04 17:50:10,898 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:50:10,899 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:50:10,899 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:50:10,899 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:50:10,901 - INFO - Bestehende Listings geladen: 19 für mercedes-benz c-200
+2025-07-04 17:50:10,902 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-200
+2025-07-04 17:50:10,902 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 17:50:10,902 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:50:11,536 - INFO - Serverantwortzeit: 0.63s, angepasste Verzögerung: 2.00s
+2025-07-04 17:50:11,631 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:50:11,632 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:50:11,639 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:50:11,640 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:50:11,644 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:50:11,653 - INFO - Listings gespeichert: 0 neu, 19 aktualisiert für mercedes-benz c-200
+2025-07-04 17:50:11,654 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:50:11,657 - INFO - Metadaten aktualisiert für mercedes-benz c-200
+2025-07-04 17:50:11,659 - INFO - Bestehende Listings geladen: 19 für mercedes-benz c-200
+2025-07-04 17:50:11,660 - INFO - Listings exportiert: data/mercedes-benz_c-200_listings.csv
+2025-07-04 17:50:11,662 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-200
+2025-07-04 17:50:11,662 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.8 Sekunden
+2025-07-04 17:50:11,662 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:50:11,662 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:50:11,662 - INFO - ⚡ Effizienz: 24.90 Listings/Sekunde
+2025-07-04 17:50:16,665 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:50:16,665 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:50:16,666 - INFO - Scraper initialisiert für mercedes-benz c-220
+2025-07-04 17:50:16,666 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:50:16,666 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:50:16,666 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:50:16,666 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:50:16,668 - INFO - Bestehende Listings geladen: 19 für mercedes-benz c-220
+2025-07-04 17:50:16,670 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-220
+2025-07-04 17:50:16,670 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 17:50:16,670 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:50:17,305 - INFO - Serverantwortzeit: 0.64s, angepasste Verzögerung: 2.00s
+2025-07-04 17:50:17,360 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:50:17,361 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:50:17,364 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:50:17,365 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:50:17,369 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:50:17,374 - INFO - Listings gespeichert: 0 neu, 19 aktualisiert für mercedes-benz c-220
+2025-07-04 17:50:17,374 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:50:17,378 - INFO - Metadaten aktualisiert für mercedes-benz c-220
+2025-07-04 17:50:17,380 - INFO - Bestehende Listings geladen: 19 für mercedes-benz c-220
+2025-07-04 17:50:17,381 - INFO - Listings exportiert: data/mercedes-benz_c-220_listings.csv
+2025-07-04 17:50:17,382 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-220
+2025-07-04 17:50:17,383 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.7 Sekunden
+2025-07-04 17:50:17,383 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:50:17,383 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:50:17,383 - INFO - ⚡ Effizienz: 26.53 Listings/Sekunde
+2025-07-04 17:50:22,385 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:50:22,385 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:50:22,386 - INFO - Scraper initialisiert für bmw 120
+2025-07-04 17:50:22,387 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:50:22,387 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:50:22,387 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:50:22,387 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:50:22,390 - INFO - Bestehende Listings geladen: 20 für bmw 120
+2025-07-04 17:50:22,391 - INFO - Preishistorie geladen: 0 Einträge für bmw 120
+2025-07-04 17:50:22,391 - INFO - Daten aus Datenbank geladen: 20 Listings, 0 Preisänderungen
+2025-07-04 17:50:22,391 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:50:22,932 - INFO - Serverantwortzeit: 0.54s, angepasste Verzögerung: 2.00s
+2025-07-04 17:50:22,988 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:50:22,989 - INFO - Seite 1/1: 20 article-Elemente gefunden
+2025-07-04 17:50:22,993 - INFO - Seite 1: 20 neue Listings extrahiert
+2025-07-04 17:50:22,994 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 20 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:50:22,998 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:50:23,003 - INFO - Listings gespeichert: 0 neu, 20 aktualisiert für bmw 120
+2025-07-04 17:50:23,004 - INFO - Listings in Datenbank gespeichert: 20
+2025-07-04 17:50:23,007 - INFO - Metadaten aktualisiert für bmw 120
+2025-07-04 17:50:23,008 - INFO - Bestehende Listings geladen: 20 für bmw 120
+2025-07-04 17:50:23,009 - INFO - Listings exportiert: data/bmw_120_listings.csv
+2025-07-04 17:50:23,011 - INFO - Preishistorie geladen: 0 Einträge für bmw 120
+2025-07-04 17:50:23,012 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.6 Sekunden
+2025-07-04 17:50:23,012 - INFO - 📊 Einzigartige Listings: 20
+2025-07-04 17:50:23,012 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:50:23,012 - INFO - ⚡ Effizienz: 31.99 Listings/Sekunde
+2025-07-04 17:50:28,014 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:51:28,324 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:51:28,324 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:51:28,325 - INFO - Scraper initialisiert für mercedes-benz a-180
+2025-07-04 17:51:28,325 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:51:28,325 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:51:28,325 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:51:28,327 - INFO - Bestehende Listings geladen: 19 für mercedes-benz a-180
+2025-07-04 17:51:28,329 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-180
+2025-07-04 17:51:28,329 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 17:51:28,329 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:51:28,998 - INFO - Serverantwortzeit: 0.67s, angepasste Verzögerung: 2.00s
+2025-07-04 17:51:29,061 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:51:29,062 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:51:29,066 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:51:29,067 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:51:29,071 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:51:29,081 - INFO - Listings gespeichert: 0 neu, 19 aktualisiert für mercedes-benz a-180
+2025-07-04 17:51:29,081 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:51:29,084 - INFO - Metadaten aktualisiert für mercedes-benz a-180
+2025-07-04 17:51:29,086 - INFO - Bestehende Listings geladen: 19 für mercedes-benz a-180
+2025-07-04 17:51:29,088 - INFO - Listings exportiert: data/mercedes-benz_a-180_listings.csv
+2025-07-04 17:51:29,090 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-180
+2025-07-04 17:51:29,091 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.8 Sekunden
+2025-07-04 17:51:29,091 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:51:29,091 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:51:29,091 - INFO - ⚡ Effizienz: 24.83 Listings/Sekunde
+2025-07-04 17:51:34,094 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:51:34,094 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:51:34,095 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 17:51:34,095 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:51:34,095 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:51:34,095 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:51:34,095 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:51:34,097 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:51:34,098 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:51:34,098 - INFO - Daten aus Datenbank geladen: 18 Listings, 0 Preisänderungen
+2025-07-04 17:51:34,098 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:51:34,891 - INFO - Serverantwortzeit: 0.79s, angepasste Verzögerung: 2.00s
+2025-07-04 17:51:34,945 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:51:34,946 - INFO - Seite 1/1: 18 article-Elemente gefunden
+2025-07-04 17:51:34,950 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 17:51:34,950 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 18 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:51:34,954 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:51:34,959 - INFO - Listings gespeichert: 0 neu, 18 aktualisiert für mercedes-benz a-200
+2025-07-04 17:51:34,959 - INFO - Listings in Datenbank gespeichert: 18
+2025-07-04 17:51:34,963 - INFO - Metadaten aktualisiert für mercedes-benz a-200
+2025-07-04 17:51:34,965 - INFO - Bestehende Listings geladen: 18 für mercedes-benz a-200
+2025-07-04 17:51:34,966 - INFO - Listings exportiert: data/mercedes-benz_a-200_listings.csv
+2025-07-04 17:51:34,968 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz a-200
+2025-07-04 17:51:34,968 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.9 Sekunden
+2025-07-04 17:51:34,968 - INFO - 📊 Einzigartige Listings: 18
+2025-07-04 17:51:34,968 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:51:34,968 - INFO - ⚡ Effizienz: 20.63 Listings/Sekunde
+2025-07-04 17:51:39,970 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:51:39,971 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:51:39,971 - INFO - Scraper initialisiert für mercedes-benz c-200
+2025-07-04 17:51:39,972 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:51:39,972 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:51:39,972 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:51:39,972 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:51:39,974 - INFO - Bestehende Listings geladen: 19 für mercedes-benz c-200
+2025-07-04 17:51:39,975 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-200
+2025-07-04 17:51:39,975 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 17:51:39,975 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:51:41,222 - INFO - Serverantwortzeit: 1.25s, angepasste Verzögerung: 2.49s
+2025-07-04 17:51:41,279 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:51:41,280 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:51:41,283 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:51:41,284 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:51:41,288 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:51:41,293 - INFO - Listings gespeichert: 0 neu, 19 aktualisiert für mercedes-benz c-200
+2025-07-04 17:51:41,293 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:51:41,297 - INFO - Metadaten aktualisiert für mercedes-benz c-200
+2025-07-04 17:51:41,299 - INFO - Bestehende Listings geladen: 19 für mercedes-benz c-200
+2025-07-04 17:51:41,300 - INFO - Listings exportiert: data/mercedes-benz_c-200_listings.csv
+2025-07-04 17:51:41,302 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-200
+2025-07-04 17:51:41,302 - INFO - ✅ Intelligentes Scraping abgeschlossen in 1.3 Sekunden
+2025-07-04 17:51:41,302 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:51:41,302 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:51:41,302 - INFO - ⚡ Effizienz: 14.29 Listings/Sekunde
+2025-07-04 17:51:46,304 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:51:46,305 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:51:46,306 - INFO - Scraper initialisiert für mercedes-benz c-220
+2025-07-04 17:51:46,306 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:51:46,306 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:51:46,306 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:51:46,306 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:51:46,308 - INFO - Bestehende Listings geladen: 19 für mercedes-benz c-220
+2025-07-04 17:51:46,309 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-220
+2025-07-04 17:51:46,309 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 17:51:46,309 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:51:46,976 - INFO - Serverantwortzeit: 0.67s, angepasste Verzögerung: 2.00s
+2025-07-04 17:51:47,031 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:51:47,032 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:51:47,035 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:51:47,036 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:51:47,040 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:51:47,046 - INFO - Listings gespeichert: 0 neu, 19 aktualisiert für mercedes-benz c-220
+2025-07-04 17:51:47,047 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:51:47,049 - INFO - Metadaten aktualisiert für mercedes-benz c-220
+2025-07-04 17:51:47,051 - INFO - Bestehende Listings geladen: 19 für mercedes-benz c-220
+2025-07-04 17:51:47,052 - INFO - Listings exportiert: data/mercedes-benz_c-220_listings.csv
+2025-07-04 17:51:47,053 - INFO - Preishistorie geladen: 0 Einträge für mercedes-benz c-220
+2025-07-04 17:51:47,053 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.7 Sekunden
+2025-07-04 17:51:47,053 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:51:47,054 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:51:47,054 - INFO - ⚡ Effizienz: 25.42 Listings/Sekunde
+2025-07-04 17:51:52,056 - INFO - Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:51:52,056 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:51:52,057 - INFO - Scraper initialisiert für bmw 120
+2025-07-04 17:51:52,058 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:51:52,058 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:51:52,058 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:51:52,058 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:51:52,060 - INFO - Bestehende Listings geladen: 20 für bmw 120
+2025-07-04 17:51:52,061 - INFO - Preishistorie geladen: 0 Einträge für bmw 120
+2025-07-04 17:51:52,061 - INFO - Daten aus Datenbank geladen: 20 Listings, 0 Preisänderungen
+2025-07-04 17:51:52,061 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:51:52,622 - INFO - Serverantwortzeit: 0.56s, angepasste Verzögerung: 2.00s
+2025-07-04 17:51:52,686 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:51:52,687 - INFO - Seite 1/1: 20 article-Elemente gefunden
+2025-07-04 17:51:52,691 - INFO - Seite 1: 20 neue Listings extrahiert
+2025-07-04 17:51:52,692 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 20 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:51:52,696 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:51:52,701 - INFO - Listings gespeichert: 0 neu, 20 aktualisiert für bmw 120
+2025-07-04 17:51:52,701 - INFO - Listings in Datenbank gespeichert: 20
+2025-07-04 17:51:52,705 - INFO - Metadaten aktualisiert für bmw 120
+2025-07-04 17:51:52,706 - INFO - Bestehende Listings geladen: 20 für bmw 120
+2025-07-04 17:51:52,707 - INFO - Listings exportiert: data/bmw_120_listings.csv
+2025-07-04 17:51:52,709 - INFO - Preishistorie geladen: 0 Einträge für bmw 120
+2025-07-04 17:51:52,709 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.7 Sekunden
+2025-07-04 17:51:52,709 - INFO - 📊 Einzigartige Listings: 20
+2025-07-04 17:51:52,710 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:51:52,710 - INFO - ⚡ Effizienz: 30.70 Listings/Sekunde
+2025-07-04 17:51:57,711 - INFO - Datenbankverbindung geschlossen
+2025-07-04 17:58:51,434 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:58:51,436 - INFO - Scraper initialisiert für mercedes-benz a-180
+2025-07-04 17:58:51,436 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:58:51,436 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:58:51,436 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:58:51,443 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 17:58:51,443 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:58:52,019 - INFO - Serverantwortzeit: 0.58s, angepasste Verzögerung: 2.00s
+2025-07-04 17:58:52,078 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:58:52,078 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:58:52,082 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:58:52,083 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:58:52,088 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:58:52,093 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:58:52,101 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.7 Sekunden
+2025-07-04 17:58:52,101 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:58:52,101 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:58:52,101 - INFO - ⚡ Effizienz: 28.59 Listings/Sekunde
+2025-07-04 17:58:57,104 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:58:57,105 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 17:58:57,105 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:58:57,106 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:58:57,106 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:58:57,109 - INFO - Daten aus Datenbank geladen: 18 Listings, 0 Preisänderungen
+2025-07-04 17:58:57,109 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:58:57,778 - INFO - Serverantwortzeit: 0.67s, angepasste Verzögerung: 2.00s
+2025-07-04 17:58:57,834 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:58:57,835 - INFO - Seite 1/1: 18 article-Elemente gefunden
+2025-07-04 17:58:57,838 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 17:58:57,839 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 18 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:58:57,843 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:58:57,853 - INFO - Listings in Datenbank gespeichert: 18
+2025-07-04 17:58:57,861 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.8 Sekunden
+2025-07-04 17:58:57,861 - INFO - 📊 Einzigartige Listings: 18
+2025-07-04 17:58:57,861 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:58:57,861 - INFO - ⚡ Effizienz: 23.83 Listings/Sekunde
+2025-07-04 17:59:02,864 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:59:02,865 - INFO - Scraper initialisiert für mercedes-benz c-200
+2025-07-04 17:59:02,865 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:59:02,865 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:59:02,866 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:59:02,869 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 17:59:02,869 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:59:03,986 - INFO - Serverantwortzeit: 1.12s, angepasste Verzögerung: 2.23s
+2025-07-04 17:59:04,044 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:59:04,045 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:59:04,049 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:59:04,049 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:59:04,053 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:59:04,058 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:59:04,066 - INFO - ✅ Intelligentes Scraping abgeschlossen in 1.2 Sekunden
+2025-07-04 17:59:04,066 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:59:04,066 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:59:04,066 - INFO - ⚡ Effizienz: 15.83 Listings/Sekunde
+2025-07-04 17:59:09,068 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:59:09,069 - INFO - Scraper initialisiert für mercedes-benz c-220
+2025-07-04 17:59:09,069 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:59:09,069 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:59:09,069 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:59:09,073 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 17:59:09,073 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:59:09,831 - INFO - Serverantwortzeit: 0.76s, angepasste Verzögerung: 2.00s
+2025-07-04 17:59:09,913 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:59:09,914 - INFO - Seite 1/1: 19 article-Elemente gefunden
+2025-07-04 17:59:09,918 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 17:59:09,919 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 19 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:59:09,923 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:59:09,929 - INFO - Listings in Datenbank gespeichert: 19
+2025-07-04 17:59:09,937 - INFO - ✅ Intelligentes Scraping abgeschlossen in 0.9 Sekunden
+2025-07-04 17:59:09,937 - INFO - 📊 Einzigartige Listings: 19
+2025-07-04 17:59:09,937 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:59:09,938 - INFO - ⚡ Effizienz: 21.89 Listings/Sekunde
+2025-07-04 17:59:14,940 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 17:59:14,941 - INFO - Scraper initialisiert für bmw 120
+2025-07-04 17:59:14,941 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 17:59:14,941 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 17:59:14,941 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 17:59:14,945 - INFO - Daten aus Datenbank geladen: 20 Listings, 0 Preisänderungen
+2025-07-04 17:59:14,945 - INFO - Starte intelligentes Scraping...
+2025-07-04 17:59:16,260 - INFO - Serverantwortzeit: 1.31s, angepasste Verzögerung: 2.63s
+2025-07-04 17:59:16,315 - INFO - Automatisch ermittelte Seitenzahl: 1, begrenze auf: 1
+2025-07-04 17:59:16,316 - INFO - Seite 1/1: 20 article-Elemente gefunden
+2025-07-04 17:59:16,320 - INFO - Seite 1: 20 neue Listings extrahiert
+2025-07-04 17:59:16,321 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 20 eindeutige Listings gesammelt aus 1 Seiten.
+2025-07-04 17:59:16,325 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 17:59:16,330 - INFO - Listings in Datenbank gespeichert: 20
+2025-07-04 17:59:16,336 - INFO - ✅ Intelligentes Scraping abgeschlossen in 1.4 Sekunden
+2025-07-04 17:59:16,336 - INFO - 📊 Einzigartige Listings: 20
+2025-07-04 17:59:16,337 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 17:59:16,337 - INFO - ⚡ Effizienz: 14.34 Listings/Sekunde
