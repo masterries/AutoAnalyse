@@ -757,3 +757,118 @@
 2025-07-04 18:12:49,979 - INFO - 📈 Gesamte Preisänderungen: 0
 2025-07-04 18:12:49,979 - INFO - ⚡ Effizienz: 5.12 Listings/Sekunde
 2025-07-04 18:12:49,982 - INFO - Datenbankverbindung geschlossen
+2025-07-04 18:14:14,559 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 18:14:14,560 - INFO - Scraper initialisiert für mercedes-benz a-180
+2025-07-04 18:14:14,560 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 18:14:14,560 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 18:14:14,560 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 18:14:14,564 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 18:14:14,564 - INFO - Starte intelligentes Scraping...
+2025-07-04 18:14:15,840 - INFO - Serverantwortzeit: 1.28s, angepasste Verzögerung: 3.00s
+2025-07-04 18:14:15,942 - INFO - Automatisch ermittelte Seitenzahl: 1, teste bis zu: 10 Seiten
+2025-07-04 18:14:15,943 - INFO - Seite 1/10: 19 article-Elemente gefunden
+2025-07-04 18:14:15,949 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 18:14:20,121 - INFO - Seite 2/10: 20 article-Elemente gefunden
+2025-07-04 18:14:20,127 - INFO - Seite 2: 19 neue Listings extrahiert
+2025-07-04 18:14:24,683 - INFO - Seite 3/10: 8 article-Elemente gefunden
+2025-07-04 18:14:24,686 - INFO - Seite 3: 6 neue Listings extrahiert
+2025-07-04 18:14:29,177 - INFO - Seite 4/10: 0 article-Elemente gefunden
+2025-07-04 18:14:29,177 - INFO - Seite 4: 0 neue Listings extrahiert
+2025-07-04 18:14:29,178 - INFO - Stoppe nach Seite 4 - keine neuen Listings gefunden
+2025-07-04 18:14:29,178 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 44 eindeutige Listings gesammelt aus 4 Seiten.
+2025-07-04 18:14:29,182 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 18:14:29,188 - INFO - Listings in Datenbank gespeichert: 44
+2025-07-04 18:14:29,195 - INFO - ✅ Intelligentes Scraping abgeschlossen in 14.6 Sekunden
+2025-07-04 18:14:29,195 - INFO - 📊 Einzigartige Listings: 44
+2025-07-04 18:14:29,195 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 18:14:29,195 - INFO - ⚡ Effizienz: 3.01 Listings/Sekunde
+2025-07-04 18:14:35,203 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 18:14:35,204 - INFO - Scraper initialisiert für mercedes-benz a-200
+2025-07-04 18:14:35,204 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 18:14:35,204 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 18:14:35,204 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 18:14:35,207 - INFO - Daten aus Datenbank geladen: 18 Listings, 0 Preisänderungen
+2025-07-04 18:14:35,208 - INFO - Starte intelligentes Scraping...
+2025-07-04 18:14:38,039 - INFO - Serverantwortzeit: 2.83s, angepasste Verzögerung: 5.66s
+2025-07-04 18:14:38,106 - INFO - Automatisch ermittelte Seitenzahl: 1, teste bis zu: 10 Seiten
+2025-07-04 18:14:38,107 - INFO - Seite 1/10: 18 article-Elemente gefunden
+2025-07-04 18:14:38,112 - INFO - Seite 1: 18 neue Listings extrahiert
+2025-07-04 18:14:44,703 - INFO - Seite 2/10: 0 article-Elemente gefunden
+2025-07-04 18:14:44,704 - INFO - Seite 2: 0 neue Listings extrahiert
+2025-07-04 18:14:44,704 - INFO - Stoppe nach Seite 2 - keine neuen Listings gefunden
+2025-07-04 18:14:44,704 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 18 eindeutige Listings gesammelt aus 2 Seiten.
+2025-07-04 18:14:44,707 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 18:14:44,711 - INFO - Listings in Datenbank gespeichert: 18
+2025-07-04 18:14:44,716 - INFO - ✅ Intelligentes Scraping abgeschlossen in 9.5 Sekunden
+2025-07-04 18:14:44,716 - INFO - 📊 Einzigartige Listings: 18
+2025-07-04 18:14:44,716 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 18:14:44,716 - INFO - ⚡ Effizienz: 1.89 Listings/Sekunde
+2025-07-04 18:14:50,724 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 18:14:50,725 - INFO - Scraper initialisiert für mercedes-benz c-200
+2025-07-04 18:14:50,725 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 18:14:50,726 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 18:14:50,726 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 18:14:50,729 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 18:14:50,729 - INFO - Starte intelligentes Scraping...
+2025-07-04 18:14:51,963 - INFO - Serverantwortzeit: 1.23s, angepasste Verzögerung: 3.00s
+2025-07-04 18:14:52,031 - INFO - Automatisch ermittelte Seitenzahl: 1, teste bis zu: 10 Seiten
+2025-07-04 18:14:52,032 - INFO - Seite 1/10: 19 article-Elemente gefunden
+2025-07-04 18:14:52,038 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 18:14:56,053 - INFO - Seite 2/10: 16 article-Elemente gefunden
+2025-07-04 18:14:56,057 - INFO - Seite 2: 9 neue Listings extrahiert
+2025-07-04 18:14:59,996 - INFO - Seite 3/10: 0 article-Elemente gefunden
+2025-07-04 18:14:59,996 - INFO - Seite 3: 0 neue Listings extrahiert
+2025-07-04 18:14:59,996 - INFO - Stoppe nach Seite 3 - keine neuen Listings gefunden
+2025-07-04 18:14:59,997 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 28 eindeutige Listings gesammelt aus 3 Seiten.
+2025-07-04 18:15:00,000 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 18:15:00,008 - INFO - Listings in Datenbank gespeichert: 28
+2025-07-04 18:15:00,013 - INFO - ✅ Intelligentes Scraping abgeschlossen in 9.3 Sekunden
+2025-07-04 18:15:00,014 - INFO - 📊 Einzigartige Listings: 28
+2025-07-04 18:15:00,014 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 18:15:00,014 - INFO - ⚡ Effizienz: 3.01 Listings/Sekunde
+2025-07-04 18:15:06,022 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 18:15:06,023 - INFO - Scraper initialisiert für mercedes-benz c-220
+2025-07-04 18:15:06,023 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 18:15:06,023 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 18:15:06,023 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 18:15:06,026 - INFO - Daten aus Datenbank geladen: 19 Listings, 0 Preisänderungen
+2025-07-04 18:15:06,026 - INFO - Starte intelligentes Scraping...
+2025-07-04 18:15:07,141 - INFO - Serverantwortzeit: 1.11s, angepasste Verzögerung: 3.00s
+2025-07-04 18:15:07,207 - INFO - Automatisch ermittelte Seitenzahl: 1, teste bis zu: 10 Seiten
+2025-07-04 18:15:07,208 - INFO - Seite 1/10: 19 article-Elemente gefunden
+2025-07-04 18:15:07,213 - INFO - Seite 1: 19 neue Listings extrahiert
+2025-07-04 18:15:11,465 - INFO - Seite 2/10: 5 article-Elemente gefunden
+2025-07-04 18:15:11,467 - INFO - Seite 2: 5 neue Listings extrahiert
+2025-07-04 18:15:15,059 - INFO - Seite 3/10: 0 article-Elemente gefunden
+2025-07-04 18:15:15,060 - INFO - Seite 3: 0 neue Listings extrahiert
+2025-07-04 18:15:15,060 - INFO - Stoppe nach Seite 3 - keine neuen Listings gefunden
+2025-07-04 18:15:15,060 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 24 eindeutige Listings gesammelt aus 3 Seiten.
+2025-07-04 18:15:15,064 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 18:15:15,067 - INFO - Listings in Datenbank gespeichert: 24
+2025-07-04 18:15:15,072 - INFO - ✅ Intelligentes Scraping abgeschlossen in 9.0 Sekunden
+2025-07-04 18:15:15,072 - INFO - 📊 Einzigartige Listings: 24
+2025-07-04 18:15:15,072 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 18:15:15,073 - INFO - ⚡ Effizienz: 2.65 Listings/Sekunde
+2025-07-04 18:15:21,081 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 18:15:21,082 - INFO - Scraper initialisiert für bmw 120
+2025-07-04 18:15:21,082 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 18:15:21,082 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 18:15:21,082 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 18:15:21,085 - INFO - Daten aus Datenbank geladen: 31 Listings, 0 Preisänderungen
+2025-07-04 18:15:21,085 - INFO - Starte intelligentes Scraping...
+2025-07-04 18:15:22,735 - INFO - Serverantwortzeit: 1.65s, angepasste Verzögerung: 3.30s
+2025-07-04 18:15:22,802 - INFO - Automatisch ermittelte Seitenzahl: 1, teste bis zu: 10 Seiten
+2025-07-04 18:15:22,804 - INFO - Seite 1/10: 20 article-Elemente gefunden
+2025-07-04 18:15:22,809 - INFO - Seite 1: 20 neue Listings extrahiert
+2025-07-04 18:15:27,119 - INFO - Seite 2/10: 18 article-Elemente gefunden
+2025-07-04 18:15:27,124 - INFO - Seite 2: 11 neue Listings extrahiert
+2025-07-04 18:15:31,200 - INFO - Seite 3/10: 0 article-Elemente gefunden
+2025-07-04 18:15:31,200 - INFO - Seite 3: 0 neue Listings extrahiert
+2025-07-04 18:15:31,200 - INFO - Stoppe nach Seite 3 - keine neuen Listings gefunden
+2025-07-04 18:15:31,201 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 31 eindeutige Listings gesammelt aus 3 Seiten.
+2025-07-04 18:15:31,205 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 18:15:31,209 - INFO - Listings in Datenbank gespeichert: 31
+2025-07-04 18:15:31,214 - INFO - ✅ Intelligentes Scraping abgeschlossen in 10.1 Sekunden
+2025-07-04 18:15:31,214 - INFO - 📊 Einzigartige Listings: 31
+2025-07-04 18:15:31,214 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 18:15:31,214 - INFO - ⚡ Effizienz: 3.06 Listings/Sekunde
