@@ -11,7 +11,7 @@ from pathlib import Path
 # Zum webapp Verzeichnis wechseln
 os.chdir(Path(__file__).parent)
 
-PORT = 8080
+PORT = 8081
 
 class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
     def end_headers(self):

@@ -194,13 +194,13 @@
 
         .score-badge {
             position: absolute;
-            top: 15px;
+            top: 5px;
             right: 15px;
-            padding: 8px 12px;
-            border-radius: 20px;
+            padding: 4px 8px;
+            border-radius: 12px;
             color: white;
             font-weight: bold;
-            font-size: 0.9rem;
+            font-size: 0.75rem;
         }
 
         .score-excellent { background: #10b981; }
@@ -325,6 +325,83 @@
             margin-bottom: 20px;
             color: #cbd5e1;
         }
+
+        .explanation-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .explanation-card h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+
+        .explanation-card h4 {
+            color: #333;
+            margin: 15px 0 8px 0;
+            font-size: 1.1rem;
+        }
+
+        .explanation-card p, .explanation-card li {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 8px;
+        }
+
+        .explanation-card ul {
+            margin-left: 20px;
+        }
+
+        .score-formula {
+            background: #f8fafc;
+            border-left: 4px solid #667eea;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 0 8px 8px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-rows: repeat(2, 1fr);
+            gap: 30px;
+            margin-bottom: 30px;
+            min-height: 900px;
+        }
+
+        .chart-container {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 0;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            min-height: 400px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .chart-container canvas {
+            flex: 1;
+            max-height: 350px;
+        }
+
+        @media (max-width: 1200px) {
+            .charts-grid {
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+                min-height: auto;
+            }
+            
+            .chart-container {
+                min-height: 450px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -349,6 +426,13 @@
                 </select>
             </div>
 
+            <div class="form-group">
+                <label>
+                    <input type="checkbox" id="includePowerInScore" checked style="margin-right: 8px;">
+                    Leistung in Score-Berechnung einbeziehen
+                </label>
+            </div>
+
             <button class="btn" onclick="analyzeVehicles()">
                 <i class="fas fa-search"></i> Fahrzeuge analysieren
             </button>
@@ -362,9 +446,98 @@
 
         <div id="results" style="display: none;">
             <div id="marketOverview" class="market-overview"></div>
-            <div id="chartContainer" class="chart-container">
-                <canvas id="analysisChart"></canvas>
+            
+            <div class="explanation-card">
+                <h3><i class="fas fa-info-circle"></i> Bewertungsmethodik</h3>
+                
+                <h4>Score-Berechnung (Erweiterte Statistische Methoden):</h4>
+                <div class="score-formula">
+                    <strong>4er-Score (mit Leistung):</strong> (Preis/PS × 30% + Kilometerstand/Alter × 25% + Alter × 20% + Leistung × 15% + Gesamtwert × 10%) + Bonus-Multiplikatoren
+                </div>
+                <div class="score-formula">
+                    <strong>3er-Score (ohne Leistung):</strong> (Preis × 40% + Kilometerstand/Alter × 35% + Alter × 25%) + Bonus-Multiplikatoren
+                </div>
+
+                <h4>Erweiterte Bewertungskomponenten:</h4>
+                <ul>
+                    <li><strong>Z-Score Normalisierung:</strong> Berücksichtigt Standardabweichung für extreme Werte</li>
+                    <li><strong>Percentile-Ranking:</strong> Position des Fahrzeugs im Marktvergleich (0-100%)</li>
+                    <li><strong>IQR-Ausreißererkennung:</strong> Identifiziert ungewöhnliche Marktpositionen</li>
+                    <li><strong>Nicht-lineare Wertverlust-Kurve:</strong> Realistische Abschreibung nach Fahrzeugalter</li>
+                    <li><strong>Kombinierter Gesamtwert-Score:</strong> Alle 4 Faktoren in optimaler Balance</li>
+                    <li><strong>Bonus-System:</strong> Zusätzliche Punkte für besonders gute Kombinationen</li>
+                </ul>
+
+                <h4>1. Preis-Bewertung (Erweitert):</h4>
+                <div class="score-formula">
+                    <strong>Percentile-basiert:</strong> Top 25% = 100 Punkte, 25-50% = 90-75, 50-75% = 75-45, >75% = 45-10
+                </div>
+                <div class="score-formula">
+                    <strong>Z-Score Anpassung:</strong> ±15 Punkte für extreme Preis-Abweichungen (>1.5 Standardabweichungen)
+                </div>
+                <h4>2. Kilometerstand-Bewertung (Erweitert):</h4>
+                <div class="score-formula">
+                    Kilometerstand-Score = Basis-Score (km/Jahr) + Abweichungs-Bonus/Malus (±20 Punkte)
+                </div>
+                <ul>
+                    <li><strong>Unter 8.000 km/Jahr:</strong> 100 Punkte (Optimal)</li>
+                    <li><strong>8.000-12.000 km/Jahr:</strong> 95-80 Punkte (Sehr gut)</li>
+                    <li><strong>12.000-18.000 km/Jahr:</strong> 80-55 Punkte (Normal)</li>
+                    <li><strong>18.000-25.000 km/Jahr:</strong> 55-20 Punkte (Vielfahrer)</li>
+                    <li><strong>Über 25.000 km/Jahr:</strong> 20-5 Punkte (Extrem)</li>
+                    <li><strong>Bonus:</strong> Weniger als erwartet = +Punkte, mehr als erwartet = -Punkte</li>
+                </ul>
+
+                <h4>3. Alter-Bewertung (Nicht-linear):</h4>
+                <div class="score-formula">
+                    Alters-Score = Exponentieller Wertverlust mit realistischer Abschreibungskurve
+                </div>
+                <ul>
+                    <li><strong>0-1 Jahre:</strong> 100 Punkte</li>
+                    <li><strong>1-3 Jahre:</strong> 95-80 Punkte (Starker Wertverlust)</li>
+                    <li><strong>3-7 Jahre:</strong> 80-45 Punkte (Moderater Verlust)</li>
+                    <li><strong>7-12 Jahre:</strong> 45-20 Punkte (Langsamer Verlust)</li>
+                    <li><strong>Über 12 Jahre:</strong> 20-5 Punkte (Restwert)</li>
+                </ul>
+
+                <h4>4. Leistungs-Bewertung (Percentile-basiert):</h4>
+                <ul>
+                    <li><strong>Top 25% Leistung:</strong> 100 Punkte</li>
+                    <li><strong>50-75% Percentile:</strong> 80-100 Punkte</li>
+                    <li><strong>25-50% Percentile:</strong> 60-80 Punkte</li>
+                    <li><strong>Unter 25% Percentile:</strong> 40-60 Punkte</li>
+                </ul>
+
+                <h4>5. Gesamtwert-Score (Alle 4 Faktoren kombiniert):</h4>
+                <div class="score-formula">
+                    Gesamtwert = (Km-Effizienz × 30% + Alters-Effizienz × 25% + Leistungs-Bonus × 25% + Preis-Effizienz × 20%) × 100
+                </div>
+
+                <h4>6. Bonus-Multiplikatoren:</h4>
+                <ul>
+                    <li><strong>Preis+Km Bonus:</strong> +5% wenn beide Scores ≥80</li>
+                    <li><strong>Jung+Stark Bonus:</strong> +5% wenn Alter≥85 und Leistung≥80</li>
+                    <li><strong>Gesamtwert Bonus:</strong> +8-10% für außergewöhnliche Fahrzeuge</li>
+                </ul>
+
+                <h4>7. Statistische Metriken:</h4>
             </div>
+
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <canvas id="analysisChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <canvas id="ageChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <canvas id="mileageChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <canvas id="pricePerformanceChart"></canvas>
+                </div>
+            </div>
+            
             <div class="filters">
                 <div class="form-group">
                     <label for="priceFilter">Max. Preis (€):</label>
@@ -379,8 +552,20 @@
                     <input type="number" id="ageFilter" placeholder="z.B. 5">
                 </div>
                 <div class="form-group">
-                    <label for="powerFilter">Min. Leistung (PS):</label>
-                    <input type="number" id="powerFilter" placeholder="z.B. 150">
+                    <label for="powerMinFilter">Min. Leistung (PS):</label>
+                    <input type="number" id="powerMinFilter" placeholder="z.B. 150">
+                </div>
+                <div class="form-group">
+                    <label for="powerMaxFilter">Max. Leistung (PS):</label>
+                    <input type="number" id="powerMaxFilter" placeholder="z.B. 300">
+                </div>
+                <div class="form-group">
+                    <label for="mileagePerYearFilter">Max. km/Jahr:</label>
+                    <input type="number" id="mileagePerYearFilter" placeholder="z.B. 20000">
+                </div>
+                <div class="form-group">
+                    <label for="pricePerPSFilter">Max. €/PS:</label>
+                    <input type="number" id="pricePerPSFilter" placeholder="z.B. 200">
                 </div>
             </div>
             <div id="vehiclesGrid" class="vehicles-grid"></div>
@@ -391,6 +576,13 @@
         let db = null;
         let allVehicles = [];
         let currentMakeModel = '';
+        let currentIncludePower = true;
+        
+        // Chart-Referenzen
+        let myChart = null;
+        let ageChart = null;
+        let mileageChart = null;
+        let pricePerformanceChart = null;
 
         // SQL.js initialisieren
         async function initDatabase() {
@@ -460,6 +652,14 @@
 
                 // Marken-Dropdown befüllen
                 makeSelect.innerHTML = '<option value="">Bitte wählen...</option>';
+                
+                // Option für alle Fahrzeuge hinzufügen
+                const allOption = document.createElement('option');
+                allOption.value = 'ALL_VEHICLES';
+                allOption.textContent = '🌟 Alle Fahrzeuge (markenübergreifend)';
+                makeSelect.appendChild(allOption);
+                
+                // Einzelne Marken hinzufügen
                 Array.from(makes).sort().forEach(make => {
                     const option = document.createElement('option');
                     option.value = make;
@@ -472,9 +672,19 @@
                     const modelSelect = document.getElementById('modelSelect');
                     const selectedMake = this.value;
                     
-                    if (selectedMake && makeModels[selectedMake]) {
+                    if (selectedMake === 'ALL_VEHICLES') {
+                        // Für "Alle Fahrzeuge" keine Modellauswahl
+                        modelSelect.disabled = true;
+                        modelSelect.innerHTML = '<option value="">Alle Marken & Modelle</option>';
+                    } else if (selectedMake && makeModels[selectedMake]) {
                         modelSelect.disabled = false;
                         modelSelect.innerHTML = '<option value="">Modell wählen...</option>';
+                        
+                        // Option für "Alle Modelle dieser Marke" hinzufügen
+                        const allModelsOption = document.createElement('option');
+                        allModelsOption.value = 'ALL_MODELS';
+                        allModelsOption.textContent = `🌟 Alle ${selectedMake} Modelle`;
+                        modelSelect.appendChild(allModelsOption);
                         
                         makeModels[selectedMake].forEach(({ model, count }) => {
                             const option = document.createElement('option');
@@ -522,21 +732,36 @@
         function analyzeVehicles() {
             const make = document.getElementById('makeSelect').value;
             const model = document.getElementById('modelSelect').value;
+            const includePower = document.getElementById('includePowerInScore').checked;
             
-            if (!make || !model) {
-                showError('Bitte wählen Sie Marke und Modell aus');
+            if (!make) {
+                showError('Bitte wählen Sie eine Marke aus');
                 return;
             }
 
             hideError();
-            currentMakeModel = `${make} ${model}`;
+            currentIncludePower = includePower;
             
             try {
-                const result = db.exec(`
-                    SELECT * FROM listings 
-                    WHERE make = ? AND model = ? AND is_active = 1
-                    ORDER BY price ASC
-                `, [make, model]);
+                let query, params = [];
+                
+                if (make === 'ALL_VEHICLES') {
+                    // Alle Fahrzeuge (markenübergreifend)
+                    query = `SELECT * FROM listings WHERE is_active = 1 ORDER BY make, model, price ASC`;
+                    currentMakeModel = 'Alle Fahrzeuge';
+                } else if (model === 'ALL_MODELS' || !model) {
+                    // Alle Modelle einer Marke
+                    query = `SELECT * FROM listings WHERE make = ? AND is_active = 1 ORDER BY model, price ASC`;
+                    params = [make];
+                    currentMakeModel = `Alle ${make} Modelle`;
+                } else {
+                    // Spezifisches Modell
+                    query = `SELECT * FROM listings WHERE make = ? AND model = ? AND is_active = 1 ORDER BY price ASC`;
+                    params = [make, model];
+                    currentMakeModel = `${make} ${model}`;
+                }
+
+                const result = db.exec(query, params);
 
                 if (result.length === 0) {
                     showNoData();
@@ -558,9 +783,15 @@
                     return vehicle;
                 });
 
-                allVehicles = vehicles.filter(v => 
-                    v.price && v.mileage && v.age !== null && v.power_ps
-                );
+                // Filter abhängig davon, ob Leistung berücksichtigt wird
+                allVehicles = vehicles.filter(v => {
+                    const hasBasicData = v.price && v.mileage && v.age !== null;
+                    if (includePower) {
+                        return hasBasicData && v.power_ps;
+                    } else {
+                        return hasBasicData;
+                    }
+                });
 
                 if (allVehicles.length === 0) {
                     showNoData();
@@ -625,26 +856,268 @@
             return sorted.length % 2 !== 0 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
         }
 
-        function calculateVehicleScore(vehicle, stats) {
-            if (!vehicle.price || !vehicle.mileage || !vehicle.age || !vehicle.power_ps) {
-                return { total: 0, breakdown: {} };
+        function calculateVehicleScore(vehicle, stats, includePower = true) {
+            if (!vehicle.price || !vehicle.mileage || !vehicle.age) {
+                return { total: 0, breakdown: {}, metrics: {} };
             }
 
-            const priceScore = Math.max(0, 100 - ((vehicle.price - stats.price.median) / stats.price.median * 100));
-            const mileageScore = Math.max(0, 100 - ((vehicle.mileage - stats.mileage.median) / stats.mileage.median * 100));
-            const ageScore = Math.max(0, 100 - ((vehicle.age - stats.age.median) / stats.age.median * 100));
-            const powerScore = Math.min(100, 50 + ((vehicle.power_ps - stats.power.median) / stats.power.median * 50));
+            // Sicherheitsüberprüfungen für gültige Werte
+            if (vehicle.age <= 0 || vehicle.age > 50) {
+                console.warn('Ungültiges Alter:', vehicle.age, 'für Fahrzeug:', vehicle.title);
+                return { total: 0, breakdown: {}, metrics: {} };
+            }
 
-            const totalScore = (priceScore * 0.35 + mileageScore * 0.25 + ageScore * 0.25 + powerScore * 0.15);
+            if (vehicle.price <= 0 || vehicle.price > 1000000) {
+                console.warn('Ungültiger Preis:', vehicle.price, 'für Fahrzeug:', vehicle.title);
+                return { total: 0, breakdown: {}, metrics: {} };
+            }
 
-            return {
-                total: Math.round(totalScore * 10) / 10,
-                breakdown: {
+            if (vehicle.mileage < 0 || vehicle.mileage > 1000000) {
+                console.warn('Ungültiger Kilometerstand:', vehicle.mileage, 'für Fahrzeug:', vehicle.title);
+                return { total: 0, breakdown: {}, metrics: {} };
+            }
+
+            // Leistung nur prüfen wenn sie berücksichtigt werden soll
+            if (includePower && (!vehicle.power_ps || vehicle.power_ps <= 0 || vehicle.power_ps > 2000)) {
+                console.warn('Ungültige Leistung:', vehicle.power_ps, 'für Fahrzeug:', vehicle.title);
+                return { total: 0, breakdown: {}, metrics: {} };
+            }
+
+            // Erweiterte Metriken berechnen
+            const mileagePerYear = vehicle.mileage / vehicle.age;
+            const expectedMileage = vehicle.age * 15000;
+            const mileageDeviation = (vehicle.mileage - expectedMileage) / expectedMileage;
+            
+            // Zusätzliche Überprüfung für mileagePerYear
+            if (!isFinite(mileagePerYear) || mileagePerYear < 0 || mileagePerYear > 200000) {
+                console.warn('Ungültiger mileagePerYear:', mileagePerYear, 'für Fahrzeug:', vehicle.title);
+                return { total: 0, breakdown: {}, metrics: {} };
+            }
+            
+            // === ERWEITERTE STATISTISCHE BEWERTUNG ===
+            
+            // 1. Z-Score basierte Normalisierung für alle Metriken
+            const priceZScore = calculateZScore(vehicle.price, stats.price.mean, calculateStandardDeviation(allVehicles.map(v => v.price)));
+            const mileageZScore = calculateZScore(vehicle.mileage, stats.mileage.mean, calculateStandardDeviation(allVehicles.map(v => v.mileage)));
+            const ageZScore = calculateZScore(vehicle.age, stats.age.mean, calculateStandardDeviation(allVehicles.map(v => v.age)));
+            
+            // 2. Percentile-basierte Bewertung
+            const pricePercentile = calculatePercentile(vehicle.price, allVehicles.map(v => v.price));
+            const mileagePercentile = calculatePercentile(vehicle.mileage, allVehicles.map(v => v.mileage));
+            const agePercentile = calculatePercentile(vehicle.age, allVehicles.map(v => v.age));
+            const mileagePerYearPercentile = calculatePercentile(mileagePerYear, allVehicles.map(v => v.mileage / v.age));
+            
+            // 3. Interquartilbereich (IQR) basierte Ausreißererkennung
+            const mileageIQR = calculateIQR(allVehicles.map(v => v.mileage));
+            const priceIQR = calculateIQR(allVehicles.map(v => v.price));
+            const ageIQR = calculateIQR(allVehicles.map(v => v.age));
+            
+            // 4. Kilometerstand-Score mit erweiterten Faktoren
+            let mileageScore = 100;
+            
+            // Basis-Score basierend auf km/Jahr
+            if (mileagePerYear <= 8000) {
+                mileageScore = 100; // Sehr wenig gefahren
+            } else if (mileagePerYear <= 12000) {
+                mileageScore = 95 - ((mileagePerYear - 8000) / 4000 * 15); // 95-80
+            } else if (mileagePerYear <= 18000) {
+                mileageScore = 80 - ((mileagePerYear - 12000) / 6000 * 25); // 80-55
+            } else if (mileagePerYear <= 25000) {
+                mileageScore = 55 - ((mileagePerYear - 18000) / 7000 * 35); // 55-20
+            } else {
+                mileageScore = Math.max(5, 20 - ((mileagePerYear - 25000) / 5000 * 15)); // 20-5
+            }
+            
+            // Bonus/Malus basierend auf Abweichung vom erwarteten Kilometerstand
+            const mileageDeviationBonus = Math.max(-20, Math.min(20, -mileageDeviation * 30));
+            mileageScore = Math.max(0, Math.min(100, mileageScore + mileageDeviationBonus));
+            
+            // 5. Preis-Score mit Marktposition
+            let priceScore = 100;
+            
+            // Percentile-basierte Bewertung (niedrigerer Preis = besser)
+            if (pricePercentile <= 25) {
+                priceScore = 100; // Top 25% günstigste
+            } else if (pricePercentile <= 50) {
+                priceScore = 90 - ((pricePercentile - 25) / 25 * 15); // 90-75
+            } else if (pricePercentile <= 75) {
+                priceScore = 75 - ((pricePercentile - 50) / 25 * 30); // 75-45
+            } else {
+                priceScore = 45 - ((pricePercentile - 75) / 25 * 35); // 45-10
+            }
+            
+            // Z-Score Anpassung für extreme Werte
+            if (Math.abs(priceZScore) > 1.5) {
+                const adjustment = priceZScore > 0 ? -15 : 15; // Teuer = Malus, günstig = Bonus
+                priceScore = Math.max(0, Math.min(100, priceScore + adjustment));
+            }
+            
+            // 6. Alter-Score mit Wertverlust-Kurve
+            let ageScore = 100;
+            
+            // Nicht-lineare Wertverlust-Kurve
+            if (vehicle.age <= 1) {
+                ageScore = 100;
+            } else if (vehicle.age <= 3) {
+                ageScore = 95 - Math.pow(vehicle.age - 1, 1.5) * 7.5; // Starker anfänglicher Wertverlust
+            } else if (vehicle.age <= 7) {
+                ageScore = 80 - ((vehicle.age - 3) / 4 * 35); // 80-45
+            } else if (vehicle.age <= 12) {
+                ageScore = 45 - ((vehicle.age - 7) / 5 * 25); // 45-20
+            } else {
+                ageScore = Math.max(5, 20 - ((vehicle.age - 12) / 8 * 15)); // 20-5
+            }
+            
+            let totalScore, breakdown;
+            let pricePerPS = 0;
+            let powerScore = 50;
+            let pricePerPSScore = 50;
+            let valueScore = 50;
+            
+            if (includePower && vehicle.power_ps > 0) {
+                // 7. Erweiterte Leistungs-Bewertung
+                pricePerPS = vehicle.price / vehicle.power_ps;
+                const powerPercentile = calculatePercentile(vehicle.power_ps, allVehicles.filter(v => v.power_ps).map(v => v.power_ps));
+                const pricePerPSValues = allVehicles.filter(v => v.power_ps).map(v => v.price / v.power_ps);
+                const pricePerPSPercentile = calculatePercentile(pricePerPS, pricePerPSValues);
+                
+                // Zusätzliche Überprüfung für pricePerPS
+                if (!isFinite(pricePerPS) || pricePerPS <= 0 || pricePerPS > 10000) {
+                    console.warn('Ungültiger pricePerPS:', pricePerPS, 'für Fahrzeug:', vehicle.title);
+                    return { total: 0, breakdown: {}, metrics: {} };
+                }
+                
+                // Leistungs-Score basierend auf Percentile
+                if (powerPercentile >= 75) {
+                    powerScore = 100;
+                } else if (powerPercentile >= 50) {
+                    powerScore = 80 + ((powerPercentile - 50) / 25 * 20); // 80-100
+                } else if (powerPercentile >= 25) {
+                    powerScore = 60 + ((powerPercentile - 25) / 25 * 20); // 60-80
+                } else {
+                    powerScore = 40 + (powerPercentile / 25 * 20); // 40-60
+                }
+                
+                // Preis/Leistungs-Score (niedriger = besser)
+                if (pricePerPSPercentile <= 20) {
+                    pricePerPSScore = 100; // Top 20% beste Preis/Leistung
+                } else if (pricePerPSPercentile <= 40) {
+                    pricePerPSScore = 90 - ((pricePerPSPercentile - 20) / 20 * 15); // 90-75
+                } else if (pricePerPSPercentile <= 70) {
+                    pricePerPSScore = 75 - ((pricePerPSPercentile - 40) / 30 * 35); // 75-40
+                } else {
+                    pricePerPSScore = 40 - ((pricePerPSPercentile - 70) / 30 * 30); // 40-10
+                }
+                
+                // 8. Kombinierter Wert-Score (alle 4 Faktoren)
+                const totalMileage = vehicle.mileage;
+                const idealMileageForAge = vehicle.age * 12000; // Ideal: 12.000 km/Jahr
+                const mileageEfficiency = Math.max(0, 1 - Math.abs(totalMileage - idealMileageForAge) / idealMileageForAge);
+                
+                const ageDepreciation = Math.exp(-vehicle.age * 0.12); // Exponentieller Wertverlust
+                const powerBonus = Math.min(1.2, vehicle.power_ps / stats.power.median);
+                const priceEfficiency = stats.price.median / vehicle.price;
+                
+                valueScore = Math.min(100, (mileageEfficiency * 0.3 + ageDepreciation * 0.25 + powerBonus * 0.25 + priceEfficiency * 0.20) * 100);
+                
+                // 9. Gewichtete Endberechnung mit Bonus-System
+                const baseScore = pricePerPSScore * 0.30 +  // 30% - Preis-Leistungs-Verhältnis
+                                mileageScore * 0.25 +       // 25% - Kilometerstand/Alter
+                                ageScore * 0.20 +           // 20% - Alter
+                                powerScore * 0.15 +         // 15% - Leistung
+                                valueScore * 0.10;          // 10% - Kombinierter Wert
+                
+                // Bonus für besonders gute Kombinationen
+                let bonusMultiplier = 1.0;
+                if (pricePerPSScore >= 80 && mileageScore >= 80) bonusMultiplier += 0.05; // Preis+Km Bonus
+                if (ageScore >= 85 && powerScore >= 80) bonusMultiplier += 0.05; // Jung+Stark Bonus
+                if (valueScore >= 90) bonusMultiplier += 0.08; // Gesamt-Wert Bonus
+                
+                totalScore = Math.min(100, baseScore * bonusMultiplier);
+                
+                breakdown = {
+                    pricePerPS: Math.round(pricePerPSScore * 10) / 10,
+                    mileage: Math.round(mileageScore * 10) / 10,
+                    age: Math.round(ageScore * 10) / 10,
+                    power: Math.round(powerScore * 10) / 10,
+                    value: Math.round(valueScore * 10) / 10
+                };
+            } else {
+                // 3er-Score ohne Leistung - erweiterte Bewertung
+                const ageEfficiency = Math.max(0, 1 - vehicle.age / 20); // Alter-Effizienz
+                const mileageEfficiency = Math.max(0, 1 - Math.abs(mileagePerYear - 12000) / 12000); // Km-Effizienz
+                const priceEfficiency = Math.min(2, stats.price.median / vehicle.price); // Preis-Effizienz
+                
+                valueScore = Math.min(100, (ageEfficiency * 0.35 + mileageEfficiency * 0.35 + priceEfficiency * 0.30) * 100);
+                
+                const baseScore = priceScore * 0.40 +        // 40% - Preis
+                                mileageScore * 0.35 +        // 35% - Kilometerstand/Alter
+                                ageScore * 0.25;             // 25% - Alter
+                
+                // Bonus für gute Kombinationen
+                let bonusMultiplier = 1.0;
+                if (priceScore >= 80 && mileageScore >= 80) bonusMultiplier += 0.08;
+                if (ageScore >= 85 && mileageScore >= 85) bonusMultiplier += 0.06;
+                if (valueScore >= 85) bonusMultiplier += 0.10;
+                
+                totalScore = Math.min(100, baseScore * bonusMultiplier);
+                
+                breakdown = {
                     price: Math.round(priceScore * 10) / 10,
                     mileage: Math.round(mileageScore * 10) / 10,
                     age: Math.round(ageScore * 10) / 10,
-                    power: Math.round(powerScore * 10) / 10
+                    value: Math.round(valueScore * 10) / 10
+                };
+            }
+
+            return {
+                total: Math.round(totalScore * 10) / 10,
+                breakdown: breakdown,
+                metrics: {
+                    mileagePerYear: Math.round(mileagePerYear),
+                    pricePerPS: Math.round(pricePerPS),
+                    expectedMileage: Math.round(expectedMileage),
+                    pricePercentile: Math.round(pricePercentile),
+                    mileagePercentile: Math.round(mileagePercentile),
+                    agePercentile: Math.round(agePercentile),
+                    mileagePerYearPercentile: Math.round(mileagePerYearPercentile),
+                    priceZScore: Math.round(priceZScore * 100) / 100,
+                    mileageDeviation: Math.round(mileageDeviation * 100) / 100,
+                    includedPower: includePower
                 }
+            };
+        }
+
+        // Hilfsfunktionen für statistische Berechnungen
+        function calculateZScore(value, mean, stdDev) {
+            if (stdDev === 0) return 0;
+            return (value - mean) / stdDev;
+        }
+
+        function calculateStandardDeviation(values) {
+            const mean = values.reduce((sum, val) => sum + val, 0) / values.length;
+            const squaredDiffs = values.map(val => Math.pow(val - mean, 2));
+            const avgSquaredDiff = squaredDiffs.reduce((sum, val) => sum + val, 0) / values.length;
+            return Math.sqrt(avgSquaredDiff);
+        }
+
+        function calculatePercentile(value, sortedValues) {
+            const sorted = sortedValues.slice().sort((a, b) => a - b);
+            let rank = 0;
+            for (let i = 0; i < sorted.length; i++) {
+                if (sorted[i] <= value) rank++;
+            }
+            return (rank / sorted.length) * 100;
+        }
+
+        function calculateIQR(values) {
+            const sorted = values.slice().sort((a, b) => a - b);
+            const q1Index = Math.floor(sorted.length * 0.25);
+            const q3Index = Math.floor(sorted.length * 0.75);
+            return {
+                q1: sorted[q1Index],
+                q3: sorted[q3Index],
+                iqr: sorted[q3Index] - sorted[q1Index]
             };
         }
 
@@ -653,42 +1126,103 @@
             
             // Scores für alle Fahrzeuge berechnen
             allVehicles.forEach(vehicle => {
-                vehicle.score = calculateVehicleScore(vehicle, stats);
+                vehicle.score = calculateVehicleScore(vehicle, stats, currentIncludePower);
             });
+
+            // Filtere Fahrzeuge mit gültigen Scores
+            const validVehicles = allVehicles.filter(v => 
+                v.score && 
+                v.score.total > 0 && 
+                v.score.metrics && 
+                isFinite(v.score.metrics.mileagePerYear) && 
+                (currentIncludePower ? isFinite(v.score.metrics.pricePerPS) : true)
+            );
+
+            if (validVehicles.length === 0) {
+                showError('Keine gültigen Fahrzeugdaten für die Analyse gefunden.');
+                return;
+            }
+
+            // Aktualisiere allVehicles mit nur gültigen Fahrzeugen
+            allVehicles = validVehicles;
 
             // Nach Score sortieren
             allVehicles.sort((a, b) => b.score.total - a.score.total);
 
             displayMarketOverview(stats);
             displayChart(stats);
+            displayAgeChart(stats);
+            displayMileageChart(stats);
+            displayPricePerformanceChart(stats);
             displayVehicles(allVehicles);
             setupFilters();
 
             document.getElementById('results').style.display = 'block';
+            
+            console.log(`Analyse abgeschlossen: ${allVehicles.length} gültige Fahrzeuge von ursprünglich ${validVehicles.length + (allVehicles.length - validVehicles.length)} Fahrzeugen.`);
         }
 
         function displayMarketOverview(stats) {
             const overview = document.getElementById('marketOverview');
+            
+            // Prüfe ob alle Fahrzeuge scores haben
+            const vehiclesWithScores = allVehicles.filter(v => v.score && v.score.metrics);
+            
+            // Berechne zusätzliche Statistiken nur für Fahrzeuge mit Scores
+            const avgMileagePerYear = vehiclesWithScores.length > 0 ? 
+                Math.round(vehiclesWithScores.reduce((sum, v) => sum + v.score.metrics.mileagePerYear, 0) / vehiclesWithScores.length) : 0;
+            const avgPricePerPS = vehiclesWithScores.length > 0 ? 
+                Math.round(vehiclesWithScores.reduce((sum, v) => sum + v.score.metrics.pricePerPS, 0) / vehiclesWithScores.length) : 0;
+            const avgScore = vehiclesWithScores.length > 0 ? 
+                Math.round(vehiclesWithScores.reduce((sum, v) => sum + v.score.total, 0) / vehiclesWithScores.length * 10) / 10 : 0;
+            
             overview.innerHTML = `
                 <div class="stat-card">
                     <div class="icon"><i class="fas fa-euro-sign"></i></div>
                     <div class="value">${formatNumber(stats.price.median)}€</div>
                     <div class="label">Median Preis</div>
+                    <div style="font-size: 0.8rem; color: #888; margin-top: 5px;">
+                        Min: ${formatNumber(stats.price.min)}€ | Max: ${formatNumber(stats.price.max)}€
+                    </div>
                 </div>
                 <div class="stat-card">
                     <div class="icon"><i class="fas fa-road"></i></div>
                     <div class="value">${formatNumber(stats.mileage.median)} km</div>
                     <div class="label">Median Kilometerstand</div>
+                    <div style="font-size: 0.8rem; color: #888; margin-top: 5px;">
+                        Min: ${formatNumber(stats.mileage.min)} | Max: ${formatNumber(stats.mileage.max)}
+                    </div>
                 </div>
                 <div class="stat-card">
                     <div class="icon"><i class="fas fa-calendar"></i></div>
                     <div class="value">${stats.age.median} Jahre</div>
                     <div class="label">Median Alter</div>
+                    <div style="font-size: 0.8rem; color: #888; margin-top: 5px;">
+                        Min: ${stats.age.min} | Max: ${stats.age.max} Jahre
+                    </div>
                 </div>
                 <div class="stat-card">
                     <div class="icon"><i class="fas fa-tachometer-alt"></i></div>
                     <div class="value">${stats.power.median} PS</div>
                     <div class="label">Median Leistung</div>
+                    <div style="font-size: 0.8rem; color: #888; margin-top: 5px;">
+                        Min: ${stats.power.min} | Max: ${stats.power.max} PS
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="icon"><i class="fas fa-calculator"></i></div>
+                    <div class="value">${formatNumber(avgMileagePerYear)} km/Jahr</div>
+                    <div class="label">⌀ Kilometerstand/Jahr</div>
+                </div>
+                <div class="stat-card">
+                    <div class="icon"><i class="fas fa-chart-line"></i></div>
+                    <div class="value">${formatNumber(avgPricePerPS)}€/PS</div>
+                    <div class="label">⌀ Preis pro PS</div>
+                </div>
+                <div class="stat-card">
+                    <div class="icon"><i class="fas fa-star"></i></div>
+                    <div class="value">${avgScore}/100</div>
+                    <div class="label">⌀ Bewertungs-Score</div>
                 </div>
                 <div class="stat-card">
                     <div class="icon"><i class="fas fa-car"></i></div>
@@ -702,11 +1236,11 @@
             const ctx = document.getElementById('analysisChart').getContext('2d');
             
             // Zerstöre vorheriges Chart falls vorhanden
-            if (window.myChart) {
-                window.myChart.destroy();
+            if (myChart) {
+                myChart.destroy();
             }
 
-            window.myChart = new Chart(ctx, {
+            myChart = new Chart(ctx, {
                 type: 'scatter',
                 data: {
                     datasets: [{
@@ -729,27 +1263,40 @@
                     }]
                 },
                 options: {
-                    responsive: true,
-                    plugins: {
-                        title: {
-                            display: true,
-                            text: `${currentMakeModel} - Preis vs. Kilometerstand Analyse`
-                        },
-                        tooltip: {
-                            callbacks: {
-                                label: function(context) {
-                                    const vehicle = context.parsed.vehicle || context.raw.vehicle;
-                                    return [
-                                        `Preis: ${formatNumber(vehicle.price)}€`,
-                                        `Kilometerstand: ${formatNumber(vehicle.mileage)} km`,
-                                        `Alter: ${vehicle.age} Jahre`,
-                                        `Leistung: ${vehicle.power_ps} PS`,
-                                        `Score: ${vehicle.score.total}/100`
-                                    ];
+                    responsive: true,                        plugins: {
+                            title: {
+                                display: true,
+                                text: `${currentMakeModel} - Preis vs. Kilometerstand Analyse`
+                            },
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        const vehicle = context.parsed.vehicle || context.raw.vehicle;
+                                        return [
+                                            `Preis: ${formatNumber(vehicle.price)}€`,
+                                            `Kilometerstand: ${formatNumber(vehicle.mileage)} km`,
+                                            `Alter: ${vehicle.age} Jahre`,
+                                            `Leistung: ${vehicle.power_ps} PS`,
+                                            `Km/Jahr: ${formatNumber(vehicle.score.metrics.mileagePerYear)}`,
+                                            `€/PS: ${formatNumber(vehicle.score.metrics.pricePerPS)}`,
+                                            `Score: ${vehicle.score.total}/100`
+                                        ];
+                                    }
+                                }
+                            },
+                            legend: {
+                                labels: {
+                                    generateLabels: function(chart) {
+                                        return [
+                                            { text: 'Ausgezeichnet (80-100)', fillStyle: '#10b981', strokeStyle: '#10b981' },
+                                            { text: 'Gut (60-79)', fillStyle: '#3b82f6', strokeStyle: '#3b82f6' },
+                                            { text: 'Durchschnitt (40-59)', fillStyle: '#f59e0b', strokeStyle: '#f59e0b' },
+                                            { text: 'Schwach (0-39)', fillStyle: '#ef4444', strokeStyle: '#ef4444' }
+                                        ];
+                                    }
                                 }
                             }
-                        }
-                    },
+                        },
                     scales: {
                         x: {
                             title: {
@@ -778,6 +1325,242 @@
             });
         }
 
+        function displayAgeChart(stats) {
+            const ctx = document.getElementById('ageChart').getContext('2d');
+            
+            // Zerstöre vorheriges Chart falls vorhanden
+            if (ageChart) {
+                ageChart.destroy();
+            }
+
+            // Prüfe ob alle Fahrzeuge scores haben
+            const vehiclesWithScores = allVehicles.filter(v => v.score && v.score.total !== undefined);
+            if (vehiclesWithScores.length === 0) {
+                console.error('Keine Fahrzeuge mit berechneten Scores gefunden');
+                return;
+            }
+
+            // Gruppiere Fahrzeuge nach Alter
+            const ageGroups = {};
+            vehiclesWithScores.forEach(v => {
+                const ageGroup = Math.floor(v.age);
+                if (!ageGroups[ageGroup]) {
+                    ageGroups[ageGroup] = [];
+                }
+                ageGroups[ageGroup].push(v);
+            });
+
+            const ageLabels = Object.keys(ageGroups).sort((a, b) => a - b);
+            const avgPrices = ageLabels.map(age => {
+                const vehicles = ageGroups[age];
+                return Math.round(vehicles.reduce((sum, v) => sum + v.price, 0) / vehicles.length);
+            });
+            const avgScores = ageLabels.map(age => {
+                const vehicles = ageGroups[age];
+                return Math.round(vehicles.reduce((sum, v) => sum + v.score.total, 0) / vehicles.length * 10) / 10;
+            });
+
+            ageChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ageLabels.map(age => `${age} Jahre`),
+                    datasets: [{
+                        label: 'Durchschnittspreis (€)',
+                        data: avgPrices,
+                        backgroundColor: 'rgba(102, 126, 234, 0.6)',
+                        borderColor: 'rgba(102, 126, 234, 1)',
+                        borderWidth: 1,
+                        yAxisID: 'y'
+                    }, {
+                        label: 'Durchschnitts-Score',
+                        data: avgScores,
+                        type: 'line',
+                        borderColor: 'rgba(16, 185, 129, 1)',
+                        backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                        borderWidth: 2,
+                        yAxisID: 'y1'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Preis und Score nach Fahrzeugalter'
+                        }
+                    },
+                    scales: {
+                        y: {
+                            type: 'linear',
+                            display: true,
+                            position: 'left',
+                            title: {
+                                display: true,
+                                text: 'Durchschnittspreis (€)'
+                            },
+                            ticks: {
+                                callback: function(value) {
+                                    return formatNumber(value) + '€';
+                                }
+                            }
+                        },
+                        y1: {
+                            type: 'linear',
+                            display: true,
+                            position: 'right',
+                            title: {
+                                display: true,
+                                text: 'Durchschnitts-Score'
+                            },
+                            grid: {
+                                drawOnChartArea: false,
+                            },
+                        }
+                    }
+                }
+            });
+        }
+
+        function displayMileageChart(stats) {
+            const ctx = document.getElementById('mileageChart').getContext('2d');
+            
+            if (mileageChart) {
+                mileageChart.destroy();
+            }
+
+            // Prüfe ob alle Fahrzeuge scores haben
+            const vehiclesWithScores = allVehicles.filter(v => v.score && v.score.metrics);
+            if (vehiclesWithScores.length === 0) {
+                console.error('Keine Fahrzeuge mit berechneten Scores gefunden');
+                return;
+            }
+
+            // Gruppiere nach km/Jahr
+            const mileageGroups = {
+                'Unter 10k': vehiclesWithScores.filter(v => v.score.metrics.mileagePerYear < 10000),
+                '10k-15k': vehiclesWithScores.filter(v => v.score.metrics.mileagePerYear >= 10000 && v.score.metrics.mileagePerYear < 15000),
+                '15k-20k': vehiclesWithScores.filter(v => v.score.metrics.mileagePerYear >= 15000 && v.score.metrics.mileagePerYear < 20000),
+                '20k-25k': vehiclesWithScores.filter(v => v.score.metrics.mileagePerYear >= 20000 && v.score.metrics.mileagePerYear < 25000),
+                'Über 25k': vehiclesWithScores.filter(v => v.score.metrics.mileagePerYear >= 25000)
+            };
+
+            const labels = Object.keys(mileageGroups);
+            const counts = labels.map(label => mileageGroups[label].length);
+            const avgScores = labels.map(label => {
+                const vehicles = mileageGroups[label];
+                return vehicles.length > 0 ? Math.round(vehicles.reduce((sum, v) => sum + v.score.total, 0) / vehicles.length * 10) / 10 : 0;
+            });
+
+            mileageChart = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: labels.map((label, i) => `${label} km/Jahr (${counts[i]}x, ⌀${avgScores[i]})`),
+                    datasets: [{
+                        data: counts,
+                        backgroundColor: [
+                            '#10b981',
+                            '#3b82f6', 
+                            '#f59e0b',
+                            '#ef4444',
+                            '#6b7280'
+                        ]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Verteilung Kilometerstand pro Jahr'
+                        }
+                    }
+                }
+            });
+        }
+
+        function displayPricePerformanceChart(stats) {
+            const ctx = document.getElementById('pricePerformanceChart').getContext('2d');
+            
+            if (pricePerformanceChart) {
+                pricePerformanceChart.destroy();
+            }
+
+            // Prüfe ob alle Fahrzeuge scores haben
+            const vehiclesWithScores = allVehicles.filter(v => v.score && v.score.metrics);
+            if (vehiclesWithScores.length === 0) {
+                console.error('Keine Fahrzeuge mit berechneten Scores gefunden');
+                return;
+            }
+
+            pricePerformanceChart = new Chart(ctx, {
+                type: 'scatter',
+                data: {
+                    datasets: [{
+                        label: 'Preis/PS vs. Score',
+                        data: vehiclesWithScores.map(v => ({
+                            x: v.score.metrics.pricePerPS,
+                            y: v.score.total,
+                            vehicle: v
+                        })),
+                        backgroundColor: vehiclesWithScores.map(v => {
+                            if (v.score.total >= 80) return '#10b981';
+                            if (v.score.total >= 60) return '#3b82f6';
+                            if (v.score.total >= 40) return '#f59e0b';
+                            return '#ef4444';
+                        }),
+                        borderColor: '#667eea',
+                        borderWidth: 1,
+                        pointRadius: 6,
+                        pointHoverRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Preis-Leistungs-Verhältnis vs. Gesamt-Score'
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    const vehicle = context.parsed.vehicle || context.raw.vehicle;
+                                    return [
+                                        `${vehicle.title}`,
+                                        `Preis/PS: ${formatNumber(vehicle.score.metrics.pricePerPS)}€`,
+                                        `Score: ${vehicle.score.total}/100`,
+                                        `Preis: ${formatNumber(vehicle.price)}€`,
+                                        `Leistung: ${vehicle.power_ps} PS`
+                                    ];
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Preis pro PS (€/PS)'
+                            },
+                            ticks: {
+                                callback: function(value) {
+                                    return formatNumber(value) + '€/PS';
+                                }
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Gesamt-Score'
+                            },
+                            min: 0,
+                            max: 100
+                        }
+                    }
+                }
+            });
+        }
+
         function displayVehicles(vehicles) {
             const grid = document.getElementById('vehiclesGrid');
             
@@ -785,9 +1568,147 @@
                 const scoreClass = getScoreClass(vehicle.score.total);
                 const scoreText = getScoreText(vehicle.score.total);
                 
+                // Dynamische Specs basierend auf includePower
+                const specsHTML = currentIncludePower ? `
+                    <div class="spec-item">
+                        <i class="fas fa-road icon"></i>
+                        <span class="value">${formatNumber(vehicle.mileage)} km</span>
+                    </div>
+                    <div class="spec-item">
+                        <i class="fas fa-calendar icon"></i>
+                        <span class="value">${vehicle.age} Jahre</span>
+                    </div>
+                    <div class="spec-item">
+                        <i class="fas fa-tachometer-alt icon"></i>
+                        <span class="value">${vehicle.power_ps} PS</span>
+                    </div>
+                    <div class="spec-item">
+                        <i class="fas fa-calculator icon"></i>
+                        <span class="value">${formatNumber(vehicle.score.metrics.mileagePerYear)} km/Jahr</span>
+                    </div>
+                    <div class="spec-item">
+                        <i class="fas fa-euro-sign icon"></i>
+                        <span class="value">${formatNumber(vehicle.score.metrics.pricePerPS)}€/PS</span>
+                    </div>
+                    <div class="spec-item">
+                        <i class="fas fa-gas-pump icon"></i>
+                        <span class="value">${vehicle.fuel_type}</span>
+                    </div>
+                ` : `
+                    <div class="spec-item">
+                        <i class="fas fa-road icon"></i>
+                        <span class="value">${formatNumber(vehicle.mileage)} km</span>
+                    </div>
+                    <div class="spec-item">
+                        <i class="fas fa-calendar icon"></i>
+                        <span class="value">${vehicle.age} Jahre</span>
+                    </div>
+                    <div class="spec-item">
+                        <i class="fas fa-calculator icon"></i>
+                        <span class="value">${formatNumber(vehicle.score.metrics.mileagePerYear)} km/Jahr</span>
+                    </div>
+                    <div class="spec-item">
+                        <i class="fas fa-gas-pump icon"></i>
+                        <span class="value">${vehicle.fuel_type}</span>
+                    </div>
+                    ${vehicle.power_ps ? `<div class="spec-item">
+                        <i class="fas fa-tachometer-alt icon"></i>
+                        <span class="value">${vehicle.power_ps} PS <span style="color: #999;">(nicht im Score)</span></span>
+                    </div>` : ''}
+                `;
+
+                // Dynamische Score-Aufschlüsselung basierend auf includePower
+                const scoreBreakdownHTML = currentIncludePower ? `
+                    <div class="score-item">
+                        <span>Preis/PS-Verhältnis:</span>
+                        <span>
+                            <span style="margin-right: 10px;">${vehicle.score.breakdown.pricePerPS}/100</span>
+                            <div class="score-bar">
+                                <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.pricePerPS}%"></div>
+                            </div>
+                        </span>
+                    </div>
+                    <div class="score-item">
+                        <span>Kilometerstand/Alter:</span>
+                        <span>
+                            <span style="margin-right: 10px;">${vehicle.score.breakdown.mileage}/100</span>
+                            <div class="score-bar">
+                                <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.mileage}%"></div>
+                            </div>
+                        </span>
+                    </div>
+                    <div class="score-item">
+                        <span>Alter:</span>
+                        <span>
+                            <span style="margin-right: 10px;">${vehicle.score.breakdown.age}/100</span>
+                            <div class="score-bar">
+                                <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.age}%"></div>
+                            </div>
+                        </span>
+                    </div>
+                    <div class="score-item">
+                        <span>Leistung:</span>
+                        <span>
+                            <span style="margin-right: 10px;">${vehicle.score.breakdown.power}/100</span>
+                            <div class="score-bar">
+                                <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.power}%"></div>
+                            </div>
+                        </span>
+                    </div>
+                    <div class="score-item">
+                        <span>Gesamtwert:</span>
+                        <span>
+                            <span style="margin-right: 10px;">${vehicle.score.breakdown.value}/100</span>
+                            <div class="score-bar">
+                                <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.value}%"></div>
+                            </div>
+                        </span>
+                    </div>
+                ` : `
+                    <div class="score-item">
+                        <span>Preis:</span>
+                        <span>
+                            <span style="margin-right: 10px;">${vehicle.score.breakdown.price}/100</span>
+                            <div class="score-bar">
+                                <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.price}%"></div>
+                            </div>
+                        </span>
+                    </div>
+                    <div class="score-item">
+                        <span>Kilometerstand/Alter:</span>
+                        <span>
+                            <span style="margin-right: 10px;">${vehicle.score.breakdown.mileage}/100</span>
+                            <div class="score-bar">
+                                <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.mileage}%"></div>
+                            </div>
+                        </span>
+                    </div>
+                    <div class="score-item">
+                        <span>Alter:</span>
+                        <span>
+                            <span style="margin-right: 10px;">${vehicle.score.breakdown.age}/100</span>
+                            <div class="score-bar">
+                                <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.age}%"></div>
+                            </div>
+                        </span>
+                    </div>
+                    <div class="score-item">
+                        <span>Gesamtwert:</span>
+                        <span>
+                            <span style="margin-right: 10px;">${vehicle.score.breakdown.value}/100</span>
+                            <div class="score-bar">
+                                <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.value}%"></div>
+                            </div>
+                        </span>
+                    </div>
+                `;
+                
                 return `
                     <div class="vehicle-card">
-                        <div class="score-badge ${scoreClass}">${vehicle.score.total}/100 - ${scoreText}</div>
+                        <div class="score-badge ${scoreClass}">
+                            ${vehicle.score.total}/100 - ${scoreText}
+                            ${currentIncludePower ? ' (4er-Score)' : ' (3er-Score)'}
+                        </div>
                         
                         <div class="vehicle-header">
                             <div>
@@ -798,68 +1719,20 @@
                         </div>
 
                         <div class="vehicle-specs">
-                            <div class="spec-item">
-                                <i class="fas fa-road icon"></i>
-                                <span class="value">${formatNumber(vehicle.mileage)} km</span>
-                            </div>
-                            <div class="spec-item">
-                                <i class="fas fa-calendar icon"></i>
-                                <span class="value">${vehicle.age} Jahre</span>
-                            </div>
-                            <div class="spec-item">
-                                <i class="fas fa-tachometer-alt icon"></i>
-                                <span class="value">${vehicle.power_ps} PS</span>
-                            </div>
-                            <div class="spec-item">
-                                <i class="fas fa-gas-pump icon"></i>
-                                <span class="value">${vehicle.fuel_type}</span>
-                            </div>
-                            <div class="spec-item">
-                                <i class="fas fa-cog icon"></i>
-                                <span class="value">${vehicle.transmission}</span>
-                            </div>
-                            <div class="spec-item">
-                                <i class="fas fa-calendar-alt icon"></i>
-                                <span class="value">${vehicle.first_registration}</span>
-                            </div>
+                            ${specsHTML}
                         </div>
 
                         <div class="score-breakdown">
-                            <div class="score-item">
-                                <span>Preis-Score:</span>
-                                <span>
-                                    <span style="margin-right: 10px;">${vehicle.score.breakdown.price}/100</span>
-                                    <div class="score-bar">
-                                        <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.price}%"></div>
-                                    </div>
-                                </span>
+                            ${scoreBreakdownHTML}
+                            <div style="margin-top: 10px; font-size: 0.85rem; color: #666;">
+                                <i class="fas fa-info-circle"></i> 
+                                Erwartet: ${formatNumber(vehicle.score.metrics.expectedMileage)} km | 
+                                Preis-Percentile: ${vehicle.score.metrics.pricePercentile}% | 
+                                Km/Jahr-Percentile: ${vehicle.score.metrics.mileagePerYearPercentile}%
                             </div>
-                            <div class="score-item">
-                                <span>Km-Score:</span>
-                                <span>
-                                    <span style="margin-right: 10px;">${vehicle.score.breakdown.mileage}/100</span>
-                                    <div class="score-bar">
-                                        <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.mileage}%"></div>
-                                    </div>
-                                </span>
-                            </div>
-                            <div class="score-item">
-                                <span>Alter-Score:</span>
-                                <span>
-                                    <span style="margin-right: 10px;">${vehicle.score.breakdown.age}/100</span>
-                                    <div class="score-bar">
-                                        <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.age}%"></div>
-                                    </div>
-                                </span>
-                            </div>
-                            <div class="score-item">
-                                <span>Power-Score:</span>
-                                <span>
-                                    <span style="margin-right: 10px;">${vehicle.score.breakdown.power}/100</span>
-                                    <div class="score-bar">
-                                        <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.power}%"></div>
-                                    </div>
-                                </span>
+                            <div style="font-size: 0.8rem; color: #888; margin-top: 5px;">
+                                Preis Z-Score: ${vehicle.score.metrics.priceZScore} | 
+                                Km-Abweichung: ${Math.round(vehicle.score.metrics.mileageDeviation * 100)}%
                             </div>
                         </div>
 
@@ -889,9 +1762,12 @@
             const priceFilter = document.getElementById('priceFilter');
             const mileageFilter = document.getElementById('mileageFilter');
             const ageFilter = document.getElementById('ageFilter');
-            const powerFilter = document.getElementById('powerFilter');
+            const powerMinFilter = document.getElementById('powerMinFilter');
+            const powerMaxFilter = document.getElementById('powerMaxFilter');
+            const mileagePerYearFilter = document.getElementById('mileagePerYearFilter');
+            const pricePerPSFilter = document.getElementById('pricePerPSFilter');
 
-            [priceFilter, mileageFilter, ageFilter, powerFilter].forEach(filter => {
+            [priceFilter, mileageFilter, ageFilter, powerMinFilter, powerMaxFilter, mileagePerYearFilter, pricePerPSFilter].forEach(filter => {
                 filter.addEventListener('input', applyFilters);
             });
         }
@@ -900,14 +1776,47 @@
             const priceMax = parseFloat(document.getElementById('priceFilter').value) || Infinity;
             const mileageMax = parseFloat(document.getElementById('mileageFilter').value) || Infinity;
             const ageMax = parseFloat(document.getElementById('ageFilter').value) || Infinity;
-            const powerMin = parseFloat(document.getElementById('powerFilter').value) || 0;
+            const powerMin = parseFloat(document.getElementById('powerMinFilter').value) || 0;
+            const powerMax = parseFloat(document.getElementById('powerMaxFilter').value) || Infinity;
+            const mileagePerYearMax = parseFloat(document.getElementById('mileagePerYearFilter').value) || Infinity;
+            const pricePerPSMax = parseFloat(document.getElementById('pricePerPSFilter').value) || Infinity;
 
-            const filteredVehicles = allVehicles.filter(vehicle => 
-                vehicle.price <= priceMax &&
-                vehicle.mileage <= mileageMax &&
-                vehicle.age <= ageMax &&
-                vehicle.power_ps >= powerMin
-            );
+            const filteredVehicles = allVehicles.filter(vehicle => {
+                // Prüfe ob alle benötigten Werte vorhanden und gültig sind
+                if (!vehicle.score || !vehicle.score.metrics) {
+                    return false;
+                }
+                
+                const mileagePerYear = vehicle.score.metrics.mileagePerYear;
+                const pricePerPS = vehicle.score.metrics.pricePerPS;
+                
+                // Prüfe auf ungültige Werte
+                if (!isFinite(mileagePerYear) || mileagePerYear < 0 || mileagePerYear > 200000) {
+                    console.warn('Ungültiger mileagePerYear Wert:', mileagePerYear, 'für Fahrzeug:', vehicle.title);
+                    return false;
+                }
+                
+                // Prüfe pricePerPS nur wenn includePower aktiv ist
+                if (currentIncludePower && (!isFinite(pricePerPS) || pricePerPS < 0 || pricePerPS > 10000)) {
+                    console.warn('Ungültiger pricePerPS Wert:', pricePerPS, 'für Fahrzeug:', vehicle.title);
+                    return false;
+                }
+
+                // Grundfilter
+                const passesBasicFilters = vehicle.price <= priceMax &&
+                                         vehicle.mileage <= mileageMax &&
+                                         vehicle.age <= ageMax &&
+                                         mileagePerYear <= mileagePerYearMax;
+
+                // Leistungsfilter - nur anwenden wenn Fahrzeug Leistung hat
+                const passesPoweFilter = !vehicle.power_ps || 
+                                       (vehicle.power_ps >= powerMin && vehicle.power_ps <= powerMax);
+
+                // Preis/PS Filter - nur anwenden wenn includePower aktiv ist
+                const passesPricePerPSFilter = !currentIncludePower || pricePerPS <= pricePerPSMax;
+
+                return passesBasicFilters && passesPoweFilter && passesPricePerPSFilter;
+            });
 
             displayVehicles(filteredVehicles);
         }
@@ -917,7 +1826,20 @@
         }
 
         // Initialisierung beim Laden der Seite
-        document.addEventListener('DOMContentLoaded', initDatabase);
+        document.addEventListener('DOMContentLoaded', function() {
+            // Event-Listener für die Checkbox hinzufügen
+            const checkbox = document.getElementById('includePowerInScore');
+            if (checkbox) {
+                checkbox.addEventListener('change', function() {
+                    // Wenn Fahrzeuge bereits geladen sind, Analyse erneut durchführen
+                    if (allVehicles.length > 0) {
+                        analyzeVehicles();
+                    }
+                });
+            }
+            
+            initDatabase();
+        });
     </script>
 </body>
 </html>
