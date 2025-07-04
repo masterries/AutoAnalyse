@@ -1,37 +1,19 @@
 AutoScout24 Multi-Model Update Summary
 ======================================
 
-Generiert am: 2025-07-04 19:02:24
+Generiert am: 2025-07-04 19:05:06
 AutoScout24 Luxembourg Scraper v2.0
 
 GESAMTÜBERSICHT
 ===============
 Überwachte Fahrzeugmodelle: 5
 Gesamte aktive Listings: 145
-Neue Listings heute: 145
+Neue Listings heute: 0
 Preisänderungen heute: 0
 
-🆕 MODELLE MIT NEUEN LISTINGS (5)
-==================================================
-• BMW 120
-  📊 31 neue von 31 Listings
-  🕐 2025-07-04T19:02:18.074118
-
-• MERCEDES-BENZ C-220
-  📊 24 neue von 24 Listings
-  🕐 2025-07-04T19:02:03.185738
-
-• MERCEDES-BENZ C-200
-  📊 28 neue von 28 Listings
-  🕐 2025-07-04T19:01:48.204074
-
-• MERCEDES-BENZ A-200
-  📊 18 neue von 18 Listings
-  🕐 2025-07-04T19:01:32.698888
-
-• MERCEDES-BENZ A-180
-  📊 44 neue von 44 Listings
-  🕐 2025-07-04T19:01:21.991736
+🆕 MODELLE MIT NEUEN LISTINGS
+==============================
+Keine neuen Listings gefunden.
 
 💰 MODELLE MIT PREISÄNDERUNGEN
 ==============================
@@ -40,28 +22,28 @@ Keine Preisänderungen heute.
 📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
 ========================================
 ✅ BMW 120
-   📊 Listings: 31 (31 neu)
-   🕐 Letztes Update: 2025-07-04T19:02:18.074118
+   📊 Listings: 31 (0 neu)
+   🕐 Letztes Update: 2025-07-04T19:05:00.200365
    💶 Preise: Ø €34,301 | €7,900 - €50,436
 
 ✅ MERCEDES-BENZ C-220
-   📊 Listings: 24 (24 neu)
-   🕐 Letztes Update: 2025-07-04T19:02:03.185738
+   📊 Listings: 24 (0 neu)
+   🕐 Letztes Update: 2025-07-04T19:04:45.687532
    💶 Preise: Ø €36,180 | €4,500 - €65,990
 
 ✅ MERCEDES-BENZ C-200
-   📊 Listings: 28 (28 neu)
-   🕐 Letztes Update: 2025-07-04T19:01:48.204074
+   📊 Listings: 28 (0 neu)
+   🕐 Letztes Update: 2025-07-04T19:04:31.471205
    💶 Preise: Ø €32,446 | €3,200 - €56,990
 
 ✅ MERCEDES-BENZ A-200
-   📊 Listings: 18 (18 neu)
-   🕐 Letztes Update: 2025-07-04T19:01:32.698888
+   📊 Listings: 18 (0 neu)
+   🕐 Letztes Update: 2025-07-04T19:04:17.367434
    💶 Preise: Ø €28,324 | €8,900 - €42,990
 
 ✅ MERCEDES-BENZ A-180
-   📊 Listings: 44 (44 neu)
-   🕐 Letztes Update: 2025-07-04T19:01:21.991736
+   📊 Listings: 44 (0 neu)
+   🕐 Letztes Update: 2025-07-04T19:04:06.569027
    💶 Preise: Ø €24,563 | €3,999 - €38,290
 
 🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
@@ -98,5 +80,5 @@ Keine Preisänderungen heute.
 
 
 ============================================================
-Generiert am: 2025-07-04 19:02:24
+Generiert am: 2025-07-04 19:05:06
 AutoScout24 Luxembourg Multi-Model Scraper v2.0
