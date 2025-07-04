@@ -688,3 +688,72 @@
 2025-07-04 17:59:16,336 - INFO - 📊 Einzigartige Listings: 20
 2025-07-04 17:59:16,337 - INFO - 📈 Gesamte Preisänderungen: 0
 2025-07-04 17:59:16,337 - INFO - ⚡ Effizienz: 14.34 Listings/Sekunde
+2025-07-04 18:09:56,586 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 18:09:56,587 - INFO - Scraper initialisiert für bmw 120
+2025-07-04 18:09:56,588 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 18:09:56,588 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 18:09:56,588 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 18:09:56,591 - INFO - Daten aus Datenbank geladen: 20 Listings, 0 Preisänderungen
+2025-07-04 18:09:56,591 - INFO - Starte intelligentes Scraping...
+2025-07-04 18:09:57,276 - INFO - Serverantwortzeit: 0.68s, angepasste Verzögerung: 2.00s
+2025-07-04 18:09:57,335 - INFO - Automatisch ermittelte Seitenzahl: 1, teste bis zu: 10 Seiten
+2025-07-04 18:09:57,336 - INFO - Seite 1/10: 20 article-Elemente gefunden
+2025-07-04 18:09:57,340 - INFO - Seite 1: 20 neue Listings extrahiert
+2025-07-04 18:10:00,459 - INFO - Seite 2/10: 18 article-Elemente gefunden
+2025-07-04 18:10:00,462 - INFO - Seite 2: 11 neue Listings extrahiert
+2025-07-04 18:10:02,919 - INFO - Seite 3/10: 0 article-Elemente gefunden
+2025-07-04 18:10:02,919 - INFO - Seite 3: 0 neue Listings extrahiert
+2025-07-04 18:10:02,919 - INFO - Seite 3 leer - teste noch eine Seite zur Sicherheit
+2025-07-04 18:10:05,301 - INFO - Seite 4/10: 0 article-Elemente gefunden
+2025-07-04 18:10:05,301 - INFO - Seite 4: 0 neue Listings extrahiert
+2025-07-04 18:10:05,302 - INFO - Seite 4 leer - teste noch eine Seite zur Sicherheit
+2025-07-04 18:10:07,656 - INFO - Seite 5/10: 0 article-Elemente gefunden
+2025-07-04 18:10:07,656 - INFO - Seite 5: 0 neue Listings extrahiert
+2025-07-04 18:10:07,656 - INFO - Seite 5 leer - teste noch eine Seite zur Sicherheit
+2025-07-04 18:10:10,029 - INFO - Seite 6/10: 0 article-Elemente gefunden
+2025-07-04 18:10:10,029 - INFO - Seite 6: 0 neue Listings extrahiert
+2025-07-04 18:10:10,029 - INFO - Seite 6 leer - teste noch eine Seite zur Sicherheit
+2025-07-04 18:10:12,430 - INFO - Seite 7/10: 0 article-Elemente gefunden
+2025-07-04 18:10:12,430 - INFO - Seite 7: 0 neue Listings extrahiert
+2025-07-04 18:10:12,430 - INFO - Seite 7 leer - teste noch eine Seite zur Sicherheit
+2025-07-04 18:10:14,678 - INFO - Seite 8/10: 0 article-Elemente gefunden
+2025-07-04 18:10:14,678 - INFO - Seite 8: 0 neue Listings extrahiert
+2025-07-04 18:10:14,679 - INFO - Seite 8 leer - teste noch eine Seite zur Sicherheit
+2025-07-04 18:10:17,025 - INFO - Seite 9/10: 0 article-Elemente gefunden
+2025-07-04 18:10:17,026 - INFO - Seite 9: 0 neue Listings extrahiert
+2025-07-04 18:10:17,026 - INFO - Seite 9 leer - teste noch eine Seite zur Sicherheit
+2025-07-04 18:10:19,434 - INFO - Seite 10/10: 0 article-Elemente gefunden
+2025-07-04 18:10:19,434 - INFO - Seite 10: 0 neue Listings extrahiert
+2025-07-04 18:10:19,434 - INFO - Stoppe nach Seite 10 - keine neuen Listings gefunden
+2025-07-04 18:10:19,435 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 31 eindeutige Listings gesammelt aus 10 Seiten.
+2025-07-04 18:10:19,438 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 18:10:19,446 - INFO - Listings in Datenbank gespeichert: 31
+2025-07-04 18:10:19,454 - INFO - ✅ Intelligentes Scraping abgeschlossen in 22.9 Sekunden
+2025-07-04 18:10:19,454 - INFO - 📊 Einzigartige Listings: 31
+2025-07-04 18:10:19,454 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 18:10:19,454 - INFO - ⚡ Effizienz: 1.36 Listings/Sekunde
+2025-07-04 18:10:19,456 - INFO - Datenbankverbindung geschlossen
+2025-07-04 18:12:43,923 - INFO - SQLite-Datenbank initialisiert: data/autoscout_data.db
+2025-07-04 18:12:43,924 - INFO - Scraper initialisiert für bmw 120
+2025-07-04 18:12:43,924 - INFO - === INTELLIGENTER SCRAPING-DURCHLAUF GESTARTET ===
+2025-07-04 18:12:43,924 - INFO - 🔍 Automatische Seitenerkennung aktiviert
+2025-07-04 18:12:43,925 - INFO - ⚙️  Stop-on-Empty: True, Adaptive-Delay: True
+2025-07-04 18:12:43,929 - INFO - Daten aus Datenbank geladen: 31 Listings, 0 Preisänderungen
+2025-07-04 18:12:43,929 - INFO - Starte intelligentes Scraping...
+2025-07-04 18:12:44,534 - INFO - Serverantwortzeit: 0.61s, angepasste Verzögerung: 2.00s
+2025-07-04 18:12:44,592 - INFO - Automatisch ermittelte Seitenzahl: 1, teste bis zu: 10 Seiten
+2025-07-04 18:12:44,593 - INFO - Seite 1/10: 20 article-Elemente gefunden
+2025-07-04 18:12:44,597 - INFO - Seite 1: 20 neue Listings extrahiert
+2025-07-04 18:12:47,586 - INFO - Seite 2/10: 18 article-Elemente gefunden
+2025-07-04 18:12:47,593 - INFO - Seite 2: 11 neue Listings extrahiert
+2025-07-04 18:12:49,939 - INFO - Seite 3/10: 0 article-Elemente gefunden
+2025-07-04 18:12:49,939 - INFO - Seite 3: 0 neue Listings extrahiert
+2025-07-04 18:12:49,939 - INFO - Stoppe nach Seite 3 - keine neuen Listings gefunden
+2025-07-04 18:12:49,940 - INFO - ✅ Intelligentes Scraping abgeschlossen. Insgesamt 31 eindeutige Listings gesammelt aus 3 Seiten.
+2025-07-04 18:12:49,952 - INFO - ℹ️  Keine Preisänderungen erkannt
+2025-07-04 18:12:49,963 - INFO - Listings in Datenbank gespeichert: 31
+2025-07-04 18:12:49,979 - INFO - ✅ Intelligentes Scraping abgeschlossen in 6.1 Sekunden
+2025-07-04 18:12:49,979 - INFO - 📊 Einzigartige Listings: 31
+2025-07-04 18:12:49,979 - INFO - 📈 Gesamte Preisänderungen: 0
+2025-07-04 18:12:49,979 - INFO - ⚡ Effizienz: 5.12 Listings/Sekunde
+2025-07-04 18:12:49,982 - INFO - Datenbankverbindung geschlossen

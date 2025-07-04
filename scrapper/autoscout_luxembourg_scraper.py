@@ -22,7 +22,7 @@ import pandas as pd
 import re
 import time
 from urllib.parse import urljoin
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 import os
 import logging
 from pathlib import Path
@@ -116,7 +116,6 @@ class AutoScout24LuxembourgScraper:
         import logging.handlers
         import gzip
         import shutil
-        from datetime import datetime, timedelta
         
         log_dir = self.data_dir / "logs"
         log_dir.mkdir(exist_ok=True)
@@ -158,6 +157,9 @@ class AutoScout24LuxembourgScraper:
         
     def _compress_old_logs(self, log_dir: Path):
         """Komprimiert Log-Dateien die älter als 7 Tage sind"""
+        import gzip
+        import shutil
+        
         try:
             cutoff_date = datetime.now() - timedelta(days=7)
             
@@ -415,9 +417,9 @@ class AutoScout24LuxembourgScraper:
             # Ermittle Gesamtseitenzahl falls nicht angegeben
             if max_pages is None:
                 total_pages = self.get_total_pages(soup)
-                # Begrenze auf eine vernünftige Anzahl
-                max_pages = min(total_pages, 100)
-                self.logger.info(f"Automatisch ermittelte Seitenzahl: {total_pages}, begrenze auf: {max_pages}")
+                # Weniger konservative Begrenzung - teste mehr Seiten
+                max_pages = min(total_pages, 50) if total_pages > 1 else 10  # Teste mindestens 10 Seiten
+                self.logger.info(f"Automatisch ermittelte Seitenzahl: {total_pages}, teste bis zu: {max_pages} Seiten")
             
             # Verarbeite erste Seite
             articles = soup.find_all('article', class_='cldt-summary-full-item')
@@ -451,7 +453,7 @@ class AutoScout24LuxembourgScraper:
             self.logger.error(f"Allgemeiner Fehler auf der ersten Seite: {e}")
             return pd.DataFrame()
         
-        # Schritt 2: Weitere Seiten scrapen (nur wenn mehr als 1 Seite verfügbar)
+        # Schritt 2: Weitere Seiten scrapen (teste immer mindestens einige Seiten)
         if max_pages > 1:
             for page_num in range(2, max_pages + 1):
                 try:
@@ -497,7 +499,7 @@ class AutoScout24LuxembourgScraper:
                     self.logger.info(f"Seite {page_num}: {page_listings} neue Listings extrahiert")
                     actual_pages_scraped = page_num
                     
-                    # Einfache Regel: Wenn eine Seite 0 neue Listings hat, stoppe
+                    # Einfache Regel: Wenn eine Seite 0 neue Listings hat, stoppe sofort
                     if page_listings == 0 and stop_on_empty:
                         self.logger.info(f"Stoppe nach Seite {page_num} - keine neuen Listings gefunden")
                         break
