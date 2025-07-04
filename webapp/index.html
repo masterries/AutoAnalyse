@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoAnalyse - Fahrzeuganalyse</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/sql-wasm.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .controls {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #555;
+        }
+
+        .form-group select, .form-group input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e1e5e9;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+
+        .form-group select:focus, .form-group input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .btn {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #667eea;
+            font-size: 18px;
+        }
+
+        .market-overview {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .stat-card .icon {
+            font-size: 3rem;
+            margin-bottom: 15px;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .stat-card .value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .stat-card .label {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .vehicles-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .vehicle-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .vehicle-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .vehicle-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+        }
+
+        .vehicle-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 20px;
+        }
+
+        .vehicle-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .vehicle-price {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .score-badge {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            padding: 8px 12px;
+            border-radius: 20px;
+            color: white;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .score-excellent { background: #10b981; }
+        .score-good { background: #3b82f6; }
+        .score-average { background: #f59e0b; }
+        .score-poor { background: #ef4444; }
+
+        .vehicle-specs {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .spec-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .spec-item .icon {
+            color: #667eea;
+            width: 20px;
+        }
+
+        .spec-item .value {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .score-breakdown {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #e1e5e9;
+        }
+
+        .score-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            font-size: 0.9rem;
+        }
+
+        .score-bar {
+            width: 60px;
+            height: 6px;
+            background: #e1e5e9;
+            border-radius: 3px;
+            overflow: hidden;
+        }
+
+        .score-bar-fill {
+            height: 100%;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            transition: width 0.3s;
+        }
+
+        .filters {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .chart-container {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .vehicle-link {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 8px 16px;
+            background: #f8fafc;
+            border: 1px solid #e1e5e9;
+            border-radius: 6px;
+            text-decoration: none;
+            color: #667eea;
+            font-size: 0.9rem;
+            transition: all 0.3s;
+        }
+
+        .vehicle-link:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .vehicles-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .vehicle-specs {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .error {
+            background: #fee2e2;
+            border: 1px solid #fecaca;
+            color: #dc2626;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        .no-data {
+            text-align: center;
+            padding: 60px 20px;
+            color: #666;
+        }
+
+        .no-data i {
+            font-size: 4rem;
+            margin-bottom: 20px;
+            color: #cbd5e1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1><i class="fas fa-car"></i> AutoAnalyse</h1>
+            <p>Individuelle Fahrzeuganalyse - Kilometerstand, Alter, Preis & Leistung</p>
+        </div>
+
+        <div class="controls">
+            <div class="form-group">
+                <label for="makeSelect">Marke auswählen:</label>
+                <select id="makeSelect">
+                    <option value="">Bitte wählen...</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="modelSelect">Modell auswählen:</label>
+                <select id="modelSelect" disabled>
+                    <option value="">Erst Marke auswählen...</option>
+                </select>
+            </div>
+
+            <button class="btn" onclick="analyzeVehicles()">
+                <i class="fas fa-search"></i> Fahrzeuge analysieren
+            </button>
+        </div>
+
+        <div id="loading" class="loading" style="display: none;">
+            <i class="fas fa-spinner fa-spin"></i> Lade Datenbank...
+        </div>
+
+        <div id="error" class="error" style="display: none;"></div>
+
+        <div id="results" style="display: none;">
+            <div id="marketOverview" class="market-overview"></div>
+            <div id="chartContainer" class="chart-container">
+                <canvas id="analysisChart"></canvas>
+            </div>
+            <div class="filters">
+                <div class="form-group">
+                    <label for="priceFilter">Max. Preis (€):</label>
+                    <input type="number" id="priceFilter" placeholder="z.B. 25000">
+                </div>
+                <div class="form-group">
+                    <label for="mileageFilter">Max. Kilometerstand:</label>
+                    <input type="number" id="mileageFilter" placeholder="z.B. 100000">
+                </div>
+                <div class="form-group">
+                    <label for="ageFilter">Max. Alter (Jahre):</label>
+                    <input type="number" id="ageFilter" placeholder="z.B. 5">
+                </div>
+                <div class="form-group">
+                    <label for="powerFilter">Min. Leistung (PS):</label>
+                    <input type="number" id="powerFilter" placeholder="z.B. 150">
+                </div>
+            </div>
+            <div id="vehiclesGrid" class="vehicles-grid"></div>
+        </div>
+    </div>
+
+    <script>
+        let db = null;
+        let allVehicles = [];
+        let currentMakeModel = '';
+
+        // SQL.js initialisieren
+        async function initDatabase() {
+            try {
+                document.getElementById('loading').style.display = 'block';
+                
+                const SQL = await initSqlJs({
+                    locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/${file}`
+                });
+
+                // Datenbank laden
+                const response = await fetch('../scrapper/data/autoscout_data.db');
+                if (!response.ok) {
+                    throw new Error('Datenbank konnte nicht geladen werden');
+                }
+                
+                const buffer = await response.arrayBuffer();
+                db = new SQL.Database(new Uint8Array(buffer));
+                
+                document.getElementById('loading').style.display = 'none';
+                loadMakesAndModels();
+                
+            } catch (error) {
+                document.getElementById('loading').style.display = 'none';
+                showError('Fehler beim Laden der Datenbank: ' + error.message);
+            }
+        }
+
+        function showError(message) {
+            const errorDiv = document.getElementById('error');
+            errorDiv.textContent = message;
+            errorDiv.style.display = 'block';
+        }
+
+        function hideError() {
+            document.getElementById('error').style.display = 'none';
+        }
+
+        function loadMakesAndModels() {
+            try {
+                const result = db.exec(`
+                    SELECT make, model, COUNT(*) as count
+                    FROM listings 
+                    WHERE is_active = 1 
+                    GROUP BY make, model 
+                    ORDER BY make, model
+                `);
+
+                if (result.length === 0) return;
+
+                const makeSelect = document.getElementById('makeSelect');
+                const makes = new Set();
+                const makeModels = {};
+
+                result[0].values.forEach(row => {
+                    const make = row[0];
+                    const model = row[1];
+                    const count = row[2];
+                    
+                    makes.add(make);
+                    
+                    if (!makeModels[make]) {
+                        makeModels[make] = [];
+                    }
+                    makeModels[make].push({ model, count });
+                });
+
+                // Marken-Dropdown befüllen
+                makeSelect.innerHTML = '<option value="">Bitte wählen...</option>';
+                Array.from(makes).sort().forEach(make => {
+                    const option = document.createElement('option');
+                    option.value = make;
+                    option.textContent = make;
+                    makeSelect.appendChild(option);
+                });
+
+                // Event-Handler für Marken-Auswahl
+                makeSelect.addEventListener('change', function() {
+                    const modelSelect = document.getElementById('modelSelect');
+                    const selectedMake = this.value;
+                    
+                    if (selectedMake && makeModels[selectedMake]) {
+                        modelSelect.disabled = false;
+                        modelSelect.innerHTML = '<option value="">Modell wählen...</option>';
+                        
+                        makeModels[selectedMake].forEach(({ model, count }) => {
+                            const option = document.createElement('option');
+                            option.value = model;
+                            option.textContent = `${model} (${count} Fahrzeuge)`;
+                            modelSelect.appendChild(option);
+                        });
+                    } else {
+                        modelSelect.disabled = true;
+                        modelSelect.innerHTML = '<option value="">Erst Marke auswählen...</option>';
+                    }
+                });
+
+            } catch (error) {
+                showError('Fehler beim Laden der Marken und Modelle: ' + error.message);
+            }
+        }
+
+        function parsePower(powerStr) {
+            if (!powerStr) return { kw: null, ps: null };
+            
+            const match = powerStr.match(/(\d+)\s*kW\s*\((\d+)\s*PS\)/);
+            if (match) {
+                return {
+                    kw: parseInt(match[1]),
+                    ps: parseInt(match[2])
+                };
+            }
+            return { kw: null, ps: null };
+        }
+
+        function calculateAge(firstRegistration) {
+            if (!firstRegistration) return null;
+            
+            try {
+                const [month, year] = firstRegistration.split('-');
+                const regDate = new Date(parseInt(year), parseInt(month) - 1, 1);
+                const now = new Date();
+                return Math.round((now - regDate) / (365.25 * 24 * 60 * 60 * 1000) * 10) / 10;
+            } catch {
+                return null;
+            }
+        }
+
+        function analyzeVehicles() {
+            const make = document.getElementById('makeSelect').value;
+            const model = document.getElementById('modelSelect').value;
+            
+            if (!make || !model) {
+                showError('Bitte wählen Sie Marke und Modell aus');
+                return;
+            }
+
+            hideError();
+            currentMakeModel = `${make} ${model}`;
+            
+            try {
+                const result = db.exec(`
+                    SELECT * FROM listings 
+                    WHERE make = ? AND model = ? AND is_active = 1
+                    ORDER BY price ASC
+                `, [make, model]);
+
+                if (result.length === 0) {
+                    showNoData();
+                    return;
+                }
+
+                const columns = result[0].columns;
+                const vehicles = result[0].values.map(row => {
+                    const vehicle = {};
+                    columns.forEach((col, idx) => {
+                        vehicle[col] = row[idx];
+                    });
+                    
+                    const power = parsePower(vehicle.power);
+                    vehicle.power_kw = power.kw;
+                    vehicle.power_ps = power.ps;
+                    vehicle.age = calculateAge(vehicle.first_registration);
+                    
+                    return vehicle;
+                });
+
+                allVehicles = vehicles.filter(v => 
+                    v.price && v.mileage && v.age !== null && v.power_ps
+                );
+
+                if (allVehicles.length === 0) {
+                    showNoData();
+                    return;
+                }
+
+                displayAnalysis();
+                
+            } catch (error) {
+                showError('Fehler bei der Analyse: ' + error.message);
+            }
+        }
+
+        function showNoData() {
+            document.getElementById('results').innerHTML = `
+                <div class="no-data">
+                    <i class="fas fa-search"></i>
+                    <h3>Keine Daten verfügbar</h3>
+                    <p>Für die ausgewählte Kombination wurden keine vollständigen Datensätze gefunden.</p>
+                </div>
+            `;
+            document.getElementById('results').style.display = 'block';
+        }
+
+        function calculateMarketStats(vehicles) {
+            const prices = vehicles.map(v => v.price);
+            const mileages = vehicles.map(v => v.mileage);
+            const ages = vehicles.map(v => v.age);
+            const powers = vehicles.map(v => v.power_ps);
+
+            return {
+                price: {
+                    min: Math.min(...prices),
+                    max: Math.max(...prices),
+                    median: median(prices),
+                    mean: Math.round(prices.reduce((a, b) => a + b) / prices.length)
+                },
+                mileage: {
+                    min: Math.min(...mileages),
+                    max: Math.max(...mileages),
+                    median: median(mileages),
+                    mean: Math.round(mileages.reduce((a, b) => a + b) / mileages.length)
+                },
+                age: {
+                    min: Math.min(...ages),
+                    max: Math.max(...ages),
+                    median: Math.round(median(ages) * 10) / 10,
+                    mean: Math.round(ages.reduce((a, b) => a + b) / ages.length * 10) / 10
+                },
+                power: {
+                    min: Math.min(...powers),
+                    max: Math.max(...powers),
+                    median: median(powers),
+                    mean: Math.round(powers.reduce((a, b) => a + b) / powers.length)
+                }
+            };
+        }
+
+        function median(arr) {
+            const sorted = arr.slice().sort((a, b) => a - b);
+            const mid = Math.floor(sorted.length / 2);
+            return sorted.length % 2 !== 0 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
+        }
+
+        function calculateVehicleScore(vehicle, stats) {
+            if (!vehicle.price || !vehicle.mileage || !vehicle.age || !vehicle.power_ps) {
+                return { total: 0, breakdown: {} };
+            }
+
+            const priceScore = Math.max(0, 100 - ((vehicle.price - stats.price.median) / stats.price.median * 100));
+            const mileageScore = Math.max(0, 100 - ((vehicle.mileage - stats.mileage.median) / stats.mileage.median * 100));
+            const ageScore = Math.max(0, 100 - ((vehicle.age - stats.age.median) / stats.age.median * 100));
+            const powerScore = Math.min(100, 50 + ((vehicle.power_ps - stats.power.median) / stats.power.median * 50));
+
+            const totalScore = (priceScore * 0.35 + mileageScore * 0.25 + ageScore * 0.25 + powerScore * 0.15);
+
+            return {
+                total: Math.round(totalScore * 10) / 10,
+                breakdown: {
+                    price: Math.round(priceScore * 10) / 10,
+                    mileage: Math.round(mileageScore * 10) / 10,
+                    age: Math.round(ageScore * 10) / 10,
+                    power: Math.round(powerScore * 10) / 10
+                }
+            };
+        }
+
+        function displayAnalysis() {
+            const stats = calculateMarketStats(allVehicles);
+            
+            // Scores für alle Fahrzeuge berechnen
+            allVehicles.forEach(vehicle => {
+                vehicle.score = calculateVehicleScore(vehicle, stats);
+            });
+
+            // Nach Score sortieren
+            allVehicles.sort((a, b) => b.score.total - a.score.total);
+
+            displayMarketOverview(stats);
+            displayChart(stats);
+            displayVehicles(allVehicles);
+            setupFilters();
+
+            document.getElementById('results').style.display = 'block';
+        }
+
+        function displayMarketOverview(stats) {
+            const overview = document.getElementById('marketOverview');
+            overview.innerHTML = `
+                <div class="stat-card">
+                    <div class="icon"><i class="fas fa-euro-sign"></i></div>
+                    <div class="value">${formatNumber(stats.price.median)}€</div>
+                    <div class="label">Median Preis</div>
+                </div>
+                <div class="stat-card">
+                    <div class="icon"><i class="fas fa-road"></i></div>
+                    <div class="value">${formatNumber(stats.mileage.median)} km</div>
+                    <div class="label">Median Kilometerstand</div>
+                </div>
+                <div class="stat-card">
+                    <div class="icon"><i class="fas fa-calendar"></i></div>
+                    <div class="value">${stats.age.median} Jahre</div>
+                    <div class="label">Median Alter</div>
+                </div>
+                <div class="stat-card">
+                    <div class="icon"><i class="fas fa-tachometer-alt"></i></div>
+                    <div class="value">${stats.power.median} PS</div>
+                    <div class="label">Median Leistung</div>
+                </div>
+                <div class="stat-card">
+                    <div class="icon"><i class="fas fa-car"></i></div>
+                    <div class="value">${allVehicles.length}</div>
+                    <div class="label">Fahrzeuge analysiert</div>
+                </div>
+            `;
+        }
+
+        function displayChart(stats) {
+            const ctx = document.getElementById('analysisChart').getContext('2d');
+            
+            // Zerstöre vorheriges Chart falls vorhanden
+            if (window.myChart) {
+                window.myChart.destroy();
+            }
+
+            window.myChart = new Chart(ctx, {
+                type: 'scatter',
+                data: {
+                    datasets: [{
+                        label: 'Preis vs. Kilometerstand',
+                        data: allVehicles.map(v => ({
+                            x: v.mileage,
+                            y: v.price,
+                            vehicle: v
+                        })),
+                        backgroundColor: allVehicles.map(v => {
+                            if (v.score.total >= 80) return '#10b981';
+                            if (v.score.total >= 60) return '#3b82f6';
+                            if (v.score.total >= 40) return '#f59e0b';
+                            return '#ef4444';
+                        }),
+                        borderColor: '#667eea',
+                        borderWidth: 1,
+                        pointRadius: 6,
+                        pointHoverRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: `${currentMakeModel} - Preis vs. Kilometerstand Analyse`
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    const vehicle = context.parsed.vehicle || context.raw.vehicle;
+                                    return [
+                                        `Preis: ${formatNumber(vehicle.price)}€`,
+                                        `Kilometerstand: ${formatNumber(vehicle.mileage)} km`,
+                                        `Alter: ${vehicle.age} Jahre`,
+                                        `Leistung: ${vehicle.power_ps} PS`,
+                                        `Score: ${vehicle.score.total}/100`
+                                    ];
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Kilometerstand'
+                            },
+                            ticks: {
+                                callback: function(value) {
+                                    return formatNumber(value) + ' km';
+                                }
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Preis (€)'
+                            },
+                            ticks: {
+                                callback: function(value) {
+                                    return formatNumber(value) + '€';
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function displayVehicles(vehicles) {
+            const grid = document.getElementById('vehiclesGrid');
+            
+            grid.innerHTML = vehicles.map(vehicle => {
+                const scoreClass = getScoreClass(vehicle.score.total);
+                const scoreText = getScoreText(vehicle.score.total);
+                
+                return `
+                    <div class="vehicle-card">
+                        <div class="score-badge ${scoreClass}">${vehicle.score.total}/100 - ${scoreText}</div>
+                        
+                        <div class="vehicle-header">
+                            <div>
+                                <div class="vehicle-title">${vehicle.title}</div>
+                                <div style="color: #666; font-size: 0.9rem;">${vehicle.location}</div>
+                            </div>
+                            <div class="vehicle-price">${formatNumber(vehicle.price)}€</div>
+                        </div>
+
+                        <div class="vehicle-specs">
+                            <div class="spec-item">
+                                <i class="fas fa-road icon"></i>
+                                <span class="value">${formatNumber(vehicle.mileage)} km</span>
+                            </div>
+                            <div class="spec-item">
+                                <i class="fas fa-calendar icon"></i>
+                                <span class="value">${vehicle.age} Jahre</span>
+                            </div>
+                            <div class="spec-item">
+                                <i class="fas fa-tachometer-alt icon"></i>
+                                <span class="value">${vehicle.power_ps} PS</span>
+                            </div>
+                            <div class="spec-item">
+                                <i class="fas fa-gas-pump icon"></i>
+                                <span class="value">${vehicle.fuel_type}</span>
+                            </div>
+                            <div class="spec-item">
+                                <i class="fas fa-cog icon"></i>
+                                <span class="value">${vehicle.transmission}</span>
+                            </div>
+                            <div class="spec-item">
+                                <i class="fas fa-calendar-alt icon"></i>
+                                <span class="value">${vehicle.first_registration}</span>
+                            </div>
+                        </div>
+
+                        <div class="score-breakdown">
+                            <div class="score-item">
+                                <span>Preis-Score:</span>
+                                <span>
+                                    <span style="margin-right: 10px;">${vehicle.score.breakdown.price}/100</span>
+                                    <div class="score-bar">
+                                        <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.price}%"></div>
+                                    </div>
+                                </span>
+                            </div>
+                            <div class="score-item">
+                                <span>Km-Score:</span>
+                                <span>
+                                    <span style="margin-right: 10px;">${vehicle.score.breakdown.mileage}/100</span>
+                                    <div class="score-bar">
+                                        <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.mileage}%"></div>
+                                    </div>
+                                </span>
+                            </div>
+                            <div class="score-item">
+                                <span>Alter-Score:</span>
+                                <span>
+                                    <span style="margin-right: 10px;">${vehicle.score.breakdown.age}/100</span>
+                                    <div class="score-bar">
+                                        <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.age}%"></div>
+                                    </div>
+                                </span>
+                            </div>
+                            <div class="score-item">
+                                <span>Power-Score:</span>
+                                <span>
+                                    <span style="margin-right: 10px;">${vehicle.score.breakdown.power}/100</span>
+                                    <div class="score-bar">
+                                        <div class="score-bar-fill" style="width: ${vehicle.score.breakdown.power}%"></div>
+                                    </div>
+                                </span>
+                            </div>
+                        </div>
+
+                        ${vehicle.url ? `<a href="${vehicle.url}" target="_blank" class="vehicle-link">
+                            <i class="fas fa-external-link-alt"></i> Anzeige ansehen
+                        </a>` : ''}
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function getScoreClass(score) {
+            if (score >= 80) return 'score-excellent';
+            if (score >= 60) return 'score-good';
+            if (score >= 40) return 'score-average';
+            return 'score-poor';
+        }
+
+        function getScoreText(score) {
+            if (score >= 80) return 'Ausgezeichnet';
+            if (score >= 60) return 'Gut';
+            if (score >= 40) return 'Durchschnitt';
+            return 'Schwach';
+        }
+
+        function setupFilters() {
+            const priceFilter = document.getElementById('priceFilter');
+            const mileageFilter = document.getElementById('mileageFilter');
+            const ageFilter = document.getElementById('ageFilter');
+            const powerFilter = document.getElementById('powerFilter');
+
+            [priceFilter, mileageFilter, ageFilter, powerFilter].forEach(filter => {
+                filter.addEventListener('input', applyFilters);
+            });
+        }
+
+        function applyFilters() {
+            const priceMax = parseFloat(document.getElementById('priceFilter').value) || Infinity;
+            const mileageMax = parseFloat(document.getElementById('mileageFilter').value) || Infinity;
+            const ageMax = parseFloat(document.getElementById('ageFilter').value) || Infinity;
+            const powerMin = parseFloat(document.getElementById('powerFilter').value) || 0;
+
+            const filteredVehicles = allVehicles.filter(vehicle => 
+                vehicle.price <= priceMax &&
+                vehicle.mileage <= mileageMax &&
+                vehicle.age <= ageMax &&
+                vehicle.power_ps >= powerMin
+            );
+
+            displayVehicles(filteredVehicles);
+        }
+
+        function formatNumber(num) {
+            return new Intl.NumberFormat('de-DE').format(num);
+        }
+
+        // Initialisierung beim Laden der Seite
+        document.addEventListener('DOMContentLoaded', initDatabase);
+    </script>
+</body>
+</html>
