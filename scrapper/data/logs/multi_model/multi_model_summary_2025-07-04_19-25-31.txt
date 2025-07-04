@@ -1,0 +1,127 @@
+AutoScout24 Multi-Model Update Summary
+======================================
+
+Generiert am: 2025-07-04 19:25:31
+AutoScout24 Luxembourg Scraper v2.0
+
+GESAMTÜBERSICHT
+===============
+Überwachte Fahrzeugmodelle: 10
+Gesamte aktive Listings: 568
+Neue Listings heute: 423
+Preisänderungen heute: 0
+
+🆕 MODELLE MIT NEUEN LISTINGS (5)
+==================================================
+• VOLKSWAGEN POLO
+  📊 100 neue von 100 Listings
+  🕐 2025-07-04T19:25:25.133901
+
+• VOLKSWAGEN GOLF
+  📊 130 neue von 130 Listings
+  🕐 2025-07-04T19:24:52.875312
+
+• AUDI A1
+  📊 64 neue von 64 Listings
+  🕐 2025-07-04T19:24:15.739552
+
+• AUDI A4
+  📊 38 neue von 38 Listings
+  🕐 2025-07-04T19:23:45.786664
+
+• AUDI A3
+  📊 91 neue von 91 Listings
+  🕐 2025-07-04T19:23:30.280557
+
+💰 MODELLE MIT PREISÄNDERUNGEN
+==============================
+Keine Preisänderungen heute.
+
+📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
+========================================
+✅ VOLKSWAGEN POLO
+   📊 Listings: 100 (100 neu)
+   🕐 Letztes Update: 2025-07-04T19:25:25.133901
+   💶 Preise: Ø €18,520 | €1,100 - €34,600
+
+✅ VOLKSWAGEN GOLF
+   📊 Listings: 130 (130 neu)
+   🕐 Letztes Update: 2025-07-04T19:24:52.875312
+   💶 Preise: Ø €22,054 | €1,480 - €59,050
+
+✅ AUDI A1
+   📊 Listings: 64 (64 neu)
+   🕐 Letztes Update: 2025-07-04T19:24:15.739552
+   💶 Preise: Ø €24,362 | €7,600 - €36,900
+
+✅ AUDI A4
+   📊 Listings: 38 (38 neu)
+   🕐 Letztes Update: 2025-07-04T19:23:45.786664
+   💶 Preise: Ø €23,983 | €1 - €44,500
+
+✅ AUDI A3
+   📊 Listings: 91 (91 neu)
+   🕐 Letztes Update: 2025-07-04T19:23:30.280557
+   💶 Preise: Ø €27,445 | €1,300 - €53,753
+
+✅ BMW 120
+   📊 Listings: 31 (0 neu)
+   🕐 Letztes Update: 2025-07-04T19:23:00.144347
+   💶 Preise: Ø €34,301 | €7,900 - €50,436
+
+✅ MERCEDES-BENZ C-220
+   📊 Listings: 24 (0 neu)
+   🕐 Letztes Update: 2025-07-04T19:22:44.594393
+   💶 Preise: Ø €36,180 | €4,500 - €65,990
+
+✅ MERCEDES-BENZ C-200
+   📊 Listings: 28 (0 neu)
+   🕐 Letztes Update: 2025-07-04T19:22:28.111676
+   💶 Preise: Ø €32,446 | €3,200 - €56,990
+
+✅ MERCEDES-BENZ A-200
+   📊 Listings: 18 (0 neu)
+   🕐 Letztes Update: 2025-07-04T19:22:12.492856
+   💶 Preise: Ø €28,324 | €8,900 - €42,990
+
+✅ MERCEDES-BENZ A-180
+   📊 Listings: 44 (0 neu)
+   🕐 Letztes Update: 2025-07-04T19:22:01.153801
+   💶 Preise: Ø €24,563 | €3,999 - €38,290
+
+🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
+==================================================
+ 1. €       1 - AUDI A4
+    AudiA4edition bose
+
+ 2. €   1,100 - AUDI A4
+    AudiA4A4 Avant 1.9 TDI
+
+ 3. €   1,100 - VOLKSWAGEN POLO
+    VolkswagenPolo1.4
+
+ 4. €   1,300 - AUDI A3
+    AudiA31.6 Attraction
+
+ 5. €   1,300 - VOLKSWAGEN POLO
+    VolkswagenPoloPolo 1.4
+
+ 6. €   1,480 - VOLKSWAGEN GOLF
+    VolkswagenGolfGolf 1.6 Sport Edition
+
+ 7. €   1,550 - VOLKSWAGEN GOLF
+    VolkswagenGolfGolf 1.6 GT Sport
+
+ 8. €   1,700 - VOLKSWAGEN POLO
+    VolkswagenPoloPolo 1.2-12V Optique
+
+ 9. €   2,700 - VOLKSWAGEN GOLF
+    VolkswagenGolf1.4 Comfortline
+
+10. €   2,800 - VOLKSWAGEN GOLF
+    VolkswagenGolfGolf 1.4 Comfortline
+
+
+============================================================
+Generiert am: 2025-07-04 19:25:31
+AutoScout24 Luxembourg Multi-Model Scraper v2.0
