@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-180
-Datum: 2025-07-04 19:22:01
+Datum: 2025-07-04 21:21:10
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -33,5 +33,5 @@ Verkäufertypen:
   Händler: 33
   Privat: 11
 
-Generiert am: 2025-07-04 19:22:01
+Generiert am: 2025-07-04 21:21:10
 AutoScout24 Luxembourg Scraper v2.0
