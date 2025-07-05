@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+5,c7c49de1-ec64-42c9-8514-1ddf7224398f,volkswagen,polo,"VolkswagenPoloLifePlus de 200 Audi, VW, Skoda, Seat & Cupra en stock !",21240.0,21075.0,-165.0,-0.7768361581920904,PREIS_GESUNKEN,2025-07-05T14:26:43.546209,1751725603,2025-07-05T04:35:11.871240,2025-07-05 14:26:43

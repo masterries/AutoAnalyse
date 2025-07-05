@@ -1,0 +1,3 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+3,fe9fda0d-d5f0-44bc-a800-33508c61c3ed,volkswagen,golf,VolkswagenGolfVIII Life,34123.0,34535.0,412.0,1.2073967705066964,PREIS_GESTIEGEN,2025-07-05T14:26:13.402587,1751725573,2025-07-05T04:34:56.294530,2025-07-05 14:26:13
+4,934a5b42-828b-4f95-9d25-4b0c4b4d1811,volkswagen,golf,VolkswagenGolfVIII Life,34157.0,34571.0,414.0,1.2120502386040928,PREIS_GESTIEGEN,2025-07-05T14:26:13.402954,1751725573,2025-07-05T04:35:00.654522,2025-07-05 14:26:13
