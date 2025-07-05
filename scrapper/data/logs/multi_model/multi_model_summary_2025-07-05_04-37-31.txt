@@ -1,135 +1,110 @@
 AutoScout24 Multi-Model Update Summary
 ======================================
 
-Generiert am: 2025-07-04 21:26:13
+Generiert am: 2025-07-05 04:37:31
 AutoScout24 Luxembourg Scraper v2.0
 
 GESAMTÜBERSICHT
 ===============
 Überwachte Fahrzeugmodelle: 17
 Gesamte aktive Listings: 755
-Neue Listings heute: 188
-Preisänderungen heute: 0
+Neue Listings heute: 0
+Preisänderungen heute: 1
 
-🆕 MODELLE MIT NEUEN LISTINGS (7)
-==================================================
-• BMW X1
-  📊 62 neue von 62 Listings
-  🕐 2025-07-04T21:26:07.864392
-
-• BMW 530
-  📊 14 neue von 14 Listings
-  🕐 2025-07-04T21:25:45.501139
-
-• BMW 520
-  📊 21 neue von 21 Listings
-  🕐 2025-07-04T21:25:18.144279
-
-• BMW 430
-  📊 10 neue von 10 Listings
-  🕐 2025-07-04T21:25:04.056513
-
-• BMW 420
-  📊 18 neue von 18 Listings
-  🕐 2025-07-04T21:24:52.726525
-
-• BMW 330
-  📊 19 neue von 19 Listings
-  🕐 2025-07-04T21:24:42.046490
-
-• BMW 320
-  📊 44 neue von 44 Listings
-  🕐 2025-07-04T21:24:31.590604
-
-💰 MODELLE MIT PREISÄNDERUNGEN
+🆕 MODELLE MIT NEUEN LISTINGS
 ==============================
-Keine Preisänderungen heute.
+Keine neuen Listings gefunden.
+
+💰 MODELLE MIT PREISÄNDERUNGEN (1)
+==================================================
+• AUDI A4: 1 Änderungen
+  📉 1x gesunken (Ø 250€)
 
 📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
 ========================================
 ✅ BMW X1
-   📊 Listings: 62 (62 neu)
-   🕐 Letztes Update: 2025-07-04T21:26:07.864392
+   📊 Listings: 62 (0 neu)
+   🕐 Letztes Update: 2025-07-05T04:37:25.465068
    💶 Preise: Ø €31,483 | €6,980 - €62,899
 
 ✅ BMW 530
-   📊 Listings: 14 (14 neu)
-   🕐 Letztes Update: 2025-07-04T21:25:45.501139
+   📊 Listings: 14 (0 neu)
+   🕐 Letztes Update: 2025-07-05T04:37:00.533841
    💶 Preise: Ø €32,887 | €10,500 - €92,183
 
 ✅ BMW 520
-   📊 Listings: 21 (21 neu)
-   🕐 Letztes Update: 2025-07-04T21:25:18.144279
+   📊 Listings: 21 (0 neu)
+   🕐 Letztes Update: 2025-07-05T04:36:48.237884
    💶 Preise: Ø €45,016 | €9,000 - €75,586
 
 ✅ BMW 430
-   📊 Listings: 10 (10 neu)
-   🕐 Letztes Update: 2025-07-04T21:25:04.056513
+   📊 Listings: 10 (0 neu)
+   🕐 Letztes Update: 2025-07-05T04:36:33.457993
    💶 Preise: Ø €50,226 | €24,000 - €89,998
 
 ✅ BMW 420
-   📊 Listings: 18 (18 neu)
-   🕐 Letztes Update: 2025-07-04T21:24:52.726525
+   📊 Listings: 18 (0 neu)
+   🕐 Letztes Update: 2025-07-05T04:36:20.104680
    💶 Preise: Ø €39,311 | €15,000 - €78,796
 
 ✅ BMW 330
-   📊 Listings: 19 (19 neu)
-   🕐 Letztes Update: 2025-07-04T21:24:42.046490
+   📊 Listings: 19 (0 neu)
+   🕐 Letztes Update: 2025-07-05T04:36:08.745664
    💶 Preise: Ø €41,074 | €7,500 - €83,442
 
 ✅ BMW 320
-   📊 Listings: 44 (44 neu)
-   🕐 Letztes Update: 2025-07-04T21:24:31.590604
+   📊 Listings: 44 (0 neu)
+   🕐 Letztes Update: 2025-07-05T04:35:56.832153
    💶 Preise: Ø €26,880 | €3,480 - €68,566
 
 ✅ VOLKSWAGEN POLO
    📊 Listings: 100 (0 neu)
-   🕐 Letztes Update: 2025-07-04T21:24:13.505048
+   🕐 Letztes Update: 2025-07-05T04:35:37.372590
    💶 Preise: Ø €18,520 | €1,100 - €34,600
 
 ✅ VOLKSWAGEN GOLF
    📊 Listings: 130 (0 neu)
-   🕐 Letztes Update: 2025-07-04T21:23:44.225889
+   🕐 Letztes Update: 2025-07-05T04:35:04.628251
    💶 Preise: Ø €22,054 | €1,480 - €59,050
 
 ✅ AUDI A1
    📊 Listings: 64 (0 neu)
-   🕐 Letztes Update: 2025-07-04T21:23:09.444008
+   🕐 Letztes Update: 2025-07-05T04:34:27.183646
    💶 Preise: Ø €24,362 | €7,600 - €36,900
 
 ✅ AUDI A4
-   📊 Listings: 38 (0 neu)
-   🕐 Letztes Update: 2025-07-04T21:22:46.653029
-   💶 Preise: Ø €23,983 | €1 - €44,500
+   📊 Listings: 38 (0 neu) | 💰 1 Preisänderungen
+   🕐 Letztes Update: 2025-07-05T04:34:03.478824
+   💶 Preise: Ø €23,977 | €1 - €44,500
 
 ✅ AUDI A3
    📊 Listings: 90 (0 neu)
-   🕐 Letztes Update: 2025-07-04T21:22:32.143373
+   🕐 Letztes Update: 2025-07-05T04:33:48.242052
    💶 Preise: Ø €27,361 | €1,300 - €53,753
 
 ✅ BMW 120
    📊 Listings: 31 (0 neu)
-   🕐 Letztes Update: 2025-07-04T21:22:05.804021
+   🕐 Letztes Update: 2025-07-05T04:33:20.293569
    💶 Preise: Ø €34,301 | €7,900 - €50,436
 
 ✅ MERCEDES-BENZ C-220
    📊 Listings: 24 (0 neu)
-   🕐 Letztes Update: 2025-07-04T21:21:50.645319
+   🕐 Letztes Update: 2025-07-05T04:32:59.340771
    💶 Preise: Ø €36,180 | €4,500 - €65,990
 
 ✅ MERCEDES-BENZ C-200
    📊 Listings: 28 (0 neu)
-   🕐 Letztes Update: 2025-07-04T21:21:36.535792
+   🕐 Letztes Update: 2025-07-05T04:32:43.738097
    💶 Preise: Ø €32,446 | €3,200 - €56,990
 
 ✅ MERCEDES-BENZ A-200
    📊 Listings: 18 (0 neu)
-   🕐 Letztes Update: 2025-07-04T21:21:21.147980
+   🕐 Letztes Update: 2025-07-05T04:32:28.337744
    💶 Preise: Ø €28,324 | €8,900 - €42,990
 
 ✅ MERCEDES-BENZ A-180
    📊 Listings: 44 (0 neu)
-   🕐 Letztes Update: 2025-07-04T21:21:10.443247
+   🕐 Letztes Update: 2025-07-05T04:32:16.922286
    💶 Preise: Ø €24,563 | €3,999 - €38,290
 
 🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
@@ -166,5 +141,5 @@ Keine Preisänderungen heute.
 
 
 ============================================================
-Generiert am: 2025-07-04 21:26:13
+Generiert am: 2025-07-05 04:37:31
 AutoScout24 Luxembourg Multi-Model Scraper v2.0

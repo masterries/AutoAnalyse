@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+1,2ed3bf2f-812e-4af2-8c8c-b3210665e4c9,audi,a4,AudiA4quattro sport,23650.0,23400.0,-250.0,-1.0570824524312896,PREIS_GESUNKEN,2025-07-05T04:34:03.470747,1751690043,2025-07-04T21:22:39.069512,2025-07-05 04:34:03
