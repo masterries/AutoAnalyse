@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen golf
-Datum: 2025-07-05 14:26:13
+Datum: 2025-07-05 19:13:25
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,17 +20,7 @@ Preisspanne: €57,570
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
-
-📉 PREISSENKUNGEN (0)
-==============================
-📈 PREISERHÖHUNGEN (2)
-==============================
-• VolkswagenGolfVIII Life
-  €34,123 → €34,535 (+€412)
-
-• VolkswagenGolfVIII Life
-  €34,157 → €34,571 (+€414)
+Keine Preisänderungen verfügbar.
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -44,5 +34,5 @@ Verkäufertypen:
   Händler: 81
   Privat: 47
 
-Generiert am: 2025-07-05 14:26:13
+Generiert am: 2025-07-05 19:13:25
 AutoScout24 Luxembourg Scraper v2.0
