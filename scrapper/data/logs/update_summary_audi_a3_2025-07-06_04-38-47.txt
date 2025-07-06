@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-200
-Datum: 2025-07-05 19:10:53
+Fahrzeug: audi a3
+Datum: 2025-07-06 04:38:47
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 18
+Gesamt gefundene Listings: 92
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €28,324
-Median-Preis: €27,945
-Günstigstes: €8,900
-Teuerstes: €42,990
-Preisspanne: €34,090
+Durchschnittspreis: €27,149
+Median-Preis: €30,490
+Günstigstes: €1,300
+Teuerstes: €53,753
+Preisspanne: €52,453
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 9
-  Diesel: 9
+  Benzin: 55
+  Diesel: 31
+  2: 3
+  o: 3
 
 Verkäufertypen:
-  Händler: 13
-  Privat: 5
+  Händler: 65
+  Privat: 27
 
-Generiert am: 2025-07-05 19:10:53
+Generiert am: 2025-07-06 04:38:47
 AutoScout24 Luxembourg Scraper v2.0
