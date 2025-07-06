@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2025-07-06 04:40:34
+Fahrzeug: bmw 520
+Datum: 2025-07-06 19:33:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 98
+Gesamt gefundene Listings: 21
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €18,449
-Median-Preis: €20,800
-Günstigstes: €1,100
-Teuerstes: €34,600
-Preisspanne: €33,500
+Durchschnittspreis: €45,016
+Median-Preis: €53,990
+Günstigstes: €9,000
+Teuerstes: €75,586
+Preisspanne: €66,586
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 88
-  Diesel: 10
+  Diesel: 11
+  3: 6
+  Benzin: 4
 
 Verkäufertypen:
-  Händler: 74
-  Privat: 24
+  Händler: 16
+  Privat: 5
 
-Generiert am: 2025-07-06 04:40:34
+Generiert am: 2025-07-06 19:33:40
 AutoScout24 Luxembourg Scraper v2.0
