@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+11,5c39f1d7-2f7f-4371-8723-208b24903e00,mercedes-benz,a-200,Mercedes-BenzA 200200 CDI AMG-LINE 7G-DCT,20900.0,19900.0,-1000.0,-4.784688995215311,PREIS_GESUNKEN,2025-07-07T15:01:36.017670,1751900496,2025-07-07T04:38:42.844608,2025-07-07 15:01:36
