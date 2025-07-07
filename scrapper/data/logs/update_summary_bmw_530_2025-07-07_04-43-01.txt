@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 530
-Datum: 2025-07-06 19:33:50
+Datum: 2025-07-07 04:43:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -34,5 +34,5 @@ Verkäufertypen:
   Privat: 8
   Händler: 6
 
-Generiert am: 2025-07-06 19:33:50
+Generiert am: 2025-07-07 04:43:01
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+10,819c3b3f-9b8e-4e33-9f6c-07008e0ef875,bmw,320,BMW320320d DPF Aut.,5900.0,5500.0,-400.0,-6.779661016949152,PREIS_GESUNKEN,2025-07-07T04:41:59.144637,1751863319,2025-07-06T19:32:32.548150,2025-07-07 04:41:59
