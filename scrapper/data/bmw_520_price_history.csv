@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+22,65f31bbc-10eb-485e-a592-12e0453c313a,bmw,520,BMW520d xDrive PACK M 2023,49990.0,44990.0,-5000.0,-10.002000400080016,PREIS_GESUNKEN,2025-07-08T23:33:10.680850,1752017590,2025-07-08T04:39:49.854025,2025-07-08 23:33:10
