@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a3
-Datum: 2025-07-09 04:40:27
+Fahrzeug: mercedes-benz a-180
+Datum: 2025-07-09 17:23:07
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 87
+Gesamt gefundene Listings: 42
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €27,126
-Median-Preis: €30,490
-Günstigstes: €1,300
-Teuerstes: €53,753
-Preisspanne: €52,453
+Durchschnittspreis: €24,668
+Median-Preis: €26,240
+Günstigstes: €3,999
+Teuerstes: €38,290
+Preisspanne: €34,291
 
 PREISÄNDERUNGEN
 ===============
@@ -24,25 +24,23 @@ Preisänderungen heute: 2
 
 📉 PREISSENKUNGEN (2)
 ==============================
-• AudiA3SB+Advanced+30TFSI+S-Tronic
-  €30,490 → €29,990 (-€500)
+• Mercedes-BenzA 1807G-DCT AMG Line
+  €22,990 → €20,990 (-€2,000)
 
-• AudiA335 TDI allstreet S tronic
-  €41,583 → €41,283 (-€300)
+• Mercedes-BenzA 180A 180 d 8G-DCT Advanced Progress...
+  €21,900 → €21,400 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 53
   Diesel: 28
-  2: 3
-  o: 3
+  Benzin: 14
 
 Verkäufertypen:
-  Händler: 62
-  Privat: 25
+  Händler: 31
+  Privat: 11
 
-Generiert am: 2025-07-09 04:40:27
+Generiert am: 2025-07-09 17:23:07
 AutoScout24 Luxembourg Scraper v2.0
