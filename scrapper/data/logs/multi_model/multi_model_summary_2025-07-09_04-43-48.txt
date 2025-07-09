@@ -1,0 +1,154 @@
+AutoScout24 Multi-Model Update Summary
+======================================
+
+Generiert am: 2025-07-09 04:43:48
+AutoScout24 Luxembourg Scraper v2.0
+
+GESAMTÜBERSICHT
+===============
+Überwachte Fahrzeugmodelle: 17
+Gesamte aktive Listings: 736
+Neue Listings heute: 0
+Preisänderungen heute: 16
+
+🆕 MODELLE MIT NEUEN LISTINGS
+==============================
+Keine neuen Listings gefunden.
+
+💰 MODELLE MIT PREISÄNDERUNGEN (4)
+==================================================
+• VOLKSWAGEN POLO: 6 Änderungen
+  📉 4x gesunken (Ø 500€)
+
+• AUDI A1: 3 Änderungen
+  📉 3x gesunken (Ø 500€)
+
+• AUDI A4: 5 Änderungen
+  📉 1x gesunken (Ø 500€)
+
+• AUDI A3: 2 Änderungen
+  📉 2x gesunken (Ø 400€)
+
+📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
+========================================
+✅ BMW X1
+   📊 Listings: 58 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:43:42.915620
+   💶 Preise: Ø €31,351 | €6,980 - €62,899
+
+✅ BMW 530
+   📊 Listings: 13 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:43:24.004363
+   💶 Preise: Ø €33,663 | €10,500 - €92,183
+
+✅ BMW 520
+   📊 Listings: 20 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:43:12.335001
+   💶 Preise: Ø €46,372 | €9,000 - €75,586
+
+✅ BMW 430
+   📊 Listings: 9 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:43:02.026129
+   💶 Preise: Ø €51,919 | €24,000 - €89,998
+
+✅ BMW 420
+   📊 Listings: 18 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:42:51.448343
+   💶 Preise: Ø €39,311 | €15,000 - €78,796
+
+✅ BMW 330
+   📊 Listings: 21 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:42:39.392766
+   💶 Preise: Ø €39,957 | €7,500 - €83,442
+
+✅ BMW 320
+   📊 Listings: 44 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:42:25.156730
+   💶 Preise: Ø €26,748 | €3,480 - €68,566
+
+✅ VOLKSWAGEN POLO
+   📊 Listings: 92 (0 neu) | 💰 6 Preisänderungen
+   🕐 Letztes Update: 2025-07-09T04:42:06.644089
+   💶 Preise: Ø €17,803 | €50 - €34,600
+
+✅ VOLKSWAGEN GOLF
+   📊 Listings: 124 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:41:40.300415
+   💶 Preise: Ø €22,198 | €1,480 - €59,050
+
+✅ AUDI A1
+   📊 Listings: 63 (0 neu) | 💰 3 Preisänderungen
+   🕐 Letztes Update: 2025-07-09T04:41:05.940762
+   💶 Preise: Ø €24,326 | €5,950 - €33,900
+
+✅ AUDI A4
+   📊 Listings: 36 (0 neu) | 💰 5 Preisänderungen
+   🕐 Letztes Update: 2025-07-09T04:40:43.762509
+   💶 Preise: Ø €23,337 | €1,100 - €44,500
+
+✅ AUDI A3
+   📊 Listings: 87 (0 neu) | 💰 2 Preisänderungen
+   🕐 Letztes Update: 2025-07-09T04:40:27.905393
+   💶 Preise: Ø €27,126 | €1,300 - €53,753
+
+✅ BMW 120
+   📊 Listings: 36 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:40:01.928007
+   💶 Preise: Ø €34,308 | €7,900 - €47,375
+
+✅ MERCEDES-BENZ C-220
+   📊 Listings: 25 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:39:47.499260
+   💶 Preise: Ø €38,396 | €4,500 - €65,990
+
+✅ MERCEDES-BENZ C-200
+   📊 Listings: 27 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:39:31.976396
+   💶 Preise: Ø €32,126 | €3,200 - €51,490
+
+✅ MERCEDES-BENZ A-200
+   📊 Listings: 21 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:39:17.522486
+   💶 Preise: Ø €28,872 | €8,500 - €43,990
+
+✅ MERCEDES-BENZ A-180
+   📊 Listings: 42 (0 neu)
+   🕐 Letztes Update: 2025-07-09T04:39:03.125144
+   💶 Preise: Ø €24,727 | €3,999 - €38,290
+
+🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
+==================================================
+ 1. €      50 - VOLKSWAGEN POLO
+    VolkswagenPoloLOCATION
+
+ 2. €   1,100 - AUDI A4
+    AudiA4A4 Avant 1.9 TDI
+
+ 3. €   1,100 - VOLKSWAGEN POLO
+    VolkswagenPolo1.4
+
+ 4. €   1,300 - AUDI A3
+    AudiA31.6 Attraction
+
+ 5. €   1,300 - VOLKSWAGEN POLO
+    VolkswagenPoloPolo 1.4
+
+ 6. €   1,480 - VOLKSWAGEN GOLF
+    VolkswagenGolfGolf 1.6 Sport Edition
+
+ 7. €   1,550 - VOLKSWAGEN GOLF
+    VolkswagenGolfGolf 1.6 GT Sport
+
+ 8. €   1,700 - VOLKSWAGEN POLO
+    VolkswagenPoloPolo 1.2-12V Optique
+
+ 9. €   2,700 - VOLKSWAGEN GOLF
+    VolkswagenGolf1.4 Comfortline
+
+10. €   2,800 - VOLKSWAGEN GOLF
+    VolkswagenGolfGolf 1.4 Comfortline
+
+
+============================================================
+Generiert am: 2025-07-09 04:43:48
+AutoScout24 Luxembourg Multi-Model Scraper v2.0
