@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-200
-Datum: 2025-07-10 04:38:21
+Datum: 2025-07-10 15:04:29
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 27
+Gesamt gefundene Listings: 28
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €32,126
+Durchschnittspreis: €31,264
 Median-Preis: €35,950
 Günstigstes: €3,200
 Teuerstes: €51,490
@@ -20,19 +20,26 @@ Preisspanne: €48,290
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-BenzC 200T CDI DPF Automatik BlueEFFICIEN...
+  €8,200 → €7,900 (-€300)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Diesel: 20
-  Benzin: 5
+  Benzin: 6
   2: 1
   3: 1
 
 Verkäufertypen:
   Händler: 20
-  Privat: 7
+  Privat: 8
 
-Generiert am: 2025-07-10 04:38:21
+Generiert am: 2025-07-10 15:04:29
 AutoScout24 Luxembourg Scraper v2.0

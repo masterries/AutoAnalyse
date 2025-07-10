@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+45,3d512098-b3ab-4f23-b7c7-9eef7fdb67f3,bmw,530,BMW530BMW 530D X-DRIVE F10 LUXURY LINE,16700.0,16500.0,-200.0,-1.1976047904191618,PREIS_GESUNKEN,2025-07-10T15:08:50.393619,1752160130,2025-07-10T04:42:09.472860,2025-07-10 15:08:50

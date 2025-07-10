@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw x1
-Datum: 2025-07-10 04:42:35
+Datum: 2025-07-10 15:09:12
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -43,5 +43,5 @@ Verkäufertypen:
   Händler: 43
   Privat: 18
 
-Generiert am: 2025-07-10 04:42:35
+Generiert am: 2025-07-10 15:09:12
 AutoScout24 Luxembourg Scraper v2.0

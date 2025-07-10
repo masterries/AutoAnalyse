@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 430
-Datum: 2025-07-10 04:41:51
+Fahrzeug: bmw 120
+Datum: 2025-07-10 15:05:04
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 10
+Gesamt gefundene Listings: 37
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €49,417
-Median-Preis: €43,960
-Günstigstes: €24,000
-Teuerstes: €89,998
-Preisspanne: €65,998
+Durchschnittspreis: €34,378
+Median-Preis: €37,899
+Günstigstes: €7,900
+Teuerstes: €47,375
+Preisspanne: €39,475
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 6
-  Diesel: 3
-  3: 1
+  Benzin: 15
+  Diesel: 13
+  2: 5
+  3: 4
 
 Verkäufertypen:
-  Händler: 8
-  Privat: 2
+  Händler: 30
+  Privat: 7
 
-Generiert am: 2025-07-10 04:41:51
+Generiert am: 2025-07-10 15:05:04
 AutoScout24 Luxembourg Scraper v2.0
