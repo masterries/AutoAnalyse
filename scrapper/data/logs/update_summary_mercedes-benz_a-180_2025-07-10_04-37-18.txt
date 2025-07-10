@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-180
-Datum: 2025-07-09 17:23:07
+Datum: 2025-07-10 04:37:18
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,18 +20,8 @@ Preisspanne: €34,291
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (2)
-==============================
-• Mercedes-BenzA 1807G-DCT AMG Line
-  €22,990 → €20,990 (-€2,000)
-
-• Mercedes-BenzA 180A 180 d 8G-DCT Advanced Progress...
-  €21,900 → €21,400 (-€500)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -42,5 +32,5 @@ Verkäufertypen:
   Händler: 31
   Privat: 11
 
-Generiert am: 2025-07-09 17:23:07
+Generiert am: 2025-07-10 04:37:18
 AutoScout24 Luxembourg Scraper v2.0
