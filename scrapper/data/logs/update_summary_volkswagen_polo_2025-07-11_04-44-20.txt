@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 530
-Datum: 2025-07-10 15:08:50
+Fahrzeug: volkswagen polo
+Datum: 2025-07-11 04:44:20
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 13
+Gesamt gefundene Listings: 95
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €33,648
-Median-Preis: €32,900
-Günstigstes: €10,500
-Teuerstes: €92,183
-Preisspanne: €81,683
+Durchschnittspreis: €17,896
+Median-Preis: €19,990
+Günstigstes: €1,100
+Teuerstes: €34,600
+Preisspanne: €33,500
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW530BMW 530D X-DRIVE F10 LUXURY LINE
-  €16,700 → €16,500 (-€200)
+• VolkswagenPoloPolo 1.4 TDI Comfortline
+  €7,200 → €6,200 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 8
-  2: 3
-  Benzin: 1
-  3: 1
+  Benzin: 83
+  Diesel: 12
 
 Verkäufertypen:
-  Privat: 8
-  Händler: 5
+  Händler: 70
+  Privat: 25
 
-Generiert am: 2025-07-10 15:08:50
+Generiert am: 2025-07-11 04:44:20
 AutoScout24 Luxembourg Scraper v2.0
