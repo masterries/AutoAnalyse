@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-200
-Datum: 2025-07-12 04:36:41
+Fahrzeug: bmw 330
+Datum: 2025-07-12 13:59:25
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 27
+Gesamt gefundene Listings: 25
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €32,115
-Median-Preis: €35,950
-Günstigstes: €3,200
-Teuerstes: €51,490
-Preisspanne: €48,290
+Durchschnittspreis: €39,163
+Median-Preis: €39,000
+Günstigstes: €7,500
+Teuerstes: €83,442
+Preisspanne: €75,942
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 20
-  Benzin: 5
-  2: 1
-  3: 1
+  Benzin: 12
+  Diesel: 6
+  2: 5
+  3: 2
 
 Verkäufertypen:
-  Händler: 20
-  Privat: 7
+  Händler: 13
+  Privat: 12
 
-Generiert am: 2025-07-12 04:36:41
+Generiert am: 2025-07-12 13:59:25
 AutoScout24 Luxembourg Scraper v2.0

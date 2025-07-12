@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen golf
-Datum: 2025-07-12 04:38:51
+Fahrzeug: bmw 120
+Datum: 2025-07-12 13:56:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 138
+Gesamt gefundene Listings: 37
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €21,995
-Median-Preis: €21,990
-Günstigstes: €1,480
-Teuerstes: €59,050
-Preisspanne: €57,570
+Durchschnittspreis: €34,362
+Median-Preis: €37,899
+Günstigstes: €7,900
+Teuerstes: €47,375
+Preisspanne: €39,475
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 84
-  Diesel: 49
-  2: 4
-  o: 1
+  Benzin: 15
+  Diesel: 13
+  2: 5
+  3: 4
 
 Verkäufertypen:
-  Händler: 87
-  Privat: 51
+  Händler: 30
+  Privat: 7
 
-Generiert am: 2025-07-12 04:38:51
+Generiert am: 2025-07-12 13:56:40
 AutoScout24 Luxembourg Scraper v2.0
