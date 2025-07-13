@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2025-07-12 13:56:40
+Fahrzeug: volkswagen polo
+Datum: 2025-07-13 04:44:21
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 37
+Gesamt gefundene Listings: 97
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,362
-Median-Preis: €37,899
-Günstigstes: €7,900
-Teuerstes: €47,375
-Preisspanne: €39,475
+Durchschnittspreis: €17,794
+Median-Preis: €19,990
+Günstigstes: €1,100
+Teuerstes: €34,600
+Preisspanne: €33,500
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 15
-  Diesel: 13
-  2: 5
-  3: 4
+  Benzin: 85
+  Diesel: 12
 
 Verkäufertypen:
-  Händler: 30
-  Privat: 7
+  Händler: 72
+  Privat: 25
 
-Generiert am: 2025-07-12 13:56:40
+Generiert am: 2025-07-13 04:44:21
 AutoScout24 Luxembourg Scraper v2.0
