@@ -1,2 +1,3 @@
 id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+56,f664a9d3-e0c7-4246-af22-4758fc942a4b,mercedes-benz,c-200,Mercedes-BenzC 200Classe C Break Diesel (s203),4450.0,7200.0,2750.0,61.79775280898876,PREIS_GESTIEGEN,2025-07-14T04:47:41.143001,1752468461,2025-07-13T04:41:23.950486,2025-07-14 04:47:41
 42,c12e0676-88b0-42a3-bd27-704f7bfb0500,mercedes-benz,c-200,Mercedes-BenzC 200T CDI DPF Automatik BlueEFFICIENCY Elegance,8200.0,7900.0,-300.0,-3.6585365853658534,PREIS_GESUNKEN,2025-07-10T15:04:29.404003,1752159869,2025-07-10T04:37:47.715946,2025-07-10 15:04:29

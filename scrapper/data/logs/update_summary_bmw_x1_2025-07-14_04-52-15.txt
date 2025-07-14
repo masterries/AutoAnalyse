@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-200
-Datum: 2025-07-13 04:41:16
+Fahrzeug: bmw x1
+Datum: 2025-07-14 04:52:15
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 20
+Gesamt gefundene Listings: 61
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €27,322
-Median-Preis: €27,945
-Günstigstes: €7,700
-Teuerstes: €43,990
-Preisspanne: €36,290
+Durchschnittspreis: €30,573
+Median-Preis: €26,950
+Günstigstes: €6,980
+Teuerstes: €62,899
+Preisspanne: €55,919
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,23 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Mercedes-BenzA 200A 200 CDI AMG Line
-  €8,500 → €7,700 (-€800)
+• BMWX1sDrive18d Aut. M Sport
+  €19,500 → €18,500 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 10
-  Benzin: 9
-  2: 1
+  Diesel: 33
+  Benzin: 20
+  3: 5
+  2: 2
+  o: 1
 
 Verkäufertypen:
-  Händler: 14
-  Privat: 6
+  Händler: 42
+  Privat: 19
 
-Generiert am: 2025-07-13 04:41:16
+Generiert am: 2025-07-14 04:52:15
 AutoScout24 Luxembourg Scraper v2.0
