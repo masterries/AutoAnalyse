@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 420
-Datum: 2025-07-14 14:47:39
+Fahrzeug: volkswagen golf
+Datum: 2025-07-15 04:45:45
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 18
+Gesamt gefundene Listings: 138
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €39,311
-Median-Preis: €38,695
-Günstigstes: €15,000
-Teuerstes: €78,796
-Preisspanne: €63,796
+Durchschnittspreis: €22,046
+Median-Preis: €22,195
+Günstigstes: €1,480
+Teuerstes: €59,050
+Preisspanne: €57,570
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 8
-  Diesel: 7
-  3: 2
-  o: 1
+  Benzin: 86
+  Diesel: 46
+  2: 4
+  o: 2
 
 Verkäufertypen:
-  Händler: 11
-  Privat: 7
+  Händler: 89
+  Privat: 49
 
-Generiert am: 2025-07-14 14:47:39
+Generiert am: 2025-07-15 04:45:45
 AutoScout24 Luxembourg Scraper v2.0
