@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen golf
-Datum: 2025-07-15 04:45:45
+Fahrzeug: bmw 430
+Datum: 2025-07-16 04:46:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 138
+Gesamt gefundene Listings: 9
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €22,046
-Median-Preis: €22,195
-Günstigstes: €1,480
-Teuerstes: €59,050
-Preisspanne: €57,570
+Durchschnittspreis: €51,919
+Median-Preis: €44,950
+Günstigstes: €24,000
+Teuerstes: €89,998
+Preisspanne: €65,998
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 86
-  Diesel: 46
-  2: 4
-  o: 2
+  Benzin: 5
+  Diesel: 3
+  3: 1
 
 Verkäufertypen:
-  Händler: 89
-  Privat: 49
+  Händler: 7
+  Privat: 2
 
-Generiert am: 2025-07-15 04:45:45
+Generiert am: 2025-07-16 04:46:40
 AutoScout24 Luxembourg Scraper v2.0
