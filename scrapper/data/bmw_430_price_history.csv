@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+102,62f3c251-e63e-4e98-ba7b-2800b0b7a1fb,bmw,430,BMW430430i Coupe M Sport,38900.0,36000.0,-2900.0,-7.455012853470437,PREIS_GESUNKEN,2025-07-18T04:49:11.539309,1752814151,2025-07-17T04:45:52.405730,2025-07-18 04:49:11

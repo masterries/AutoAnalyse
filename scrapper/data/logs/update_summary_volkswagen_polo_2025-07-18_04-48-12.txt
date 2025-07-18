@@ -2,21 +2,29 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2025-07-17 04:44:59
+Datum: 2025-07-18 04:48:12
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 100
-Neue Listings: 0
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,364
+Durchschnittspreis: €17,369
 Median-Preis: €19,985
 Günstigstes: €47
 Teuerstes: €34,600
 Preisspanne: €34,553
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €47 - VolkswagenPoloLOCATION - 47,5€ / JOUR
+• €1,100 - VolkswagenPolo1.4
+• €1,700 - VolkswagenPoloPolo 1.2-12V Optique
+• €2,950 - VolkswagenPoloPolo 1.2 black edition
+• €2,990 - VolkswagenPoloFox Essence *Garantie 12 mois*
 
 PREISÄNDERUNGEN
 ===============
@@ -32,5 +40,5 @@ Verkäufertypen:
   Händler: 74
   Privat: 26
 
-Generiert am: 2025-07-17 04:44:59
+Generiert am: 2025-07-18 04:48:12
 AutoScout24 Luxembourg Scraper v2.0

@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-180
-Datum: 2025-07-17 04:41:39
+Datum: 2025-07-18 04:44:30
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 40
-Neue Listings: 1
+Gesamt gefundene Listings: 42
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,711
-Median-Preis: €25,945
+Durchschnittspreis: €24,621
+Median-Preis: €25,840
 Günstigstes: €3,999
 Teuerstes: €38,290
 Preisspanne: €34,291
@@ -33,12 +33,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 27
-  Benzin: 13
+  Diesel: 28
+  Benzin: 14
 
 Verkäufertypen:
-  Händler: 30
+  Händler: 32
   Privat: 10
 
-Generiert am: 2025-07-17 04:41:39
+Generiert am: 2025-07-18 04:44:30
 AutoScout24 Luxembourg Scraper v2.0
