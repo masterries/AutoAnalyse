@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 530
-Datum: 2025-07-19 04:41:09
+Fahrzeug: bmw 120
+Datum: 2025-07-20 04:48:39
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 14
+Gesamt gefundene Listings: 42
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,828
-Median-Preis: €34,495
-Günstigstes: €10,500
-Teuerstes: €92,183
-Preisspanne: €81,683
+Durchschnittspreis: €34,469
+Median-Preis: €37,444
+Günstigstes: €7,900
+Teuerstes: €47,375
+Preisspanne: €39,475
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW530BMW 530D X-DRIVE F10 LUXURY LINE
-  €16,500 → €15,900 (-€600)
+• BMW120120d xDrive Aut. Luxury Line
+  €27,500 → €24,900 (-€2,600)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 9
-  2: 3
-  Benzin: 1
-  3: 1
+  Benzin: 16
+  Diesel: 13
+  2: 9
+  3: 4
 
 Verkäufertypen:
+  Händler: 34
   Privat: 8
-  Händler: 6
 
-Generiert am: 2025-07-19 04:41:09
+Generiert am: 2025-07-20 04:48:39
 AutoScout24 Luxembourg Scraper v2.0
