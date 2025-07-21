@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2025-07-20 04:48:39
+Fahrzeug: volkswagen polo
+Datum: 2025-07-21 04:52:41
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 42
+Gesamt gefundene Listings: 98
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,469
-Median-Preis: €37,444
-Günstigstes: €7,900
-Teuerstes: €47,375
-Preisspanne: €39,475
+Durchschnittspreis: €17,482
+Median-Preis: €19,985
+Günstigstes: €47
+Teuerstes: €34,600
+Preisspanne: €34,553
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW120120d xDrive Aut. Luxury Line
-  €27,500 → €24,900 (-€2,600)
+• VolkswagenPolo1.0 TSI DSG Highline Automatic 64000...
+  €16,850 → €16,599 (-€251)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 16
+  Benzin: 85
   Diesel: 13
-  2: 9
-  3: 4
 
 Verkäufertypen:
-  Händler: 34
-  Privat: 8
+  Händler: 73
+  Privat: 25
 
-Generiert am: 2025-07-20 04:48:39
+Generiert am: 2025-07-21 04:52:41
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 520
-Datum: 2025-07-20 04:52:18
+Fahrzeug: audi a4
+Datum: 2025-07-21 04:51:07
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 18
+Gesamt gefundene Listings: 42
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €46,385
-Median-Preis: €56,600
-Günstigstes: €9,000
-Teuerstes: €75,586
-Preisspanne: €66,586
+Durchschnittspreis: €24,160
+Median-Preis: €23,250
+Günstigstes: €1,100
+Teuerstes: €44,500
+Preisspanne: €43,400
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 11
-  3: 5
-  Benzin: 2
+  Diesel: 28
+  Benzin: 13
+  o: 1
 
 Verkäufertypen:
-  Händler: 14
-  Privat: 4
+  Händler: 27
+  Privat: 15
 
-Generiert am: 2025-07-20 04:52:18
+Generiert am: 2025-07-21 04:51:07
 AutoScout24 Luxembourg Scraper v2.0

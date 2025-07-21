@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw x1
-Datum: 2025-07-20 04:52:49
+Datum: 2025-07-21 04:54:17
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 60
-Neue Listings: 1
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,14 +17,6 @@ Median-Preis: €26,995
 Günstigstes: €7,500
 Teuerstes: €62,899
 Preisspanne: €55,399
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €7,500 - BMWX1
-• €7,900 - BMWX1X1 sDrive18d Aut. xLine
-• €7,999 - BMWX1xDrive23d Aut.
-• €9,000 - BMWX1sDrive18d
-• €10,860 - BMWX1X1 xDrive18d Aut. xLine
 
 PREISÄNDERUNGEN
 ===============
@@ -43,5 +35,5 @@ Verkäufertypen:
   Händler: 40
   Privat: 20
 
-Generiert am: 2025-07-20 04:52:49
+Generiert am: 2025-07-21 04:54:17
 AutoScout24 Luxembourg Scraper v2.0

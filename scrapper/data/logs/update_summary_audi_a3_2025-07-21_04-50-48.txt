@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2025-07-20 04:49:11
+Datum: 2025-07-21 04:50:48
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -34,5 +34,5 @@ Verkäufertypen:
   Händler: 74
   Privat: 27
 
-Generiert am: 2025-07-20 04:49:11
+Generiert am: 2025-07-21 04:50:48
 AutoScout24 Luxembourg Scraper v2.0
