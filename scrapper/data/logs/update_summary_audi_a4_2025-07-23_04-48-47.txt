@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a4
-Datum: 2025-07-22 04:45:11
+Datum: 2025-07-23 04:48:47
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 41
-Neue Listings: 1
+Gesamt gefundene Listings: 43
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,301
-Median-Preis: €20,900
+Durchschnittspreis: €23,982
+Median-Preis: €23,000
 Günstigstes: €1,100
 Teuerstes: €44,500
 Preisspanne: €43,400
@@ -28,25 +28,18 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• AudiA4A4 Cabriolet 2.5 TDi V6 S line CVT Multitron...
-  €8,499 → €7,999 (-€500)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 28
+  Diesel: 30
   Benzin: 12
   o: 1
 
 Verkäufertypen:
-  Händler: 25
+  Händler: 27
   Privat: 16
 
-Generiert am: 2025-07-22 04:45:11
+Generiert am: 2025-07-23 04:48:47
 AutoScout24 Luxembourg Scraper v2.0

@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 120
-Datum: 2025-07-22 04:44:22
+Datum: 2025-07-23 04:47:58
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,170
+Durchschnittspreis: €34,195
 Median-Preis: €36,945
 Günstigstes: €7,900
 Teuerstes: €47,375
@@ -20,7 +20,14 @@ Preisspanne: €39,475
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (0)
+==============================
+📈 PREISERHÖHUNGEN (1)
+==============================
+• BMW120Head-Up HK M-Sport HiFi DAB LED RFK Komfortz...
+  €37,899 → €38,899 (+€1,000)
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -34,5 +41,5 @@ Verkäufertypen:
   Händler: 32
   Privat: 8
 
-Generiert am: 2025-07-22 04:44:22
+Generiert am: 2025-07-23 04:47:58
 AutoScout24 Luxembourg Scraper v2.0
