@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 120
-Datum: 2025-07-23 04:47:58
+Datum: 2025-07-24 04:45:32
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,14 +20,7 @@ Preisspanne: €39,475
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
-
-📉 PREISSENKUNGEN (0)
-==============================
-📈 PREISERHÖHUNGEN (1)
-==============================
-• BMW120Head-Up HK M-Sport HiFi DAB LED RFK Komfortz...
-  €37,899 → €38,899 (+€1,000)
+Keine Preisänderungen verfügbar.
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -41,5 +34,5 @@ Verkäufertypen:
   Händler: 32
   Privat: 8
 
-Generiert am: 2025-07-23 04:47:58
+Generiert am: 2025-07-24 04:45:32
 AutoScout24 Luxembourg Scraper v2.0

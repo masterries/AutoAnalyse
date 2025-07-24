@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2025-07-23 04:50:20
+Datum: 2025-07-24 04:48:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 97
-Neue Listings: 2
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,051
-Median-Preis: €19,310
+Durchschnittspreis: €16,835
+Median-Preis: €18,900
 Günstigstes: €47
 Teuerstes: €34,600
 Preisspanne: €34,553
@@ -22,33 +22,18 @@ TOP 5 GÜNSTIGSTE LISTINGS
 =========================
 • €47 - VolkswagenPoloLOCATION - 47,5€ / JOUR
 • €1,100 - VolkswagenPolo1.4
-• €1,450 - VolkswagenPolo1.4 FSI
+• €1,350 - VolkswagenPolo1.4 FSI
 • €1,700 - VolkswagenPoloPolo 1.2-12V Optique
 • €2,990 - VolkswagenPoloFox Essence *Garantie 12 mois*
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 6
+Preisänderungen heute: 1
 
-📉 PREISSENKUNGEN (6)
+📉 PREISSENKUNGEN (1)
 ==============================
-• VolkswagenPoloComfortline+R-line+Navi+Digi+Plus de...
-  €18,990 → €18,490 (-€500)
-
-• VolkswagenPoloComfortline+DSG+NaviPlus de 200 Audi...
-  €17,990 → €17,490 (-€500)
-
-• VolkswagenPoloStyle+DSG+IQ-Drive+LEDPlus de 200 Au...
-  €24,490 → €23,990 (-€500)
-
-• VolkswagenPoloLife+BVM+LED+Digi+
-  €19,990 → €19,490 (-€500)
-
-• VolkswagenPoloLife+LED+DSG+IQ-DRIVE
-  €20,990 → €20,490 (-€500)
-
-• VolkswagenPoloLife+DSG+LED+Navi+Digi+
-  €22,990 → €22,490 (-€500)
+• VolkswagenPolo1.4 FSI
+  €1,450 → €1,350 (-€100)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
@@ -59,8 +44,8 @@ Kraftstofftypen:
   Diesel: 14
 
 Verkäufertypen:
-  Händler: 72
-  Privat: 25
+  Händler: 71
+  Privat: 26
 
-Generiert am: 2025-07-23 04:50:20
+Generiert am: 2025-07-24 04:48:40
 AutoScout24 Luxembourg Scraper v2.0

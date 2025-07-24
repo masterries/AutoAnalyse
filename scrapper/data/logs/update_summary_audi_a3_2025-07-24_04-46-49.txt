@@ -2,64 +2,58 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2025-07-23 04:48:29
+Datum: 2025-07-24 04:46:49
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 106
-Neue Listings: 5
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,145
+Durchschnittspreis: €25,532
 Median-Preis: €26,990
-Günstigstes: €2,000
+Günstigstes: €3,600
 Teuerstes: €53,753
-Preisspanne: €51,753
+Preisspanne: €50,153
 
 TOP 5 GÜNSTIGSTE LISTINGS
 =========================
-• €2,000 - AudiA3A3 1.8 T Automatik Ambiente
 • €3,600 - AudiA3A3 1.9 TDI DPF Attraction
 • €4,000 - AudiA31.6 TDI DPF Attraction
 • €4,500 - AudiA3A3 1.8 T Automatik Ambiente
 • €4,700 - AudiA3A3 1.6 FSI Sportback Attraction
+• €5,200 - AudiA3A3 1.4 TFSI Attraction
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 5
+Preisänderungen heute: 3
 
-📉 PREISSENKUNGEN (5)
+📉 PREISSENKUNGEN (3)
 ==============================
-• AudiA3S line
-  €33,490 → €32,900 (-€590)
+• AudiA3Audi Exclusif Color Sportback
+  €42,900 → €41,990 (-€910)
 
-• AudiA3S line
-  €33,490 → €32,900 (-€590)
+• AudiA3Sportback S line
+  €35,900 → €35,250 (-€650)
 
-• AudiA3advanced+S-Tronic+LED+30TFSI
-  €29,990 → €28,990 (-€1,000)
-
-• AudiA3SB+Advanced+30TFSI+S-Tronic
-  €29,990 → €29,490 (-€500)
-
-• AudiA335 TDI allstreet S tronic
-  €41,283 → €40,983 (-€300)
+• AudiA3Sportback S line
+  €39,500 → €38,750 (-€750)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 56
-  Diesel: 39
+  Benzin: 55
+  Diesel: 40
   2: 9
   o: 2
 
 Verkäufertypen:
-  Händler: 74
-  Privat: 32
+  Händler: 75
+  Privat: 31
 
-Generiert am: 2025-07-23 04:48:29
+Generiert am: 2025-07-24 04:46:49
 AutoScout24 Luxembourg Scraper v2.0
