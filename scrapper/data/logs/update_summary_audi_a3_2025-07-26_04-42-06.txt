@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 330
-Datum: 2025-07-25 04:47:28
+Fahrzeug: audi a3
+Datum: 2025-07-26 04:42:06
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 32
+Gesamt gefundene Listings: 101
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €41,664
-Median-Preis: €41,490
-Günstigstes: €11,500
-Teuerstes: €83,442
-Preisspanne: €71,942
+Durchschnittspreis: €25,240
+Median-Preis: €26,990
+Günstigstes: €3,600
+Teuerstes: €53,753
+Preisspanne: €50,153
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,23 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW330330e Touring xDrive Aut. M Sport
-  €38,250 → €37,500 (-€750)
+• AudiA330 TDI Sportback S tronic sport
+  €19,500 → €19,000 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 21
-  2: 5
-  Diesel: 4
-  3: 2
+  Benzin: 50
+  Diesel: 39
+  2: 9
+  o: 2
+  CNG: 1
 
 Verkäufertypen:
-  Händler: 22
-  Privat: 10
+  Händler: 69
+  Privat: 32
 
-Generiert am: 2025-07-25 04:47:28
+Generiert am: 2025-07-26 04:42:06
 AutoScout24 Luxembourg Scraper v2.0
