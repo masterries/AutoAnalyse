@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a3
-Datum: 2025-07-26 04:42:06
+Fahrzeug: mercedes-benz c-200
+Datum: 2025-07-27 04:49:38
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 101
+Gesamt gefundene Listings: 27
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,240
-Median-Preis: €26,990
-Günstigstes: €3,600
-Teuerstes: €53,753
-Preisspanne: €50,153
+Durchschnittspreis: €31,210
+Median-Preis: €35,950
+Günstigstes: €2,899
+Teuerstes: €56,990
+Preisspanne: €54,091
 
 PREISÄNDERUNGEN
 ===============
@@ -24,23 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• AudiA330 TDI Sportback S tronic sport
-  €19,500 → €19,000 (-€500)
+• Mercedes-BenzC 200CDI AVANTGARDE 1 HAND
+  €13,900 → €11,900 (-€2,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 50
-  Diesel: 39
-  2: 9
-  o: 2
-  CNG: 1
+  Diesel: 18
+  Benzin: 7
+  2: 1
+  3: 1
 
 Verkäufertypen:
-  Händler: 69
-  Privat: 32
+  Händler: 19
+  Privat: 8
 
-Generiert am: 2025-07-26 04:42:06
+Generiert am: 2025-07-27 04:49:38
 AutoScout24 Luxembourg Scraper v2.0
