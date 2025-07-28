@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen golf
-Datum: 2025-07-27 04:52:05
+Datum: 2025-07-28 04:55:06
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 151
-Neue Listings: 1
+Gesamt gefundene Listings: 153
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,002
+Durchschnittspreis: €22,756
 Median-Preis: €23,990
 Günstigstes: €1,480
 Teuerstes: €59,050
@@ -32,22 +32,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• VolkswagenGolfVII 1.4 TSI 150 DSG  NEW MODEL DYNAU...
-  €18,900 → €17,900 (-€1,000)
+• VolkswagenGolf1.9 TDI Edition
+  €3,900 → €3,500 (-€400)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 83
-  Diesel: 63
+  Benzin: 84
+  Diesel: 64
   2: 4
   o: 1
 
 Verkäufertypen:
   Händler: 107
-  Privat: 44
+  Privat: 46
 
-Generiert am: 2025-07-27 04:52:05
+Generiert am: 2025-07-28 04:55:06
 AutoScout24 Luxembourg Scraper v2.0

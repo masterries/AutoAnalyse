@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-200
-Datum: 2025-07-27 04:49:38
+Datum: 2025-07-28 04:52:33
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €54,091
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Mercedes-BenzC 200CDI AVANTGARDE 1 HAND
-  €13,900 → €11,900 (-€2,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -41,5 +34,5 @@ Verkäufertypen:
   Händler: 19
   Privat: 8
 
-Generiert am: 2025-07-27 04:49:38
+Generiert am: 2025-07-28 04:52:33
 AutoScout24 Luxembourg Scraper v2.0

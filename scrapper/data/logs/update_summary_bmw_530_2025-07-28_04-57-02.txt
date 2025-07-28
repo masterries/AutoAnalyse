@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-180
-Datum: 2025-07-27 04:49:09
+Fahrzeug: bmw 530
+Datum: 2025-07-28 04:57:02
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 39
+Gesamt gefundene Listings: 13
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,991
-Median-Preis: €25,200
-Günstigstes: €3,999
-Teuerstes: €38,290
-Preisspanne: €34,291
+Durchschnittspreis: €36,663
+Median-Preis: €34,490
+Günstigstes: €10,500
+Teuerstes: €92,183
+Preisspanne: €81,683
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 27
-  Benzin: 12
+  Diesel: 8
+  2: 3
+  3: 1
+  Benzin: 1
 
 Verkäufertypen:
-  Händler: 29
-  Privat: 10
+  Privat: 8
+  Händler: 5
 
-Generiert am: 2025-07-27 04:49:09
+Generiert am: 2025-07-28 04:57:02
 AutoScout24 Luxembourg Scraper v2.0
