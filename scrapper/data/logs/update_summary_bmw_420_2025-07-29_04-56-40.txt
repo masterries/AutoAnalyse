@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2025-07-28 04:53:08
+Fahrzeug: bmw 420
+Datum: 2025-07-29 04:56:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 45
+Gesamt gefundene Listings: 19
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €35,096
-Median-Preis: €38,899
-Günstigstes: €7,900
-Teuerstes: €47,375
-Preisspanne: €39,475
+Durchschnittspreis: €39,778
+Median-Preis: €38,900
+Günstigstes: €15,000
+Teuerstes: €78,796
+Preisspanne: €63,796
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 18
-  Diesel: 12
-  2: 11
-  3: 4
+  Benzin: 9
+  Diesel: 6
+  3: 3
+  o: 1
 
 Verkäufertypen:
-  Händler: 37
-  Privat: 8
+  Händler: 12
+  Privat: 7
 
-Generiert am: 2025-07-28 04:53:08
+Generiert am: 2025-07-29 04:56:40
 AutoScout24 Luxembourg Scraper v2.0
