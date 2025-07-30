@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2025-07-29 04:54:37
+Datum: 2025-07-30 04:52:55
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 60
-Neue Listings: 2
+Gesamt gefundene Listings: 61
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,733
-Median-Preis: €25,240
+Durchschnittspreis: €23,691
+Median-Preis: €24,990
 Günstigstes: €4,500
 Teuerstes: €36,900
 Preisspanne: €32,400
@@ -28,17 +28,27 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 2
 
+📉 PREISSENKUNGEN (2)
+==============================
+• AudiA1Allstreet+S-Tronic+30TFSI+P.BuPlus de 200 Au...
+  €22,990 → €22,490 (-€500)
+
+• AudiA1S line
+  €31,336 → €31,140 (-€196)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 56
+  Benzin: 57
   Diesel: 4
 
 Verkäufertypen:
-  Händler: 52
+  Händler: 53
   Privat: 8
 
-Generiert am: 2025-07-29 04:54:37
+Generiert am: 2025-07-30 04:52:55
 AutoScout24 Luxembourg Scraper v2.0

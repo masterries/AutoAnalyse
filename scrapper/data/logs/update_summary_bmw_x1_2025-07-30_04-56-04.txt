@@ -1,0 +1,46 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw x1
+Datum: 2025-07-30 04:56:04
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 66
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €32,118
+Median-Preis: €29,225
+Günstigstes: €7,500
+Teuerstes: €60,899
+Preisspanne: €53,399
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMWX1M35i XDRIVE HEAD UP HARMAN KARDON PANO CUIR N...
+  €62,900 → €59,900 (-€3,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 34
+  Benzin: 25
+  2: 3
+  3: 3
+  o: 1
+
+Verkäufertypen:
+  Händler: 47
+  Privat: 19
+
+Generiert am: 2025-07-30 04:56:04
+AutoScout24 Luxembourg Scraper v2.0
