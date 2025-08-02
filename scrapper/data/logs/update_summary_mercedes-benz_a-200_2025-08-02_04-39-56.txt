@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 420
-Datum: 2025-08-01 05:01:09
+Fahrzeug: mercedes-benz a-200
+Datum: 2025-08-02 04:39:56
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 18
+Gesamt gefundene Listings: 22
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €39,821
-Median-Preis: €38,445
-Günstigstes: €15,000
-Teuerstes: €78,796
-Preisspanne: €63,796
+Durchschnittspreis: €27,216
+Median-Preis: €29,445
+Günstigstes: €8,900
+Teuerstes: €43,990
+Preisspanne: €35,090
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 8
-  Diesel: 6
-  3: 3
-  o: 1
+  Diesel: 10
+  Benzin: 10
+  2: 2
 
 Verkäufertypen:
-  Händler: 11
-  Privat: 7
+  Händler: 16
+  Privat: 6
 
-Generiert am: 2025-08-01 05:01:09
+Generiert am: 2025-08-02 04:39:56
 AutoScout24 Luxembourg Scraper v2.0
