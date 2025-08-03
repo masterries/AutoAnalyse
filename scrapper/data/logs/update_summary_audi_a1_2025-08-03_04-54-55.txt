@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2025-08-02 04:42:38
+Datum: 2025-08-03 04:54:55
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €32,400
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• AudiA1S line
-  €32,490 → €31,490 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -39,5 +32,5 @@ Verkäufertypen:
   Händler: 52
   Privat: 8
 
-Generiert am: 2025-08-02 04:42:38
+Generiert am: 2025-08-03 04:54:55
 AutoScout24 Luxembourg Scraper v2.0

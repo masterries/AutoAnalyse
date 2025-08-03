@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 530
-Datum: 2025-08-02 04:45:31
+Fahrzeug: mercedes-benz c-220
+Datum: 2025-08-03 04:53:34
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 9
+Gesamt gefundene Listings: 25
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,983
-Median-Preis: €34,490
-Günstigstes: €10,500
-Teuerstes: €82,700
-Preisspanne: €72,200
+Durchschnittspreis: €36,137
+Median-Preis: €29,890
+Günstigstes: €4,500
+Teuerstes: €65,990
+Preisspanne: €61,490
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 6
-  2: 2
-  Benzin: 1
+  Diesel: 24
+  o: 1
 
 Verkäufertypen:
-  Privat: 6
-  Händler: 3
+  Händler: 15
+  Privat: 10
 
-Generiert am: 2025-08-02 04:45:31
+Generiert am: 2025-08-03 04:53:34
 AutoScout24 Luxembourg Scraper v2.0
