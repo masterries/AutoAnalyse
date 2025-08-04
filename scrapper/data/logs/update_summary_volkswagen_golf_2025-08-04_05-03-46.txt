@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen golf
-Datum: 2025-08-03 04:55:39
+Datum: 2025-08-04 05:03:46
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 158
-Neue Listings: 2
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,305
+Durchschnittspreis: €23,424
 Median-Preis: €24,490
 Günstigstes: €1,000
 Teuerstes: €59,050
@@ -32,16 +32,16 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• VolkswagenGolf7 model 2018 high-line sport pack
-  €14,900 → €13,900 (-€1,000)
+• VolkswagenGolfVIII R PERFORMANCE 4Motion 2.0 TSI 3...
+  €41,500 → €40,990 (-€510)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 82
-  Diesel: 68
+  Benzin: 83
+  Diesel: 67
   2: 5
   unknown: 2
   o: 1
@@ -50,5 +50,5 @@ Verkäufertypen:
   Händler: 111
   Privat: 47
 
-Generiert am: 2025-08-03 04:55:39
+Generiert am: 2025-08-04 05:03:46
 AutoScout24 Luxembourg Scraper v2.0

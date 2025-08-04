@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 120
-Datum: 2025-08-03 04:53:53
+Datum: 2025-08-04 05:02:00
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,209
+Durchschnittspreis: €35,814
 Median-Preis: €39,355
 Günstigstes: €7,450
 Teuerstes: €56,295
@@ -21,10 +21,10 @@ Preisspanne: €48,845
 TOP 5 GÜNSTIGSTE LISTINGS
 =========================
 • €7,450 - BMW120
+• €9,300 - BMW120120d Sport-Aut.
 • €9,500 - BMW120120i
 • €11,990 - BMW120D F20 184CH SPORT // LED // NAVI
 • €15,400 - BMW120120i Msport 5p
-• €21,500 - BMW120120i M Sport *SHADOW EDITION*
 
 PREISÄNDERUNGEN
 ===============
@@ -42,5 +42,5 @@ Verkäufertypen:
   Händler: 39
   Privat: 7
 
-Generiert am: 2025-08-03 04:53:53
+Generiert am: 2025-08-04 05:02:00
 AutoScout24 Luxembourg Scraper v2.0
