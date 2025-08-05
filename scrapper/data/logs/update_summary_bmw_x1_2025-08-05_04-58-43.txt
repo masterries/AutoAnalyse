@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a3
-Datum: 2025-08-04 05:02:26
+Fahrzeug: bmw x1
+Datum: 2025-08-05 04:58:43
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 100
+Gesamt gefundene Listings: 62
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,638
-Median-Preis: €26,700
-Günstigstes: €3,450
-Teuerstes: €45,990
-Preisspanne: €42,540
+Durchschnittspreis: €31,896
+Median-Preis: €29,745
+Günstigstes: €6,000
+Teuerstes: €60,899
+Preisspanne: €54,899
 
 PREISÄNDERUNGEN
 ===============
@@ -24,23 +24,23 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• AudiA330 TDI Sportback S tronic sport
-  €19,000 → €17,500 (-€1,500)
+• BMWX1
+  €7,500 → €6,000 (-€1,500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 50
-  Diesel: 42
-  2: 6
-  CNG: 1
+  Diesel: 30
+  Benzin: 26
+  2: 3
+  3: 2
   o: 1
 
 Verkäufertypen:
-  Händler: 66
-  Privat: 34
+  Händler: 44
+  Privat: 18
 
-Generiert am: 2025-08-04 05:02:26
+Generiert am: 2025-08-05 04:58:43
 AutoScout24 Luxembourg Scraper v2.0

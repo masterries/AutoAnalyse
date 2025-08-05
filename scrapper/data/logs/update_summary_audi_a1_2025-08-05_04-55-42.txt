@@ -2,21 +2,29 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2025-08-04 05:03:04
+Datum: 2025-08-05 04:55:42
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 60
-Neue Listings: 0
+Gesamt gefundene Listings: 61
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,999
-Median-Preis: €25,490
+Durchschnittspreis: €24,063
+Median-Preis: €25,900
 Günstigstes: €4,500
 Teuerstes: €36,900
 Preisspanne: €32,400
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €4,500 - AudiA1A1 1.6 TDI Ambition
+• €10,300 - AudiA11.6 TDI Sportback S tronic sport
+• €11,499 - AudiA11.4 TFSI S tronic design
+• €11,900 - AudiA1Sportback
+• €12,000 - AudiA1Sportback 1.6TDI Adrenalin
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +33,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 57
+  Benzin: 58
   Diesel: 3
 
 Verkäufertypen:
   Händler: 52
-  Privat: 8
+  Privat: 9
 
-Generiert am: 2025-08-04 05:03:04
+Generiert am: 2025-08-05 04:55:42
 AutoScout24 Luxembourg Scraper v2.0
