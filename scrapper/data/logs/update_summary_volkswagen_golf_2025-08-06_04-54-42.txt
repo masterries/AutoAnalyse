@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen golf
-Datum: 2025-08-05 04:56:27
+Datum: 2025-08-06 04:54:42
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 163
-Neue Listings: 6
+Gesamt gefundene Listings: 160
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,465
-Median-Preis: €24,190
+Durchschnittspreis: €23,387
+Median-Preis: €23,990
 Günstigstes: €1,000
 Teuerstes: €59,050
 Preisspanne: €58,050
@@ -28,20 +28,27 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• VolkswagenGolf1.4 TSI 150 Hybride Rechargeable DSG...
+  €24,490 → €23,490 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 84
-  Diesel: 70
+  Benzin: 82
+  Diesel: 69
   2: 6
   unknown: 2
   o: 1
 
 Verkäufertypen:
-  Händler: 115
+  Händler: 112
   Privat: 48
 
-Generiert am: 2025-08-05 04:56:27
+Generiert am: 2025-08-06 04:54:42
 AutoScout24 Luxembourg Scraper v2.0

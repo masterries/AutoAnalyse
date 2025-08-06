@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-220
-Datum: 2025-08-05 04:54:12
+Datum: 2025-08-06 04:52:30
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,14 +20,7 @@ Preisspanne: €60,991
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
-
-📉 PREISSENKUNGEN (0)
-==============================
-📈 PREISERHÖHUNGEN (1)
-==============================
-• Mercedes-BenzC 220CDI DPF Automatik Avantgarde
-  €4,500 → €5,000 (+€500)
+Keine Preisänderungen verfügbar.
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -39,5 +32,5 @@ Verkäufertypen:
   Händler: 15
   Privat: 10
 
-Generiert am: 2025-08-05 04:54:12
+Generiert am: 2025-08-06 04:52:30
 AutoScout24 Luxembourg Scraper v2.0
