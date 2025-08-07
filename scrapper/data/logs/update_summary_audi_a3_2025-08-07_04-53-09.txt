@@ -2,21 +2,21 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2025-08-06 04:53:19
+Datum: 2025-08-07 04:53:09
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 99
-Neue Listings: 2
+Gesamt gefundene Listings: 101
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,910
+Durchschnittspreis: €25,508
 Median-Preis: €26,990
 Günstigstes: €3,450
-Teuerstes: €45,990
-Preisspanne: €42,540
+Teuerstes: €48,900
+Preisspanne: €45,450
 
 TOP 5 GÜNSTIGSTE LISTINGS
 =========================
@@ -32,22 +32,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• AudiA335 TDI allstreet S tronic
-  €40,983 → €40,683 (-€300)
+• AudiA3Cabriolet 1.8 TFSI S tronic Ambition
+  €9,800 → €8,600 (-€1,200)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 51
-  Diesel: 41
-  2: 6
+  Benzin: 53
+  Diesel: 40
+  2: 7
   CNG: 1
 
 Verkäufertypen:
-  Händler: 66
+  Händler: 68
   Privat: 33
 
-Generiert am: 2025-08-06 04:53:19
+Generiert am: 2025-08-07 04:53:09
 AutoScout24 Luxembourg Scraper v2.0

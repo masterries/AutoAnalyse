@@ -2,21 +2,21 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-200
-Datum: 2025-08-06 04:52:15
+Datum: 2025-08-07 04:52:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 27
-Neue Listings: 1
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €31,665
+Durchschnittspreis: €30,977
 Median-Preis: €35,950
 Günstigstes: €2,899
-Teuerstes: €56,990
-Preisspanne: €54,091
+Teuerstes: €50,990
+Preisspanne: €48,091
 
 TOP 5 GÜNSTIGSTE LISTINGS
 =========================
@@ -28,8 +28,15 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-BenzC 200C 200 Cabriolet AMG-Line Multi+3...
+  €50,990 → €49,890 (-€1,100)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -42,5 +49,5 @@ Verkäufertypen:
   Händler: 18
   Privat: 9
 
-Generiert am: 2025-08-06 04:52:15
+Generiert am: 2025-08-07 04:52:01
 AutoScout24 Luxembourg Scraper v2.0
