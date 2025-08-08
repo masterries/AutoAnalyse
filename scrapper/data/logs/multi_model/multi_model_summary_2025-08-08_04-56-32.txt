@@ -1,0 +1,170 @@
+AutoScout24 Multi-Model Update Summary
+======================================
+
+Generiert am: 2025-08-08 04:56:32
+AutoScout24 Luxembourg Scraper v2.0
+
+GESAMTÜBERSICHT
+===============
+Überwachte Fahrzeugmodelle: 17
+Gesamte aktive Listings: 830
+Neue Listings heute: 9
+Preisänderungen heute: 63
+
+🆕 MODELLE MIT NEUEN LISTINGS (6)
+==================================================
+• BMW X1
+  📊 2 neue von 68 Listings
+  🕐 2025-08-08T04:56:26.014912
+
+• BMW 320
+  📊 1 neue von 50 Listings | 💰 13 Preisänderungen
+  🕐 2025-08-08T04:55:06.127813
+
+• VOLKSWAGEN POLO
+  📊 2 neue von 98 Listings
+  🕐 2025-08-08T04:54:47.404570
+
+• VOLKSWAGEN GOLF
+  📊 2 neue von 154 Listings | 💰 50 Preisänderungen
+  🕐 2025-08-08T04:54:16.998023
+
+• AUDI A3
+  📊 1 neue von 102 Listings
+  🕐 2025-08-08T04:53:00.611334
+
+• MERCEDES-BENZ A-200
+  📊 1 neue von 22 Listings
+  🕐 2025-08-08T04:51:33.206721
+
+💰 MODELLE MIT PREISÄNDERUNGEN (2)
+==================================================
+• BMW 320: 13 Änderungen
+  📉 1x gesunken (Ø 1,000€)
+
+• VOLKSWAGEN GOLF: 50 Änderungen
+  📉 1x gesunken (Ø 1,500€)
+
+📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
+========================================
+✅ BMW X1
+   📊 Listings: 68 (2 neu)
+   🕐 Letztes Update: 2025-08-08T04:56:26.014912
+   💶 Preise: Ø €33,101 | €6,000 - €66,999
+
+✅ BMW 530
+   📊 Listings: 11 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:56:03.875967
+   💶 Preise: Ø €36,095 | €10,500 - €82,700
+
+✅ BMW 520
+   📊 Listings: 17 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:55:52.863467
+   💶 Preise: Ø €50,222 | €16,999 - €80,135
+
+✅ BMW 430
+   📊 Listings: 12 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:55:42.236124
+   💶 Preise: Ø €51,261 | €24,000 - €89,998
+
+✅ BMW 420
+   📊 Listings: 19 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:55:31.243443
+   💶 Preise: Ø €39,720 | €15,000 - €78,796
+
+✅ BMW 330
+   📊 Listings: 35 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:55:20.535080
+   💶 Preise: Ø €41,877 | €11,500 - €83,442
+
+✅ BMW 320
+   📊 Listings: 50 (1 neu) | 💰 13 Preisänderungen
+   🕐 Letztes Update: 2025-08-08T04:55:06.127813
+   💶 Preise: Ø €28,591 | €1,700 - €69,083
+
+✅ VOLKSWAGEN POLO
+   📊 Listings: 98 (2 neu)
+   🕐 Letztes Update: 2025-08-08T04:54:47.404570
+   💶 Preise: Ø €16,416 | €1,100 - €34,600
+
+✅ VOLKSWAGEN GOLF
+   📊 Listings: 154 (2 neu) | 💰 50 Preisänderungen
+   🕐 Letztes Update: 2025-08-08T04:54:16.998023
+   💶 Preise: Ø €23,334 | €1,000 - €59,050
+
+✅ AUDI A1
+   📊 Listings: 61 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:53:38.161567
+   💶 Preise: Ø €24,336 | €4,500 - €40,631
+
+✅ AUDI A4
+   📊 Listings: 40 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:53:15.308569
+   💶 Preise: Ø €22,660 | €1,100 - €43,500
+
+✅ AUDI A3
+   📊 Listings: 102 (1 neu)
+   🕐 Letztes Update: 2025-08-08T04:53:00.611334
+   💶 Preise: Ø €25,275 | €1,800 - €48,900
+
+✅ BMW 120
+   📊 Listings: 47 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:52:30.721391
+   💶 Preise: Ø €37,276 | €9,300 - €56,295
+
+✅ MERCEDES-BENZ C-220
+   📊 Listings: 24 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:52:11.203518
+   💶 Preise: Ø €35,251 | €4,999 - €65,990
+
+✅ MERCEDES-BENZ C-200
+   📊 Listings: 26 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:51:53.646928
+   💶 Preise: Ø €31,110 | €2,899 - €50,990
+
+✅ MERCEDES-BENZ A-200
+   📊 Listings: 22 (1 neu)
+   🕐 Letztes Update: 2025-08-08T04:51:33.206721
+   💶 Preise: Ø €27,989 | €8,900 - €43,990
+
+✅ MERCEDES-BENZ A-180
+   📊 Listings: 44 (0 neu)
+   🕐 Letztes Update: 2025-08-08T04:51:18.878325
+   💶 Preise: Ø €23,734 | €3,999 - €37,290
+
+🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
+==================================================
+ 1. €   1,000 - VOLKSWAGEN GOLF
+    VolkswagenGolf1.6
+
+ 2. €   1,100 - AUDI A4
+    AudiA4A4 Avant 1.9 TDI
+
+ 3. €   1,100 - VOLKSWAGEN POLO
+    VolkswagenPolo1.4
+
+ 4. €   1,200 - VOLKSWAGEN POLO
+    VolkswagenPoloPolo 1.4 TDI DPF Trendline
+
+ 5. €   1,250 - VOLKSWAGEN POLO
+    VolkswagenPolo1.4 FSI
+
+ 6. €   1,480 - VOLKSWAGEN GOLF
+    VolkswagenGolfGolf 1.6 Sport Edition
+
+ 7. €   1,500 - VOLKSWAGEN POLO
+    VolkswagenPoloTDI 70 Confort
+
+ 8. €   1,550 - VOLKSWAGEN GOLF
+    VolkswagenGolfGolf 1.6 GT Sport
+
+ 9. €   1,700 - VOLKSWAGEN POLO
+    VolkswagenPoloPolo 1.2-12V Optique
+
+10. €   1,700 - BMW 320
+    BMW320320i touring Exclusiv Edition
+
+
+============================================================
+Generiert am: 2025-08-08 04:56:32
+AutoScout24 Luxembourg Multi-Model Scraper v2.0
