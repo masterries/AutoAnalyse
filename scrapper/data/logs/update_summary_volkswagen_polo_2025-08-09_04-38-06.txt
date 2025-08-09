@@ -1,0 +1,43 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen polo
+Datum: 2025-08-09 04:38:06
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 96
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €16,470
+Median-Preis: €18,620
+Günstigstes: €1,100
+Teuerstes: €34,600
+Preisspanne: €33,500
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• VolkswagenPolo1.6 TDI 5p EXPORT / MARCHAND
+  €5,990 → €3,800 (-€2,190)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 78
+  Diesel: 18
+
+Verkäufertypen:
+  Händler: 69
+  Privat: 27
+
+Generiert am: 2025-08-09 04:38:06
+AutoScout24 Luxembourg Scraper v2.0

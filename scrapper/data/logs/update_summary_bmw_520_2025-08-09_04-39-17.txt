@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2025-08-08 04:52:30
+Fahrzeug: bmw 520
+Datum: 2025-08-09 04:39:17
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 47
+Gesamt gefundene Listings: 17
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €37,276
-Median-Preis: €39,899
-Günstigstes: €9,300
-Teuerstes: €56,295
-Preisspanne: €46,995
+Durchschnittspreis: €50,222
+Median-Preis: €56,970
+Günstigstes: €16,999
+Teuerstes: €80,135
+Preisspanne: €63,136
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 17
-  2: 14
-  Diesel: 11
-  3: 5
+  Diesel: 9
+  3: 6
+  Benzin: 1
+  2: 1
 
 Verkäufertypen:
-  Händler: 42
-  Privat: 5
+  Händler: 13
+  Privat: 4
 
-Generiert am: 2025-08-08 04:52:30
+Generiert am: 2025-08-09 04:39:17
 AutoScout24 Luxembourg Scraper v2.0

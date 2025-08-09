@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-180
-Datum: 2025-08-08 04:51:18
+Fahrzeug: volkswagen golf
+Datum: 2025-08-09 04:37:33
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 44
+Gesamt gefundene Listings: 152
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,734
-Median-Preis: €25,340
-Günstigstes: €3,999
-Teuerstes: €37,290
-Preisspanne: €33,291
+Durchschnittspreis: €23,435
+Median-Preis: €23,990
+Günstigstes: €1,000
+Teuerstes: €59,050
+Preisspanne: €58,050
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,15 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 28
-  Benzin: 16
+  Benzin: 77
+  Diesel: 67
+  2: 5
+  unknown: 2
+  o: 1
 
 Verkäufertypen:
-  Händler: 32
-  Privat: 12
+  Händler: 105
+  Privat: 47
 
-Generiert am: 2025-08-08 04:51:18
+Generiert am: 2025-08-09 04:37:33
 AutoScout24 Luxembourg Scraper v2.0
