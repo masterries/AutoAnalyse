@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 330
-Datum: 2025-08-09 04:38:42
+Datum: 2025-08-10 04:49:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,27 +20,8 @@ Preisspanne: €71,942
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 5
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (5)
-==============================
-• BMW330Touring
-  €44,900 → €42,900 (-€2,000)
-
-• BMW330Touring
-  €44,900 → €42,900 (-€2,000)
-
-• BMW330Touring
-  €44,900 → €42,900 (-€2,000)
-
-• BMW330Touring
-  €44,900 → €42,900 (-€2,000)
-
-• BMW330XDRIVE Touring
-  €45,900 → €43,900 (-€2,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -52,5 +33,5 @@ Verkäufertypen:
   Händler: 23
   Privat: 9
 
-Generiert am: 2025-08-09 04:38:42
+Generiert am: 2025-08-10 04:49:40
 AutoScout24 Luxembourg Scraper v2.0
