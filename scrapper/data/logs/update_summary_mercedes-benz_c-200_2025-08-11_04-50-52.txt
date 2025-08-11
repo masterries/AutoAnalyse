@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-200
-Datum: 2025-08-10 04:46:22
+Datum: 2025-08-11 04:50:52
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €48,091
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Mercedes-BenzC 200C 200 (BlueEFFICIENCY) 7G-TRONIC...
-  €7,500 → €7,200 (-€300)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -41,5 +34,5 @@ Verkäufertypen:
   Händler: 18
   Privat: 8
 
-Generiert am: 2025-08-10 04:46:22
+Generiert am: 2025-08-11 04:50:52
 AutoScout24 Luxembourg Scraper v2.0
