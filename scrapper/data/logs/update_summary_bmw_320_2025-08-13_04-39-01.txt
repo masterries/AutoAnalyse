@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 320
-Datum: 2025-08-12 04:37:21
+Datum: 2025-08-13 04:39:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €29,085
+Durchschnittspreis: €29,087
 Median-Preis: €23,990
 Günstigstes: €1,700
 Teuerstes: €69,083
@@ -20,7 +20,14 @@ Preisspanne: €67,383
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (0)
+==============================
+📈 PREISERHÖHUNGEN (1)
+==============================
+• BMW 320i Touring Pack M
+  €3,380 → €3,480 (+€100)
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -33,5 +40,5 @@ Verkäufertypen:
   Händler: 25
   Privat: 23
 
-Generiert am: 2025-08-12 04:37:21
+Generiert am: 2025-08-13 04:39:01
 AutoScout24 Luxembourg Scraper v2.0
