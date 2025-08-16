@@ -1,0 +1,158 @@
+AutoScout24 Multi-Model Update Summary
+======================================
+
+Generiert am: 2025-08-16 04:36:28
+AutoScout24 Luxembourg Scraper v2.0
+
+GESAMTÜBERSICHT
+===============
+Überwachte Fahrzeugmodelle: 17
+Gesamte aktive Listings: 790
+Neue Listings heute: 3
+Preisänderungen heute: 59
+
+🆕 MODELLE MIT NEUEN LISTINGS (3)
+==================================================
+• VOLKSWAGEN POLO
+  📊 1 neue von 90 Listings
+  🕐 2025-08-16T04:34:44.002826
+
+• AUDI A3
+  📊 1 neue von 102 Listings | 💰 52 Preisänderungen
+  🕐 2025-08-16T04:33:01.326385
+
+• MERCEDES-BENZ C-220
+  📊 1 neue von 27 Listings
+  🕐 2025-08-16T04:32:13.051897
+
+💰 MODELLE MIT PREISÄNDERUNGEN (2)
+==================================================
+• AUDI A3: 52 Änderungen
+  📉 1x gesunken (Ø 100€)
+
+• MERCEDES-BENZ A-180: 7 Änderungen
+  📉 1x gesunken (Ø 1,000€)
+
+📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
+========================================
+✅ BMW X1
+   📊 Listings: 62 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:36:22.868470
+   💶 Preise: Ø €33,694 | €6,000 - €66,999
+
+✅ BMW 530
+   📊 Listings: 13 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:36:00.710353
+   💶 Preise: Ø €31,924 | €5,490 - €82,700
+
+✅ BMW 520
+   📊 Listings: 17 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:35:49.559085
+   💶 Preise: Ø €50,104 | €16,999 - €80,135
+
+✅ BMW 430
+   📊 Listings: 13 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:35:38.914246
+   💶 Preise: Ø €50,786 | €24,000 - €89,998
+
+✅ BMW 420
+   📊 Listings: 18 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:35:28.079189
+   💶 Preise: Ø €38,015 | €12,600 - €78,796
+
+✅ BMW 330
+   📊 Listings: 33 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:35:16.969657
+   💶 Preise: Ø €42,216 | €11,500 - €83,442
+
+✅ BMW 320
+   📊 Listings: 46 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:35:02.461840
+   💶 Preise: Ø €28,689 | €1,700 - €69,083
+
+✅ VOLKSWAGEN POLO
+   📊 Listings: 90 (1 neu)
+   🕐 Letztes Update: 2025-08-16T04:34:44.002826
+   💶 Preise: Ø €17,148 | €1,100 - €35,500
+
+✅ VOLKSWAGEN GOLF
+   📊 Listings: 143 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:34:12.983967
+   💶 Preise: Ø €23,333 | €1,000 - €59,050
+
+✅ AUDI A1
+   📊 Listings: 55 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:33:34.434119
+   💶 Preise: Ø €24,897 | €4,500 - €40,631
+
+✅ AUDI A4
+   📊 Listings: 36 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:33:15.830629
+   💶 Preise: Ø €21,561 | €1,100 - €43,500
+
+✅ AUDI A3
+   📊 Listings: 102 (1 neu) | 💰 52 Preisänderungen
+   🕐 Letztes Update: 2025-08-16T04:33:01.326385
+   💶 Preise: Ø €24,882 | €1,750 - €48,900
+
+✅ BMW 120
+   📊 Listings: 47 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:32:31.812723
+   💶 Preise: Ø €37,938 | €9,500 - €56,295
+
+✅ MERCEDES-BENZ C-220
+   📊 Listings: 27 (1 neu)
+   🕐 Letztes Update: 2025-08-16T04:32:13.051897
+   💶 Preise: Ø €33,593 | €4,000 - €65,990
+
+✅ MERCEDES-BENZ C-200
+   📊 Listings: 27 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:31:58.729970
+   💶 Preise: Ø €31,428 | €2,899 - €50,990
+
+✅ MERCEDES-BENZ A-200
+   📊 Listings: 19 (0 neu)
+   🕐 Letztes Update: 2025-08-16T04:31:43.930792
+   💶 Preise: Ø €27,488 | €8,900 - €43,990
+
+✅ MERCEDES-BENZ A-180
+   📊 Listings: 42 (0 neu) | 💰 7 Preisänderungen
+   🕐 Letztes Update: 2025-08-16T04:31:33.372078
+   💶 Preise: Ø €23,631 | €3,999 - €37,290
+
+🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
+==================================================
+ 1. €   1,000 - VOLKSWAGEN GOLF
+    Volkswagen Golf1.6
+
+ 2. €   1,100 - AUDI A4
+    Audi A4A4 Avant 1.9 TDI
+
+ 3. €   1,100 - VOLKSWAGEN POLO
+    Volkswagen Polo1.4
+
+ 4. €   1,200 - VOLKSWAGEN POLO
+    Volkswagen PoloPolo 1.4 TDI DPF Trendline
+
+ 5. €   1,200 - VOLKSWAGEN POLO
+    Volkswagen PoloTDI 70 Confort
+
+ 6. €   1,480 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 Sport Edition
+
+ 7. €   1,550 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 GT Sport
+
+ 8. €   1,700 - VOLKSWAGEN POLO
+    Volkswagen PoloPolo 1.2-12V Optique
+
+ 9. €   1,700 - BMW 320
+    BMW 320320i touring Exclusiv Edition
+
+10. €   1,750 - AUDI A3
+    Audi A3Automatique.
+
+
+============================================================
+Generiert am: 2025-08-16 04:36:28
+AutoScout24 Luxembourg Multi-Model Scraper v2.0
