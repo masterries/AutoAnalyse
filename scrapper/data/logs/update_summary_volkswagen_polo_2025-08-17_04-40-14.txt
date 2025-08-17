@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-180
-Datum: 2025-08-16 04:31:33
+Fahrzeug: volkswagen polo
+Datum: 2025-08-17 04:40:14
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 42
+Gesamt gefundene Listings: 88
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,631
-Median-Preis: €25,690
-Günstigstes: €3,999
-Teuerstes: €37,290
-Preisspanne: €33,291
+Durchschnittspreis: €17,115
+Median-Preis: €19,420
+Günstigstes: €1,100
+Teuerstes: €35,500
+Preisspanne: €34,400
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Mercedes-Benz A 180AMG-LINE 136CV
-  €28,900 → €27,900 (-€1,000)
+• Volkswagen PoloCT 12 mois.
+  €1,750 → €1,500 (-€250)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 27
-  Benzin: 15
+  Benzin: 73
+  Diesel: 15
 
 Verkäufertypen:
-  Händler: 31
-  Privat: 11
+  Händler: 64
+  Privat: 24
 
-Generiert am: 2025-08-16 04:31:33
+Generiert am: 2025-08-17 04:40:14
 AutoScout24 Luxembourg Scraper v2.0

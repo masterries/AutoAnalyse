@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2025-08-16 04:32:31
+Fahrzeug: audi a1
+Datum: 2025-08-17 04:39:09
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 47
+Gesamt gefundene Listings: 53
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €37,938
-Median-Preis: €39,899
-Günstigstes: €9,500
-Teuerstes: €56,295
-Preisspanne: €46,795
+Durchschnittspreis: €24,959
+Median-Preis: €26,890
+Günstigstes: €4,500
+Teuerstes: €40,631
+Preisspanne: €36,131
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 17
-  2: 15
-  Diesel: 10
-  3: 5
+  Benzin: 50
+  Diesel: 3
 
 Verkäufertypen:
-  Händler: 43
-  Privat: 4
+  Händler: 45
+  Privat: 8
 
-Generiert am: 2025-08-16 04:32:31
+Generiert am: 2025-08-17 04:39:09
 AutoScout24 Luxembourg Scraper v2.0
