@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2025-08-17 04:40:14
+Fahrzeug: mercedes-benz c-220
+Datum: 2025-08-18 04:43:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 88
+Gesamt gefundene Listings: 28
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,115
-Median-Preis: €19,420
-Günstigstes: €1,100
-Teuerstes: €35,500
-Preisspanne: €34,400
+Durchschnittspreis: €32,392
+Median-Preis: €27,700
+Günstigstes: €1,950
+Teuerstes: €65,990
+Preisspanne: €64,040
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,19 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen PoloCT 12 mois.
-  €1,750 → €1,500 (-€250)
+• Mercedes-Benz C 220C 220 (BlueTEC) d 7G-TRONIC Exc...
+  €18,750 → €16,750 (-€2,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 73
-  Diesel: 15
+  Diesel: 28
 
 Verkäufertypen:
-  Händler: 64
-  Privat: 24
+  Händler: 14
+  Privat: 14
 
-Generiert am: 2025-08-17 04:40:14
+Generiert am: 2025-08-18 04:43:40
 AutoScout24 Luxembourg Scraper v2.0
