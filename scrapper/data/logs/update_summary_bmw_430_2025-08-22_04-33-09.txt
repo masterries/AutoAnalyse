@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 530
-Datum: 2025-08-21 04:34:19
+Fahrzeug: bmw 430
+Datum: 2025-08-22 04:33:09
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 13
+Gesamt gefundene Listings: 11
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €31,885
-Median-Preis: €32,000
-Günstigstes: €5,490
-Teuerstes: €82,700
-Preisspanne: €77,210
+Durchschnittspreis: €51,668
+Median-Preis: €49,480
+Günstigstes: €24,000
+Teuerstes: €89,998
+Preisspanne: €65,998
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 530530e xDrive iPerformance 292 ch BVA8 M Spor...
-  €37,000 → €36,500 (-€500)
+• BMW 430I CABRIO -39% 258cv BVA M SPORT +GPS+CUIR+O...
+  €44,950 → €43,950 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 5
-  2: 4
-  Benzin: 4
+  Benzin: 5
+  Diesel: 4
+  3: 2
 
 Verkäufertypen:
-  Privat: 10
-  Händler: 3
+  Händler: 8
+  Privat: 3
 
-Generiert am: 2025-08-21 04:34:19
+Generiert am: 2025-08-22 04:33:09
 AutoScout24 Luxembourg Scraper v2.0
