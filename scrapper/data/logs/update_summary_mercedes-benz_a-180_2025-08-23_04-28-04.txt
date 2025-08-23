@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 420
-Datum: 2025-08-22 04:32:58
+Fahrzeug: mercedes-benz a-180
+Datum: 2025-08-23 04:28:04
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 15
+Gesamt gefundene Listings: 47
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €38,126
-Median-Preis: €37,990
-Günstigstes: €12,600
-Teuerstes: €78,796
-Preisspanne: €66,196
+Durchschnittspreis: €23,790
+Median-Preis: €25,200
+Günstigstes: €3,999
+Teuerstes: €37,290
+Preisspanne: €33,291
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 420D Cabrio -40% 190cv BVA8 M Sport+GPS+CUIR+O...
-  €41,590 → €40,990 (-€600)
+• Mercedes-Benz A 180AMG Line
+  €17,250 → €16,250 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 7
-  Benzin: 5
-  3: 3
+  Diesel: 31
+  Benzin: 16
 
 Verkäufertypen:
-  Händler: 9
-  Privat: 6
+  Händler: 34
+  Privat: 13
 
-Generiert am: 2025-08-22 04:32:58
+Generiert am: 2025-08-23 04:28:04
 AutoScout24 Luxembourg Scraper v2.0

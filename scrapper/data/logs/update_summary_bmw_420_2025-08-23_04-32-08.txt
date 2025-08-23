@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 330
-Datum: 2025-08-22 04:32:47
+Fahrzeug: bmw 420
+Datum: 2025-08-23 04:32:08
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 35
+Gesamt gefundene Listings: 15
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €41,408
-Median-Preis: €41,990
-Günstigstes: €11,500
-Teuerstes: €83,442
-Preisspanne: €71,942
+Durchschnittspreis: €38,059
+Median-Preis: €37,990
+Günstigstes: €12,600
+Teuerstes: €78,796
+Preisspanne: €66,196
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 330330 i M Sport
-  €43,900 → €42,750 (-€1,150)
+• BMW 420Coupé pack M
+  €37,990 → €36,990 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 25
-  2: 5
-  Diesel: 4
-  3: 1
+  Diesel: 7
+  Benzin: 5
+  3: 3
 
 Verkäufertypen:
-  Händler: 24
-  Privat: 11
+  Händler: 9
+  Privat: 6
 
-Generiert am: 2025-08-22 04:32:47
+Generiert am: 2025-08-23 04:32:08
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen golf
-Datum: 2025-08-22 04:31:47
+Fahrzeug: bmw 530
+Datum: 2025-08-23 04:32:41
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 138
+Gesamt gefundene Listings: 13
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,268
-Median-Preis: €23,990
-Günstigstes: €1,000
-Teuerstes: €59,050
-Preisspanne: €58,050
+Durchschnittspreis: €31,608
+Median-Preis: €32,000
+Günstigstes: €5,490
+Teuerstes: €82,700
+Preisspanne: €77,210
 
 PREISÄNDERUNGEN
 ===============
@@ -24,23 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen Golf2.0 TDI DPF Highline
-  €5,650 → €5,450 (-€200)
+• BMW 530530 d xDrive Luxury Line
+  €45,800 → €42,200 (-€3,600)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 71
-  Diesel: 59
-  2: 5
-  unknown: 2
-  o: 1
+  Diesel: 5
+  2: 4
+  Benzin: 4
 
 Verkäufertypen:
-  Händler: 94
-  Privat: 44
+  Privat: 10
+  Händler: 3
 
-Generiert am: 2025-08-22 04:31:47
+Generiert am: 2025-08-23 04:32:41
 AutoScout24 Luxembourg Scraper v2.0
