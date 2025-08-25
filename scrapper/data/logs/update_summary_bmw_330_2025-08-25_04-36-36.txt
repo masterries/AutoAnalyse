@@ -1,0 +1,45 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 330
+Datum: 2025-08-25 04:36:36
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 35
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €43,402
+Median-Preis: €41,990
+Günstigstes: €19,000
+Teuerstes: €83,442
+Preisspanne: €64,442
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 330330e iPerformance Advantage
+  €19,490 → €19,000 (-€490)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 23
+  2: 7
+  Diesel: 4
+  3: 1
+
+Verkäufertypen:
+  Händler: 26
+  Privat: 9
+
+Generiert am: 2025-08-25 04:36:36
+AutoScout24 Luxembourg Scraper v2.0
