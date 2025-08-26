@@ -1,0 +1,44 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 530
+Datum: 2025-08-26 04:34:25
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 12
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €31,318
+Median-Preis: €31,975
+Günstigstes: €5,490
+Teuerstes: €82,700
+Preisspanne: €77,210
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 530530i xDrive 252 ch BVA8 Business Design
+  €25,700 → €25,100 (-€600)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 5
+  Benzin: 4
+  2: 3
+
+Verkäufertypen:
+  Privat: 10
+  Händler: 2
+
+Generiert am: 2025-08-26 04:34:25
+AutoScout24 Luxembourg Scraper v2.0
