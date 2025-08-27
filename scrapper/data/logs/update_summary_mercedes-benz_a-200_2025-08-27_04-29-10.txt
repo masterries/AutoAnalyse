@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-200
-Datum: 2025-08-26 04:29:57
+Datum: 2025-08-27 04:29:10
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -28,15 +28,8 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Mercedes-Benz A 200CDI (BlueEFFICIENCY) AMG Sport
-  €9,500 → €8,500 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -48,5 +41,5 @@ Verkäufertypen:
   Händler: 19
   Privat: 6
 
-Generiert am: 2025-08-26 04:29:57
+Generiert am: 2025-08-27 04:29:10
 AutoScout24 Luxembourg Scraper v2.0

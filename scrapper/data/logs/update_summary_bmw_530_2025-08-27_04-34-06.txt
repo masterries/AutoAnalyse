@@ -1,43 +1,44 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a1
-Datum: 2025-08-26 04:31:57
+Fahrzeug: bmw 530
+Datum: 2025-08-27 04:34:06
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 52
+Gesamt gefundene Listings: 12
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,767
-Median-Preis: €26,508
-Günstigstes: €4,500
-Teuerstes: €40,631
-Preisspanne: €36,131
+Durchschnittspreis: €31,452
+Median-Preis: €31,975
+Günstigstes: €5,490
+Teuerstes: €82,700
+Preisspanne: €77,210
 
 PREISÄNDERUNGEN
 ===============
 Preisänderungen heute: 1
 
-📉 PREISSENKUNGEN (1)
+📉 PREISSENKUNGEN (0)
 ==============================
-• Audi A130 TFSI Sportback S tronic
-  €18,800 → €17,900 (-€900)
+📈 PREISERHÖHUNGEN (1)
+==============================
+• BMW 530530 d xDrive Luxury Line
+  €42,200 → €43,800 (+€1,600)
 
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 50
-  Diesel: 2
+  Diesel: 5
+  Benzin: 4
+  2: 3
 
 Verkäufertypen:
-  Händler: 43
-  Privat: 9
+  Privat: 10
+  Händler: 2
 
-Generiert am: 2025-08-26 04:31:57
+Generiert am: 2025-08-27 04:34:06
 AutoScout24 Luxembourg Scraper v2.0

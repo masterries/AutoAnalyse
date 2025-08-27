@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 530
-Datum: 2025-08-26 04:34:25
+Fahrzeug: bmw 320
+Datum: 2025-08-27 04:33:05
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 12
+Gesamt gefundene Listings: 49
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €31,318
-Median-Preis: €31,975
-Günstigstes: €5,490
-Teuerstes: €82,700
-Preisspanne: €77,210
+Durchschnittspreis: €29,539
+Median-Preis: €21,000
+Günstigstes: €1,700
+Teuerstes: €69,083
+Preisspanne: €67,383
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 530530i xDrive 252 ch BVA8 Business Design
-  €25,700 → €25,100 (-€600)
+• BMW 320Touring
+  €44,900 → €42,900 (-€2,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 5
-  Benzin: 4
-  2: 3
+  Diesel: 29
+  3: 12
+  Benzin: 8
 
 Verkäufertypen:
-  Privat: 10
-  Händler: 2
+  Händler: 25
+  Privat: 24
 
-Generiert am: 2025-08-26 04:34:25
+Generiert am: 2025-08-27 04:33:05
 AutoScout24 Luxembourg Scraper v2.0
