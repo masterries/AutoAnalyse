@@ -1,4 +1,5 @@
 id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+400,b7c89cf4-00f5-4747-90f2-ef833ecf6bda,volkswagen,polo,Volkswagen Polo,10750.0,8000.0,-2750.0,-25.581395348837212,PREIS_GESUNKEN,2025-08-29T04:31:58.049280,1756441918,2025-08-28T04:32:03.344567,2025-08-29 04:31:58
 391,3398ab05-00ac-4aa4-bcce-a8fbe03e7083,volkswagen,polo,Volkswagen Polo,1500.0,1250.0,-250.0,-16.666666666666664,PREIS_GESUNKEN,2025-08-28T04:32:23.118725,1756355543,2025-08-27T04:32:23.090424,2025-08-28 04:32:23
 379,708c659d-d75f-4039-8610-37a01a1000f7,volkswagen,polo,"Volkswagen PoloLifePlus de 200 Audi, VW, Skoda, Seat & Cupra en stock !",18190.0,18040.0,-150.0,-0.8246289169873556,PREIS_GESUNKEN,2025-08-27T04:32:45.081691,1756269165,2025-08-26T04:32:42.793679,2025-08-27 04:32:45
 380,c7c49de1-ec64-42c9-8514-1ddf7224398f,volkswagen,polo,"Volkswagen PoloLifePlus de 200 Audi, VW, Skoda, Seat & Cupra en stock !",20580.0,20415.0,-165.0,-0.8017492711370262,PREIS_GESUNKEN,2025-08-27T04:32:45.081907,1756269165,2025-08-26T04:32:42.794135,2025-08-27 04:32:45
