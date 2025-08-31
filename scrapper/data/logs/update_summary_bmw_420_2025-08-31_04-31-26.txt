@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 420
-Datum: 2025-08-30 04:30:45
+Datum: 2025-08-31 04:31:26
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €66,196
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 420Coupé pack M
-  €36,990 → €35,990 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -40,5 +33,5 @@ Verkäufertypen:
   Händler: 9
   Privat: 6
 
-Generiert am: 2025-08-30 04:30:45
+Generiert am: 2025-08-31 04:31:26
 AutoScout24 Luxembourg Scraper v2.0
