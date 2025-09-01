@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2025-08-31 04:30:35
+Fahrzeug: volkswagen golf
+Datum: 2025-09-01 04:36:32
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 86
+Gesamt gefundene Listings: 130
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,999
-Median-Preis: €20,198
-Günstigstes: €1,200
-Teuerstes: €35,500
-Preisspanne: €34,300
+Durchschnittspreis: €23,256
+Median-Preis: €23,730
+Günstigstes: €1,000
+Teuerstes: €59,050
+Preisspanne: €58,050
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,23 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen Polo1.6 TDI
-  €14,800 → €14,000 (-€800)
+• Volkswagen GolfLife
+  €28,500 → €27,900 (-€600)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 72
-  Diesel: 14
+  Benzin: 68
+  Diesel: 55
+  2: 4
+  unknown: 2
+  o: 1
 
 Verkäufertypen:
-  Händler: 65
-  Privat: 21
+  Händler: 86
+  Privat: 44
 
-Generiert am: 2025-08-31 04:30:35
+Generiert am: 2025-09-01 04:36:32
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,0 +1,166 @@
+AutoScout24 Multi-Model Update Summary
+======================================
+
+Generiert am: 2025-09-01 04:38:54
+AutoScout24 Luxembourg Scraper v2.0
+
+GESAMTÜBERSICHT
+===============
+Überwachte Fahrzeugmodelle: 17
+Gesamte aktive Listings: 796
+Neue Listings heute: 8
+Preisänderungen heute: 151
+
+🆕 MODELLE MIT NEUEN LISTINGS (5)
+==================================================
+• BMW X1
+  📊 1 neue von 64 Listings
+  🕐 2025-09-01T04:38:48.227439
+
+• BMW 530
+  📊 2 neue von 13 Listings
+  🕐 2025-09-01T04:38:20.853789
+
+• BMW 320
+  📊 1 neue von 47 Listings
+  🕐 2025-09-01T04:37:21.559688
+
+• AUDI A4
+  📊 1 neue von 44 Listings
+  🕐 2025-09-01T04:35:39.146667
+
+• MERCEDES-BENZ A-200
+  📊 3 neue von 33 Listings
+  🕐 2025-09-01T04:33:59.874282
+
+💰 MODELLE MIT PREISÄNDERUNGEN (2)
+==================================================
+• VOLKSWAGEN POLO: 78 Änderungen
+  📉 5x gesunken (Ø 640€)
+
+• VOLKSWAGEN GOLF: 73 Änderungen
+  📉 1x gesunken (Ø 600€)
+
+📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
+========================================
+✅ BMW X1
+   📊 Listings: 64 (1 neu)
+   🕐 Letztes Update: 2025-09-01T04:38:48.227439
+   💶 Preise: Ø €34,352 | €6,000 - €66,499
+
+✅ BMW 530
+   📊 Listings: 13 (2 neu)
+   🕐 Letztes Update: 2025-09-01T04:38:20.853789
+   💶 Preise: Ø €33,218 | €5,490 - €82,700
+
+✅ BMW 520
+   📊 Listings: 15 (0 neu)
+   🕐 Letztes Update: 2025-09-01T04:38:09.384583
+   💶 Preise: Ø €47,643 | €16,999 - €75,586
+
+✅ BMW 430
+   📊 Listings: 11 (0 neu)
+   🕐 Letztes Update: 2025-09-01T04:37:58.282872
+   💶 Preise: Ø €50,757 | €24,000 - €89,998
+
+✅ BMW 420
+   📊 Listings: 15 (0 neu)
+   🕐 Letztes Update: 2025-09-01T04:37:47.380152
+   💶 Preise: Ø €37,992 | €12,600 - €78,796
+
+✅ BMW 330
+   📊 Listings: 31 (0 neu)
+   🕐 Letztes Update: 2025-09-01T04:37:36.327029
+   💶 Preise: Ø €42,170 | €19,000 - €83,442
+
+✅ BMW 320
+   📊 Listings: 47 (1 neu)
+   🕐 Letztes Update: 2025-09-01T04:37:21.559688
+   💶 Preise: Ø €30,277 | €1,700 - €69,083
+
+✅ VOLKSWAGEN POLO
+   📊 Listings: 86 (0 neu) | 💰 78 Preisänderungen
+   🕐 Letztes Update: 2025-09-01T04:37:00.748434
+   💶 Preise: Ø €17,962 | €1,200 - €34,800
+
+✅ VOLKSWAGEN GOLF
+   📊 Listings: 130 (0 neu) | 💰 73 Preisänderungen
+   🕐 Letztes Update: 2025-09-01T04:36:32.645151
+   💶 Preise: Ø €23,256 | €1,000 - €59,050
+
+✅ AUDI A1
+   📊 Listings: 56 (0 neu)
+   🕐 Letztes Update: 2025-09-01T04:35:58.060849
+   💶 Preise: Ø €24,207 | €4,500 - €40,631
+
+✅ AUDI A4
+   📊 Listings: 44 (1 neu)
+   🕐 Letztes Update: 2025-09-01T04:35:39.146667
+   💶 Preise: Ø €22,022 | €1,100 - €45,990
+
+✅ AUDI A3
+   📊 Listings: 103 (0 neu)
+   🕐 Letztes Update: 2025-09-01T04:35:21.021524
+   💶 Preise: Ø €25,588 | €1,150 - €48,900
+
+✅ BMW 120
+   📊 Listings: 49 (0 neu)
+   🕐 Letztes Update: 2025-09-01T04:34:50.026388
+   💶 Preise: Ø €37,987 | €9,500 - €56,295
+
+✅ MERCEDES-BENZ C-220
+   📊 Listings: 35 (0 neu)
+   🕐 Letztes Update: 2025-09-01T04:34:30.860347
+   💶 Preise: Ø €41,619 | €2,400 - €67,740
+
+✅ MERCEDES-BENZ C-200
+   📊 Listings: 25 (0 neu)
+   🕐 Letztes Update: 2025-09-01T04:34:15.410105
+   💶 Preise: Ø €32,103 | €2,899 - €50,990
+
+✅ MERCEDES-BENZ A-200
+   📊 Listings: 33 (3 neu)
+   🕐 Letztes Update: 2025-09-01T04:33:59.874282
+   💶 Preise: Ø €30,359 | €8,500 - €43,990
+
+✅ MERCEDES-BENZ A-180
+   📊 Listings: 39 (0 neu)
+   🕐 Letztes Update: 2025-09-01T04:33:45.178574
+   💶 Preise: Ø €24,680 | €3,999 - €37,290
+
+🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
+==================================================
+ 1. €   1,000 - VOLKSWAGEN GOLF
+    Volkswagen Golf1.6
+
+ 2. €   1,100 - AUDI A4
+    Audi A4A4 Avant 1.9 TDI
+
+ 3. €   1,150 - AUDI A3
+    Audi A3Automatique.
+
+ 4. €   1,200 - VOLKSWAGEN POLO
+    Volkswagen PoloPolo 1.4 TDI DPF Trendline
+
+ 5. €   1,480 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 Sport Edition
+
+ 6. €   1,550 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 GT Sport
+
+ 7. €   1,700 - VOLKSWAGEN POLO
+    Volkswagen PoloPolo 1.2-12V Optique
+
+ 8. €   1,700 - BMW 320
+    BMW 320320i touring Exclusiv Edition
+
+ 9. €   1,900 - BMW 320
+    BMW 320320d DPF Touring
+
+10. €   1,950 - BMW 320
+    BMW 320320i Touring Aut.
+
+
+============================================================
+Generiert am: 2025-09-01 04:38:54
+AutoScout24 Luxembourg Multi-Model Scraper v2.0
