@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen golf
-Datum: 2025-09-01 04:36:32
+Fahrzeug: bmw 520
+Datum: 2025-09-02 04:33:43
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 130
+Gesamt gefundene Listings: 15
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,256
-Median-Preis: €23,730
-Günstigstes: €1,000
-Teuerstes: €59,050
-Preisspanne: €58,050
+Durchschnittspreis: €47,510
+Median-Preis: €56,300
+Günstigstes: €16,999
+Teuerstes: €75,586
+Preisspanne: €58,587
 
 PREISÄNDERUNGEN
 ===============
@@ -24,23 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen GolfLife
-  €28,500 → €27,900 (-€600)
+• BMW 520d Touring
+  €57,899 → €55,899 (-€2,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 68
-  Diesel: 55
-  2: 4
-  unknown: 2
-  o: 1
+  Diesel: 9
+  3: 5
+  Benzin: 1
 
 Verkäufertypen:
-  Händler: 86
-  Privat: 44
+  Händler: 11
+  Privat: 4
 
-Generiert am: 2025-09-01 04:36:32
+Generiert am: 2025-09-02 04:33:43
 AutoScout24 Luxembourg Scraper v2.0
