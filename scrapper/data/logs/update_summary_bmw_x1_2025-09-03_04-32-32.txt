@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw x1
-Datum: 2025-09-02 04:34:16
+Datum: 2025-09-03 04:32:32
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 63
-Neue Listings: 3
+Gesamt gefundene Listings: 64
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,533
-Median-Preis: €31,000
+Durchschnittspreis: €34,849
+Median-Preis: €31,995
 Günstigstes: €6,000
 Teuerstes: €66,499
 Preisspanne: €60,499
@@ -34,13 +34,13 @@ ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Diesel: 31
-  Benzin: 21
+  Benzin: 22
   2: 6
   3: 5
 
 Verkäufertypen:
-  Händler: 45
+  Händler: 46
   Privat: 18
 
-Generiert am: 2025-09-02 04:34:16
+Generiert am: 2025-09-03 04:32:32
 AutoScout24 Luxembourg Scraper v2.0
