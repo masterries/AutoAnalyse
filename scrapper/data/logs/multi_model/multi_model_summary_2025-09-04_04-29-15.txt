@@ -1,7 +1,7 @@
 AutoScout24 Multi-Model Update Summary
 ======================================
 
-Generiert am: 2025-09-03 04:32:38
+Generiert am: 2025-09-04 04:29:15
 AutoScout24 Luxembourg Scraper v2.0
 
 GESAMTÜBERSICHT
@@ -48,19 +48,14 @@ Preisänderungen heute: 288
 💰 MODELLE MIT PREISÄNDERUNGEN (5)
 ==================================================
 • VOLKSWAGEN POLO: 83 Änderungen
-  📉 5x gesunken (Ø 500€)
 
 • VOLKSWAGEN GOLF: 77 Änderungen
-  📉 3x gesunken (Ø 567€)
 
 • AUDI A1: 45 Änderungen
-  📉 4x gesunken (Ø 500€)
 
 • AUDI A4: 21 Änderungen
-  📉 3x gesunken (Ø 667€)
 
 • AUDI A3: 62 Änderungen
-  📉 2x gesunken (Ø 400€)
 
 📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
 ========================================
@@ -183,5 +178,5 @@ Preisänderungen heute: 288
 
 
 ============================================================
-Generiert am: 2025-09-03 04:32:38
+Generiert am: 2025-09-04 04:29:15
 AutoScout24 Luxembourg Multi-Model Scraper v2.0
