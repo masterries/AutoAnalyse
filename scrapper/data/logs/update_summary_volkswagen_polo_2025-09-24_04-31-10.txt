@@ -1,0 +1,84 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen polo
+Datum: 2025-09-24 04:31:10
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 85
+Neue Listings: 24
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €18,309
+Median-Preis: €20,490
+Günstigstes: €1,700
+Teuerstes: €34,800
+Preisspanne: €33,100
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,700 - Volkswagen PoloPolo 1.2-12V Optique
+• €2,500 - Volkswagen PoloPolo 1.2 Goal
+• €3,800 - Volkswagen Polo1.4 85 Match
+• €4,000 - Volkswagen PoloPolo 1.4 TDI Trendline
+• €4,250 - Volkswagen PoloPolo 1.6 TDI Blue Motion Technology Comfortli...
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 12
+
+📉 PREISSENKUNGEN (12)
+==============================
+• Volkswagen PoloLifePlus de 200 Audi, VW, Skoda, Se...
+  €20,415 → €20,085 (-€330)
+
+• Volkswagen PoloR-Line+DSG+IQ-Drive+DigiPlus de 200...
+  €21,490 → €20,990 (-€500)
+
+• Volkswagen PoloLifePlus de 200 Audi, VW, Skoda, Se...
+  €18,040 → €17,290 (-€750)
+
+• Volkswagen PoloVW Polo 6R 1.4 Highline
+  €9,000 → €8,250 (-€750)
+
+• Volkswagen PoloLife
+  €18,280 → €17,890 (-€390)
+
+• Volkswagen PoloLife+Lane.Ass+LEDPlus de 200 Audi, ...
+  €20,990 → €20,490 (-€500)
+
+• Volkswagen PoloStyle++LED+NAVI+Digi+
+  €21,990 → €21,490 (-€500)
+
+• Volkswagen PoloPolo 1.0 TSI LIMITED
+  €22,190 → €21,990 (-€200)
+
+• Volkswagen Polo1.0 TSI Limited DSG
+  €24,990 → €23,990 (-€1,000)
+
+• Volkswagen PoloLife+DSG+LED+Navi+Digi+
+  €23,490 → €22,990 (-€500)
+
+• Volkswagen PoloStyle+DSG+IQ-Drive+LED
+  €23,990 → €23,490 (-€500)
+
+• Volkswagen PoloPolo 1.6 TDI Blue Motion Technology...
+  €4,500 → €4,250 (-€250)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 74
+  Diesel: 11
+
+Verkäufertypen:
+  Händler: 66
+  Privat: 19
+
+Generiert am: 2025-09-24 04:31:10
+AutoScout24 Luxembourg Scraper v2.0
