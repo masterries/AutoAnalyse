@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 420
-Datum: 2025-09-24 04:31:54
+Datum: 2025-09-25 04:32:12
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 15
-Neue Listings: 4
+Gesamt gefundene Listings: 16
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,360
-Median-Preis: €38,500
+Durchschnittspreis: €37,275
+Median-Preis: €38,700
 Günstigstes: €12,600
 Teuerstes: €78,796
 Preisspanne: €66,196
@@ -28,25 +28,18 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 420420d Gran Coupe M Sport
-  €39,990 → €38,500 (-€1,490)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 8
+  Diesel: 9
   Benzin: 6
   3: 1
 
 Verkäufertypen:
-  Händler: 8
+  Händler: 9
   Privat: 7
 
-Generiert am: 2025-09-24 04:31:54
+Generiert am: 2025-09-25 04:32:12
 AutoScout24 Luxembourg Scraper v2.0
