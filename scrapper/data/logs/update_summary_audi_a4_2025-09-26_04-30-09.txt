@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 330
-Datum: 2025-09-25 04:32:01
+Fahrzeug: audi a4
+Datum: 2025-09-26 04:30:09
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 27
+Gesamt gefundene Listings: 48
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €42,183
-Median-Preis: €41,990
-Günstigstes: €17,990
-Teuerstes: €83,442
-Preisspanne: €65,452
+Durchschnittspreis: €20,215
+Median-Preis: €17,000
+Günstigstes: €1,100
+Teuerstes: €45,990
+Preisspanne: €44,890
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 18
-  2: 5
-  Diesel: 3
-  3: 1
+  Diesel: 30
+  Benzin: 17
+  o: 1
 
 Verkäufertypen:
-  Händler: 18
-  Privat: 9
+  Privat: 24
+  Händler: 24
 
-Generiert am: 2025-09-25 04:32:01
+Generiert am: 2025-09-26 04:30:09
 AutoScout24 Luxembourg Scraper v2.0
