@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 530
-Datum: 2025-09-27 04:31:58
+Datum: 2025-09-28 04:32:29
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €77,210
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 530530i xDrive 252 ch BVA8 Business Design
-  €19,900 → €18,900 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -40,5 +33,5 @@ Verkäufertypen:
   Privat: 14
   Händler: 3
 
-Generiert am: 2025-09-27 04:31:58
+Generiert am: 2025-09-28 04:32:29
 AutoScout24 Luxembourg Scraper v2.0

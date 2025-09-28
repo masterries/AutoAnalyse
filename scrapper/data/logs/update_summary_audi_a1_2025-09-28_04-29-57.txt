@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2025-09-27 04:29:27
+Datum: 2025-09-28 04:29:57
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 50
-Neue Listings: 1
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,14 +17,6 @@ Median-Preis: €27,145
 Günstigstes: €9,500
 Teuerstes: €43,315
 Preisspanne: €33,815
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €9,500 - Audi A11.4 TFSI Sportback cylinder on demand S tronic lin
-• €11,499 - Audi A11.4 TFSI S tronic design
-• €12,500 - Audi A11.4 TFSI S tronic Ambition
-• €14,000 - Audi A1A1 Sportback 30 TFSI S line
-• €15,490 - Audi A1A1 1.0 TFSI ultra Sportback sport
 
 PREISÄNDERUNGEN
 ===============
@@ -39,5 +31,5 @@ Verkäufertypen:
   Händler: 44
   Privat: 6
 
-Generiert am: 2025-09-27 04:29:27
+Generiert am: 2025-09-28 04:29:57
 AutoScout24 Luxembourg Scraper v2.0
