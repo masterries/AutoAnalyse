@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 430
-Datum: 2025-09-28 04:32:03
+Datum: 2025-09-29 04:33:42
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €55,600
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 430d xDrive MSport
-  €89,998 → €78,800 (-€11,198)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -40,5 +33,5 @@ Verkäufertypen:
   Privat: 5
   Händler: 3
 
-Generiert am: 2025-09-28 04:32:03
+Generiert am: 2025-09-29 04:33:42
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a1
-Datum: 2025-09-28 04:29:57
+Fahrzeug: volkswagen golf
+Datum: 2025-09-29 04:32:21
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 50
+Gesamt gefundene Listings: 136
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €26,347
-Median-Preis: €27,145
-Günstigstes: €9,500
-Teuerstes: €43,315
-Preisspanne: €33,815
+Durchschnittspreis: €23,967
+Median-Preis: €25,240
+Günstigstes: €1,480
+Teuerstes: €59,050
+Preisspanne: €57,570
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,15 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 50
+  Benzin: 77
+  Diesel: 52
+  2: 4
+  unknown: 2
+  o: 1
 
 Verkäufertypen:
-  Händler: 44
-  Privat: 6
+  Händler: 96
+  Privat: 40
 
-Generiert am: 2025-09-28 04:29:57
+Generiert am: 2025-09-29 04:32:21
 AutoScout24 Luxembourg Scraper v2.0
