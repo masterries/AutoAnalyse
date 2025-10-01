@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw x1
-Datum: 2025-09-30 04:34:00
+Datum: 2025-10-01 04:33:29
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 67
-Neue Listings: 6
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €33,974
+Durchschnittspreis: €34,116
 Median-Preis: €29,990
 Günstigstes: €6,000
 Teuerstes: €66,499
@@ -28,20 +28,13 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW X125e xDrive M-SPORT 245CV
-  €45,990 → €44,490 (-€1,500)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 37
-  Benzin: 19
+  Diesel: 38
+  Benzin: 18
   2: 6
   3: 5
 
@@ -49,5 +42,5 @@ Verkäufertypen:
   Händler: 46
   Privat: 21
 
-Generiert am: 2025-09-30 04:34:00
+Generiert am: 2025-10-01 04:33:29
 AutoScout24 Luxembourg Scraper v2.0
