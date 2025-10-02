@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 530
-Datum: 2025-10-01 04:33:05
+Fahrzeug: mercedes-benz a-200
+Datum: 2025-10-02 04:27:21
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 15
+Gesamt gefundene Listings: 41
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €27,555
-Median-Preis: €29,950
-Günstigstes: €5,490
-Teuerstes: €82,700
-Preisspanne: €77,210
+Durchschnittspreis: €30,300
+Median-Preis: €30,990
+Günstigstes: €10,500
+Teuerstes: €43,990
+Preisspanne: €33,490
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 530530i xDrive Aut. M Sport Line
-  €31,950 → €29,950 (-€2,000)
+• Mercedes-Benz A 200AMG LINE
+  €25,900 → €23,900 (-€2,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 8
-  Benzin: 5
+  Diesel: 20
+  Benzin: 19
   2: 2
 
 Verkäufertypen:
+  Händler: 28
   Privat: 13
-  Händler: 2
 
-Generiert am: 2025-10-01 04:33:05
+Generiert am: 2025-10-02 04:27:21
 AutoScout24 Luxembourg Scraper v2.0
