@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 420
-Datum: 2025-10-04 04:30:51
+Datum: 2025-10-05 04:30:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -41,5 +41,5 @@ Verkäufertypen:
   Privat: 7
   Händler: 6
 
-Generiert am: 2025-10-04 04:30:51
+Generiert am: 2025-10-05 04:30:01
 AutoScout24 Luxembourg Scraper v2.0
