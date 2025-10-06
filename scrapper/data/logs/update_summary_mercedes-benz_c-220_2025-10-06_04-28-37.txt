@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-220
-Datum: 2025-10-05 04:26:52
+Datum: 2025-10-06 04:28:37
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €64,890
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Mercedes-Benz C 220Classe d 4Matic  7G-Tronic  pac...
-  €17,500 → €16,999 (-€501)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -38,5 +31,5 @@ Verkäufertypen:
   Händler: 25
   Privat: 14
 
-Generiert am: 2025-10-05 04:26:52
+Generiert am: 2025-10-06 04:28:37
 AutoScout24 Luxembourg Scraper v2.0
