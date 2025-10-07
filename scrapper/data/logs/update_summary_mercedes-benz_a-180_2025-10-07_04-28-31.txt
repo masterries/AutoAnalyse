@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-180
-Datum: 2025-10-06 04:27:49
+Datum: 2025-10-07 04:28:31
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 36
-Neue Listings: 1
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,14 +17,6 @@ Median-Preis: €26,195
 Günstigstes: €3,999
 Teuerstes: €37,290
 Preisspanne: €33,291
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €3,999 - Mercedes-Benz A 180A 180 CDI (169.007)
-• €6,900 - Mercedes-Benz A 1802.0 CDI AVANTGARDE
-• €7,900 - Mercedes-Benz A 180Classe CDI BlueEFFICIENCY Inspiration
-• €14,950 - Mercedes-Benz A 180Pack
-• €15,500 - Mercedes-Benz A 180AMG Line
 
 PREISÄNDERUNGEN
 ===============
@@ -40,5 +32,5 @@ Verkäufertypen:
   Händler: 29
   Privat: 7
 
-Generiert am: 2025-10-06 04:27:49
+Generiert am: 2025-10-07 04:28:31
 AutoScout24 Luxembourg Scraper v2.0
