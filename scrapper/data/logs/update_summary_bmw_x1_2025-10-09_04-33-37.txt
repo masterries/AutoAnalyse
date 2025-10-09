@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 320
-Datum: 2025-10-08 04:32:02
+Fahrzeug: bmw x1
+Datum: 2025-10-09 04:33:37
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 44
+Gesamt gefundene Listings: 61
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €28,039
-Median-Preis: €24,495
-Günstigstes: €600
-Teuerstes: €59,950
-Preisspanne: €59,350
+Durchschnittspreis: €34,655
+Median-Preis: €31,000
+Günstigstes: €6,000
+Teuerstes: €66,499
+Preisspanne: €60,499
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 320320i Touring Aut.
-  €1,200 → €600 (-€600)
+• BMW X1sDrive20d xDrive M Sport
+  €52,150 → €51,600 (-€550)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 22
-  Benzin: 12
-  3: 9
-  2: 1
+  Diesel: 32
+  Benzin: 18
+  2: 6
+  3: 5
 
 Verkäufertypen:
-  Privat: 24
-  Händler: 20
+  Händler: 43
+  Privat: 18
 
-Generiert am: 2025-10-08 04:32:02
+Generiert am: 2025-10-09 04:33:37
 AutoScout24 Luxembourg Scraper v2.0
