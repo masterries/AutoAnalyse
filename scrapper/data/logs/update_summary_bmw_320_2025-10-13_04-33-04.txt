@@ -1,0 +1,45 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 320
+Datum: 2025-10-13 04:33:04
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 42
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €28,518
+Median-Preis: €24,495
+Günstigstes: €1,700
+Teuerstes: €59,950
+Preisspanne: €58,250
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 320320i Aut. Sport Line
+  €16,000 → €15,500 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 22
+  Benzin: 10
+  3: 9
+  2: 1
+
+Verkäufertypen:
+  Privat: 25
+  Händler: 17
+
+Generiert am: 2025-10-13 04:33:04
+AutoScout24 Luxembourg Scraper v2.0

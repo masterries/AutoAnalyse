@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2025-10-12 04:28:33
+Datum: 2025-10-13 04:31:03
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 91
-Neue Listings: 2
+Gesamt gefundene Listings: 90
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,479
-Median-Preis: €24,900
+Durchschnittspreis: €25,690
+Median-Preis: €25,980
 Günstigstes: €2,950
 Teuerstes: €63,990
 Preisspanne: €61,040
@@ -28,12 +28,19 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Audi A330 TFSI Limousine S tronic line
+  €24,500 → €23,500 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 46
+  Benzin: 45
   Diesel: 33
   2: 9
   CNG: 1
@@ -41,8 +48,8 @@ Kraftstofftypen:
   unknown: 1
 
 Verkäufertypen:
-  Händler: 64
-  Privat: 27
+  Händler: 65
+  Privat: 25
 
-Generiert am: 2025-10-12 04:28:33
+Generiert am: 2025-10-13 04:31:03
 AutoScout24 Luxembourg Scraper v2.0

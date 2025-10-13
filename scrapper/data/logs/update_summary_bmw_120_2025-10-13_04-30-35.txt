@@ -1,8 +1,8 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw x1
-Datum: 2025-10-12 04:31:48
+Fahrzeug: bmw 120
+Datum: 2025-10-13 04:30:35
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,19 +12,19 @@ Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,155
-Median-Preis: €30,970
-Günstigstes: €6,000
-Teuerstes: €66,499
-Preisspanne: €60,499
+Durchschnittspreis: €36,840
+Median-Preis: €37,900
+Günstigstes: €2,500
+Teuerstes: €56,295
+Preisspanne: €53,795
 
 TOP 5 GÜNSTIGSTE LISTINGS
 =========================
-• €6,000 - BMW X1
-• €7,900 - BMW X1X1 sDrive18d Aut. xLine
-• €7,999 - BMW X1xDrive23d Aut.
-• €11,998 - BMW X1automatic
-• €12,500 - BMW X12.0 dA xDrive23
+• €2,500 - BMW 120120d
+• €7,800 - BMW 120120d DPF Aut.
+• €10,250 - BMW 120120D 177 SPORT DESIGN
+• €13,500 - BMW 120120i Cabrio
+• €23,490 - BMW 120120 i M Sport
 
 PREISÄNDERUNGEN
 ===============
@@ -32,22 +32,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW X1X1 xDrive18d Aut. Sport Line
-  €20,500 → €19,900 (-€600)
+• BMW 120M Sport – Business Pack – Navi Pro – LED
+  €29,500 → €28,500 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 33
-  Benzin: 17
-  2: 6
-  3: 5
+  Benzin: 26
+  Diesel: 14
+  2: 14
+  3: 7
 
 Verkäufertypen:
-  Händler: 43
-  Privat: 18
+  Händler: 53
+  Privat: 8
 
-Generiert am: 2025-10-12 04:31:48
+Generiert am: 2025-10-13 04:30:35
 AutoScout24 Luxembourg Scraper v2.0
