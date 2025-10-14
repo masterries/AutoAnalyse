@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-220
-Datum: 2025-10-13 04:30:13
+Datum: 2025-10-14 04:29:39
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 38
-Neue Listings: 1
+Gesamt gefundene Listings: 41
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €41,759
-Median-Preis: €55,190
+Durchschnittspreis: €42,433
+Median-Preis: €54,190
 Günstigstes: €1,750
 Teuerstes: €67,740
 Preisspanne: €65,990
@@ -33,11 +33,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 38
+  Diesel: 41
 
 Verkäufertypen:
-  Händler: 25
+  Händler: 28
   Privat: 13
 
-Generiert am: 2025-10-13 04:30:13
+Generiert am: 2025-10-14 04:29:39
 AutoScout24 Luxembourg Scraper v2.0

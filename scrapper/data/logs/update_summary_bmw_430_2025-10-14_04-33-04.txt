@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 320
-Datum: 2025-10-13 04:33:04
+Fahrzeug: bmw 430
+Datum: 2025-10-14 04:33:04
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 42
+Gesamt gefundene Listings: 8
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €28,518
-Median-Preis: €24,495
-Günstigstes: €1,700
-Teuerstes: €59,950
-Preisspanne: €58,250
+Durchschnittspreis: €43,462
+Median-Preis: €44,950
+Günstigstes: €20,500
+Teuerstes: €74,500
+Preisspanne: €54,000
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 320320i Aut. Sport Line
-  €16,000 → €15,500 (-€500)
+• BMW 430430i Coupe M Sport
+  €41,000 → €36,000 (-€5,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 22
-  Benzin: 10
-  3: 9
-  2: 1
+  Benzin: 7
+  Diesel: 1
 
 Verkäufertypen:
-  Privat: 25
-  Händler: 17
+  Privat: 5
+  Händler: 3
 
-Generiert am: 2025-10-13 04:33:04
+Generiert am: 2025-10-14 04:33:04
 AutoScout24 Luxembourg Scraper v2.0
