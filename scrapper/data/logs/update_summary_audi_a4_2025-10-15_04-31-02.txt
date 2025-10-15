@@ -1,0 +1,46 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a4
+Datum: 2025-10-15 04:31:02
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 48
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €20,715
+Median-Preis: €19,450
+Günstigstes: €2,500
+Teuerstes: €41,900
+Preisspanne: €39,400
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (2)
+==============================
+• Audi A435TDI+S-Tronic+LED+NAVI
+  €37,490 → €36,990 (-€500)
+
+• Audi A4Advanced+35TDI+S-Tronic+LED
+  €37,490 → €36,990 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 33
+  Benzin: 15
+
+Verkäufertypen:
+  Händler: 24
+  Privat: 24
+
+Generiert am: 2025-10-15 04:31:02
+AutoScout24 Luxembourg Scraper v2.0
