@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 320
-Datum: 2025-10-17 04:32:56
+Fahrzeug: mercedes-benz c-220
+Datum: 2025-10-18 04:28:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 43
+Gesamt gefundene Listings: 41
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €28,587
-Median-Preis: €24,990
-Günstigstes: €1,700
-Teuerstes: €59,600
-Preisspanne: €57,900
+Durchschnittspreis: €43,477
+Median-Preis: €54,490
+Günstigstes: €1,750
+Teuerstes: €67,740
+Preisspanne: €65,990
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,19 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 320PACK M XDRIVE AUTOMATIQUE
-  €16,990 → €16,500 (-€490)
+• Mercedes-Benz C 220Classe d 4Matic  7G-Tronic A   ...
+  €17,499 → €16,990 (-€509)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 23
-  Benzin: 10
-  3: 9
-  2: 1
+  Diesel: 41
 
 Verkäufertypen:
-  Privat: 25
-  Händler: 18
+  Händler: 29
+  Privat: 12
 
-Generiert am: 2025-10-17 04:32:56
+Generiert am: 2025-10-18 04:28:01
 AutoScout24 Luxembourg Scraper v2.0
