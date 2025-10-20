@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-200
-Datum: 2025-10-19 04:29:35
+Datum: 2025-10-20 04:31:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €55,490
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Mercedes-Benz C 200C 200 4Matic AMG
-  €37,999 → €34,999 (-€3,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -41,5 +34,5 @@ Verkäufertypen:
   Händler: 20
   Privat: 6
 
-Generiert am: 2025-10-19 04:29:35
+Generiert am: 2025-10-20 04:31:01
 AutoScout24 Luxembourg Scraper v2.0

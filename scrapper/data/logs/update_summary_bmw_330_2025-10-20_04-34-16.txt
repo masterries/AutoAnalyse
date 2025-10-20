@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-200
-Datum: 2025-10-19 04:29:20
+Fahrzeug: bmw 330
+Datum: 2025-10-20 04:34:16
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 41
+Gesamt gefundene Listings: 42
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €30,425
-Median-Preis: €30,990
-Günstigstes: €10,500
-Teuerstes: €43,990
-Preisspanne: €33,490
+Durchschnittspreis: €40,291
+Median-Preis: €40,945
+Günstigstes: €11,000
+Teuerstes: €70,150
+Preisspanne: €59,150
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Mercedes-Benz A 200A 200 Luxury Line
-  €34,000 → €33,000 (-€1,000)
+• BMW 330330 Ci Aut.
+  €12,000 → €11,000 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 22
-  Benzin: 17
-  2: 2
+  Benzin: 33
+  2: 6
+  Diesel: 3
 
 Verkäufertypen:
-  Händler: 31
-  Privat: 10
+  Händler: 34
+  Privat: 8
 
-Generiert am: 2025-10-19 04:29:20
+Generiert am: 2025-10-20 04:34:16
 AutoScout24 Luxembourg Scraper v2.0

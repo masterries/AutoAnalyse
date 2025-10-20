@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 520
-Datum: 2025-10-19 04:33:31
+Datum: 2025-10-20 04:34:49
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 17
-Neue Listings: 1
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,14 +17,6 @@ Median-Preis: €55,899
 Günstigstes: €7,000
 Teuerstes: €74,258
 Preisspanne: €67,258
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €7,000 - BMW 520520d Touring Aut.
-• €9,500 - BMW 520520d Edition Fleet
-• €11,900 - BMW 520520d Touring Aut.
-• €19,900 - BMW 520520d xDrive Touring Aut. Luxury Line
-• €30,100 - BMW 520520d Touring Aut. carnet complet, CT 2 ans
 
 PREISÄNDERUNGEN
 ===============
@@ -41,5 +33,5 @@ Verkäufertypen:
   Händler: 11
   Privat: 6
 
-Generiert am: 2025-10-19 04:33:31
+Generiert am: 2025-10-20 04:34:49
 AutoScout24 Luxembourg Scraper v2.0

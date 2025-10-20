@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 120
-Datum: 2025-10-19 04:30:12
+Datum: 2025-10-20 04:31:41
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 62
+Gesamt gefundene Listings: 63
 Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,746
-Median-Preis: €37,700
+Durchschnittspreis: €36,289
+Median-Preis: €37,499
 Günstigstes: €2,500
 Teuerstes: €56,295
 Preisspanne: €53,795
@@ -22,9 +22,9 @@ TOP 5 GÜNSTIGSTE LISTINGS
 =========================
 • €2,500 - BMW 120120d
 • €7,800 - BMW 120120d DPF Aut.
+• €7,950 - BMW 120120d Coupe Aut.
 • €10,250 - BMW 120120D 177 SPORT DESIGN
 • €13,500 - BMW 120120i Cabrio
-• €23,490 - BMW 120120 i M Sport
 
 PREISÄNDERUNGEN
 ===============
@@ -34,13 +34,13 @@ ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Benzin: 26
-  Diesel: 15
+  Diesel: 16
   2: 14
   3: 7
 
 Verkäufertypen:
   Händler: 53
-  Privat: 9
+  Privat: 10
 
-Generiert am: 2025-10-19 04:30:12
+Generiert am: 2025-10-20 04:31:41
 AutoScout24 Luxembourg Scraper v2.0
