@@ -2,37 +2,44 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 530
-Datum: 2025-10-20 04:35:00
+Datum: 2025-10-21 04:33:38
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 18
+Gesamt gefundene Listings: 17
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €27,586
-Median-Preis: €29,425
+Durchschnittspreis: €28,620
+Median-Preis: €29,950
 Günstigstes: €6,490
 Teuerstes: €47,870
 Preisspanne: €41,380
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 530530d Aut. M Sport Edition
+  €41,000 → €40,000 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 9
+  Diesel: 8
   Benzin: 5
   2: 3
   3: 1
 
 Verkäufertypen:
-  Privat: 14
+  Privat: 13
   Händler: 4
 
-Generiert am: 2025-10-20 04:35:00
+Generiert am: 2025-10-21 04:33:38
 AutoScout24 Luxembourg Scraper v2.0

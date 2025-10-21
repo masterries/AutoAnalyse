@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 330
-Datum: 2025-10-20 04:34:16
+Fahrzeug: audi a4
+Datum: 2025-10-21 04:31:07
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 42
+Gesamt gefundene Listings: 45
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €40,291
-Median-Preis: €40,945
-Günstigstes: €11,000
-Teuerstes: €70,150
-Preisspanne: €59,150
+Durchschnittspreis: €20,170
+Median-Preis: €19,000
+Günstigstes: €2,500
+Teuerstes: €41,900
+Preisspanne: €39,400
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 330330 Ci Aut.
-  €12,000 → €11,000 (-€1,000)
+• Audi A4S-Line+40TDI+S-Tronic+P.Black
+  €41,490 → €40,990 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 33
-  2: 6
-  Diesel: 3
+  Diesel: 31
+  Benzin: 14
 
 Verkäufertypen:
-  Händler: 34
-  Privat: 8
+  Händler: 23
+  Privat: 22
 
-Generiert am: 2025-10-20 04:34:16
+Generiert am: 2025-10-21 04:31:07
 AutoScout24 Luxembourg Scraper v2.0

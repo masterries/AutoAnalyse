@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2025-10-20 04:33:41
+Fahrzeug: bmw x1
+Datum: 2025-10-21 04:33:57
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 70
+Gesamt gefundene Listings: 53
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €18,121
-Median-Preis: €20,990
-Günstigstes: €800
-Teuerstes: €34,600
-Preisspanne: €33,800
+Durchschnittspreis: €34,228
+Median-Preis: €30,970
+Günstigstes: €6,000
+Teuerstes: €66,499
+Preisspanne: €60,499
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 59
-  Diesel: 11
+  Diesel: 30
+  Benzin: 15
+  3: 5
+  2: 3
 
 Verkäufertypen:
-  Händler: 54
-  Privat: 16
+  Händler: 38
+  Privat: 15
 
-Generiert am: 2025-10-20 04:33:41
+Generiert am: 2025-10-21 04:33:57
 AutoScout24 Luxembourg Scraper v2.0

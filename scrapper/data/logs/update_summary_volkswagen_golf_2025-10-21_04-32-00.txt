@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen golf
-Datum: 2025-10-20 04:33:17
+Datum: 2025-10-21 04:32:00
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 122
-Neue Listings: 2
+Gesamt gefundene Listings: 123
+Neue Listings: 7
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,600
-Median-Preis: €24,990
+Durchschnittspreis: €24,266
+Median-Preis: €24,900
 Günstigstes: €1,480
 Teuerstes: €59,050
 Preisspanne: €57,570
@@ -28,18 +28,25 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Volkswagen Golf2.0 TDI GT Sport 8fach Bereift!
+  €5,200 → €4,990 (-€210)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 64
-  Diesel: 53
+  Benzin: 62
+  Diesel: 56
   2: 5
 
 Verkäufertypen:
   Händler: 87
-  Privat: 35
+  Privat: 36
 
-Generiert am: 2025-10-20 04:33:17
+Generiert am: 2025-10-21 04:32:00
 AutoScout24 Luxembourg Scraper v2.0
