@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a4
-Datum: 2025-10-23 04:30:48
+Datum: 2025-10-24 04:30:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 48
-Neue Listings: 4
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
@@ -40,5 +40,5 @@ Verkäufertypen:
   Händler: 26
   Privat: 22
 
-Generiert am: 2025-10-23 04:30:48
+Generiert am: 2025-10-24 04:30:40
 AutoScout24 Luxembourg Scraper v2.0
