@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 420
-Datum: 2025-10-24 04:32:38
+Fahrzeug: audi a4
+Datum: 2025-10-25 04:29:12
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 11
+Gesamt gefundene Listings: 48
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,739
-Median-Preis: €36,990
-Günstigstes: €21,000
-Teuerstes: €49,870
-Preisspanne: €28,870
+Durchschnittspreis: €20,717
+Median-Preis: €20,450
+Günstigstes: €2,500
+Teuerstes: €41,900
+Preisspanne: €39,400
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 7
-  Benzin: 4
+  Diesel: 33
+  Benzin: 15
 
 Verkäufertypen:
-  Händler: 6
-  Privat: 5
+  Händler: 26
+  Privat: 22
 
-Generiert am: 2025-10-24 04:32:38
+Generiert am: 2025-10-25 04:29:12
 AutoScout24 Luxembourg Scraper v2.0
