@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2025-10-25 04:30:35
+Fahrzeug: mercedes-benz a-180
+Datum: 2025-10-26 04:27:27
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 64
+Gesamt gefundene Listings: 35
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,691
-Median-Preis: €20,445
-Günstigstes: €800
-Teuerstes: €34,600
-Preisspanne: €33,800
+Durchschnittspreis: €25,662
+Median-Preis: €26,800
+Günstigstes: €3,999
+Teuerstes: €37,290
+Preisspanne: €33,291
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen PoloStyle+DSG+P.ASS+P.Lumière
-  €23,990 → €23,490 (-€500)
+• Mercedes-Benz A 180A+180+7G-DCT+Progressive+Advanc...
+  €26,295 → €25,995 (-€300)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 52
-  Diesel: 12
+  Diesel: 26
+  Benzin: 9
 
 Verkäufertypen:
-  Händler: 48
-  Privat: 16
+  Händler: 29
+  Privat: 6
 
-Generiert am: 2025-10-25 04:30:35
+Generiert am: 2025-10-26 04:27:27
 AutoScout24 Luxembourg Scraper v2.0
