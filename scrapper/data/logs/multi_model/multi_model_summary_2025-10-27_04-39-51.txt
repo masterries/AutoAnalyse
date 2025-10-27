@@ -1,0 +1,161 @@
+AutoScout24 Multi-Model Update Summary
+======================================
+
+Generiert am: 2025-10-27 04:39:51
+AutoScout24 Luxembourg Scraper v2.0
+
+GESAMTÜBERSICHT
+===============
+Überwachte Fahrzeugmodelle: 17
+Gesamte aktive Listings: 768
+Neue Listings heute: 3
+Preisänderungen heute: 217
+
+🆕 MODELLE MIT NEUEN LISTINGS (3)
+==================================================
+• BMW 320
+  📊 1 neue von 43 Listings
+  🕐 2025-10-27T04:38:24.480858
+
+• AUDI A4
+  📊 1 neue von 48 Listings | 💰 48 Preisänderungen
+  🕐 2025-10-27T04:36:47.176889
+
+• AUDI A3
+  📊 1 neue von 92 Listings
+  🕐 2025-10-27T04:36:27.185247
+
+💰 MODELLE MIT PREISÄNDERUNGEN (3)
+==================================================
+• BMW X1: 45 Änderungen
+  📉 1x gesunken (Ø 500€)
+
+• VOLKSWAGEN GOLF: 124 Änderungen
+  📈 1x gestiegen (Ø 490€)
+
+• AUDI A4: 48 Änderungen
+  📉 1x gesunken (Ø 1,000€)
+
+📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
+========================================
+✅ BMW X1
+   📊 Listings: 52 (0 neu) | 💰 45 Preisänderungen
+   🕐 Letztes Update: 2025-10-27T04:39:45.837159
+   💶 Preise: Ø €34,532 | €6,000 - €66,499
+
+✅ BMW 530
+   📊 Listings: 16 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:39:25.882519
+   💶 Preise: Ø €27,712 | €6,490 - €47,870
+
+✅ BMW 520
+   📊 Listings: 19 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:39:13.978629
+   💶 Preise: Ø €43,884 | €7,000 - €74,258
+
+✅ BMW 430
+   📊 Listings: 6 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:39:03.060664
+   💶 Preise: Ø €43,467 | €19,500 - €74,500
+
+✅ BMW 420
+   📊 Listings: 12 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:38:51.707117
+   💶 Preise: Ø €35,502 | €21,000 - €49,870
+
+✅ BMW 330
+   📊 Listings: 32 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:38:40.195847
+   💶 Preise: Ø €40,200 | €11,000 - €70,150
+
+✅ BMW 320
+   📊 Listings: 43 (1 neu)
+   🕐 Letztes Update: 2025-10-27T04:38:24.480858
+   💶 Preise: Ø €30,856 | €1,700 - €63,888
+
+✅ VOLKSWAGEN POLO
+   📊 Listings: 64 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:38:05.059771
+   💶 Preise: Ø €17,739 | €800 - €34,600
+
+✅ VOLKSWAGEN GOLF
+   📊 Listings: 120 (0 neu) | 💰 124 Preisänderungen
+   🕐 Letztes Update: 2025-10-27T04:37:41.159845
+   💶 Preise: Ø €23,235 | €1,480 - €59,050
+
+✅ AUDI A1
+   📊 Listings: 54 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:37:07.106150
+   💶 Preise: Ø €24,689 | €9,000 - €43,315
+
+✅ AUDI A4
+   📊 Listings: 48 (1 neu) | 💰 48 Preisänderungen
+   🕐 Letztes Update: 2025-10-27T04:36:47.176889
+   💶 Preise: Ø €20,404 | €2,500 - €41,900
+
+✅ AUDI A3
+   📊 Listings: 92 (1 neu)
+   🕐 Letztes Update: 2025-10-27T04:36:27.185247
+   💶 Preise: Ø €25,440 | €3,450 - €63,990
+
+✅ BMW 120
+   📊 Listings: 59 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:35:58.255453
+   💶 Preise: Ø €36,188 | €2,500 - €56,295
+
+✅ MERCEDES-BENZ C-220
+   📊 Listings: 47 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:35:38.466840
+   💶 Preise: Ø €43,034 | €3,500 - €67,740
+
+✅ MERCEDES-BENZ C-200
+   📊 Listings: 29 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:35:07.806302
+   💶 Preise: Ø €32,667 | €2,500 - €57,990
+
+✅ MERCEDES-BENZ A-200
+   📊 Listings: 40 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:34:51.458965
+   💶 Preise: Ø €29,405 | €12,000 - €43,990
+
+✅ MERCEDES-BENZ A-180
+   📊 Listings: 35 (0 neu)
+   🕐 Letztes Update: 2025-10-27T04:34:32.603463
+   💶 Preise: Ø €25,662 | €3,999 - €37,290
+
+🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
+==================================================
+ 1. €     800 - VOLKSWAGEN POLO
+    Volkswagen PoloPolo 1.2
+
+ 2. €   1,480 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 Sport Edition
+
+ 3. €   1,550 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 GT Sport
+
+ 4. €   1,700 - BMW 320
+    BMW 320320i touring Exclusiv Edition
+
+ 5. €   2,000 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 Comfortline
+
+ 6. €   2,300 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 Trendline
+
+ 7. €   2,500 - AUDI A4
+    Audi A41.9 TDI quattro
+
+ 8. €   2,500 - MERCEDES-BENZ C-200
+    Mercedes-Benz C 200CDI DPF Classic
+
+ 9. €   2,500 - BMW 120
+    BMW 120120d
+
+10. €   2,899 - MERCEDES-BENZ C-200
+    Mercedes-Benz C 200C 200 Kompressor Sportcoupe Aut...
+
+
+============================================================
+Generiert am: 2025-10-27 04:39:51
+AutoScout24 Luxembourg Multi-Model Scraper v2.0
