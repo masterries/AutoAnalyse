@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2025-10-27 04:36:27
+Datum: 2025-10-28 04:31:05
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 92
+Gesamt gefundene Listings: 90
 Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,440
-Median-Preis: €26,235
+Durchschnittspreis: €25,500
+Median-Preis: €26,735
 Günstigstes: €3,450
 Teuerstes: €63,990
 Preisspanne: €60,540
@@ -28,12 +28,19 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Audi A345 TFSIe Sportback S tronic line
+  €32,990 → €31,500 (-€1,490)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 44
+  Benzin: 42
   Diesel: 36
   2: 9
   CNG: 1
@@ -41,8 +48,8 @@ Kraftstofftypen:
   unknown: 1
 
 Verkäufertypen:
-  Händler: 66
-  Privat: 26
+  Händler: 65
+  Privat: 25
 
-Generiert am: 2025-10-27 04:36:27
+Generiert am: 2025-10-28 04:31:05
 AutoScout24 Luxembourg Scraper v2.0
