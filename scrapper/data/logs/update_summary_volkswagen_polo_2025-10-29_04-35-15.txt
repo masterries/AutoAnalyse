@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 330
-Datum: 2025-10-28 04:33:23
+Fahrzeug: volkswagen polo
+Datum: 2025-10-29 04:35:15
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 32
+Gesamt gefundene Listings: 57
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €40,200
-Median-Preis: €39,990
-Günstigstes: €11,000
-Teuerstes: €70,150
-Preisspanne: €59,150
+Durchschnittspreis: €18,132
+Median-Preis: €20,990
+Günstigstes: €800
+Teuerstes: €34,600
+Preisspanne: €33,800
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 25
-  2: 4
-  Diesel: 3
+  Benzin: 47
+  Diesel: 10
 
 Verkäufertypen:
-  Händler: 26
-  Privat: 6
+  Händler: 43
+  Privat: 14
 
-Generiert am: 2025-10-28 04:33:23
+Generiert am: 2025-10-29 04:35:15
 AutoScout24 Luxembourg Scraper v2.0
