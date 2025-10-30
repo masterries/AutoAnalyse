@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2025-10-29 04:35:15
+Fahrzeug: audi a1
+Datum: 2025-10-30 04:31:23
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 57
+Gesamt gefundene Listings: 53
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €18,132
-Median-Preis: €20,990
-Günstigstes: €800
-Teuerstes: €34,600
-Preisspanne: €33,800
+Durchschnittspreis: €24,464
+Median-Preis: €25,900
+Günstigstes: €9,000
+Teuerstes: €43,315
+Preisspanne: €34,315
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 47
-  Diesel: 10
+  Benzin: 52
+  Diesel: 1
 
 Verkäufertypen:
-  Händler: 43
-  Privat: 14
+  Händler: 46
+  Privat: 7
 
-Generiert am: 2025-10-29 04:35:15
+Generiert am: 2025-10-30 04:31:23
 AutoScout24 Luxembourg Scraper v2.0
