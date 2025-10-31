@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2025-10-30 04:30:44
+Datum: 2025-10-31 04:31:39
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 91
+Gesamt gefundene Listings: 90
 Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,199
-Median-Preis: €24,999
+Durchschnittspreis: €25,503
+Median-Preis: €25,980
 Günstigstes: €3,450
 Teuerstes: €63,990
 Preisspanne: €60,540
@@ -28,13 +28,20 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Audi A3SPORTBACK 1.0 TFSI 115 BVM
+  €13,900 → €12,900 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Benzin: 42
-  Diesel: 38
+  Diesel: 37
   2: 8
   CNG: 1
   o: 1
@@ -42,7 +49,7 @@ Kraftstofftypen:
 
 Verkäufertypen:
   Händler: 66
-  Privat: 25
+  Privat: 24
 
-Generiert am: 2025-10-30 04:30:44
+Generiert am: 2025-10-31 04:31:39
 AutoScout24 Luxembourg Scraper v2.0
