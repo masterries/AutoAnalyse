@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2025-11-02 04:31:55
+Datum: 2025-11-03 04:36:54
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,27 +20,8 @@ Preisspanne: €33,800
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 5
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (5)
-==============================
-• Volkswagen Polo1.4 TDI 90 BMT Beats Audio
-  €7,350 → €7,100 (-€250)
-
-• Volkswagen PoloR-Line
-  €30,200 → €29,500 (-€700)
-
-• Volkswagen PoloLife
-  €27,500 → €26,800 (-€700)
-
-• Volkswagen PoloStyle
-  €34,100 → €33,400 (-€700)
-
-• Volkswagen PoloLife
-  €26,700 → €26,100 (-€600)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -51,5 +32,5 @@ Verkäufertypen:
   Händler: 42
   Privat: 16
 
-Generiert am: 2025-11-02 04:31:55
+Generiert am: 2025-11-03 04:36:54
 AutoScout24 Luxembourg Scraper v2.0

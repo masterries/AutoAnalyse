@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw x1
-Datum: 2025-11-02 04:33:37
+Fahrzeug: bmw 420
+Datum: 2025-11-03 04:37:45
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 51
+Gesamt gefundene Listings: 11
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €35,153
-Median-Preis: €31,000
-Günstigstes: €7,999
-Teuerstes: €66,499
-Preisspanne: €58,500
+Durchschnittspreis: €34,378
+Median-Preis: €36,990
+Günstigstes: €21,000
+Teuerstes: €44,900
+Preisspanne: €23,900
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 28
-  Benzin: 16
-  3: 4
-  2: 3
+  Diesel: 5
+  Benzin: 4
+  unknown: 1
+  2: 1
 
 Verkäufertypen:
-  Händler: 38
-  Privat: 13
+  Händler: 6
+  Privat: 5
 
-Generiert am: 2025-11-02 04:33:37
+Generiert am: 2025-11-03 04:37:45
 AutoScout24 Luxembourg Scraper v2.0
