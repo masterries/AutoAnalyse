@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2025-11-03 04:34:45
+Fahrzeug: bmw 320
+Datum: 2025-11-04 04:32:36
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 59
+Gesamt gefundene Listings: 44
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,678
-Median-Preis: €37,470
-Günstigstes: €6,950
-Teuerstes: €56,295
-Preisspanne: €49,345
+Durchschnittspreis: €29,047
+Median-Preis: €29,990
+Günstigstes: €1,700
+Teuerstes: €63,888
+Preisspanne: €62,188
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 120M Sport – Business Pack – Navi Pro – LED
-  €28,500 → €27,500 (-€1,000)
+• BMW 320PACK M XDRIVE AUTOMATIQUE
+  €16,500 → €15,990 (-€510)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 25
-  Diesel: 14
-  2: 14
-  3: 6
+  Diesel: 23
+  Benzin: 11
+  3: 9
+  2: 1
 
 Verkäufertypen:
-  Händler: 51
-  Privat: 8
+  Privat: 23
+  Händler: 21
 
-Generiert am: 2025-11-03 04:34:45
+Generiert am: 2025-11-04 04:32:36
 AutoScout24 Luxembourg Scraper v2.0

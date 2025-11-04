@@ -1,0 +1,45 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 120
+Datum: 2025-11-04 04:30:13
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 58
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €36,519
+Median-Preis: €37,235
+Günstigstes: €6,950
+Teuerstes: €56,295
+Preisspanne: €49,345
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 120d Pack M
+  €30,900 → €28,900 (-€2,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 25
+  Diesel: 14
+  2: 14
+  3: 5
+
+Verkäufertypen:
+  Händler: 50
+  Privat: 8
+
+Generiert am: 2025-11-04 04:30:13
+AutoScout24 Luxembourg Scraper v2.0

@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 520
-Datum: 2025-11-03 04:38:12
+Datum: 2025-11-04 04:33:31
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -33,5 +33,5 @@ Verkäufertypen:
   Händler: 14
   Privat: 8
 
-Generiert am: 2025-11-03 04:38:12
+Generiert am: 2025-11-04 04:33:31
 AutoScout24 Luxembourg Scraper v2.0
