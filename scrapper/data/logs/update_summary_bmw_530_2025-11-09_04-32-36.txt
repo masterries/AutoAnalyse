@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 530
-Datum: 2025-11-08 04:33:20
+Datum: 2025-11-09 04:32:36
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,11 +12,11 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €29,261
-Median-Preis: €29,970
-Günstigstes: €6,490
+Durchschnittspreis: €30,949
+Median-Preis: €31,745
+Günstigstes: €10,500
 Teuerstes: €57,490
-Preisspanne: €51,000
+Preisspanne: €46,990
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 8
+  Diesel: 9
   2: 4
-  Benzin: 4
+  Benzin: 3
 
 Verkäufertypen:
   Privat: 12
   Händler: 4
 
-Generiert am: 2025-11-08 04:33:20
+Generiert am: 2025-11-09 04:32:36
 AutoScout24 Luxembourg Scraper v2.0
