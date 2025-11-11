@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2025-11-10 04:35:55
+Fahrzeug: bmw 520
+Datum: 2025-11-11 04:35:28
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 61
+Gesamt gefundene Listings: 22
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,512
-Median-Preis: €19,490
-Günstigstes: €800
-Teuerstes: €34,600
-Preisspanne: €33,800
+Durchschnittspreis: €44,075
+Median-Preis: €55,450
+Günstigstes: €7,000
+Teuerstes: €74,258
+Preisspanne: €67,258
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen Polo1.4 TDI 90 BMT Beats Audio
-  €6,899 → €6,700 (-€199)
+• BMW 520520d Edition Fleet
+  €9,500 → €8,500 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 50
-  Diesel: 11
+  Diesel: 10
+  Benzin: 7
+  3: 5
 
 Verkäufertypen:
-  Händler: 46
-  Privat: 15
+  Händler: 15
+  Privat: 7
 
-Generiert am: 2025-11-10 04:35:55
+Generiert am: 2025-11-11 04:35:28
 AutoScout24 Luxembourg Scraper v2.0
