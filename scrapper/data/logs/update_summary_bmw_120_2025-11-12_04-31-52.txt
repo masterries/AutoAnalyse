@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-220
-Datum: 2025-11-11 04:31:39
+Fahrzeug: bmw 120
+Datum: 2025-11-12 04:31:52
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 51
+Gesamt gefundene Listings: 61
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €41,715
-Median-Preis: €48,990
-Günstigstes: €2,500
-Teuerstes: €67,740
-Preisspanne: €65,240
+Durchschnittspreis: €37,329
+Median-Preis: €37,899
+Günstigstes: €7,800
+Teuerstes: €56,295
+Preisspanne: €48,495
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 50
-  3: 1
+  Benzin: 30
+  2: 14
+  Diesel: 11
+  3: 6
 
 Verkäufertypen:
-  Händler: 36
-  Privat: 15
+  Händler: 55
+  Privat: 6
 
-Generiert am: 2025-11-11 04:31:39
+Generiert am: 2025-11-12 04:31:52
 AutoScout24 Luxembourg Scraper v2.0

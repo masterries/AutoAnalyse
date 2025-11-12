@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2025-11-11 04:33:21
+Datum: 2025-11-12 04:32:57
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -28,15 +28,8 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Audi A130 TFSI Allstreet S-Tronic
-  €25,900 → €23,990 (-€1,910)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -46,5 +39,5 @@ Verkäufertypen:
   Händler: 43
   Privat: 4
 
-Generiert am: 2025-11-11 04:33:21
+Generiert am: 2025-11-12 04:32:57
 AutoScout24 Luxembourg Scraper v2.0
