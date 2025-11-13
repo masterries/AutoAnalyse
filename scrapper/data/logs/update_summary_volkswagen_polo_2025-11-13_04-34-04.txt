@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2025-11-12 04:33:47
+Datum: 2025-11-13 04:34:04
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 62
-Neue Listings: 1
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,14 +17,6 @@ Median-Preis: €19,695
 Günstigstes: €800
 Teuerstes: €34,600
 Preisspanne: €33,800
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €800 - Volkswagen PoloPolo 1.2
-• €2,490 - Volkswagen Polo1.4 TDI 5p *Prête à immatriculer*
-• €3,400 - Volkswagen Polo1.4 TDI United
-• €3,500 - Volkswagen PoloPolo 1.2 Comfortline
-• €3,700 - Volkswagen Polo1.2 TDI Blue Motion 87g
 
 PREISÄNDERUNGEN
 ===============
@@ -40,5 +32,5 @@ Verkäufertypen:
   Händler: 47
   Privat: 15
 
-Generiert am: 2025-11-12 04:33:47
+Generiert am: 2025-11-13 04:34:04
 AutoScout24 Luxembourg Scraper v2.0
