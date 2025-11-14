@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 320
-Datum: 2025-11-13 04:34:23
+Datum: 2025-11-14 04:33:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -34,5 +34,5 @@ Verkäufertypen:
   Privat: 21
   Händler: 21
 
-Generiert am: 2025-11-13 04:34:23
+Generiert am: 2025-11-14 04:33:40
 AutoScout24 Luxembourg Scraper v2.0
