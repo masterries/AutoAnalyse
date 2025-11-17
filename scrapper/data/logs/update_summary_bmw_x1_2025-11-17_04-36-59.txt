@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-180
-Datum: 2025-11-16 04:30:41
+Fahrzeug: bmw x1
+Datum: 2025-11-17 04:36:59
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 41
+Gesamt gefundene Listings: 50
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,949
-Median-Preis: €26,490
-Günstigstes: €3,600
-Teuerstes: €37,990
-Preisspanne: €34,390
+Durchschnittspreis: €38,761
+Median-Preis: €42,990
+Günstigstes: €7,999
+Teuerstes: €66,499
+Preisspanne: €58,500
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 31
-  Benzin: 10
+  Diesel: 25
+  Benzin: 18
+  2: 4
+  3: 3
 
 Verkäufertypen:
-  Händler: 30
-  Privat: 11
+  Händler: 41
+  Privat: 9
 
-Generiert am: 2025-11-16 04:30:41
+Generiert am: 2025-11-17 04:36:59
 AutoScout24 Luxembourg Scraper v2.0
