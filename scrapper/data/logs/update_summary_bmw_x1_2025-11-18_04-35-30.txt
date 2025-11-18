@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen golf
-Datum: 2025-11-17 04:35:06
+Fahrzeug: bmw x1
+Datum: 2025-11-18 04:35:30
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 124
+Gesamt gefundene Listings: 48
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,475
-Median-Preis: €24,945
-Günstigstes: €1,000
-Teuerstes: €49,490
-Preisspanne: €48,490
+Durchschnittspreis: €39,505
+Median-Preis: €43,444
+Günstigstes: €7,999
+Teuerstes: €66,499
+Preisspanne: €58,500
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 70
-  Diesel: 46
-  2: 6
-  unknown: 2
+  Diesel: 24
+  Benzin: 18
+  2: 3
+  3: 3
 
 Verkäufertypen:
-  Händler: 89
-  Privat: 35
+  Händler: 39
+  Privat: 9
 
-Generiert am: 2025-11-17 04:35:06
+Generiert am: 2025-11-18 04:35:30
 AutoScout24 Luxembourg Scraper v2.0

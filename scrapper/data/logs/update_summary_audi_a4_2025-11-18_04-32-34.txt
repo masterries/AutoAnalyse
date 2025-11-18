@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a4
-Datum: 2025-11-17 04:34:08
+Datum: 2025-11-18 04:32:34
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 49
+Gesamt gefundene Listings: 50
 Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €19,844
-Median-Preis: €19,900
+Durchschnittspreis: €20,022
+Median-Preis: €19,450
 Günstigstes: €1,900
 Teuerstes: €40,990
 Preisspanne: €39,090
@@ -28,18 +28,25 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Audi A4Avant 3.0 TDI quattro tiptronic S-Line
+  €19,900 → €18,750 (-€1,150)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Diesel: 33
-  Benzin: 15
+  Benzin: 16
   3: 1
 
 Verkäufertypen:
   Privat: 27
-  Händler: 22
+  Händler: 23
 
-Generiert am: 2025-11-17 04:34:08
+Generiert am: 2025-11-18 04:32:34
 AutoScout24 Luxembourg Scraper v2.0
