@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2025-11-19 04:31:48
+Fahrzeug: bmw 530
+Datum: 2025-11-20 04:34:03
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 64
+Gesamt gefundene Listings: 13
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,575
-Median-Preis: €36,990
-Günstigstes: €7,500
-Teuerstes: €56,295
-Preisspanne: €48,795
+Durchschnittspreis: €30,140
+Median-Preis: €28,500
+Günstigstes: €15,500
+Teuerstes: €57,490
+Preisspanne: €41,990
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 120120d Cabrio Aut. - Motor neu gemacht*
-  €12,900 → €12,700 (-€200)
+• BMW 530530E IPERFORMANCE 252CV PACK M
+  €29,990 → €27,990 (-€2,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 30
-  2: 15
-  Diesel: 13
-  3: 6
+  Diesel: 7
+  2: 4
+  Benzin: 2
 
 Verkäufertypen:
-  Händler: 57
-  Privat: 7
+  Privat: 10
+  Händler: 3
 
-Generiert am: 2025-11-19 04:31:48
+Generiert am: 2025-11-20 04:34:03
 AutoScout24 Luxembourg Scraper v2.0

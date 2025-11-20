@@ -1,0 +1,71 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz a-200
+Datum: 2025-11-20 04:29:34
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 54
+Neue Listings: 6
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €31,142
+Median-Preis: €31,990
+Günstigstes: €12,000
+Teuerstes: €44,990
+Preisspanne: €32,990
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €12,000 - Mercedes-Benz A 200d 7G-DCT Urban
+• €15,500 - Mercedes-Benz A 200d 7G-DCT AMG Line
+• €18,990 - Mercedes-Benz A 200d Pack AMG  Automatique Camera
+• €20,000 - Mercedes-Benz A 200A 200 7G-DCT Style
+• €21,970 - Mercedes-Benz A 200A 200 163cv AMG-LINE Cuir-Alcan/Nav/SiègC...
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 7
+
+📉 PREISSENKUNGEN (0)
+==============================
+📈 PREISERHÖHUNGEN (7)
+==============================
+• Mercedes-Benz A 2001.3 Hatchback AMG Night Edition
+  €33,990 → €34,490 (+€500)
+
+• Mercedes-Benz A 2001.3 Hatchback AMG Night Edition
+  €33,990 → €34,490 (+€500)
+
+• Mercedes-Benz A 2001.3 Hatchback AMG Night Edition
+  €33,990 → €34,490 (+€500)
+
+• Mercedes-Benz A 2001.3 Hatchback AMG Night Edition
+  €33,990 → €34,490 (+€500)
+
+• Mercedes-Benz A 2001.3 hatchback AMG EDITION
+  €32,990 → €33,490 (+€500)
+
+• Mercedes-Benz A 2001.3 hatchback AMG Edition
+  €32,990 → €33,490 (+€500)
+
+• Mercedes-Benz A 2001.3 hatchback AMG Edition
+  €32,990 → €33,490 (+€500)
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 21
+  Benzin: 19
+  unknown: 12
+  2: 2
+
+Verkäufertypen:
+  Händler: 43
+  Privat: 11
+
+Generiert am: 2025-11-20 04:29:34
+AutoScout24 Luxembourg Scraper v2.0
