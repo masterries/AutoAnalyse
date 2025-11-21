@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 530
-Datum: 2025-11-20 04:34:03
+Datum: 2025-11-21 04:34:44
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €41,990
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 530530E IPERFORMANCE 252CV PACK M
-  €29,990 → €27,990 (-€2,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -40,5 +33,5 @@ Verkäufertypen:
   Privat: 10
   Händler: 3
 
-Generiert am: 2025-11-20 04:34:03
+Generiert am: 2025-11-21 04:34:44
 AutoScout24 Luxembourg Scraper v2.0
