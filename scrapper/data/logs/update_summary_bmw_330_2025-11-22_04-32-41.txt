@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 330
-Datum: 2025-11-21 04:34:00
+Datum: 2025-11-22 04:32:41
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 42
-Neue Listings: 3
+Gesamt gefundene Listings: 43
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €40,934
-Median-Preis: €39,490
+Durchschnittspreis: €40,726
+Median-Preis: €38,990
 Günstigstes: €11,000
 Teuerstes: €76,322
 Preisspanne: €65,322
@@ -28,28 +28,40 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Preisänderungen heute: 6
 
-📉 PREISSENKUNGEN (2)
+📉 PREISSENKUNGEN (6)
 ==============================
-• BMW 330Touring
-  €38,900 → €36,900 (-€2,000)
+• BMW 330330i M-Sport Touring 245CV *Hayon*ACC*Siège...
+  €38,990 → €37,990 (-€1,000)
 
-• BMW 330Touring
-  €40,900 → €38,900 (-€2,000)
+• BMW 330330i M-Sport Touring 245CV *M Sport* *Camér...
+  €38,990 → €37,990 (-€1,000)
+
+• BMW 330330i xDrive M-Sport Touring 245CV Hayon, AC...
+  €42,990 → €41,990 (-€1,000)
+
+• BMW 330330i xDrive M-Sport Touring 245CV *Hayon*AC...
+  €40,990 → €39,990 (-€1,000)
+
+• BMW 330330i M-Sport Touring xDrive 245CV * Hayon *...
+  €40,990 → €39,990 (-€1,000)
+
+• BMW 330330i M-Sport Touring xDrive 245CV * Hayon *...
+  €41,990 → €40,990 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 33
+  Benzin: 34
   2: 6
   Diesel: 3
 
 Verkäufertypen:
-  Händler: 35
+  Händler: 36
   Privat: 7
 
-Generiert am: 2025-11-21 04:34:00
+Generiert am: 2025-11-22 04:32:41
 AutoScout24 Luxembourg Scraper v2.0

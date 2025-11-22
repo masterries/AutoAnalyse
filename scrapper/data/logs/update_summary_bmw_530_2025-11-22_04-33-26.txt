@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 520
-Datum: 2025-11-21 04:34:34
+Fahrzeug: bmw 530
+Datum: 2025-11-22 04:33:26
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 22
+Gesamt gefundene Listings: 13
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €44,457
-Median-Preis: €54,450
-Günstigstes: €7,000
-Teuerstes: €74,258
-Preisspanne: €67,258
+Durchschnittspreis: €30,071
+Median-Preis: €28,500
+Günstigstes: €15,500
+Teuerstes: €57,490
+Preisspanne: €41,990
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 520520d Touring Aut. carnet complet, CT 2 ans
-  €30,100 → €29,500 (-€600)
+• BMW 530530i xDrive 252 ch BVA8 Business Design
+  €18,900 → €18,000 (-€900)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 11
-  Benzin: 6
-  3: 5
+  Diesel: 7
+  2: 4
+  Benzin: 2
 
 Verkäufertypen:
-  Händler: 15
-  Privat: 7
+  Privat: 10
+  Händler: 3
 
-Generiert am: 2025-11-21 04:34:34
+Generiert am: 2025-11-22 04:33:26
 AutoScout24 Luxembourg Scraper v2.0
