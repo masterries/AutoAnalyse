@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a1
-Datum: 2025-11-24 04:40:32
+Fahrzeug: bmw 530
+Datum: 2025-11-25 04:36:34
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 51
+Gesamt gefundene Listings: 12
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,114
-Median-Preis: €25,490
-Günstigstes: €4,650
-Teuerstes: €43,315
-Preisspanne: €38,665
+Durchschnittspreis: €29,627
+Median-Preis: €28,245
+Günstigstes: €15,500
+Teuerstes: €57,490
+Preisspanne: €41,990
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 50
-  Diesel: 1
+  Diesel: 7
+  2: 3
+  Benzin: 2
 
 Verkäufertypen:
-  Händler: 46
-  Privat: 5
+  Privat: 10
+  Händler: 2
 
-Generiert am: 2025-11-24 04:40:32
+Generiert am: 2025-11-25 04:36:34
 AutoScout24 Luxembourg Scraper v2.0
