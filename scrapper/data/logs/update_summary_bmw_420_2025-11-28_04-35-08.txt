@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 420
-Datum: 2025-11-27 04:35:52
+Datum: 2025-11-28 04:35:08
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €37,899
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 420420i Gran Coupe M Sport
-  €24,999 → €23,999 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -41,5 +34,5 @@ Verkäufertypen:
   Händler: 9
   Privat: 5
 
-Generiert am: 2025-11-27 04:35:52
+Generiert am: 2025-11-28 04:35:08
 AutoScout24 Luxembourg Scraper v2.0
