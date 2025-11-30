@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 530
-Datum: 2025-11-29 04:34:51
+Datum: 2025-11-30 04:42:04
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €45,190
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 530530d xDrive Touring Aut. Luxury Line
-  €15,500 → €14,900 (-€600)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -40,5 +33,5 @@ Verkäufertypen:
   Privat: 9
   Händler: 3
 
-Generiert am: 2025-11-29 04:34:51
+Generiert am: 2025-11-30 04:42:04
 AutoScout24 Luxembourg Scraper v2.0
