@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a4
-Datum: 2025-12-02 04:37:44
+Datum: 2025-12-03 04:36:15
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 52
+Gesamt gefundene Listings: 50
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €18,927
+Durchschnittspreis: €18,804
 Median-Preis: €18,874
 Günstigstes: €2,299
 Teuerstes: €40,990
@@ -20,25 +20,18 @@ Preisspanne: €38,691
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Audi A435 TFSI - SLINE auto CAMERA/CUIR
-  €30,980 → €29,990 (-€990)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 35
+  Diesel: 33
   Benzin: 16
   3: 1
 
 Verkäufertypen:
   Privat: 29
-  Händler: 23
+  Händler: 21
 
-Generiert am: 2025-12-02 04:37:44
+Generiert am: 2025-12-03 04:36:15
 AutoScout24 Luxembourg Scraper v2.0
