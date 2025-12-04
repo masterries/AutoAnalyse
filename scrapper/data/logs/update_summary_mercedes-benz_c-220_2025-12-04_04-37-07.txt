@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-220
-Datum: 2025-12-03 04:35:04
+Datum: 2025-12-04 04:37:07
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 45
-Neue Listings: 2
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
@@ -40,5 +40,5 @@ Verkäufertypen:
   Händler: 33
   Privat: 12
 
-Generiert am: 2025-12-03 04:35:04
+Generiert am: 2025-12-04 04:37:07
 AutoScout24 Luxembourg Scraper v2.0
