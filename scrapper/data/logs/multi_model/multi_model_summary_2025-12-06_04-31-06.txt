@@ -1,7 +1,7 @@
 AutoScout24 Multi-Model Update Summary
 ======================================
 
-Generiert am: 2025-12-05 04:36:32
+Generiert am: 2025-12-06 04:31:06
 AutoScout24 Luxembourg Scraper v2.0
 
 GESAMTÜBERSICHT
@@ -188,5 +188,5 @@ Preisänderungen heute: 604
 
 
 ============================================================
-Generiert am: 2025-12-05 04:36:32
+Generiert am: 2025-12-06 04:31:06
 AutoScout24 Luxembourg Multi-Model Scraper v2.0
