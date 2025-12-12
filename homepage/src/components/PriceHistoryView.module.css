@@ -1,0 +1,350 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xl);
+}
+
+.header {
+  text-align: center;
+}
+
+.title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--color-text-primary);
+}
+
+.subtitle {
+  color: var(--color-text-secondary);
+  margin-top: var(--spacing-sm);
+}
+
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--spacing-md);
+}
+
+.statCard {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+  padding: var(--spacing-lg);
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+}
+
+.statIconGreen {
+  color: var(--color-success);
+}
+
+.statIconRed {
+  color: var(--color-error);
+}
+
+.statIconBlue {
+  color: var(--color-info);
+}
+
+.statIconPurple {
+  color: var(--color-accent-primary);
+}
+
+.statContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.statValue {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-text-primary);
+}
+
+.statLabel {
+  font-size: 0.75rem;
+  color: var(--color-text-tertiary);
+  text-transform: uppercase;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+  flex-wrap: wrap;
+}
+
+.searchBox {
+  flex: 1;
+  min-width: 250px;
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  color: var(--color-text-tertiary);
+}
+
+.searchInput {
+  flex: 1;
+  border: none;
+  background: none;
+  color: var(--color-text-primary);
+  outline: none;
+}
+
+.searchInput::placeholder {
+  color: var(--color-text-tertiary);
+}
+
+.filters {
+  display: flex;
+  gap: var(--spacing-sm);
+}
+
+.select {
+  padding: var(--spacing-sm) var(--spacing-md);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: var(--color-bg-card);
+  color: var(--color-text-primary);
+  cursor: pointer;
+}
+
+.select:focus {
+  outline: none;
+  border-color: var(--color-accent-primary);
+}
+
+.historyList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.vehicleCard {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  transition: all var(--transition-base);
+}
+
+.vehicleCard:hover {
+  border-color: var(--color-accent-primary);
+}
+
+.vehicleHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--spacing-lg);
+  cursor: pointer;
+  gap: var(--spacing-md);
+}
+
+.vehicleInfo {
+  flex: 1;
+  min-width: 0;
+}
+
+.vehicleTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.vehicleMakeModel {
+  font-size: 0.875rem;
+  color: var(--color-text-tertiary);
+}
+
+.vehicleStats {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-lg);
+  flex-shrink: 0;
+}
+
+.priceChange {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+}
+
+.trendDown {
+  color: var(--color-success);
+}
+
+.trendUp {
+  color: var(--color-error);
+}
+
+.dropAmount {
+  font-weight: 600;
+  color: var(--color-success);
+}
+
+.increaseAmount {
+  font-weight: 600;
+  color: var(--color-error);
+}
+
+.dropPercent {
+  font-size: 0.875rem;
+  color: var(--color-success);
+}
+
+.increasePercent {
+  font-size: 0.875rem;
+  color: var(--color-error);
+}
+
+.changeCount {
+  font-size: 0.875rem;
+  color: var(--color-text-tertiary);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  background: var(--color-bg-tertiary);
+  border-radius: var(--radius-full);
+}
+
+.chevron {
+  color: var(--color-text-tertiary);
+  transition: transform var(--transition-fast);
+}
+
+.chevronOpen {
+  transform: rotate(180deg);
+}
+
+.vehicleDetails {
+  overflow: hidden;
+  border-top: 1px solid var(--color-border);
+  background: var(--color-bg-tertiary);
+}
+
+.priceJourney {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-xl);
+  padding: var(--spacing-lg);
+  background: var(--color-bg-secondary);
+}
+
+.pricePoint {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.priceLabel {
+  font-size: 0.75rem;
+  color: var(--color-text-tertiary);
+  text-transform: uppercase;
+}
+
+.priceValue {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-text-primary);
+}
+
+.priceArrow {
+  font-size: 1.5rem;
+  color: var(--color-text-tertiary);
+}
+
+.changesList {
+  padding: var(--spacing-md) var(--spacing-lg);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.changeItem {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-sm);
+  background: var(--color-bg-secondary);
+  border-radius: var(--radius-md);
+  font-size: 0.875rem;
+  color: var(--color-text-secondary);
+}
+
+.changeDate {
+  min-width: 80px;
+}
+
+.changeOldPrice,
+.changeNewPrice {
+  font-weight: 500;
+  color: var(--color-text-primary);
+}
+
+.changeArrow {
+  color: var(--color-text-tertiary);
+}
+
+.chartWrapper {
+  padding: var(--spacing-lg);
+}
+
+.emptyState {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-3xl);
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+  text-align: center;
+  color: var(--color-text-tertiary);
+}
+
+.emptyState h3 {
+  margin-top: var(--spacing-md);
+  color: var(--color-text-secondary);
+}
+
+.emptyState p {
+  margin-top: var(--spacing-sm);
+  max-width: 400px;
+}
+
+@media (max-width: 768px) {
+  .vehicleHeader {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .vehicleStats {
+    width: 100%;
+    justify-content: space-between;
+    margin-top: var(--spacing-sm);
+  }
+
+  .priceJourney {
+    gap: var(--spacing-md);
+  }
+
+  .changeItem {
+    flex-wrap: wrap;
+  }
+
+  .filters {
+    width: 100%;
+  }
+
+  .select {
+    flex: 1;
+  }
+}
