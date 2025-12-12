@@ -1,0 +1,98 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a3
+Datum: 2025-12-12 22:57:32
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 117
+Neue Listings: 19
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €28,022
+Median-Preis: €28,970
+Günstigstes: €3,450
+Teuerstes: €52,160
+Preisspanne: €48,710
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €3,450 - Audi A31.9 TDI Attraction
+• €3,499 - Audi A3SportBack 2.0 TDI Attraction DPF
+• €6,000 - Audi A33.2 S line Sportpaket plus quattro
+• €9,000 - Audi A3A3 2.0 TDI Sportback quattro Attraction
+• €9,000 - Audi A3A3 2.0 TDI Sportback DPF S line Sportpaket
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 16
+
+📉 PREISSENKUNGEN (16)
+==============================
+• Audi A330 TDI 115CH Sportback Business
+  €17,990 → €16,990 (-€1,000)
+
+• Audi A335 TFSI Sportback S line
+  €24,700 → €24,400 (-€300)
+
+• Audi A3SB+S-Line+S-tronic+35TFSI+LED
+  €34,990 → €33,990 (-€1,000)
+
+• Audi A3SB+S-Line+35TFSI+S-Tronic
+  €34,490 → €32,990 (-€1,500)
+
+• Audi A3SB+S-Line+35TFSI+S-Tronic
+  €33,490 → €32,990 (-€500)
+
+• Audi A3SB+S-line+35TFSI+S-Tronic+P.Busin
+  €33,490 → €32,490 (-€1,000)
+
+• Audi A3SB+S-Line+35TFSI+S-Tronic
+  €34,490 → €33,990 (-€500)
+
+• Audi A3SB+S-line+S-Tronic+35TDI
+  €33,990 → €33,490 (-€500)
+
+• Audi A3SB+S-Line+35TFSI+S-Tronic
+  €34,490 → €33,990 (-€500)
+
+• Audi A3SB+Advanced+S-Tronic+30TFSI
+  €31,990 → €29,490 (-€2,500)
+
+• Audi A3SB+S-Line+35TFSI+S-Tronic
+  €34,490 → €32,990 (-€1,500)
+
+• Audi A335 TDI allstreet S tronic
+  €38,583 → €38,283 (-€300)
+
+• Audi A3Sportback S line TFSI 150 CV / 110 kW S tro...
+  €49,748 → €47,829 (-€1,919)
+
+• Audi A335 TDI allstreet S tronic
+  €38,096 → €37,766 (-€330)
+
+• Audi A3SB+S-Line+35TFSI+S-Tronic
+  €34,490 → €33,990 (-€500)
+
+• Audi A3Sportback S line TDI 150 CV / 110 kW S tron...
+  €45,785 → €45,748 (-€37)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 65
+  Diesel: 43
+  2: 8
+  CNG: 1
+
+Verkäufertypen:
+  Händler: 97
+  Privat: 20
+
+Generiert am: 2025-12-12 22:57:32
+AutoScout24 Luxembourg Scraper v2.0

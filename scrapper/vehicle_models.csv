@@ -6,6 +6,7 @@ mercedes-benz,c-220
 bmw,120
 audi,a3
 audi,a4
+audi,a5
 audi,a1
 volkswagen,golf
 volkswagen,polo
@@ -14,5 +15,11 @@ bmw,330
 bmw,420
 bmw,430
 bmw,520
-bmw,530
+bmw,5
 bmw,x1
+tesla,model-3
+kia,ev3
+kia,ev4
+kia,ev5
+kia,ev6
+kia,ev9

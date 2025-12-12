@@ -238,10 +238,39 @@ class AutoScout24LuxembourgScraper:
     def extract_listing_data(self, article_soup) -> Optional[Dict[str, Any]]:
         """Extrahiert Daten aus einem article Element"""
         try:
-            # Eindeutige ID des Listings (GUID)
-            listing_id = article_soup.get('data-guid')
+            # Eindeutige ID des Listings (versuche mehrere Attribute / Fallbacks)
+            listing_id = None
+            possible_id_attrs = [
+                'data-guid', 'data-id', 'data-listing-id', 'data-ad-id', 'data-adid', 'id'
+            ]
+            for attr in possible_id_attrs:
+                if attr in article_soup.attrs and article_soup.get(attr):
+                    listing_id = article_soup.get(attr)
+                    break
+
+            # Falls noch kein ID gefunden, suche in verschachtelten Elementen
             if not listing_id:
-                listing_id = article_soup.get('id', 'unknown')
+                for attr in possible_id_attrs:
+                    nested = article_soup.find(attrs={attr: True})
+                    if nested and nested.get(attr):
+                        listing_id = nested.get(attr)
+                        break
+
+            # Letzter Versuch: ID aus Link-Href ableiten
+            if not listing_id:
+                link_for_id = article_soup.find('a', href=True)
+                if link_for_id:
+                    href = link_for_id.get('href')
+                    if href:
+                        # nehme letzten Pfadteil oder query param
+                        href_parts = re.split(r'[/?#&=]', href)
+                        for part in reversed(href_parts):
+                            if part and re.search(r'\d', part):
+                                listing_id = part
+                                break
+
+            if not listing_id:
+                listing_id = 'unknown'
             
             # Basis-Datenstruktur
             data = {
@@ -269,13 +298,39 @@ class AutoScout24LuxembourgScraper:
             data["first_registration"] = article_soup.get('data-first-registration')
             data["seller_type"] = self._convert_seller_type(article_soup.get('data-seller-type'))
             
-            # Titel und URL aus dem Link extrahieren
+            # Titel und URL aus dem Link oder Header-Elementen extrahieren (robuste Fallbacks)
+            title = None
+            url = None
+
+            # 1) Link mit Klassen-Pattern
             title_link = article_soup.find('a', class_=re.compile(r'.*title.*'))
-            if title_link:
-                data["title"] = title_link.get_text(strip=True)
-                href = title_link.get('href')
-                if href:
-                    data["url"] = urljoin("https://www.autoscout24.lu", href)
+            if title_link and title_link.get_text(strip=True):
+                title = title_link.get_text(strip=True)
+                url = title_link.get('href')
+
+            # 2) H2/H3 Überschriften
+            if not title:
+                heading = article_soup.find(['h1', 'h2', 'h3'])
+                if heading and heading.get_text(strip=True):
+                    title = heading.get_text(strip=True)
+
+            # 3) beliebiger Linktext
+            if not title:
+                any_link = article_soup.find('a', href=True)
+                if any_link and any_link.get_text(strip=True):
+                    title = any_link.get_text(strip=True)
+                    url = any_link.get('href')
+
+            # 4) Alt-Text des Bildes
+            if not title:
+                img = article_soup.find('img', alt=True)
+                if img and img.get('alt'):
+                    title = img.get('alt')
+
+            if url:
+                data["url"] = urljoin("https://www.autoscout24.lu", url)
+            if title:
+                data["title"] = title
             
             # Leistung extrahieren
             power_elem = article_soup.find('span', {'data-testid': 'VehicleDetails-speedometer'})
