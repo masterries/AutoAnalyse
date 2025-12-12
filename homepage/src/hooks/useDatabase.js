@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import initSqlJs from 'sql.js';
+// we'll dynamically import sql.js inside the effect to handle different bundler shapes
 
 export function useDatabase() {
   const [db, setDb] = useState(null);
@@ -12,22 +12,40 @@ export function useDatabase() {
         setLoading(true);
         setError(null);
 
-        const SQL = await initSqlJs({
-          locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/${file}`
+        // Prefer global `initSqlJs` (loaded via script). If not present, inject CDN script.
+        if (typeof globalThis.initSqlJs !== 'function') {
+          await new Promise((resolve, reject) => {
+            const script = document.createElement('script');
+            script.src = 'https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.13.0/sql-wasm.js';
+            script.async = true;
+            script.onload = () => resolve();
+            script.onerror = () => reject(new Error('Failed to load sql-wasm.js from CDN'));
+            document.head.appendChild(script);
+          });
+        }
+
+        if (typeof globalThis.initSqlJs !== 'function') {
+          throw new Error('sql.js: initSqlJs not available after loading script');
+        }
+
+        const SQL = await globalThis.initSqlJs({
+          locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.13.0/${file}`
         });
 
-        // Try multiple paths for the database file
+        // Try multiple paths for the database file; prefer the local `scrapper/data` file
         const dbPaths = [
+          `${window.location.origin}/scrapper/data/autoscout_data.db`,
+          '/scrapper/data/autoscout_data.db',
           '../scrapper/data/autoscout_data.db',
-          '/AutoAnalyse/scrapper/data/autoscout_data.db',
           'scrapper/data/autoscout_data.db',
-          './scrapper/data/autoscout_data.db'
+          './scrapper/data/autoscout_data.db',
+          'https://raw.githubusercontent.com/masterries/AutoAnalyse/main/frontend/autoscout_data.db'
         ];
 
         let buffer = null;
         for (const path of dbPaths) {
           try {
-            const response = await fetch(path);
+            const response = await fetch(path, { mode: 'cors', redirect: 'follow' });
             if (response.ok) {
               buffer = await response.arrayBuffer();
               break;
