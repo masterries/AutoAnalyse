@@ -1,0 +1,48 @@
+# Daily AutoScout24 Scraper - Automated Data Collection
+
+name: AutoScout24 Daily Scraper
+
+on:
+  schedule:
+    # Runs daily at 4:00 AM UTC
+    - cron: '0 4 * * *'
+  workflow_dispatch: # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+        
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scrapper/requirements.txt
+        
+    - name: Run Scraper
+      run: |
+        cd scrapper
+        python3 autoscout_luxembourg_scraper.py --multi-model vehicle_models.csv --scrape-all --delay 3
+        
+    - name: Commit and push data
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "AutoScout24 Scraper Bot"
+        
+        git add scrapper/data/
+        
+        if ! git diff --cached --quiet; then
+          git commit -m "🤖 Daily scraper update - $(date '+%Y-%m-%d %H:%M UTC')"
+          git push
+        else
+          echo "No changes to commit"
+        fi
