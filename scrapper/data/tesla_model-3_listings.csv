@@ -1,0 +1,7 @@
+id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
+3362,22100515-b750-4479-bd1c-8d6f8a86c7e1,tesla,model-3,Tesla Model 3Model 3 Langstreckenbatt. Allradantrieb Dual Motor,,19500.0,129000,Elektro,11-2020,,,Privat,,2025-12-12T23:13:28.179982,1765581208,1,2025-12-12 23:13:31,2025-12-12 23:13:31
+3363,79243560-5160-434f-b6d7-f066b7245428,tesla,model-3,Tesla Model 3Model 3 Dual Motor,,24900.0,118500,Elektro,09-2021,,,Privat,,2025-12-12T23:13:28.180596,1765581208,1,2025-12-12 23:13:31,2025-12-12 23:13:31
+3364,00f4cb42-7383-4dfa-899c-3098ebb9e2d5,tesla,model-3,Tesla Model 3SR+,,19900.0,109000,Elektro,10-2019,,,Privat,,2025-12-12T23:13:28.181040,1765581208,1,2025-12-12 23:13:31,2025-12-12 23:13:31
+3365,ff52775c-1930-4c3a-b442-048912565b90,tesla,model-3,Tesla Model 3Performance,,26500.0,119683,Elektro,03-2021,,,Händler,,2025-12-12T23:13:28.181505,1765581208,1,2025-12-12 23:13:31,2025-12-12 23:13:31
+3366,6f385bb0-1e77-45f1-972a-6a56ad3a8551,tesla,model-3,Tesla Model 3Model 3 Longrange All-Wheel Drive,,42000.0,19750,Elektro,11-2023,,,Händler,,2025-12-12T23:13:28.181961,1765581208,1,2025-12-12 23:13:31,2025-12-12 23:13:31
+3367,d31296de-d8e6-4d3a-92ab-ceeec15ba611,tesla,model-3,Tesla Model 3Model 3 RWD Hinterradantrieb,,33000.0,30053,Elektro,11-2023,,,Händler,,2025-12-12T23:13:28.182421,1765581208,1,2025-12-12 23:13:31,2025-12-12 23:13:31
