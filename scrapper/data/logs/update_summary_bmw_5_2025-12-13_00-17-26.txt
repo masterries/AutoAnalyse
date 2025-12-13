@@ -1,0 +1,46 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 5
+Datum: 2025-12-13 00:17:26
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 190
+Neue Listings: 9
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €24,646
+Median-Preis: €20,995
+Günstigstes: €2,980
+Teuerstes: €99,990
+Preisspanne: €97,010
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €2,980 - BMW 320i Touring Pack M
+• €3,999 - BMW 118118d 143 ch Confort
+• €4,500 - BMW 118118i
+• €5,200 - BMW 118Sport
+• €5,290 - BMW 116116D
+
+PREISÄNDERUNGEN
+===============
+Keine Preisänderungen verfügbar.
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 89
+  Diesel: 85
+  2: 15
+  o: 1
+
+Verkäufertypen:
+  Händler: 107
+  Privat: 83
+
+Generiert am: 2025-12-13 00:17:26
+AutoScout24 Luxembourg Scraper v2.0

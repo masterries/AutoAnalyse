@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-200
-Datum: 2025-12-12 23:07:41
+Fahrzeug: volkswagen golf
+Datum: 2025-12-13 00:15:03
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 52
+Gesamt gefundene Listings: 122
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €32,728
-Median-Preis: €33,490
-Günstigstes: €12,000
-Teuerstes: €44,990
-Preisspanne: €32,990
+Durchschnittspreis: €25,853
+Median-Preis: €27,990
+Günstigstes: €1,000
+Teuerstes: €52,999
+Preisspanne: €51,999
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 22
-  Diesel: 21
-  unknown: 8
-  2: 1
+  Benzin: 70
+  Diesel: 45
+  2: 5
+  unknown: 2
 
 Verkäufertypen:
-  Händler: 43
-  Privat: 9
+  Händler: 97
+  Privat: 25
 
-Generiert am: 2025-12-12 23:07:41
+Generiert am: 2025-12-13 00:15:03
 AutoScout24 Luxembourg Scraper v2.0
