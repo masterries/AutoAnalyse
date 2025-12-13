@@ -32,6 +32,7 @@ jobs:
       run: |
         cd scrapper
         python3 autoscout_luxembourg_scraper.py --multi-model vehicle_models.csv --scrape-all --delay 3
+        cp -f ./data/autoscout_data.db ../homepage/public/scrapper/data/autoscout_data.db
         
     - name: Commit and push data
       run: |
