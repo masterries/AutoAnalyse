@@ -1,0 +1,232 @@
+AutoScout24 Multi-Model Update Summary
+======================================
+
+Generiert am: 2025-12-14 04:46:30
+AutoScout24 Luxembourg Scraper v2.0
+
+GESAMTÜBERSICHT
+===============
+Überwachte Fahrzeugmodelle: 24
+Gesamte aktive Listings: 1,151
+Neue Listings heute: 22
+Preisänderungen heute: 602
+
+🆕 MODELLE MIT NEUEN LISTINGS (9)
+==================================================
+• BMW X1
+  📊 2 neue von 49 Listings | 💰 61 Preisänderungen
+  🕐 2025-12-14T04:45:28.838949
+
+• BMW 5
+  📊 9 neue von 190 Listings | 💰 2 Preisänderungen
+  🕐 2025-12-14T04:45:11.917516
+
+• BMW 330
+  📊 1 neue von 45 Listings | 💰 82 Preisänderungen
+  🕐 2025-12-14T04:43:57.952541
+
+• BMW 320
+  📊 1 neue von 51 Listings
+  🕐 2025-12-14T04:43:40.336593
+
+• VOLKSWAGEN POLO
+  📊 2 neue von 91 Listings
+  🕐 2025-12-14T04:43:22.449284
+
+• VOLKSWAGEN GOLF
+  📊 4 neue von 125 Listings | 💰 157 Preisänderungen
+  🕐 2025-12-14T04:42:57.805923
+
+• AUDI A1
+  📊 1 neue von 54 Listings | 💰 100 Preisänderungen
+  🕐 2025-12-14T04:42:24.896982
+
+• AUDI A3
+  📊 1 neue von 118 Listings | 💰 166 Preisänderungen
+  🕐 2025-12-14T04:41:32.893912
+
+• BMW 120
+  📊 1 neue von 72 Listings
+  🕐 2025-12-14T04:41:04.721151
+
+💰 MODELLE MIT PREISÄNDERUNGEN (7)
+==================================================
+• BMW X1: 61 Änderungen
+  📉 1x gesunken (Ø 6,000€)
+
+• BMW 5: 2 Änderungen
+  📈 1x gestiegen (Ø 1,000€)
+  📉 1x gesunken (Ø 490€)
+
+• BMW 330: 82 Änderungen
+  📉 1x gesunken (Ø 10,000€)
+
+• VOLKSWAGEN GOLF: 157 Änderungen
+  📉 1x gesunken (Ø 1,000€)
+
+• AUDI A1: 100 Änderungen
+  📉 1x gesunken (Ø 150€)
+
+• AUDI A3: 166 Änderungen
+  📉 1x gesunken (Ø 500€)
+
+• BMW 530: 34 Änderungen
+
+📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
+========================================
+✅ KIA EV9
+   📊 Listings: 2 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:46:24.837806
+   💶 Preise: Ø €77,145 | €69,000 - €85,290
+
+✅ KIA EV6
+   📊 Listings: 6 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:46:14.749268
+   💶 Preise: Ø €46,060 | €30,000 - €64,990
+
+✅ KIA EV4
+   📊 Listings: 3 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:45:58.001777
+   💶 Preise: Ø €53,823 | €52,490 - €55,990
+
+✅ KIA EV3
+   📊 Listings: 9 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:45:48.127676
+   💶 Preise: Ø €41,746 | €36,490 - €52,890
+
+✅ TESLA MODEL-3
+   📊 Listings: 6 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:45:38.488101
+   💶 Preise: Ø €27,633 | €19,500 - €42,000
+
+✅ BMW X1
+   📊 Listings: 49 (2 neu) | 💰 61 Preisänderungen
+   🕐 Letztes Update: 2025-12-14T04:45:28.838949
+   💶 Preise: Ø €40,287 | €7,990 - €66,499
+
+✅ BMW 5
+   📊 Listings: 190 (9 neu) | 💰 2 Preisänderungen
+   🕐 Letztes Update: 2025-12-14T04:45:11.917516
+   💶 Preise: Ø €25,796 | €2,980 - €99,990
+
+✅ BMW 520
+   📊 Listings: 21 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:44:31.846006
+   💶 Preise: Ø €38,061 | €7,000 - €74,258
+
+✅ BMW 430
+   📊 Listings: 9 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:44:18.251298
+   💶 Preise: Ø €50,817 | €23,500 - €74,500
+
+✅ BMW 420
+   📊 Listings: 14 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:44:08.314408
+   💶 Preise: Ø €36,218 | €22,000 - €59,899
+
+✅ BMW 330
+   📊 Listings: 45 (1 neu) | 💰 82 Preisänderungen
+   🕐 Letztes Update: 2025-12-14T04:43:57.952541
+   💶 Preise: Ø €36,832 | €7,990 - €76,322
+
+✅ BMW 320
+   📊 Listings: 51 (1 neu)
+   🕐 Letztes Update: 2025-12-14T04:43:40.336593
+   💶 Preise: Ø €29,223 | €2,980 - €63,888
+
+✅ VOLKSWAGEN POLO
+   📊 Listings: 91 (2 neu)
+   🕐 Letztes Update: 2025-12-14T04:43:22.449284
+   💶 Preise: Ø €16,913 | €800 - €38,123
+
+✅ VOLKSWAGEN GOLF
+   📊 Listings: 125 (4 neu) | 💰 157 Preisänderungen
+   🕐 Letztes Update: 2025-12-14T04:42:57.805923
+   💶 Preise: Ø €25,522 | €1,000 - €52,999
+
+✅ AUDI A1
+   📊 Listings: 54 (1 neu) | 💰 100 Preisänderungen
+   🕐 Letztes Update: 2025-12-14T04:42:24.896982
+   💶 Preise: Ø €23,890 | €4,300 - €43,315
+
+✅ AUDI A5
+   📊 Listings: 55 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:42:07.490052
+   💶 Preise: Ø €40,986 | €6,000 - €73,986
+
+✅ AUDI A4
+   📊 Listings: 51 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:41:50.074822
+   💶 Preise: Ø €19,637 | €2,500 - €39,480
+
+✅ AUDI A3
+   📊 Listings: 118 (1 neu) | 💰 166 Preisänderungen
+   🕐 Letztes Update: 2025-12-14T04:41:32.893912
+   💶 Preise: Ø €27,907 | €3,450 - €52,160
+
+✅ BMW 120
+   📊 Listings: 72 (1 neu)
+   🕐 Letztes Update: 2025-12-14T04:41:04.721151
+   💶 Preise: Ø €35,916 | €7,500 - €56,295
+
+✅ MERCEDES-BENZ C-220
+   📊 Listings: 48 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:40:42.936948
+   💶 Preise: Ø €43,035 | €2,500 - €67,740
+
+✅ MERCEDES-BENZ C-200
+   📊 Listings: 28 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:40:25.490228
+   💶 Preise: Ø €34,567 | €2,900 - €57,990
+
+✅ MERCEDES-BENZ A-200
+   📊 Listings: 52 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:40:11.194434
+   💶 Preise: Ø €32,728 | €12,000 - €44,990
+
+✅ MERCEDES-BENZ A-180
+   📊 Listings: 42 (0 neu)
+   🕐 Letztes Update: 2025-12-14T04:39:54.157635
+   💶 Preise: Ø €23,831 | €3,999 - €34,990
+
+✅ BMW 530
+   📊 Listings: 10 (0 neu) | 💰 34 Preisänderungen
+   🕐 Letztes Update: 2025-12-04T04:40:56.511083
+   💶 Preise: Ø €26,114 | €12,300 - €57,490
+
+🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
+==================================================
+ 1. €     800 - VOLKSWAGEN POLO
+    Volkswagen PoloPolo 1.2
+
+ 2. €   1,000 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.9 TDI Individual
+
+ 3. €   2,300 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 Trendline
+
+ 4. €   2,300 - VOLKSWAGEN POLO
+    Volkswagen Polo
+
+ 5. €   2,490 - VOLKSWAGEN POLO
+    Volkswagen Polo1.4 TDI 5p *Prête à immatriculer*
+
+ 6. €   2,500 - AUDI A4
+    Audi A41.9 TDI quattro
+
+ 7. €   2,500 - MERCEDES-BENZ C-220
+    Mercedes-Benz C 220T CDI Automatik Elegance
+
+ 8. €   2,550 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 FSI Sportline
+
+ 9. €   2,600 - VOLKSWAGEN GOLF
+    Volkswagen Golf1.6 16v essence
+
+10. €   2,750 - VOLKSWAGEN GOLF
+    Volkswagen Golf1.9 TDI
+
+
+============================================================
+Generiert am: 2025-12-14 04:46:30
+AutoScout24 Luxembourg Multi-Model Scraper v2.0

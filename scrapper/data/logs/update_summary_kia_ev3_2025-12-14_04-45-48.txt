@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2025-12-13 04:35:48
+Fahrzeug: kia ev3
+Datum: 2025-12-14 04:45:48
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 91
+Gesamt gefundene Listings: 9
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €16,503
-Median-Preis: €16,990
-Günstigstes: €800
-Teuerstes: €38,123
-Preisspanne: €37,323
+Durchschnittspreis: €41,746
+Median-Preis: €40,590
+Günstigstes: €36,490
+Teuerstes: €52,890
+Preisspanne: €16,400
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 78
-  Diesel: 13
+  Elektro: 9
 
 Verkäufertypen:
-  Händler: 65
-  Privat: 26
+  Händler: 9
 
-Generiert am: 2025-12-13 04:35:48
+Generiert am: 2025-12-14 04:45:48
 AutoScout24 Luxembourg Scraper v2.0
