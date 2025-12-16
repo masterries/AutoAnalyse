@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-180
-Datum: 2025-12-15 04:46:36
+Datum: 2025-12-16 04:39:47
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 43
-Neue Listings: 1
+Gesamt gefundene Listings: 42
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,672
-Median-Preis: €22,299
+Durchschnittspreis: €23,571
+Median-Preis: €22,144
 Günstigstes: €3,999
 Teuerstes: €34,990
 Preisspanne: €30,991
@@ -28,17 +28,24 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-Benz A 180AMG Line
+  €17,000 → €15,999 (-€1,001)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Diesel: 31
-  Benzin: 12
+  Benzin: 11
 
 Verkäufertypen:
-  Händler: 31
+  Händler: 30
   Privat: 12
 
-Generiert am: 2025-12-15 04:46:36
+Generiert am: 2025-12-16 04:39:47
 AutoScout24 Luxembourg Scraper v2.0

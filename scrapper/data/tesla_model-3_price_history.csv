@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+1151,6f385bb0-1e77-45f1-972a-6a56ad3a8551,tesla,model-3,Tesla Model 3Model 3 Longrange All-Wheel Drive,42000.0,41300.0,-700.0,-1.6666666666666667,PREIS_GESUNKEN,2025-12-16T04:46:05.235546,1765860365,2025-12-15T04:52:16.979427,2025-12-16 04:46:05
