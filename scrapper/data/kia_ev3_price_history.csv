@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+1167,20e39262-4703-4eab-a029-c4e151862204,kia,ev3,"Kia EV358,3 KWH 204 EARTH",39590.0,39990.0,400.0,1.0103561505430665,PREIS_GESTIEGEN,2025-12-17T04:43:56.007547,1765946636,2025-12-16T04:46:12.402943,2025-12-17 04:43:56

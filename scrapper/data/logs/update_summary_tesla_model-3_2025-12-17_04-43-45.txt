@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: tesla model-3
-Datum: 2025-12-16 04:46:05
+Datum: 2025-12-17 04:43:45
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €25,801
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Tesla Model 3Model 3 Longrange All-Wheel Drive
-  €42,000 → €41,300 (-€700)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -38,5 +31,5 @@ Verkäufertypen:
   Privat: 3
   Händler: 2
 
-Generiert am: 2025-12-16 04:46:05
+Generiert am: 2025-12-17 04:43:45
 AutoScout24 Luxembourg Scraper v2.0

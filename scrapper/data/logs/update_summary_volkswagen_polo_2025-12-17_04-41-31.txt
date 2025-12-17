@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2025-12-16 04:43:36
+Datum: 2025-12-17 04:41:31
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 92
-Neue Listings: 6
+Gesamt gefundene Listings: 102
+Neue Listings: 11
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,367
-Median-Preis: €19,445
+Durchschnittspreis: €17,568
+Median-Preis: €20,945
 Günstigstes: €800
 Teuerstes: €38,123
 Preisspanne: €37,323
@@ -22,30 +22,33 @@ TOP 5 GÜNSTIGSTE LISTINGS
 =========================
 • €800 - Volkswagen PoloPolo 1.2
 • €2,300 - Volkswagen Polo
+• €2,490 - Volkswagen PoloLupo Essence *Ct, Garantie*
 • €2,490 - Volkswagen Polo1.4 TDI 5p *Prête à immatriculer*
 • €2,850 - Volkswagen Polo1.4 TDI DPF BlueMotion
-• €2,950 - Volkswagen Polo1.4 TDI DPF BlueMotion
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Preisänderungen heute: 2
 
-📉 PREISSENKUNGEN (1)
+📉 PREISSENKUNGEN (2)
 ==============================
-• Volkswagen PoloComfortline
-  €15,900 → €15,400 (-€500)
+• Volkswagen Polo1.2 TSI 90 BlueMotion Technology Sé...
+  €7,500 → €6,500 (-€1,000)
+
+• Volkswagen PoloLife+DSG+LED+Navi+Digi+
+  €21,990 → €21,490 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 79
+  Benzin: 89
   Diesel: 13
 
 Verkäufertypen:
-  Händler: 69
-  Privat: 23
+  Händler: 78
+  Privat: 24
 
-Generiert am: 2025-12-16 04:43:36
+Generiert am: 2025-12-17 04:41:31
 AutoScout24 Luxembourg Scraper v2.0
