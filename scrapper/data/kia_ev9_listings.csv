@@ -1,3 +1,3 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-3386,4e496cd6-f2a9-4ebd-92cd-9c86b707ffed,kia,ev9,"Kia EV9GT Line 'Launch Edition' 99,8 kWh AWD",,69000.0,8500,Elektro,12-2023,,,Händler,,2025-12-17T04:44:29.790811,1765946669,1,2025-12-12 23:14:20,2025-12-17 04:44:33
-3387,32b34c54-a4b9-44ed-9f2d-8358204a98f8,kia,ev9,"Kia EV999,8 KWH 384 GT LINE AWD",,85290.0,0,Elektro,new,,,Händler,,2025-12-17T04:44:29.791418,1765946669,1,2025-12-12 23:14:20,2025-12-17 04:44:33
+3386,4e496cd6-f2a9-4ebd-92cd-9c86b707ffed,kia,ev9,"Kia EV9GT Line 'Launch Edition' 99,8 kWh AWD",,69000.0,8500,Elektro,12-2023,,,Händler,,2025-12-18T04:45:05.930847,1766033105,1,2025-12-12 23:14:20,2025-12-18 04:45:09
+3387,32b34c54-a4b9-44ed-9f2d-8358204a98f8,kia,ev9,"Kia EV999,8 KWH 384 GT LINE AWD",,85290.0,0,Elektro,new,,,Händler,,2025-12-18T04:45:05.931369,1766033105,1,2025-12-12 23:14:20,2025-12-18 04:45:09
