@@ -1,44 +1,43 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a4
-Datum: 2025-12-18 04:40:24
+Fahrzeug: mercedes-benz c-220
+Datum: 2025-12-19 04:39:18
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 49
+Gesamt gefundene Listings: 48
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €20,585
-Median-Preis: €22,000
+Durchschnittspreis: €43,369
+Median-Preis: €52,990
 Günstigstes: €2,500
-Teuerstes: €39,480
-Preisspanne: €36,980
+Teuerstes: €67,740
+Preisspanne: €65,240
 
 PREISÄNDERUNGEN
 ===============
 Preisänderungen heute: 1
 
-📉 PREISSENKUNGEN (1)
+📉 PREISSENKUNGEN (0)
 ==============================
-• Audi A4Avant
-  €34,890 → €33,890 (-€1,000)
+📈 PREISERHÖHUNGEN (1)
+==============================
+• Mercedes-Benz C 220d AMG line
+  €39,900 → €41,900 (+€2,000)
 
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 31
-  Benzin: 17
-  3: 1
+  Diesel: 46
+  3: 2
 
 Verkäufertypen:
-  Privat: 27
-  Händler: 22
+  Händler: 37
+  Privat: 11
 
-Generiert am: 2025-12-18 04:40:24
+Generiert am: 2025-12-19 04:39:18
 AutoScout24 Luxembourg Scraper v2.0

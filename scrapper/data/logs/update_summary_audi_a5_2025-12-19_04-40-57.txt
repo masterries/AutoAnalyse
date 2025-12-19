@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a5
-Datum: 2025-12-18 04:40:46
+Datum: 2025-12-19 04:40:57
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 55
-Neue Listings: 1
+Gesamt gefundene Listings: 57
+Neue Listings: 4
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €41,186
-Median-Preis: €46,745
+Durchschnittspreis: €40,669
+Median-Preis: €46,470
 Günstigstes: €6,000
 Teuerstes: €73,986
 Preisspanne: €67,986
@@ -33,15 +33,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 34
+  Diesel: 37
   Benzin: 16
   2: 3
-  3: 1
   o: 1
 
 Verkäufertypen:
-  Händler: 42
-  Privat: 13
+  Händler: 43
+  Privat: 14
 
-Generiert am: 2025-12-18 04:40:46
+Generiert am: 2025-12-19 04:40:57
 AutoScout24 Luxembourg Scraper v2.0
