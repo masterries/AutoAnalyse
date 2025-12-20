@@ -1,0 +1,236 @@
+AutoScout24 Multi-Model Update Summary
+======================================
+
+Generiert am: 2025-12-20 04:39:05
+AutoScout24 Luxembourg Scraper v2.0
+
+GESAMTÜBERSICHT
+===============
+Überwachte Fahrzeugmodelle: 24
+Gesamte aktive Listings: 1,184
+Neue Listings heute: 35
+Preisänderungen heute: 254
+
+🆕 MODELLE MIT NEUEN LISTINGS (11)
+==================================================
+• BMW X1
+  📊 1 neue von 46 Listings
+  🕐 2025-12-20T04:38:02.582515
+
+• BMW 5
+  📊 8 neue von 190 Listings | 💰 8 Preisänderungen
+  🕐 2025-12-20T04:37:45.474538
+
+• BMW 330
+  📊 1 neue von 45 Listings
+  🕐 2025-12-20T04:36:30.552793
+
+• BMW 320
+  📊 3 neue von 53 Listings | 💰 53 Preisänderungen
+  🕐 2025-12-20T04:36:12.879381
+
+• VOLKSWAGEN POLO
+  📊 2 neue von 103 Listings
+  🕐 2025-12-20T04:35:55.385311
+
+• VOLKSWAGEN GOLF
+  📊 2 neue von 123 Listings
+  🕐 2025-12-20T04:35:26.669816
+
+• AUDI A1
+  📊 5 neue von 56 Listings
+  🕐 2025-12-20T04:34:54.517865
+
+• AUDI A4
+  📊 2 neue von 52 Listings | 💰 65 Preisänderungen
+  🕐 2025-12-20T04:34:19.150272
+
+• AUDI A3
+  📊 5 neue von 124 Listings
+  🕐 2025-12-20T04:34:01.613194
+
+• MERCEDES-BENZ C-220
+  📊 3 neue von 49 Listings
+  🕐 2025-12-20T04:33:07.093305
+
+• MERCEDES-BENZ A-200
+  📊 3 neue von 58 Listings
+  🕐 2025-12-20T04:32:35.189416
+
+💰 MODELLE MIT PREISÄNDERUNGEN (6)
+==================================================
+• BMW 5: 8 Änderungen
+  📉 1x gesunken (Ø 250€)
+
+• BMW 320: 53 Änderungen
+  📉 1x gesunken (Ø 500€)
+
+• AUDI A5: 3 Änderungen
+  📉 1x gesunken (Ø 100€)
+
+• AUDI A4: 65 Änderungen
+  📉 1x gesunken (Ø 1,000€)
+
+• BMW 120: 91 Änderungen
+  📉 1x gesunken (Ø 50€)
+
+• BMW 530: 34 Änderungen
+
+📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
+========================================
+✅ KIA EV9
+   📊 Listings: 2 (0 neu)
+   🕐 Letztes Update: 2025-12-20T04:38:59.292254
+   💶 Preise: Ø €77,145 | €69,000 - €85,290
+
+✅ KIA EV6
+   📊 Listings: 6 (0 neu)
+   🕐 Letztes Update: 2025-12-20T04:38:49.285318
+   💶 Preise: Ø €46,060 | €30,000 - €64,990
+
+✅ KIA EV4
+   📊 Listings: 3 (0 neu)
+   🕐 Letztes Update: 2025-12-20T04:38:32.617782
+   💶 Preise: Ø €53,823 | €52,490 - €55,990
+
+✅ KIA EV3
+   📊 Listings: 9 (0 neu)
+   🕐 Letztes Update: 2025-12-20T04:38:22.699898
+   💶 Preise: Ø €41,790 | €36,490 - €52,890
+
+✅ TESLA MODEL-3
+   📊 Listings: 5 (0 neu)
+   🕐 Letztes Update: 2025-12-20T04:38:12.571567
+   💶 Preise: Ø €25,620 | €15,499 - €41,300
+
+✅ BMW X1
+   📊 Listings: 46 (1 neu)
+   🕐 Letztes Update: 2025-12-20T04:38:02.582515
+   💶 Preise: Ø €40,303 | €7,999 - €66,499
+
+✅ BMW 5
+   📊 Listings: 190 (8 neu) | 💰 8 Preisänderungen
+   🕐 Letztes Update: 2025-12-20T04:37:45.474538
+   💶 Preise: Ø €25,874 | €2,980 - €99,990
+
+✅ BMW 520
+   📊 Listings: 21 (0 neu)
+   🕐 Letztes Update: 2025-12-20T04:37:04.558246
+   💶 Preise: Ø €39,037 | €7,000 - €74,258
+
+✅ BMW 430
+   📊 Listings: 11 (0 neu)
+   🕐 Letztes Update: 2025-12-20T04:36:50.533174
+   💶 Preise: Ø €45,940 | €19,990 - €74,500
+
+✅ BMW 420
+   📊 Listings: 13 (0 neu)
+   🕐 Letztes Update: 2025-12-20T04:36:40.508867
+   💶 Preise: Ø €36,158 | €22,000 - €59,899
+
+✅ BMW 330
+   📊 Listings: 45 (1 neu)
+   🕐 Letztes Update: 2025-12-20T04:36:30.552793
+   💶 Preise: Ø €36,222 | €7,990 - €76,322
+
+✅ BMW 320
+   📊 Listings: 53 (3 neu) | 💰 53 Preisänderungen
+   🕐 Letztes Update: 2025-12-20T04:36:12.879381
+   💶 Preise: Ø €30,361 | €2,980 - €63,888
+
+✅ VOLKSWAGEN POLO
+   📊 Listings: 103 (2 neu)
+   🕐 Letztes Update: 2025-12-20T04:35:55.385311
+   💶 Preise: Ø €17,839 | €800 - €38,123
+
+✅ VOLKSWAGEN GOLF
+   📊 Listings: 123 (2 neu)
+   🕐 Letztes Update: 2025-12-20T04:35:26.669816
+   💶 Preise: Ø €25,730 | €1,000 - €64,990
+
+✅ AUDI A1
+   📊 Listings: 56 (5 neu)
+   🕐 Letztes Update: 2025-12-20T04:34:54.517865
+   💶 Preise: Ø €26,323 | €11,700 - €43,315
+
+✅ AUDI A5
+   📊 Listings: 56 (0 neu) | 💰 3 Preisänderungen
+   🕐 Letztes Update: 2025-12-20T04:34:36.894749
+   💶 Preise: Ø €40,876 | €6,000 - €73,986
+
+✅ AUDI A4
+   📊 Listings: 52 (2 neu) | 💰 65 Preisänderungen
+   🕐 Letztes Update: 2025-12-20T04:34:19.150272
+   💶 Preise: Ø €20,267 | €2,500 - €39,480
+
+✅ AUDI A3
+   📊 Listings: 124 (5 neu)
+   🕐 Letztes Update: 2025-12-20T04:34:01.613194
+   💶 Preise: Ø €28,525 | €3,450 - €52,160
+
+✅ BMW 120
+   📊 Listings: 78 (0 neu) | 💰 91 Preisänderungen
+   🕐 Letztes Update: 2025-12-20T04:33:28.719160
+   💶 Preise: Ø €35,904 | €7,500 - €56,295
+
+✅ MERCEDES-BENZ C-220
+   📊 Listings: 49 (3 neu)
+   🕐 Letztes Update: 2025-12-20T04:33:07.093305
+   💶 Preise: Ø €42,482 | €2,500 - €67,740
+
+✅ MERCEDES-BENZ C-200
+   📊 Listings: 29 (0 neu)
+   🕐 Letztes Update: 2025-12-20T04:32:49.797109
+   💶 Preise: Ø €34,575 | €2,900 - €57,990
+
+✅ MERCEDES-BENZ A-200
+   📊 Listings: 58 (3 neu)
+   🕐 Letztes Update: 2025-12-20T04:32:35.189416
+   💶 Preise: Ø €32,070 | €10,500 - €43,990
+
+✅ MERCEDES-BENZ A-180
+   📊 Listings: 42 (0 neu)
+   🕐 Letztes Update: 2025-12-20T04:32:14.706552
+   💶 Preise: Ø €23,548 | €3,999 - €34,990
+
+✅ BMW 530
+   📊 Listings: 10 (0 neu) | 💰 34 Preisänderungen
+   🕐 Letztes Update: 2025-12-04T04:40:56.511083
+   💶 Preise: Ø €26,114 | €12,300 - €57,490
+
+🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
+==================================================
+ 1. €     800 - VOLKSWAGEN POLO
+    Volkswagen PoloPolo 1.2
+
+ 2. €   1,000 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.9 TDI Individual
+
+ 3. €   2,300 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 Trendline
+
+ 4. €   2,300 - VOLKSWAGEN POLO
+    Volkswagen Polo
+
+ 5. €   2,490 - VOLKSWAGEN POLO
+    Volkswagen PoloLupo Essence *Ct, Garantie*
+
+ 6. €   2,490 - VOLKSWAGEN POLO
+    Volkswagen Polo1.4 TDI 5p *Prête à immatriculer*
+
+ 7. €   2,500 - AUDI A4
+    Audi A41.9 TDI quattro
+
+ 8. €   2,500 - MERCEDES-BENZ C-220
+    Mercedes-Benz C 220T CDI Automatik Elegance
+
+ 9. €   2,550 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.6 FSI Sportline
+
+10. €   2,600 - VOLKSWAGEN GOLF
+    Volkswagen Golf1.6 16v essence
+
+
+============================================================
+Generiert am: 2025-12-20 04:39:05
+AutoScout24 Luxembourg Multi-Model Scraper v2.0
