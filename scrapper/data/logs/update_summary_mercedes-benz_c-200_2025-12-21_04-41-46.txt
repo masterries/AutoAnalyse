@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-200
-Datum: 2025-12-20 04:32:49
+Datum: 2025-12-21 04:41:46
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -34,5 +34,5 @@ Verkäufertypen:
   Händler: 25
   Privat: 4
 
-Generiert am: 2025-12-20 04:32:49
+Generiert am: 2025-12-21 04:41:46
 AutoScout24 Luxembourg Scraper v2.0

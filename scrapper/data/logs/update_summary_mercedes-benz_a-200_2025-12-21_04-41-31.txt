@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2025-12-20 04:33:28
+Fahrzeug: mercedes-benz a-200
+Datum: 2025-12-21 04:41:31
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 78
+Gesamt gefundene Listings: 58
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €35,904
-Median-Preis: €35,900
-Günstigstes: €7,500
-Teuerstes: €56,295
-Preisspanne: €48,795
+Durchschnittspreis: €32,046
+Median-Preis: €33,490
+Günstigstes: €10,500
+Teuerstes: €43,990
+Preisspanne: €33,490
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 120120d Cabrio Aut. - Motor neu gemacht*
-  €11,700 → €11,650 (-€50)
+• Mercedes-Benz A 2007G-DCT AMG Line
+  €23,900 → €22,500 (-€1,400)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 43
-  Diesel: 16
-  2: 13
-  3: 6
+  Benzin: 26
+  Diesel: 22
+  unknown: 9
+  2: 1
 
 Verkäufertypen:
-  Händler: 71
-  Privat: 7
+  Händler: 47
+  Privat: 11
 
-Generiert am: 2025-12-20 04:33:28
+Generiert am: 2025-12-21 04:41:31
 AutoScout24 Luxembourg Scraper v2.0

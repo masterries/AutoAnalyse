@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2025-12-20 04:34:01
+Datum: 2025-12-21 04:42:58
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 124
-Neue Listings: 5
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €28,525
+Durchschnittspreis: €28,428
 Median-Preis: €29,240
 Günstigstes: €3,450
 Teuerstes: €52,160
@@ -39,8 +39,8 @@ Kraftstofftypen:
   CNG: 1
 
 Verkäufertypen:
-  Händler: 106
-  Privat: 18
+  Händler: 105
+  Privat: 19
 
-Generiert am: 2025-12-20 04:34:01
+Generiert am: 2025-12-21 04:42:58
 AutoScout24 Luxembourg Scraper v2.0

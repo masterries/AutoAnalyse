@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 330
-Datum: 2025-12-20 04:36:30
+Datum: 2025-12-21 04:45:34
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -41,5 +41,5 @@ Verkäufertypen:
   Händler: 36
   Privat: 9
 
-Generiert am: 2025-12-20 04:36:30
+Generiert am: 2025-12-21 04:45:34
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a5
-Datum: 2025-12-20 04:34:36
+Fahrzeug: bmw 120
+Datum: 2025-12-21 04:42:26
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 56
+Gesamt gefundene Listings: 77
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €40,876
-Median-Preis: €46,608
-Günstigstes: €6,000
-Teuerstes: €73,986
-Preisspanne: €67,986
+Durchschnittspreis: €35,878
+Median-Preis: €35,900
+Günstigstes: €7,500
+Teuerstes: €56,295
+Preisspanne: €48,795
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A5Sportback 2.0 TFSI quattro S tronic sport
-  €22,000 → €21,900 (-€100)
+• BMW 120d M Sportpaket Head-Up HK HiFi DAB LED RFK
+  €39,899 → €37,899 (-€2,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 37
-  Benzin: 16
-  2: 3
+  Benzin: 42
+  Diesel: 16
+  2: 13
+  3: 6
 
 Verkäufertypen:
-  Händler: 42
-  Privat: 14
+  Händler: 70
+  Privat: 7
 
-Generiert am: 2025-12-20 04:34:36
+Generiert am: 2025-12-21 04:42:26
 AutoScout24 Luxembourg Scraper v2.0

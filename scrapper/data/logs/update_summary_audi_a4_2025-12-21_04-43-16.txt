@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a4
-Datum: 2025-12-20 04:34:19
+Datum: 2025-12-21 04:43:16
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 52
-Neue Listings: 2
+Gesamt gefundene Listings: 55
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €20,267
-Median-Preis: €21,750
+Durchschnittspreis: €19,980
+Median-Preis: €20,900
 Günstigstes: €2,500
 Teuerstes: €39,480
 Preisspanne: €36,980
@@ -28,25 +28,18 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Audi A4Avant 35 TDI S tronic advanced
-  €21,900 → €20,900 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 34
+  Diesel: 37
   Benzin: 17
   3: 1
 
 Verkäufertypen:
-  Privat: 29
+  Privat: 32
   Händler: 23
 
-Generiert am: 2025-12-20 04:34:19
+Generiert am: 2025-12-21 04:43:16
 AutoScout24 Luxembourg Scraper v2.0
