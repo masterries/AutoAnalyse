@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2025-12-21 04:42:26
+Fahrzeug: volkswagen polo
+Datum: 2025-12-22 04:49:52
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 77
+Gesamt gefundene Listings: 101
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €35,878
-Median-Preis: €35,900
-Günstigstes: €7,500
-Teuerstes: €56,295
-Preisspanne: €48,795
+Durchschnittspreis: €17,958
+Median-Preis: €20,990
+Günstigstes: €800
+Teuerstes: €38,123
+Preisspanne: €37,323
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 120d M Sportpaket Head-Up HK HiFi DAB LED RFK
-  €39,899 → €37,899 (-€2,000)
+• Volkswagen Polo1.0 Trendline
+  €11,000 → €10,500 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 42
-  Diesel: 16
-  2: 13
-  3: 6
+  Benzin: 89
+  Diesel: 12
 
 Verkäufertypen:
-  Händler: 70
-  Privat: 7
+  Händler: 81
+  Privat: 20
 
-Generiert am: 2025-12-21 04:42:26
+Generiert am: 2025-12-22 04:49:52
 AutoScout24 Luxembourg Scraper v2.0

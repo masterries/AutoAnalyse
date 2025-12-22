@@ -1,0 +1,38 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz a-200
+Datum: 2025-12-22 04:46:15
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 58
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €32,046
+Median-Preis: €33,490
+Günstigstes: €10,500
+Teuerstes: €43,990
+Preisspanne: €33,490
+
+PREISÄNDERUNGEN
+===============
+Keine Preisänderungen verfügbar.
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 26
+  Diesel: 22
+  unknown: 9
+  2: 1
+
+Verkäufertypen:
+  Händler: 47
+  Privat: 11
+
+Generiert am: 2025-12-22 04:46:15
+AutoScout24 Luxembourg Scraper v2.0
