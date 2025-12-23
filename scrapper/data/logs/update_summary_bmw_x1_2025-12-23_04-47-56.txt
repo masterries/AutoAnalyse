@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2025-12-22 04:49:52
+Fahrzeug: bmw x1
+Datum: 2025-12-23 04:47:56
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 101
+Gesamt gefundene Listings: 45
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,958
-Median-Preis: €20,990
-Günstigstes: €800
-Teuerstes: €38,123
-Preisspanne: €37,323
+Durchschnittspreis: €40,299
+Median-Preis: €42,990
+Günstigstes: €7,999
+Teuerstes: €66,499
+Preisspanne: €58,500
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen Polo1.0 Trendline
-  €11,000 → €10,500 (-€500)
+• BMW X125e Hybrid Xdrive
+  €23,900 → €22,900 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 89
-  Diesel: 12
+  Diesel: 19
+  Benzin: 18
+  2: 6
+  3: 2
 
 Verkäufertypen:
-  Händler: 81
-  Privat: 20
+  Händler: 37
+  Privat: 8
 
-Generiert am: 2025-12-22 04:49:52
+Generiert am: 2025-12-23 04:47:56
 AutoScout24 Luxembourg Scraper v2.0
