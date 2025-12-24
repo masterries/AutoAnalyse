@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 430
-Datum: 2025-12-23 04:46:36
+Datum: 2025-12-24 04:44:57
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 13
-Neue Listings: 2
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,14 +17,6 @@ Median-Preis: €48,900
 Günstigstes: €19,990
 Teuerstes: €74,500
 Preisspanne: €54,510
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €19,990 - BMW 430430IA GRAN COUPE  252 CV M SPORT GPS 430i
-• €23,500 - BMW 430430i Cabrio Sport Line M interior
-• €28,000 - BMW 430m sport paket xdrive f36
-• €39,990 - BMW 430430i Coupe M Sport
-• €45,950 - BMW 430430i Cabrio M Sport
 
 PREISÄNDERUNGEN
 ===============
@@ -40,5 +32,5 @@ Verkäufertypen:
   Händler: 8
   Privat: 5
 
-Generiert am: 2025-12-23 04:46:36
+Generiert am: 2025-12-24 04:44:57
 AutoScout24 Luxembourg Scraper v2.0

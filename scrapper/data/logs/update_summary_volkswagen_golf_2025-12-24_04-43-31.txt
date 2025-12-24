@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen golf
-Datum: 2025-12-23 04:45:06
+Datum: 2025-12-24 04:43:31
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 125
+Gesamt gefundene Listings: 118
 Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,421
+Durchschnittspreis: €24,764
 Median-Preis: €26,990
 Günstigstes: €1,000
 Teuerstes: €64,990
@@ -28,19 +28,32 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 3
 
+📉 PREISSENKUNGEN (3)
+==============================
+• Volkswagen Golf7 R-line
+  €14,990 → €13,990 (-€1,000)
+
+• Volkswagen GolfR Variant 4Motion 320cv CAMERA/IQ L...
+  €37,480 → €36,900 (-€580)
+
+• Volkswagen GolfLife
+  €33,740 → €33,490 (-€250)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 69
-  Diesel: 49
+  Benzin: 65
+  Diesel: 47
   2: 5
-  unknown: 2
+  unknown: 1
 
 Verkäufertypen:
-  Händler: 95
-  Privat: 30
+  Händler: 89
+  Privat: 29
 
-Generiert am: 2025-12-23 04:45:06
+Generiert am: 2025-12-24 04:43:31
 AutoScout24 Luxembourg Scraper v2.0
