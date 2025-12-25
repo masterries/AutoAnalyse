@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2025-12-24 04:44:00
+Datum: 2025-12-25 04:45:58
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -28,15 +28,8 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Volkswagen PoloLife
-  €22,820 → €22,650 (-€170)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -47,5 +40,5 @@ Verkäufertypen:
   Händler: 84
   Privat: 20
 
-Generiert am: 2025-12-24 04:44:00
+Generiert am: 2025-12-25 04:45:58
 AutoScout24 Luxembourg Scraper v2.0
