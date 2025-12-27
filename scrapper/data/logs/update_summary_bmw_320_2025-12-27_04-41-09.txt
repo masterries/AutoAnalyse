@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a1
-Datum: 2025-12-26 04:41:49
+Fahrzeug: bmw 320
+Datum: 2025-12-27 04:41:09
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 59
+Gesamt gefundene Listings: 52
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €26,111
-Median-Preis: €26,890
-Günstigstes: €11,700
-Teuerstes: €43,315
-Preisspanne: €31,615
+Durchschnittspreis: €30,501
+Median-Preis: €30,500
+Günstigstes: €2,900
+Teuerstes: €63,888
+Preisspanne: €60,988
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 59
+  Diesel: 33
+  Benzin: 11
+  3: 7
+  2: 1
 
 Verkäufertypen:
-  Händler: 56
-  Privat: 3
+  Händler: 30
+  Privat: 22
 
-Generiert am: 2025-12-26 04:41:49
+Generiert am: 2025-12-27 04:41:09
 AutoScout24 Luxembourg Scraper v2.0
