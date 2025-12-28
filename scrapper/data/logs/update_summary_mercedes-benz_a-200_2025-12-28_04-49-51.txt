@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a4
-Datum: 2025-12-27 04:39:08
+Fahrzeug: mercedes-benz a-200
+Datum: 2025-12-28 04:49:51
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 51
+Gesamt gefundene Listings: 53
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €21,005
-Median-Preis: €22,000
-Günstigstes: €2,500
-Teuerstes: €38,990
-Preisspanne: €36,490
+Durchschnittspreis: €31,902
+Median-Preis: €33,490
+Günstigstes: €9,500
+Teuerstes: €43,990
+Preisspanne: €34,490
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A4Avant
-  €39,480 → €38,980 (-€500)
+• Mercedes-Benz A 2007G-DCT AMG Line
+  €22,500 → €21,000 (-€1,500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 34
-  Benzin: 16
-  3: 1
+  Benzin: 23
+  Diesel: 21
+  unknown: 8
+  2: 1
 
 Verkäufertypen:
-  Privat: 31
-  Händler: 20
+  Händler: 42
+  Privat: 11
 
-Generiert am: 2025-12-27 04:39:08
+Generiert am: 2025-12-28 04:49:51
 AutoScout24 Luxembourg Scraper v2.0

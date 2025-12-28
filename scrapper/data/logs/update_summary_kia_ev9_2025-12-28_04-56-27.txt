@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 330
-Datum: 2025-12-27 04:41:27
+Fahrzeug: kia ev9
+Datum: 2025-12-28 04:56:27
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 45
+Gesamt gefundene Listings: 2
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,057
-Median-Preis: €38,990
-Günstigstes: €7,990
-Teuerstes: €76,322
-Preisspanne: €68,332
+Durchschnittspreis: €77,145
+Median-Preis: €77,145
+Günstigstes: €69,000
+Teuerstes: €85,290
+Preisspanne: €16,290
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 33
-  2: 6
-  Diesel: 5
-  o: 1
+  Elektro: 2
 
 Verkäufertypen:
-  Händler: 36
-  Privat: 9
+  Händler: 2
 
-Generiert am: 2025-12-27 04:41:27
+Generiert am: 2025-12-28 04:56:27
 AutoScout24 Luxembourg Scraper v2.0

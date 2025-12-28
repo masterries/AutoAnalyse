@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: tesla model-3
-Datum: 2025-12-27 04:43:10
+Fahrzeug: bmw 520
+Datum: 2025-12-28 04:54:31
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 4
+Gesamt gefundene Listings: 24
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €28,950
-Median-Preis: €25,700
-Günstigstes: €19,900
-Teuerstes: €44,500
-Preisspanne: €24,600
+Durchschnittspreis: €36,373
+Median-Preis: €31,445
+Günstigstes: €7,000
+Teuerstes: €74,258
+Preisspanne: €67,258
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 4
+  Diesel: 16
+  3: 4
+  Benzin: 4
 
 Verkäufertypen:
-  Privat: 3
-  Händler: 1
+  Händler: 16
+  Privat: 8
 
-Generiert am: 2025-12-27 04:43:10
+Generiert am: 2025-12-28 04:54:31
 AutoScout24 Luxembourg Scraper v2.0

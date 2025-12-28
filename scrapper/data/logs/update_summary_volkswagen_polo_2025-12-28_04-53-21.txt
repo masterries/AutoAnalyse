@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2025-12-27 04:40:50
+Datum: 2025-12-28 04:53:21
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 104
-Neue Listings: 1
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
@@ -40,5 +40,5 @@ Verkäufertypen:
   Händler: 84
   Privat: 20
 
-Generiert am: 2025-12-27 04:40:50
+Generiert am: 2025-12-28 04:53:21
 AutoScout24 Luxembourg Scraper v2.0
