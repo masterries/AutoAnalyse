@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw x1
-Datum: 2025-12-28 04:55:29
+Fahrzeug: bmw 330
+Datum: 2025-12-29 04:58:14
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 46
+Gesamt gefundene Listings: 45
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €39,312
-Median-Preis: €42,990
-Günstigstes: €7,999
-Teuerstes: €66,499
-Preisspanne: €58,500
+Durchschnittspreis: €36,050
+Median-Preis: €38,990
+Günstigstes: €7,990
+Teuerstes: €76,322
+Preisspanne: €68,332
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 20
-  Diesel: 18
+  Benzin: 33
   2: 6
-  3: 2
+  Diesel: 5
+  o: 1
 
 Verkäufertypen:
-  Händler: 40
-  Privat: 6
+  Händler: 36
+  Privat: 9
 
-Generiert am: 2025-12-28 04:55:29
+Generiert am: 2025-12-29 04:58:14
 AutoScout24 Luxembourg Scraper v2.0

@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-200
-Datum: 2025-12-28 04:49:51
+Datum: 2025-12-29 04:54:05
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €34,490
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Mercedes-Benz A 2007G-DCT AMG Line
-  €22,500 → €21,000 (-€1,500)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -41,5 +34,5 @@ Verkäufertypen:
   Händler: 42
   Privat: 11
 
-Generiert am: 2025-12-28 04:49:51
+Generiert am: 2025-12-29 04:54:05
 AutoScout24 Luxembourg Scraper v2.0
