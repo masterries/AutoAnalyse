@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: tesla model-3
-Datum: 2025-12-31 04:48:07
+Fahrzeug: mercedes-benz c-220
+Datum: 2026-01-01 04:53:05
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 4
+Gesamt gefundene Listings: 53
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €28,950
-Median-Preis: €25,700
-Günstigstes: €19,900
-Teuerstes: €44,500
-Preisspanne: €24,600
+Durchschnittspreis: €39,714
+Median-Preis: €44,990
+Günstigstes: €2,500
+Teuerstes: €67,740
+Preisspanne: €65,240
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 4
+  Diesel: 51
+  3: 2
 
 Verkäufertypen:
-  Privat: 3
-  Händler: 1
+  Händler: 37
+  Privat: 16
 
-Generiert am: 2025-12-31 04:48:07
+Generiert am: 2026-01-01 04:53:05
 AutoScout24 Luxembourg Scraper v2.0

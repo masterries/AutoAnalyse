@@ -1,5 +1,5 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-3363,79243560-5160-434f-b6d7-f066b7245428,tesla,model-3,Tesla Model 3Model 3 Dual Motor,,24900.0,118500,Elektro,09-2021,,,Privat,,2025-12-31T04:48:04.270330,1767156484,1,2025-12-12 23:13:31,2025-12-31 04:48:07
-3364,00f4cb42-7383-4dfa-899c-3098ebb9e2d5,tesla,model-3,Tesla Model 3SR+,,19900.0,109000,Elektro,10-2019,,,Privat,,2025-12-31T04:48:04.270943,1767156484,1,2025-12-12 23:13:31,2025-12-31 04:48:07
-3365,ff52775c-1930-4c3a-b442-048912565b90,tesla,model-3,Tesla Model 3Performance,,26500.0,119683,Elektro,03-2021,,,Händler,,2025-12-31T04:48:04.271857,1767156484,1,2025-12-12 23:13:31,2025-12-31 04:48:07
-3680,b0d68521-ff5c-4d31-9cc1-0621bd63b5a9,tesla,model-3,Tesla Model 3Model 3 Langstreckenbatt. Allradantrieb Dual Motor Performance,,44500.0,32000,Elektro,06-2024,,,Privat,,2025-12-31T04:48:04.271389,1767156484,1,2025-12-23 04:48:07,2025-12-31 04:48:07
+3363,79243560-5160-434f-b6d7-f066b7245428,tesla,model-3,Tesla Model 3Model 3 Dual Motor,,24900.0,118500,Elektro,09-2021,,,Privat,,2026-01-01T04:58:12.617073,1767243492,1,2025-12-12 23:13:31,2026-01-01 04:58:16
+3364,00f4cb42-7383-4dfa-899c-3098ebb9e2d5,tesla,model-3,Tesla Model 3SR+,,19900.0,109000,Elektro,10-2019,,,Privat,,2026-01-01T04:58:12.617652,1767243492,1,2025-12-12 23:13:31,2026-01-01 04:58:16
+3365,ff52775c-1930-4c3a-b442-048912565b90,tesla,model-3,Tesla Model 3Performance,,26500.0,119683,Elektro,03-2021,,,Händler,,2026-01-01T04:58:12.618095,1767243492,1,2025-12-12 23:13:31,2026-01-01 04:58:16
+3680,b0d68521-ff5c-4d31-9cc1-0621bd63b5a9,tesla,model-3,Tesla Model 3Model 3 Langstreckenbatt. Allradantrieb Dual Motor Performance,,44500.0,32000,Elektro,06-2024,,,Privat,,2026-01-01T04:58:12.618553,1767243492,1,2025-12-23 04:48:07,2026-01-01 04:58:16
