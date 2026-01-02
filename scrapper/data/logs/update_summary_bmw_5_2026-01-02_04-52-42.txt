@@ -1,0 +1,74 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 5
+Datum: 2026-01-02 04:52:42
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 190
+Neue Listings: 3
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €26,298
+Median-Preis: €22,900
+Günstigstes: €1,500
+Teuerstes: €99,990
+Preisspanne: €98,490
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,500 - BMW 116
+• €4,990 - BMW 320320d DPF Touring
+• €5,000 - BMW 116116i
+• €5,200 - BMW 118Sport
+• €5,500 - BMW 116116d DPF Edition Lifestyle
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 8
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 216Active Tourer 216 dA AdBlue
+  €15,900 → €14,900 (-€1,000)
+
+📈 PREISERHÖHUNGEN (7)
+==============================
+• BMW 440M i GRANCOUPE XDRIVE NEW MODEL SPORT SITZE ...
+  €53,900 → €55,900 (+€2,000)
+
+• BMW M43.0 DKG  CUIR NAVI
+  €54,900 → €56,900 (+€2,000)
+
+• BMW 118i SPORTLINE AUTO CUIR NAVI
+  €22,900 → €23,900 (+€1,000)
+
+• BMW M54.4 DKG NIGHT VISION CUIR NAVI
+  €42,900 → €46,900 (+€4,000)
+
+• BMW M43.0 DKG COMPETITION FACELIFT CARBON HARMAN K...
+  €54,900 → €56,900 (+€2,000)
+
+• BMW 240M i CABRIO XDRIVE FACELIFT HARMAN KARDON CU...
+  €31,900 → €32,900 (+€1,000)
+
+• BMW 118D NEW MODEL M SPORT PAKET HEAD UP AHK PANO ...
+  €34,900 → €35,900 (+€1,000)
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 89
+  Diesel: 82
+  2: 18
+  o: 1
+
+Verkäufertypen:
+  Händler: 115
+  Privat: 75
+
+Generiert am: 2026-01-02 04:52:42
+AutoScout24 Luxembourg Scraper v2.0

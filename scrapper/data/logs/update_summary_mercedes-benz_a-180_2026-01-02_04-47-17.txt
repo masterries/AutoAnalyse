@@ -1,0 +1,46 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz a-180
+Datum: 2026-01-02 04:47:17
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 40
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €23,226
+Median-Preis: €21,985
+Günstigstes: €3,999
+Teuerstes: €34,990
+Preisspanne: €30,991
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (0)
+==============================
+📈 PREISERHÖHUNGEN (2)
+==============================
+• Mercedes-Benz A 180AMG LINE CUIR NAVI 1 HAND
+  €25,900 → €26,900 (+€1,000)
+
+• Mercedes-Benz A 180D AMG LINE AUTO PANO CUIR NAVI ...
+  €23,900 → €24,900 (+€1,000)
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 29
+  Benzin: 11
+
+Verkäufertypen:
+  Händler: 27
+  Privat: 13
+
+Generiert am: 2026-01-02 04:47:17
+AutoScout24 Luxembourg Scraper v2.0
