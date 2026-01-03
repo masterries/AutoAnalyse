@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a4
-Datum: 2026-01-02 04:49:18
+Fahrzeug: tesla model-3
+Datum: 2026-01-03 04:43:25
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 50
+Gesamt gefundene Listings: 4
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €20,645
-Median-Preis: €21,750
-Günstigstes: €2,500
-Teuerstes: €38,980
-Preisspanne: €36,480
+Durchschnittspreis: €28,950
+Median-Preis: €25,700
+Günstigstes: €19,900
+Teuerstes: €44,500
+Preisspanne: €24,600
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 34
-  Benzin: 15
-  3: 1
+  Elektro: 4
 
 Verkäufertypen:
-  Privat: 31
-  Händler: 19
+  Privat: 3
+  Händler: 1
 
-Generiert am: 2026-01-02 04:49:18
+Generiert am: 2026-01-03 04:43:25
 AutoScout24 Luxembourg Scraper v2.0

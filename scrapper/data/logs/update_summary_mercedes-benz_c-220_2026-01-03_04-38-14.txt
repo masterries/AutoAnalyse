@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 320
-Datum: 2026-01-02 04:51:13
+Fahrzeug: mercedes-benz c-220
+Datum: 2026-01-03 04:38:14
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 51
+Gesamt gefundene Listings: 53
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €31,597
-Median-Preis: €32,470
-Günstigstes: €2,800
-Teuerstes: €63,888
-Preisspanne: €61,088
+Durchschnittspreis: €39,714
+Median-Preis: €44,990
+Günstigstes: €2,500
+Teuerstes: €67,740
+Preisspanne: €65,240
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 33
-  Benzin: 10
-  3: 7
-  2: 1
+  Diesel: 51
+  3: 2
 
 Verkäufertypen:
-  Händler: 29
-  Privat: 22
+  Händler: 37
+  Privat: 16
 
-Generiert am: 2026-01-02 04:51:13
+Generiert am: 2026-01-03 04:38:14
 AutoScout24 Luxembourg Scraper v2.0

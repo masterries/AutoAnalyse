@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 420
-Datum: 2026-01-02 04:51:38
+Datum: 2026-01-03 04:41:52
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,543
+Durchschnittspreis: €34,774
 Median-Preis: €33,500
 Günstigstes: €22,000
 Teuerstes: €59,899
@@ -20,7 +20,14 @@ Preisspanne: €37,899
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (0)
+==============================
+📈 PREISERHÖHUNGEN (1)
+==============================
+• BMW 420I Grand coupé pack M 2.0L 184CV
+  €25,990 → €28,990 (+€3,000)
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -33,5 +40,5 @@ Verkäufertypen:
   Händler: 8
   Privat: 5
 
-Generiert am: 2026-01-02 04:51:38
+Generiert am: 2026-01-03 04:41:52
 AutoScout24 Luxembourg Scraper v2.0
