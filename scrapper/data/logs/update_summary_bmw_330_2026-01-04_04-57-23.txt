@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 330
-Datum: 2026-01-03 04:41:41
+Datum: 2026-01-04 04:57:23
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -28,14 +28,7 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
-
-📉 PREISSENKUNGEN (0)
-==============================
-📈 PREISERHÖHUNGEN (1)
-==============================
-• BMW 330i xDrive Touring Pack M
-  €20,990 → €23,990 (+€3,000)
+Keine Preisänderungen verfügbar.
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -49,5 +42,5 @@ Verkäufertypen:
   Händler: 18
   Privat: 10
 
-Generiert am: 2026-01-03 04:41:41
+Generiert am: 2026-01-04 04:57:23
 AutoScout24 Luxembourg Scraper v2.0
