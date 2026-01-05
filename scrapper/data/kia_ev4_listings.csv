@@ -1,4 +1,4 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-3377,b9589ac2-5e77-4c4c-9bcd-b8b842189e01,kia,ev4,"Kia EV481,4 kWh 204 Business Plus",,52490.0,0,Elektro,new,,,Händler,,2026-01-04T04:59:23.434262,1767502763,1,2025-12-12 23:13:52,2026-01-04 04:59:27
-3378,b7a35284-a537-40fe-9644-c179a8878ca2,kia,ev4,"Kia EV481,4 kWh 204 Business Plus",,52990.0,0,Elektro,new,,,Händler,,2026-01-04T04:59:23.433725,1767502763,1,2025-12-12 23:13:52,2026-01-04 04:59:27
-3379,47b8f158-5ab9-4f46-9a43-8c65b967dcdc,kia,ev4,"Kia EV481,4 kWh 204 GT Line",,55990.0,0,Elektro,new,,,Händler,,2026-01-04T04:59:23.434710,1767502763,1,2025-12-12 23:13:52,2026-01-04 04:59:27
+3377,b9589ac2-5e77-4c4c-9bcd-b8b842189e01,kia,ev4,"Kia EV481,4 kWh 204 Business Plus",,52490.0,0,Elektro,new,,,Händler,,2026-01-05T05:06:55.615820,1767589615,1,2025-12-12 23:13:52,2026-01-05 05:07:00
+3378,b7a35284-a537-40fe-9644-c179a8878ca2,kia,ev4,"Kia EV481,4 kWh 204 Business Plus",,52990.0,0,Elektro,new,,,Händler,,2026-01-05T05:06:55.615323,1767589615,1,2025-12-12 23:13:52,2026-01-05 05:07:00
+3379,47b8f158-5ab9-4f46-9a43-8c65b967dcdc,kia,ev4,"Kia EV481,4 kWh 204 GT Line",,55990.0,0,Elektro,new,,,Händler,,2026-01-05T05:06:55.616211,1767589615,1,2025-12-12 23:13:52,2026-01-05 05:07:00

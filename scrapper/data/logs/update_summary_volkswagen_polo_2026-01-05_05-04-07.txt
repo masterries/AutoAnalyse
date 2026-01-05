@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2026-01-04 04:56:51
+Datum: 2026-01-05 05:04:07
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 93
-Neue Listings: 2
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €18,266
+Durchschnittspreis: €18,191
 Median-Preis: €20,990
 Günstigstes: €800
 Teuerstes: €38,123
@@ -33,12 +33,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 81
-  Diesel: 12
+  Benzin: 80
+  Diesel: 13
 
 Verkäufertypen:
   Händler: 76
   Privat: 17
 
-Generiert am: 2026-01-04 04:56:51
+Generiert am: 2026-01-05 05:04:07
 AutoScout24 Luxembourg Scraper v2.0

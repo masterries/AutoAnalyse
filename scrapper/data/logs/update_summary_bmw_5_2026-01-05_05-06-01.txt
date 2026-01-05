@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 5
-Datum: 2026-01-04 04:58:37
+Datum: 2026-01-05 05:06:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 190
-Neue Listings: 9
+Neue Listings: 5
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,456
-Median-Preis: €20,500
+Durchschnittspreis: €24,958
+Median-Preis: €19,990
 Günstigstes: €1,500
 Teuerstes: €99,990
 Preisspanne: €98,490
@@ -22,25 +22,34 @@ TOP 5 GÜNSTIGSTE LISTINGS
 =========================
 • €1,500 - BMW 116
 • €4,990 - BMW 320320d DPF Touring
+• €5,000 - BMW 116116i
 • €5,200 - BMW 118Sport
 • €5,450 - BMW 120120i Sport 170
-• €5,500 - BMW 123123d DPF
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW X2sDrive 18i 140 Advantage Auto.
+  €20,500 → €19,990 (-€510)
+
+📈 PREISERHÖHUNGEN (1)
+==============================
+• BMW 118118d
+  €6,900 → €7,900 (+€1,000)
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 91
-  Diesel: 84
-  2: 14
-  o: 1
+  Benzin: 88
+  Diesel: 85
+  2: 17
 
 Verkäufertypen:
-  Händler: 106
-  Privat: 84
+  Händler: 105
+  Privat: 85
 
-Generiert am: 2026-01-04 04:58:37
+Generiert am: 2026-01-05 05:06:01
 AutoScout24 Luxembourg Scraper v2.0

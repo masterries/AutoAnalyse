@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-180
-Datum: 2026-01-04 04:53:07
+Fahrzeug: audi a4
+Datum: 2026-01-05 05:02:19
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 40
+Gesamt gefundene Listings: 46
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €23,163
-Median-Preis: €21,985
-Günstigstes: €3,999
-Teuerstes: €34,990
-Preisspanne: €30,991
+Durchschnittspreis: €21,016
+Median-Preis: €22,450
+Günstigstes: €2,500
+Teuerstes: €38,980
+Preisspanne: €36,480
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Mercedes-Benz A 180Classe 7G-DCT Inspiration
-  €17,500 → €17,000 (-€500)
+• Audi A42.0 TFSI quattro S tronic Ambition
+  €25,000 → €18,000 (-€7,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 29
-  Benzin: 11
+  Diesel: 30
+  Benzin: 15
+  3: 1
 
 Verkäufertypen:
-  Händler: 27
-  Privat: 13
+  Privat: 27
+  Händler: 19
 
-Generiert am: 2026-01-04 04:53:07
+Generiert am: 2026-01-05 05:02:19
 AutoScout24 Luxembourg Scraper v2.0
