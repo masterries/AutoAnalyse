@@ -1,0 +1,43 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz c-220
+Datum: 2026-01-06 04:45:42
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 52
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €40,351
+Median-Preis: €44,990
+Günstigstes: €2,500
+Teuerstes: €67,740
+Preisspanne: €65,240
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-Benz C 220d Limousine*PANO*LED*AMG**360
+  €44,343 → €42,705 (-€1,638)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 50
+  3: 2
+
+Verkäufertypen:
+  Händler: 37
+  Privat: 15
+
+Generiert am: 2026-01-06 04:45:42
+AutoScout24 Luxembourg Scraper v2.0

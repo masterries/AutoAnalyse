@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-220
-Datum: 2026-01-05 05:01:00
+Fahrzeug: bmw x1
+Datum: 2026-01-06 04:50:37
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 51
+Gesamt gefundene Listings: 45
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €40,821
-Median-Preis: €44,990
-Günstigstes: €2,500
-Teuerstes: €67,740
-Preisspanne: €65,240
+Durchschnittspreis: €37,686
+Median-Preis: €42,990
+Günstigstes: €7,999
+Teuerstes: €66,499
+Preisspanne: €58,500
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 49
+  Diesel: 19
+  Benzin: 18
+  2: 6
   3: 2
 
 Verkäufertypen:
-  Händler: 37
-  Privat: 14
+  Händler: 38
+  Privat: 7
 
-Generiert am: 2026-01-05 05:01:00
+Generiert am: 2026-01-06 04:50:37
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a4
-Datum: 2026-01-05 05:02:19
+Fahrzeug: tesla model-3
+Datum: 2026-01-06 04:50:47
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 46
+Gesamt gefundene Listings: 3
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €21,016
-Median-Preis: €22,450
-Günstigstes: €2,500
-Teuerstes: €38,980
-Preisspanne: €36,480
+Durchschnittspreis: €23,633
+Median-Preis: €24,500
+Günstigstes: €19,900
+Teuerstes: €26,500
+Preisspanne: €6,600
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,19 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A42.0 TFSI quattro S tronic Ambition
-  €25,000 → €18,000 (-€7,000)
+• Tesla Model 3Model 3 Dual Motor
+  €24,900 → €24,500 (-€400)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 30
-  Benzin: 15
-  3: 1
+  Elektro: 3
 
 Verkäufertypen:
-  Privat: 27
-  Händler: 19
+  Privat: 2
+  Händler: 1
 
-Generiert am: 2026-01-05 05:02:19
+Generiert am: 2026-01-06 04:50:47
 AutoScout24 Luxembourg Scraper v2.0
