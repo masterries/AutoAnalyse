@@ -1,0 +1,44 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a5
+Datum: 2026-01-08 04:47:15
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 62
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €39,463
+Median-Preis: €45,230
+Günstigstes: €6,000
+Teuerstes: €73,986
+Preisspanne: €67,986
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Audi A5TDI quattro 150 kW S tronic
+  €52,990 → €49,900 (-€3,090)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 40
+  Benzin: 19
+  2: 3
+
+Verkäufertypen:
+  Händler: 46
+  Privat: 16
+
+Generiert am: 2026-01-08 04:47:15
+AutoScout24 Luxembourg Scraper v2.0
