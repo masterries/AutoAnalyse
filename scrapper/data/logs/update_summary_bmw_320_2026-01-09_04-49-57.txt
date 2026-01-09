@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a5
-Datum: 2026-01-08 04:47:15
+Fahrzeug: bmw 320
+Datum: 2026-01-09 04:49:57
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 62
+Gesamt gefundene Listings: 51
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €39,463
-Median-Preis: €45,230
-Günstigstes: €6,000
-Teuerstes: €73,986
-Preisspanne: €67,986
+Durchschnittspreis: €31,497
+Median-Preis: €32,470
+Günstigstes: €2,800
+Teuerstes: €63,888
+Preisspanne: €61,088
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A5TDI quattro 150 kW S tronic
-  €52,990 → €49,900 (-€3,090)
+• BMW 320Touring
+  €42,900 → €37,900 (-€5,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 40
-  Benzin: 19
-  2: 3
+  Diesel: 35
+  Benzin: 8
+  3: 7
+  2: 1
 
 Verkäufertypen:
-  Händler: 46
-  Privat: 16
+  Händler: 29
+  Privat: 22
 
-Generiert am: 2026-01-08 04:47:15
+Generiert am: 2026-01-09 04:49:57
 AutoScout24 Luxembourg Scraper v2.0
