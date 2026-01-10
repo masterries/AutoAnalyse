@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-200
-Datum: 2026-01-09 04:46:26
+Datum: 2026-01-10 04:39:04
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 36
-Neue Listings: 5
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
@@ -28,27 +28,8 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 5
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (5)
-==============================
-• Mercedes-Benz C 200C 200 d  AMG Line Navi/Pano.-Da...
-  €46,990 → €45,990 (-€1,000)
-
-• Mercedes-Benz C 200C 200 d AMG-Line
-  €49,990 → €44,990 (-€5,000)
-
-• Mercedes-Benz C 200C 200 d
-  €47,900 → €42,990 (-€4,910)
-
-• Mercedes-Benz C 200C 200 d T-Modell
-  €48,990 → €45,990 (-€3,000)
-
-• Mercedes-Benz C 200C 200 d T-Modell 360°+Pano+Digi...
-  €57,990 → €52,990 (-€5,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -61,5 +42,5 @@ Verkäufertypen:
   Händler: 32
   Privat: 4
 
-Generiert am: 2026-01-09 04:46:26
+Generiert am: 2026-01-10 04:39:04
 AutoScout24 Luxembourg Scraper v2.0
