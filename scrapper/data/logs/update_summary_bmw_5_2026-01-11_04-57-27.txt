@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 5
-Datum: 2026-01-10 04:44:18
+Datum: 2026-01-11 04:57:27
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 190
-Neue Listings: 11
+Neue Listings: 9
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €26,204
-Median-Preis: €19,990
+Durchschnittspreis: €26,694
+Median-Preis: €20,995
 Günstigstes: €1,500
 Teuerstes: €119,900
 Preisspanne: €118,400
@@ -32,22 +32,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW X2X2 1.5 dA sDrive16//12 mois  de Garantie ✅
-  €20,900 → €19,900 (-€1,000)
+• BMW 440M i GRANCOUPE XDRIVE NEW MODEL SPORT SITZE ...
+  €53,900 → €52,900 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 88
-  Diesel: 87
-  2: 14
+  Diesel: 91
+  Benzin: 85
+  2: 13
   o: 1
 
 Verkäufertypen:
-  Händler: 107
-  Privat: 83
+  Händler: 110
+  Privat: 80
 
-Generiert am: 2026-01-10 04:44:18
+Generiert am: 2026-01-11 04:57:27
 AutoScout24 Luxembourg Scraper v2.0

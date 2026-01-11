@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-200
-Datum: 2026-01-10 04:39:04
+Datum: 2026-01-11 04:52:14
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 36
-Neue Listings: 3
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,14 +17,6 @@ Median-Preis: €34,985
 Günstigstes: €2,200
 Teuerstes: €54,490
 Preisspanne: €52,290
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €2,200 - Mercedes-Benz C 200CDI - 122 Elégance
-• €2,900 - Mercedes-Benz C 200C 200 Kompressor Sportcoupe Automatik
-• €4,200 - Mercedes-Benz C 200C 200 CDI Sportcoupe
-• €20,900 - Mercedes-Benz C 200D
-• €20,900 - Mercedes-Benz C 200D 160CV Business Solution
 
 PREISÄNDERUNGEN
 ===============
@@ -42,5 +34,5 @@ Verkäufertypen:
   Händler: 32
   Privat: 4
 
-Generiert am: 2026-01-10 04:39:04
+Generiert am: 2026-01-11 04:52:14
 AutoScout24 Luxembourg Scraper v2.0
