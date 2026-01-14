@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+1487,5dbafffa-9cba-4c9f-bfe3-41d63e70dfe3,kia,ev6,Kia EV6GT LINE AWD,44990.0,40990.0,-4000.0,-8.890864636585908,PREIS_GESUNKEN,2026-01-14T04:57:44.177536,1768366664,2026-01-13T04:53:30.952202,2026-01-14 04:57:44

@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: kia ev9
-Datum: 2026-01-13 04:53:44
+Datum: 2026-01-14 04:57:54
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 2
-Neue Listings: 1
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,11 +17,6 @@ Median-Preis: €71,495
 Günstigstes: €69,000
 Teuerstes: €73,990
 Preisspanne: €4,990
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €69,000 - Kia EV9GT Line 'Launch Edition' 99,8 kWh AWD
-• €73,990 - Kia EV999.8KWH 384 GT LINE
 
 PREISÄNDERUNGEN
 ===============
@@ -35,5 +30,5 @@ Kraftstofftypen:
 Verkäufertypen:
   Händler: 2
 
-Generiert am: 2026-01-13 04:53:44
+Generiert am: 2026-01-14 04:57:54
 AutoScout24 Luxembourg Scraper v2.0

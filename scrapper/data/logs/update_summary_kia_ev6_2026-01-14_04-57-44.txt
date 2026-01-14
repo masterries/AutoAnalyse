@@ -1,0 +1,42 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: kia ev6
+Datum: 2026-01-14 04:57:44
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 6
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €42,975
+Median-Preis: €39,445
+Günstigstes: €30,000
+Teuerstes: €64,990
+Preisspanne: €34,990
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Kia EV6GT LINE AWD
+  €44,990 → €40,990 (-€4,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Elektro: 6
+
+Verkäufertypen:
+  Händler: 5
+  Privat: 1
+
+Generiert am: 2026-01-14 04:57:44
+AutoScout24 Luxembourg Scraper v2.0

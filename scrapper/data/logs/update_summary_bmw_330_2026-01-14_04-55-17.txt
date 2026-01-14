@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 330
-Datum: 2026-01-13 04:51:08
+Datum: 2026-01-14 04:55:17
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 42
-Neue Listings: 3
+Gesamt gefundene Listings: 45
+Neue Listings: 4
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €33,375
+Durchschnittspreis: €35,011
 Median-Preis: €38,990
 Günstigstes: €7,490
 Teuerstes: €76,322
@@ -28,19 +28,26 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 330e Head-Up HK HiFi DAB LED RFK Shz
+  €55,899 → €54,899 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Benzin: 24
-  Diesel: 10
-  2: 7
+  Diesel: 12
+  2: 8
   o: 1
 
 Verkäufertypen:
-  Händler: 30
+  Händler: 33
   Privat: 12
 
-Generiert am: 2026-01-13 04:51:08
+Generiert am: 2026-01-14 04:55:17
 AutoScout24 Luxembourg Scraper v2.0
