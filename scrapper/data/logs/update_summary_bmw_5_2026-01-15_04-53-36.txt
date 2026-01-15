@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 5
-Datum: 2026-01-14 04:56:34
+Datum: 2026-01-15 04:53:36
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 190
-Neue Listings: 4
+Neue Listings: 12
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €26,295
-Median-Preis: €20,245
+Durchschnittspreis: €26,897
+Median-Preis: €22,245
 Günstigstes: €1,500
 Teuerstes: €119,900
 Preisspanne: €118,400
@@ -28,19 +28,27 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 530530 3.0 D 265ch Pack M XDrive
+  €34,990 → €33,990 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 89
-  Diesel: 87
+  Benzin: 91
+  Diesel: 84
   2: 13
+  Elektro: 1
   o: 1
 
 Verkäufertypen:
-  Händler: 110
-  Privat: 80
+  Händler: 113
+  Privat: 77
 
-Generiert am: 2026-01-14 04:56:34
+Generiert am: 2026-01-15 04:53:36
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 520
-Datum: 2026-01-14 04:55:52
+Fahrzeug: mercedes-benz a-200
+Datum: 2026-01-15 04:47:52
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 29
+Gesamt gefundene Listings: 39
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,903
-Median-Preis: €38,900
-Günstigstes: €7,000
-Teuerstes: €74,258
-Preisspanne: €67,258
+Durchschnittspreis: €32,478
+Median-Preis: €33,490
+Günstigstes: €9,500
+Teuerstes: €45,490
+Preisspanne: €35,990
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 520520d xDrive M-Sport
-  €56,990 → €49,990 (-€7,000)
+• Mercedes-Benz A 200AMG Line|KeyGo|MBeam|360grad Ca...
+  €37,000 → €35,900 (-€1,100)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 16
-  Benzin: 9
-  3: 4
+  Diesel: 19
+  Benzin: 14
+  unknown: 5
+  2: 1
 
 Verkäufertypen:
-  Händler: 19
-  Privat: 10
+  Händler: 30
+  Privat: 9
 
-Generiert am: 2026-01-14 04:55:52
+Generiert am: 2026-01-15 04:47:52
 AutoScout24 Luxembourg Scraper v2.0
