@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 320
-Datum: 2026-01-17 04:40:40
+Datum: 2026-01-18 04:50:44
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 54
-Neue Listings: 2
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,14 +17,6 @@ Median-Preis: €32,230
 Günstigstes: €4,990
 Teuerstes: €63,888
 Preisspanne: €58,898
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €4,990 - BMW 320320d DPF Touring
-• €5,999 - BMW 320320d Coupe
-• €8,980 - BMW 320i  Coupe LEDER*M-SPORT-PAKET*TOP!
-• €9,868 - BMW 320320d DPF Touring Edition Sport
-• €10,000 - BMW 320320i Sport Line
 
 PREISÄNDERUNGEN
 ===============
@@ -42,5 +34,5 @@ Verkäufertypen:
   Händler: 32
   Privat: 22
 
-Generiert am: 2026-01-17 04:40:40
+Generiert am: 2026-01-18 04:50:44
 AutoScout24 Luxembourg Scraper v2.0

@@ -2,21 +2,21 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 5
-Datum: 2026-01-17 04:42:12
+Datum: 2026-01-18 04:52:16
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 190
-Neue Listings: 6
+Neue Listings: 10
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €26,790
-Median-Preis: €22,900
+Durchschnittspreis: €27,629
+Median-Preis: €22,945
 Günstigstes: €1,500
-Teuerstes: €99,900
-Preisspanne: €98,400
+Teuerstes: €99,990
+Preisspanne: €98,490
 
 TOP 5 GÜNSTIGSTE LISTINGS
 =========================
@@ -28,26 +28,18 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW X1-55% 25E HYB 220cv BVA 4x4 M Sport +T.PANO+G...
-  €27,950 → €25,490 (-€2,460)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 95
-  Benzin: 81
-  2: 13
-  o: 1
+  Diesel: 92
+  Benzin: 84
+  2: 14
 
 Verkäufertypen:
-  Händler: 113
-  Privat: 77
+  Händler: 116
+  Privat: 74
 
-Generiert am: 2026-01-17 04:42:12
+Generiert am: 2026-01-18 04:52:16
 AutoScout24 Luxembourg Scraper v2.0
