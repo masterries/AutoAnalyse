@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 420
-Datum: 2026-01-18 04:51:12
+Fahrzeug: kia ev4
+Datum: 2026-01-19 05:02:29
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 16
+Gesamt gefundene Listings: 4
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €35,932
-Median-Preis: €35,500
-Günstigstes: €22,000
-Teuerstes: €59,899
-Preisspanne: €37,899
+Durchschnittspreis: €50,990
+Median-Preis: €52,740
+Günstigstes: €42,490
+Teuerstes: €55,990
+Preisspanne: €13,500
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 8
-  Benzin: 7
-  2: 1
+  Elektro: 4
 
 Verkäufertypen:
-  Händler: 10
-  Privat: 6
+  Händler: 4
 
-Generiert am: 2026-01-18 04:51:12
+Generiert am: 2026-01-19 05:02:29
 AutoScout24 Luxembourg Scraper v2.0
