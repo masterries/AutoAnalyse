@@ -1,0 +1,51 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz c-200
+Datum: 2026-01-20 04:52:05
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 30
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €32,694
+Median-Preis: €34,985
+Günstigstes: €2,200
+Teuerstes: €52,990
+Preisspanne: €50,790
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 3
+
+📉 PREISSENKUNGEN (3)
+==============================
+• Mercedes-Benz C 200C 200 d T-Modell
+  €54,490 → €50,890 (-€3,600)
+
+• Mercedes-Benz C 200C 200 d T-Modell
+  €49,990 → €46,590 (-€3,400)
+
+• Mercedes-Benz C 200C 200 d T-Modell
+  €48,390 → €44,890 (-€3,500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 24
+  Benzin: 4
+  2: 1
+  3: 1
+
+Verkäufertypen:
+  Händler: 27
+  Privat: 3
+
+Generiert am: 2026-01-20 04:52:05
+AutoScout24 Luxembourg Scraper v2.0
