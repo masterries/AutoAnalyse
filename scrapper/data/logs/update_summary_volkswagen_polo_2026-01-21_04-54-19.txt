@@ -1,0 +1,111 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen polo
+Datum: 2026-01-21 04:54:19
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 95
+Neue Listings: 5
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €18,843
+Median-Preis: €21,990
+Günstigstes: €800
+Teuerstes: €40,458
+Preisspanne: €39,658
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €800 - Volkswagen PoloPolo 1.2
+• €1,990 - Volkswagen PoloLupo Essence *CT NEUF*
+• €3,400 - Volkswagen Polo1.4 TDI Black/Silver Edition
+• €3,500 - Volkswagen PoloPolo 1.2 Comfortline
+• €3,600 - Volkswagen Polo1.6 TDI Trendline
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 21
+
+📉 PREISSENKUNGEN (21)
+==============================
+• Volkswagen PoloLife+BVM+IQ-Drive+Digi+
+  €19,990 → €19,490 (-€500)
+
+• Volkswagen PoloStyle+DSG+IQ-Drive+LED
+  €20,990 → €20,490 (-€500)
+
+• Volkswagen PoloVI Highline
+  €17,990 → €16,990 (-€1,000)
+
+• Volkswagen PoloLife+DSG+IQ-Drive+Lane.Ass.
+  €22,990 → €22,490 (-€500)
+
+• Volkswagen PoloVI Style
+  €19,990 → €17,990 (-€2,000)
+
+• Volkswagen PoloLife+BVM+IQ-Drive+Light.Ass+LED
+  €19,990 → €19,490 (-€500)
+
+• Volkswagen PoloLife+DSG+P.Ass.+P.Lumiere
+  €22,990 → €22,490 (-€500)
+
+• Volkswagen PoloLife+DSG+P.Ass.+P.Lumiere
+  €22,490 → €21,990 (-€500)
+
+• Volkswagen PoloStyle+DSG+IQ-Drive+LED
+  €22,490 → €21,990 (-€500)
+
+• Volkswagen PoloLife+DSG+LED+Digi
+  €22,490 → €21,990 (-€500)
+
+• Volkswagen PoloLife+DSG+P.Ass.+P.Lumiere
+  €22,990 → €22,490 (-€500)
+
+• Volkswagen PoloLife+DSG+P.Ass.+P.Lumiere
+  €22,490 → €21,990 (-€500)
+
+• Volkswagen PoloStyle+DSG+IQ-Drive+LED
+  €22,990 → €22,490 (-€500)
+
+• Volkswagen PoloR-Line
+  €28,100 → €26,900 (-€1,200)
+
+• Volkswagen PoloLife+DSG+LED+ACC+Digi+
+  €22,490 → €21,990 (-€500)
+
+• Volkswagen PoloGTI+DSG+Pano+RearView
+  €34,990 → €34,490 (-€500)
+
+• Volkswagen PoloLife+DSG+IQ-Drive+Lane.Ass
+  €22,490 → €21,990 (-€500)
+
+• Volkswagen PoloStyle
+  €32,000 → €30,900 (-€1,100)
+
+• Volkswagen PoloLife+DSG+P.Ass.+P.Lumiere
+  €22,490 → €21,990 (-€500)
+
+• Volkswagen PoloLife
+  €22,480 → €22,310 (-€170)
+
+• Volkswagen PoloLife
+  €24,900 → €24,500 (-€400)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 82
+  Diesel: 13
+
+Verkäufertypen:
+  Händler: 79
+  Privat: 16
+
+Generiert am: 2026-01-21 04:54:19
+AutoScout24 Luxembourg Scraper v2.0

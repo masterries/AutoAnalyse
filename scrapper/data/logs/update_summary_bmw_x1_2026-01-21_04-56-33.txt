@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 330
-Datum: 2026-01-20 04:55:53
+Fahrzeug: bmw x1
+Datum: 2026-01-21 04:56:33
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 42
+Gesamt gefundene Listings: 51
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,822
-Median-Preis: €39,445
-Günstigstes: €7,490
-Teuerstes: €76,322
-Preisspanne: €68,832
+Durchschnittspreis: €39,213
+Median-Preis: €42,899
+Günstigstes: €7,999
+Teuerstes: €66,499
+Preisspanne: €58,500
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 330330i xDrive M Sport
-  €15,500 → €15,400 (-€100)
+• BMW X1X1 sDrive20d pack M
+  €29,990 → €28,990 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 25
-  Diesel: 9
-  2: 7
-  o: 1
+  Benzin: 23
+  Diesel: 21
+  2: 5
+  3: 2
 
 Verkäufertypen:
-  Händler: 29
-  Privat: 13
+  Händler: 45
+  Privat: 6
 
-Generiert am: 2026-01-20 04:55:53
+Generiert am: 2026-01-21 04:56:33
 AutoScout24 Luxembourg Scraper v2.0

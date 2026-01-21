@@ -1,0 +1,78 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a3
+Datum: 2026-01-21 04:52:22
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 124
+Neue Listings: 3
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €29,924
+Median-Preis: €29,490
+Günstigstes: €3,450
+Teuerstes: €120,000
+Preisspanne: €116,550
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €3,450 - Audi A31.9 TDI Attraction
+• €6,000 - Audi A33.2 S line Sportpaket plus quattro
+• €6,150 - Audi A32.0 TDI | Manual | Well maintained | 2 set
+• €7,990 - Audi A32.0 TDI DPF (DSG) S tronic Sportpaket
+• €8,850 - Audi A31.9 TDi Attraction
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 9
+
+📉 PREISSENKUNGEN (9)
+==============================
+• Audi A3Sportback 35tfsi Automatic
+  €21,500 → €20,900 (-€600)
+
+• Audi A3Sportback 2.0 tdi Attraction quattro 150cv ...
+  €16,900 → €16,499 (-€401)
+
+• Audi A3SB+Advanced+30TFSI+S-Tronic
+  €28,990 → €27,990 (-€1,000)
+
+• Audi A3SB+S-Line+35TFSI+S-Tronic
+  €31,490 → €30,990 (-€500)
+
+• Audi A3SB+Advanced+40TFSIe+S-Tronic
+  €36,990 → €36,490 (-€500)
+
+• Audi A3SB+S-line+35TFSI+S-Tronic
+  €32,490 → €31,990 (-€500)
+
+• Audi A3SB+S-Line+35TFSI+S-Tronic
+  €31,990 → €31,490 (-€500)
+
+• Audi A3SB+S-line+S-Tronic+35TFSI
+  €31,490 → €30,990 (-€500)
+
+• Audi A335 TDI allstreet S tronic
+  €37,500 → €37,200 (-€300)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 66
+  Diesel: 45
+  o: 6
+  2: 6
+  unknown: 1
+
+Verkäufertypen:
+  Händler: 102
+  Privat: 22
+
+Generiert am: 2026-01-21 04:52:22
+AutoScout24 Luxembourg Scraper v2.0
