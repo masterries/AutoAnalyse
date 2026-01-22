@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw x1
-Datum: 2026-01-21 04:56:33
+Fahrzeug: kia ev6
+Datum: 2026-01-22 05:00:04
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 51
+Gesamt gefundene Listings: 6
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €39,213
-Median-Preis: €42,899
-Günstigstes: €7,999
-Teuerstes: €66,499
-Preisspanne: €58,500
+Durchschnittspreis: €42,877
+Median-Preis: €39,445
+Günstigstes: €30,000
+Teuerstes: €64,990
+Preisspanne: €34,990
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,19 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW X1X1 sDrive20d pack M
-  €29,990 → €28,990 (-€1,000)
+• Kia EV6GT Line
+  €35,480 → €34,890 (-€590)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 23
-  Diesel: 21
-  2: 5
-  3: 2
+  Elektro: 6
 
 Verkäufertypen:
-  Händler: 45
-  Privat: 6
+  Händler: 5
+  Privat: 1
 
-Generiert am: 2026-01-21 04:56:33
+Generiert am: 2026-01-22 05:00:04
 AutoScout24 Luxembourg Scraper v2.0
