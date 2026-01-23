@@ -1,0 +1,44 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: kia ev4
+Datum: 2026-01-23 04:55:57
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 4
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €49,040
+Median-Preis: €50,340
+Günstigstes: €42,490
+Teuerstes: €52,990
+Preisspanne: €10,500
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (2)
+==============================
+• Kia EV481,4 kWh 204 Business Plus
+  €52,490 → €47,690 (-€4,800)
+
+• Kia EV481,4 kWh 204 GT Line
+  €55,990 → €52,990 (-€3,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Elektro: 4
+
+Verkäufertypen:
+  Händler: 4
+
+Generiert am: 2026-01-23 04:55:57
+AutoScout24 Luxembourg Scraper v2.0

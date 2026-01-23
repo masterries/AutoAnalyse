@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2026-01-22 04:56:02
+Datum: 2026-01-23 04:52:20
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 70
-Neue Listings: 4
+Gesamt gefundene Listings: 75
+Neue Listings: 6
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,859
-Median-Preis: €26,753
+Durchschnittspreis: €25,571
+Median-Preis: €25,890
 Günstigstes: €5,999
 Teuerstes: €43,315
 Preisspanne: €37,316
@@ -23,41 +23,47 @@ TOP 5 GÜNSTIGSTE LISTINGS
 • €5,999 - Audi A1ambition
 • €9,500 - Audi A1A1 1.6 TDI Sportback
 • €9,500 - Audi A11.6 TDI Sportback S tronic line edition
-• €11,700 - Audi A1Sportback 1.4 TFSI 6-Gang
+• €9,900 - Audi A1Sportback 1.4 TFSI 6-Gang
 • €14,900 - Audi A11.4 TFSI Sportback S tronic design
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 5
+Preisänderungen heute: 7
 
-📉 PREISSENKUNGEN (5)
+📉 PREISSENKUNGEN (7)
 ==============================
-• Audi A1A1 1.6 TDI Sportback
-  €10,555 → €9,500 (-€1,055)
-
-• Audi A11.4 TFSI Sportback S tronic design
-  €15,490 → €14,900 (-€590)
+• Audi A1Sportback 1.4 TFSI 6-Gang
+  €11,700 → €9,900 (-€1,800)
 
 • Audi A1Sportback S Line
-  €26,480 → €25,890 (-€590)
+  €24,480 → €23,890 (-€590)
 
-• Audi A1Sportback S Line
-  €26,480 → €25,890 (-€590)
+• Audi A1Sportback S-line 25 TFSI s-tro
+  €27,900 → €22,500 (-€5,400)
 
-• Audi A1Sportback S Line
-  €26,480 → €25,890 (-€590)
+• Audi A1
+  €26,980 → €25,980 (-€1,000)
+
+• Audi A1Sportback S-line 30 TFSI s-tro
+  €27,300 → €24,300 (-€3,000)
+
+• Audi A1Sportback
+  €26,980 → €26,480 (-€500)
+
+• Audi A1Sportback Advanced 25 TFSI 5-G
+  €26,526 → €25,600 (-€926)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 68
+  Benzin: 73
   Diesel: 2
 
 Verkäufertypen:
-  Händler: 65
+  Händler: 70
   Privat: 5
 
-Generiert am: 2026-01-22 04:56:02
+Generiert am: 2026-01-23 04:52:20
 AutoScout24 Luxembourg Scraper v2.0
