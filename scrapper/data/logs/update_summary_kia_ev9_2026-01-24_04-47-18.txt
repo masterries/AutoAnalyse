@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-200
-Datum: 2026-01-23 04:50:08
+Fahrzeug: kia ev9
+Datum: 2026-01-24 04:47:18
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 30
+Gesamt gefundene Listings: 1
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €32,444
-Median-Preis: €34,980
-Günstigstes: €2,200
-Teuerstes: €52,990
-Preisspanne: €50,790
+Durchschnittspreis: €73,990
+Median-Preis: €73,990
+Günstigstes: €73,990
+Teuerstes: €73,990
+Preisspanne: €0
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 24
-  Benzin: 4
-  2: 1
-  3: 1
+  Elektro: 1
 
 Verkäufertypen:
-  Händler: 27
-  Privat: 3
+  Händler: 1
 
-Generiert am: 2026-01-23 04:50:08
+Generiert am: 2026-01-24 04:47:18
 AutoScout24 Luxembourg Scraper v2.0

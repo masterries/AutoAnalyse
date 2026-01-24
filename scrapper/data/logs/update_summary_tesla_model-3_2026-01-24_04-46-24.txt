@@ -1,44 +1,42 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev4
-Datum: 2026-01-23 04:55:57
+Fahrzeug: tesla model-3
+Datum: 2026-01-24 04:46:24
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 4
+Gesamt gefundene Listings: 8
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €49,040
-Median-Preis: €50,340
-Günstigstes: €42,490
-Teuerstes: €52,990
-Preisspanne: €10,500
+Durchschnittspreis: €30,822
+Median-Preis: €26,750
+Günstigstes: €23,000
+Teuerstes: €46,990
+Preisspanne: €23,990
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Preisänderungen heute: 1
 
-📉 PREISSENKUNGEN (2)
+📉 PREISSENKUNGEN (1)
 ==============================
-• Kia EV481,4 kWh 204 Business Plus
-  €52,490 → €47,690 (-€4,800)
-
-• Kia EV481,4 kWh 204 GT Line
-  €55,990 → €52,990 (-€3,000)
+• Tesla Model 3Model 3 Langstreckenbatt. Allradantri...
+  €42,500 → €42,000 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 4
+  Elektro: 8
 
 Verkäufertypen:
+  Privat: 4
   Händler: 4
 
-Generiert am: 2026-01-23 04:55:57
+Generiert am: 2026-01-24 04:46:24
 AutoScout24 Luxembourg Scraper v2.0

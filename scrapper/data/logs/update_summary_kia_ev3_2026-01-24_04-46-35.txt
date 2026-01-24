@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: kia ev3
-Datum: 2026-01-23 04:55:47
+Datum: 2026-01-24 04:46:35
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,18 +20,8 @@ Preisspanne: €18,900
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (2)
-==============================
-• Kia EV358,3 KWH 204 EARTH
-  €40,590 → €35,990 (-€4,600)
-
-• Kia EV358,3 KWH 204 EARTH
-  €40,790 → €36,290 (-€4,500)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -40,5 +30,5 @@ Kraftstofftypen:
 Verkäufertypen:
   Händler: 6
 
-Generiert am: 2026-01-23 04:55:47
+Generiert am: 2026-01-24 04:46:35
 AutoScout24 Luxembourg Scraper v2.0
