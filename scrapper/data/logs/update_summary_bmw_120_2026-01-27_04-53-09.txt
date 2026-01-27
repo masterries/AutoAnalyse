@@ -1,0 +1,69 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 120
+Datum: 2026-01-27 04:53:09
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 67
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €33,586
+Median-Preis: €33,990
+Günstigstes: €4,950
+Teuerstes: €54,238
+Preisspanne: €49,288
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 9
+
+📉 PREISSENKUNGEN (9)
+==============================
+• BMW 120120 Aut.
+  €30,000 → €29,000 (-€1,000)
+
+• BMW 120I Pack M / Panoramique / Essence
+  €34,990 → €32,990 (-€2,000)
+
+• BMW 120I Pack M / Panoramique / Essence
+  €34,990 → €32,990 (-€2,000)
+
+• BMW 120I Pack M / Panoramique / Essence
+  €34,990 → €32,990 (-€2,000)
+
+• BMW 120I Pack M / Panoramique / Essence
+  €34,990 → €32,990 (-€2,000)
+
+• BMW 120I Pack M / Panoramique / Essence
+  €34,990 → €32,990 (-€2,000)
+
+• BMW 120I Pack M / Panoramique / Essence
+  €34,990 → €32,990 (-€2,000)
+
+• BMW 120I Pack M / Panoramique / Essence
+  €34,990 → €32,990 (-€2,000)
+
+• BMW 120I Pack M / Panoramique / Essence
+  €34,990 → €32,990 (-€2,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 40
+  Diesel: 14
+  2: 9
+  3: 4
+
+Verkäufertypen:
+  Händler: 58
+  Privat: 9
+
+Generiert am: 2026-01-27 04:53:09
+AutoScout24 Luxembourg Scraper v2.0
