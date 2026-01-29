@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a5
-Datum: 2026-01-28 04:52:22
+Fahrzeug: mercedes-benz c-200
+Datum: 2026-01-29 05:09:38
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 51
+Gesamt gefundene Listings: 24
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €39,202
-Median-Preis: €44,900
-Günstigstes: €6,000
-Teuerstes: €72,000
-Preisspanne: €66,000
+Durchschnittspreis: €31,122
+Median-Preis: €35,480
+Günstigstes: €2,200
+Teuerstes: €50,890
+Preisspanne: €48,690
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A5TDI 150 kW S tronic
-  €50,620 → €50,262 (-€358)
+• Mercedes-Benz C 200D
+  €20,900 → €19,900 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 35
-  Benzin: 16
+  Diesel: 18
+  Benzin: 5
+  2: 1
 
 Verkäufertypen:
-  Händler: 37
-  Privat: 14
+  Händler: 20
+  Privat: 4
 
-Generiert am: 2026-01-28 04:52:22
+Generiert am: 2026-01-29 05:09:38
 AutoScout24 Luxembourg Scraper v2.0
