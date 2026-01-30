@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2026-01-29 05:10:47
+Datum: 2026-01-30 05:14:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 115
-Neue Listings: 1
+Gesamt gefundene Listings: 121
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €28,867
+Durchschnittspreis: €28,847
 Median-Preis: €27,980
 Günstigstes: €2,500
 Teuerstes: €120,000
@@ -28,20 +28,27 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (0)
+==============================
+📈 PREISERHÖHUNGEN (1)
+==============================
+• Audi A3Sportback 2.0 tdi Attraction quattro 150cv ...
+  €16,399 → €16,599 (+€200)
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 61
-  Diesel: 43
+  Benzin: 63
+  Diesel: 45
+  o: 6
   2: 6
-  o: 4
   unknown: 1
 
 Verkäufertypen:
-  Händler: 90
-  Privat: 25
+  Händler: 95
+  Privat: 26
 
-Generiert am: 2026-01-29 05:10:47
+Generiert am: 2026-01-30 05:14:01
 AutoScout24 Luxembourg Scraper v2.0

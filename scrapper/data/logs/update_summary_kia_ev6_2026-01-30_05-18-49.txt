@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 430
-Datum: 2026-01-29 05:13:35
+Fahrzeug: kia ev6
+Datum: 2026-01-30 05:18:49
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 8
+Gesamt gefundene Listings: 7
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €48,131
-Median-Preis: €49,400
-Günstigstes: €21,999
-Teuerstes: €74,500
-Preisspanne: €52,501
+Durchschnittspreis: €40,323
+Median-Preis: €37,900
+Günstigstes: €26,000
+Teuerstes: €64,990
+Preisspanne: €38,990
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 7
-  Diesel: 1
+  Elektro: 7
 
 Verkäufertypen:
-  Händler: 6
+  Händler: 5
   Privat: 2
 
-Generiert am: 2026-01-29 05:13:35
+Generiert am: 2026-01-30 05:18:49
 AutoScout24 Luxembourg Scraper v2.0
