@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-220
-Datum: 2026-01-30 05:13:07
+Fahrzeug: mercedes-benz a-180
+Datum: 2026-01-31 05:04:55
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 41
+Gesamt gefundene Listings: 48
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €40,601
-Median-Preis: €49,990
-Günstigstes: €2,500
-Teuerstes: €61,990
-Preisspanne: €59,490
+Durchschnittspreis: €22,250
+Median-Preis: €23,100
+Günstigstes: €3,999
+Teuerstes: €34,990
+Preisspanne: €30,991
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 39
-  3: 2
+  Diesel: 36
+  Benzin: 12
 
 Verkäufertypen:
-  Händler: 28
-  Privat: 13
+  Händler: 31
+  Privat: 17
 
-Generiert am: 2026-01-30 05:13:07
+Generiert am: 2026-01-31 05:04:55
 AutoScout24 Luxembourg Scraper v2.0
