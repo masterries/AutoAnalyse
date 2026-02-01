@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2026-01-31 05:06:41
+Datum: 2026-02-01 05:25:58
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 111
-Neue Listings: 1
+Gesamt gefundene Listings: 110
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €27,086
-Median-Preis: €27,980
+Durchschnittspreis: €27,115
+Median-Preis: €27,990
 Günstigstes: €2,500
 Teuerstes: €52,160
 Preisspanne: €49,660
@@ -28,20 +28,36 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 4
+
+📉 PREISSENKUNGEN (0)
+==============================
+📈 PREISERHÖHUNGEN (4)
+==============================
+• Audi A330 TFSI 116ch Hybride Business Executive S ...
+  €27,980 → €27,990 (+€10)
+
+• Audi A330 TFSI 116ch Hybride Business Executive S ...
+  €27,980 → €27,990 (+€10)
+
+• Audi A330 TFSI 116ch Hybride Business Executive S ...
+  €27,980 → €27,990 (+€10)
+
+• Audi A330 TFSI 116ch Hybride Business Executive S ...
+  €27,980 → €27,990 (+€10)
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 57
-  Diesel: 40
+  Benzin: 56
+  Diesel: 41
   2: 7
-  o: 6
+  o: 5
   unknown: 1
 
 Verkäufertypen:
-  Händler: 87
+  Händler: 86
   Privat: 24
 
-Generiert am: 2026-01-31 05:06:41
+Generiert am: 2026-02-01 05:25:58
 AutoScout24 Luxembourg Scraper v2.0
