@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2026-02-01 05:25:26
+Fahrzeug: mercedes-benz a-180
+Datum: 2026-02-02 05:26:59
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 62
+Gesamt gefundene Listings: 43
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,014
-Median-Preis: €34,245
-Günstigstes: €7,500
-Teuerstes: €54,238
-Preisspanne: €46,738
+Durchschnittspreis: €22,569
+Median-Preis: €23,900
+Günstigstes: €3,999
+Teuerstes: €34,990
+Preisspanne: €30,991
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 35
-  Diesel: 14
-  2: 9
-  3: 4
+  Diesel: 33
+  Benzin: 10
 
 Verkäufertypen:
-  Händler: 54
-  Privat: 8
+  Händler: 28
+  Privat: 15
 
-Generiert am: 2026-02-01 05:25:26
+Generiert am: 2026-02-02 05:26:59
 AutoScout24 Luxembourg Scraper v2.0
