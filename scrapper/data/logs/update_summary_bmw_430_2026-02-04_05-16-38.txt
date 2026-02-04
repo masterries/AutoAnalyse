@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 520
-Datum: 2026-02-03 05:22:19
+Fahrzeug: bmw 430
+Datum: 2026-02-04 05:16:38
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 28
+Gesamt gefundene Listings: 6
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,249
-Median-Preis: €35,400
-Günstigstes: €6,000
-Teuerstes: €74,258
-Preisspanne: €68,258
+Durchschnittspreis: €51,358
+Median-Preis: €49,400
+Günstigstes: €39,000
+Teuerstes: €74,500
+Preisspanne: €35,500
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 17
-  Benzin: 8
-  3: 3
+  Benzin: 6
 
 Verkäufertypen:
-  Händler: 18
-  Privat: 10
+  Händler: 4
+  Privat: 2
 
-Generiert am: 2026-02-03 05:22:19
+Generiert am: 2026-02-04 05:16:38
 AutoScout24 Luxembourg Scraper v2.0
