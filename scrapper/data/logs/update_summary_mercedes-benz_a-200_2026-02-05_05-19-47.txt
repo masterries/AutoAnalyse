@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 520
-Datum: 2026-02-04 05:16:54
+Fahrzeug: mercedes-benz a-200
+Datum: 2026-02-05 05:19:47
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 28
+Gesamt gefundene Listings: 54
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,177
-Median-Preis: €34,945
-Günstigstes: €6,000
-Teuerstes: €74,258
-Preisspanne: €68,258
+Durchschnittspreis: €32,926
+Median-Preis: €33,990
+Günstigstes: €19,500
+Teuerstes: €37,480
+Preisspanne: €17,980
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 520d M Pack
-  €31,900 → €29,900 (-€2,000)
+• Mercedes-Benz A 200d 8G-DCT AMG Line Advanced Plus
+  €37,000 → €34,000 (-€3,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 17
-  Benzin: 8
-  3: 3
+  Diesel: 32
+  Benzin: 15
+  unknown: 6
+  2: 1
 
 Verkäufertypen:
-  Händler: 18
-  Privat: 10
+  Händler: 46
+  Privat: 8
 
-Generiert am: 2026-02-04 05:16:54
+Generiert am: 2026-02-05 05:19:47
 AutoScout24 Luxembourg Scraper v2.0
