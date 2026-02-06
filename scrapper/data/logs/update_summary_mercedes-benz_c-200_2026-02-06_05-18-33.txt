@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-200
-Datum: 2026-02-05 05:20:02
+Datum: 2026-02-06 05:18:33
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,16 +12,23 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €29,721
-Median-Preis: €34,245
+Durchschnittspreis: €29,630
+Median-Preis: €33,445
 Günstigstes: €2,200
 Teuerstes: €50,890
 Preisspanne: €48,690
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-Benz C 200C 200 Cabrio 4Matic 9G-TRONIC A...
+  €34,500 → €32,500 (-€2,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -33,5 +40,5 @@ Verkäufertypen:
   Händler: 18
   Privat: 4
 
-Generiert am: 2026-02-05 05:20:02
+Generiert am: 2026-02-06 05:18:33
 AutoScout24 Luxembourg Scraper v2.0
