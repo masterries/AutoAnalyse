@@ -1,0 +1,46 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a4
+Datum: 2026-02-09 05:41:43
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 41
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €20,584
+Median-Preis: €20,500
+Günstigstes: €2,500
+Teuerstes: €37,980
+Preisspanne: €35,480
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (2)
+==============================
+• Audi A4Avant 2.0 TFSI ultra S tronic sport
+  €24,900 → €23,900 (-€1,000)
+
+• Audi A4Avant 35 TDI S tronic advanced
+  €21,500 → €20,000 (-€1,500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 30
+  Benzin: 11
+
+Verkäufertypen:
+  Privat: 22
+  Händler: 19
+
+Generiert am: 2026-02-09 05:41:43
+AutoScout24 Luxembourg Scraper v2.0

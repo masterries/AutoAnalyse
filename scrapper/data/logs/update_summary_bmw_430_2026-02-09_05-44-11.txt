@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 430
-Datum: 2026-02-08 05:30:44
+Datum: 2026-02-09 05:44:11
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -31,5 +31,5 @@ Verkäufertypen:
   Händler: 4
   Privat: 2
 
-Generiert am: 2026-02-08 05:30:44
+Generiert am: 2026-02-09 05:44:11
 AutoScout24 Luxembourg Scraper v2.0
