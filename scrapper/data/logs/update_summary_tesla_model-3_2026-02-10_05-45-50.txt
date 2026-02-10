@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen golf
-Datum: 2026-02-09 05:42:54
+Fahrzeug: tesla model-3
+Datum: 2026-02-10 05:45:50
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 122
+Gesamt gefundene Listings: 10
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,246
-Median-Preis: €28,750
-Günstigstes: €1,000
-Teuerstes: €64,990
-Preisspanne: €63,990
+Durchschnittspreis: €28,297
+Median-Preis: €24,245
+Günstigstes: €19,000
+Teuerstes: €46,990
+Preisspanne: €27,990
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 66
-  Diesel: 48
-  2: 7
-  unknown: 1
+  Elektro: 10
 
 Verkäufertypen:
-  Händler: 94
-  Privat: 28
+  Privat: 6
+  Händler: 4
 
-Generiert am: 2026-02-09 05:42:54
+Generiert am: 2026-02-10 05:45:50
 AutoScout24 Luxembourg Scraper v2.0
