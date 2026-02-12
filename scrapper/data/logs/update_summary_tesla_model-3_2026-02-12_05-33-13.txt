@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: tesla model-3
-Datum: 2026-02-11 05:44:50
+Datum: 2026-02-12 05:33:13
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,18 +20,8 @@ Preisspanne: €27,990
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (2)
-==============================
-• Tesla Model 3Model 3 Langstreckenbatt. Allradantri...
-  €42,000 → €39,900 (-€2,100)
-
-• Tesla Model 3Performance
-  €26,000 → €25,000 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -41,5 +31,5 @@ Verkäufertypen:
   Privat: 6
   Händler: 4
 
-Generiert am: 2026-02-11 05:44:50
+Generiert am: 2026-02-12 05:33:13
 AutoScout24 Luxembourg Scraper v2.0
