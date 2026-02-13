@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a5
-Datum: 2026-02-12 05:29:19
+Fahrzeug: mercedes-benz c-220
+Datum: 2026-02-13 05:24:36
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 51
+Gesamt gefundene Listings: 42
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,453
-Median-Preis: €35,900
-Günstigstes: €6,000
-Teuerstes: €72,000
-Preisspanne: €66,000
+Durchschnittspreis: €39,529
+Median-Preis: €49,940
+Günstigstes: €2,500
+Teuerstes: €61,990
+Preisspanne: €59,490
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A5Sportback 45 TDI quattro tiptronic sport
-  €26,000 → €25,500 (-€500)
+• Mercedes-Benz C 220(BlueTEC) d 7G-TRONIC 2e Main 1...
+  €17,990 → €17,490 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 34
-  Benzin: 16
-  2: 1
+  Diesel: 40
+  3: 2
 
 Verkäufertypen:
-  Händler: 34
-  Privat: 17
+  Händler: 28
+  Privat: 14
 
-Generiert am: 2026-02-12 05:29:19
+Generiert am: 2026-02-13 05:24:36
 AutoScout24 Luxembourg Scraper v2.0
