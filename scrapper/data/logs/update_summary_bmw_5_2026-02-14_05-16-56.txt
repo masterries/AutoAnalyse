@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 5
-Datum: 2026-02-13 05:29:01
+Datum: 2026-02-14 05:16:56
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 176
-Neue Listings: 3
+Gesamt gefundene Listings: 185
+Neue Listings: 5
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €42,185
-Median-Preis: €39,245
+Durchschnittspreis: €43,544
+Median-Preis: €40,899
 Günstigstes: €1,500
 Teuerstes: €139,990
 Preisspanne: €138,490
@@ -23,48 +23,46 @@ TOP 5 GÜNSTIGSTE LISTINGS
 • €1,500 - BMW 116
 • €5,000 - BMW 116116i
 • €6,999 - BMW 320320d
+• €7,000 - BMW 318318d 122ch Sport
 • €7,000 - BMW 520520d Touring Aut.
-• €8,900 - BMW X3X3 xDrive18d Edition Exclusive
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 6
+Preisänderungen heute: 5
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 730730d xDrive 265ch Bower&Wilkins Laser Light...
-  €44,990 → €44,900 (-€90)
-
-📈 PREISERHÖHUNGEN (5)
+📉 PREISSENKUNGEN (5)
 ==============================
 • BMW M54.4 DKG NIGHT VISION CUIR NAVI
-  €41,900 → €43,900 (+€2,000)
-
-• BMW 135M i XDRIVE HEAD UP CUIR LED NAVI
-  €29,900 → €31,900 (+€2,000)
+  €43,900 → €41,900 (-€2,000)
 
 • BMW X545e XDRIVE M SPORT PAKET LASER Elec Range 87...
-  €48,900 → €49,900 (+€1,000)
+  €49,900 → €48,900 (-€1,000)
+
+• BMW 135M i XDRIVE HEAD UP CUIR LED NAVI
+  €31,900 → €29,900 (-€2,000)
 
 • BMW 440M i GRANCOUPE XDRIVE NEW MODEL SPORT SITZE ...
-  €52,900 → €54,900 (+€2,000)
+  €54,900 → €52,900 (-€2,000)
 
-• BMW 240M i CABRIO XDRIVE FACELIFT HARMAN KARDON CU...
-  €31,900 → €32,900 (+€1,000)
+• BMW 330330i xDrive M-Sport Touring 245CV *Hayon*AC...
+  €39,990 → €38,990 (-€1,000)
 
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 86
-  Diesel: 61
-  2: 18
+  Benzin: 88
+  Diesel: 63
+  2: 22
   Elektro: 5
-  3: 4
+  3: 5
   o: 2
 
 Verkäufertypen:
-  Händler: 153
-  Privat: 23
+  Händler: 165
+  Privat: 19
+  unknown: 1
 
-Generiert am: 2026-02-13 05:29:01
+Generiert am: 2026-02-14 05:16:56
 AutoScout24 Luxembourg Scraper v2.0
