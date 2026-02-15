@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: kia ev4
-Datum: 2026-02-14 05:17:49
+Datum: 2026-02-15 05:28:02
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -30,5 +30,5 @@ Kraftstofftypen:
 Verkäufertypen:
   Händler: 4
 
-Generiert am: 2026-02-14 05:17:49
+Generiert am: 2026-02-15 05:28:02
 AutoScout24 Luxembourg Scraper v2.0

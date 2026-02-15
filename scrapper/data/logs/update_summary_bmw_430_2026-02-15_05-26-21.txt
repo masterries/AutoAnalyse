@@ -1,0 +1,35 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 430
+Datum: 2026-02-15 05:26:21
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 8
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €45,069
+Median-Preis: €44,425
+Günstigstes: €24,900
+Teuerstes: €74,500
+Preisspanne: €49,600
+
+PREISÄNDERUNGEN
+===============
+Keine Preisänderungen verfügbar.
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 8
+
+Verkäufertypen:
+  Händler: 5
+  Privat: 3
+
+Generiert am: 2026-02-15 05:26:21
+AutoScout24 Luxembourg Scraper v2.0
