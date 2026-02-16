@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev3
-Datum: 2026-02-15 05:27:52
+Fahrzeug: audi a4
+Datum: 2026-02-16 05:41:21
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 6
+Gesamt gefundene Listings: 36
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €40,140
-Median-Preis: €37,640
-Günstigstes: €33,990
-Teuerstes: €52,890
-Preisspanne: €18,900
+Durchschnittspreis: €21,310
+Median-Preis: €21,950
+Günstigstes: €2,500
+Teuerstes: €37,980
+Preisspanne: €35,480
 
 PREISÄNDERUNGEN
 ===============
@@ -25,10 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 6
+  Diesel: 25
+  Benzin: 11
 
 Verkäufertypen:
-  Händler: 6
+  Händler: 19
+  Privat: 17
 
-Generiert am: 2026-02-15 05:27:52
+Generiert am: 2026-02-16 05:41:21
 AutoScout24 Luxembourg Scraper v2.0
