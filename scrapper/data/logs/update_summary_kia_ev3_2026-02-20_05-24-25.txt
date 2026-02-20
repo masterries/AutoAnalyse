@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 520
-Datum: 2026-02-19 05:28:41
+Fahrzeug: kia ev3
+Datum: 2026-02-20 05:24:25
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 28
+Gesamt gefundene Listings: 6
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,514
-Median-Preis: €34,400
-Günstigstes: €7,000
-Teuerstes: €74,258
-Preisspanne: €67,258
+Durchschnittspreis: €40,140
+Median-Preis: €37,640
+Günstigstes: €33,990
+Teuerstes: €52,890
+Preisspanne: €18,900
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 18
-  Benzin: 8
-  3: 2
+  Elektro: 6
 
 Verkäufertypen:
-  Händler: 17
-  Privat: 11
+  Händler: 6
 
-Generiert am: 2026-02-19 05:28:41
+Generiert am: 2026-02-20 05:24:25
 AutoScout24 Luxembourg Scraper v2.0
