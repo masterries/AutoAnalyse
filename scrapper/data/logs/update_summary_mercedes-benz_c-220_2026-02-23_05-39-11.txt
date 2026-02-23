@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-220
-Datum: 2026-02-22 05:19:00
+Datum: 2026-02-23 05:39:11
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €59,490
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Mercedes-Benz C 220(BlueTEC) d 7G-TRONIC 2e Main 1...
-  €17,490 → €17,400 (-€90)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -39,5 +32,5 @@ Verkäufertypen:
   Händler: 29
   Privat: 13
 
-Generiert am: 2026-02-22 05:19:00
+Generiert am: 2026-02-23 05:39:11
 AutoScout24 Luxembourg Scraper v2.0
