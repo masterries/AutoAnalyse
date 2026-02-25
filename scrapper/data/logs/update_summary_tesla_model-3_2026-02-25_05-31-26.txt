@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: tesla model-3
-Datum: 2026-02-24 05:29:37
+Datum: 2026-02-25 05:31:26
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,14 +20,7 @@ Preisspanne: €26,990
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
-
-📉 PREISSENKUNGEN (0)
-==============================
-📈 PREISERHÖHUNGEN (1)
-==============================
-• Tesla Model 375 kWh Long-Range Dual Motor
-  €22,990 → €24,990 (+€2,000)
+Keine Preisänderungen verfügbar.
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -38,5 +31,5 @@ Verkäufertypen:
   Privat: 5
   Händler: 4
 
-Generiert am: 2026-02-24 05:29:37
+Generiert am: 2026-02-25 05:31:26
 AutoScout24 Luxembourg Scraper v2.0

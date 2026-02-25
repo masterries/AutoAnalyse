@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2026-02-24 05:26:28
+Datum: 2026-02-25 05:28:16
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €26,521
+Durchschnittspreis: €26,513
 Median-Preis: €27,490
 Günstigstes: €10,000
 Teuerstes: €37,790
@@ -24,8 +24,8 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A125 TFSI Sportback
-  €16,990 → €15,990 (-€1,000)
+• Audi A1AllStreet+30TFSI+Navi+BVM
+  €23,990 → €23,490 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
@@ -39,5 +39,5 @@ Verkäufertypen:
   Händler: 56
   Privat: 3
 
-Generiert am: 2026-02-24 05:26:28
+Generiert am: 2026-02-25 05:28:16
 AutoScout24 Luxembourg Scraper v2.0
