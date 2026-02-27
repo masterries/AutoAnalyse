@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a5
-Datum: 2026-02-26 05:24:24
+Datum: 2026-02-27 05:19:30
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 54
-Neue Listings: 2
+Gesamt gefundene Listings: 53
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €37,304
-Median-Preis: €41,945
+Durchschnittspreis: €37,036
+Median-Preis: €39,900
 Günstigstes: €7,000
 Teuerstes: €61,999
 Preisspanne: €54,999
@@ -28,24 +28,17 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Audi A5A5 Sportback 3.0 TDI quattro S tronic sport
-  €21,000 → €19,900 (-€1,100)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 35
-  Benzin: 19
+  Diesel: 33
+  Benzin: 20
 
 Verkäufertypen:
-  Händler: 38
+  Händler: 37
   Privat: 16
 
-Generiert am: 2026-02-26 05:24:24
+Generiert am: 2026-02-27 05:19:30
 AutoScout24 Luxembourg Scraper v2.0
