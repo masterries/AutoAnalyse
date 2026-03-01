@@ -1,0 +1,55 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen polo
+Datum: 2026-03-01 05:23:05
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 83
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €17,392
+Median-Preis: €18,490
+Günstigstes: €800
+Teuerstes: €40,458
+Preisspanne: €39,658
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 5
+
+📉 PREISSENKUNGEN (5)
+==============================
+• Volkswagen PoloStyle
+  €30,900 → €30,200 (-€700)
+
+• Volkswagen PoloLife
+  €24,500 → €24,000 (-€500)
+
+• Volkswagen PoloLife
+  €24,900 → €24,400 (-€500)
+
+• Volkswagen PoloR-Line
+  €26,900 → €26,300 (-€600)
+
+• Volkswagen Polo1.4 TDI 90 BMT Série Spéciale Allst...
+  €5,500 → €5,350 (-€150)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 67
+  Diesel: 16
+
+Verkäufertypen:
+  Händler: 67
+  Privat: 16
+
+Generiert am: 2026-03-01 05:23:05
+AutoScout24 Luxembourg Scraper v2.0

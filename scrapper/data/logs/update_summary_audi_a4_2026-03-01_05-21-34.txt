@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-180
-Datum: 2026-02-28 04:58:09
+Fahrzeug: audi a4
+Datum: 2026-03-01 05:21:34
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 39
+Gesamt gefundene Listings: 41
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €22,577
-Median-Preis: €23,900
-Günstigstes: €2,999
-Teuerstes: €34,990
-Preisspanne: €31,991
+Durchschnittspreis: €21,814
+Median-Preis: €22,900
+Günstigstes: €2,500
+Teuerstes: €37,980
+Preisspanne: €35,480
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Mercedes-Benz A 180CDI Progressive 8G-DCT CUIR GPS...
-  €27,980 → €27,480 (-€500)
+• Audi A4Avant 40 TDI quattro S tronic line
+  €27,990 → €27,000 (-€990)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 32
-  Benzin: 7
+  Diesel: 28
+  Benzin: 11
+  3: 2
 
 Verkäufertypen:
-  Händler: 29
-  Privat: 10
+  Händler: 22
+  Privat: 19
 
-Generiert am: 2026-02-28 04:58:09
+Generiert am: 2026-03-01 05:21:34
 AutoScout24 Luxembourg Scraper v2.0
