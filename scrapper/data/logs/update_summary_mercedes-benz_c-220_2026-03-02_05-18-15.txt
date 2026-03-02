@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-220
-Datum: 2026-03-01 05:20:26
+Datum: 2026-03-02 05:18:15
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 40
+Gesamt gefundene Listings: 41
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €41,706
+Durchschnittspreis: €41,872
 Median-Preis: €49,990
 Günstigstes: €2,500
 Teuerstes: €61,990
@@ -20,18 +20,25 @@ Preisspanne: €59,490
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-Benz C 220C 220 d Cabrio 4Matic 9G-TRONIC...
+  €32,500 → €31,000 (-€1,500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 37
+  Diesel: 38
   3: 2
   unknown: 1
 
 Verkäufertypen:
-  Händler: 29
+  Händler: 30
   Privat: 11
 
-Generiert am: 2026-03-01 05:20:26
+Generiert am: 2026-03-02 05:18:15
 AutoScout24 Luxembourg Scraper v2.0
