@@ -1,0 +1,274 @@
+AutoScout24 Multi-Model Update Summary
+======================================
+
+Generiert am: 2026-03-04 05:18:39
+AutoScout24 Luxembourg Scraper v2.0
+
+GESAMTÜBERSICHT
+===============
+Überwachte Fahrzeugmodelle: 25
+Gesamte aktive Listings: 1,164
+Neue Listings heute: 39
+Preisänderungen heute: 1,576
+
+🆕 MODELLE MIT NEUEN LISTINGS (14)
+==================================================
+• KIA EV6
+  📊 1 neue von 8 Listings
+  🕐 2026-03-04T05:18:22.953331
+
+• BMW X1
+  📊 1 neue von 59 Listings | 💰 80 Preisänderungen
+  🕐 2026-03-04T05:17:33.694111
+
+• BMW 5
+  📊 8 neue von 186 Listings | 💰 107 Preisänderungen
+  🕐 2026-03-04T05:17:12.063816
+
+• BMW 330
+  📊 2 neue von 69 Listings
+  🕐 2026-03-04T05:15:50.965558
+
+• VOLKSWAGEN POLO
+  📊 6 neue von 82 Listings | 💰 267 Preisänderungen
+  🕐 2026-03-04T05:15:04.090664
+
+• VOLKSWAGEN GOLF
+  📊 5 neue von 134 Listings | 💰 271 Preisänderungen
+  🕐 2026-03-04T05:14:37.733792
+
+• AUDI A1
+  📊 1 neue von 53 Listings | 💰 163 Preisänderungen
+  🕐 2026-03-04T05:13:59.014026
+
+• AUDI A5
+  📊 1 neue von 51 Listings | 💰 69 Preisänderungen
+  🕐 2026-03-04T05:13:40.300414
+
+• AUDI A4
+  📊 2 neue von 43 Listings
+  🕐 2026-03-04T05:13:21.755188
+
+• AUDI A3
+  📊 8 neue von 136 Listings | 💰 331 Preisänderungen
+  🕐 2026-03-04T05:13:03.526269
+
+• MERCEDES-BENZ C-220
+  📊 1 neue von 43 Listings
+  🕐 2026-03-04T05:12:10.815960
+
+• MERCEDES-BENZ C-200
+  📊 1 neue von 27 Listings
+  🕐 2026-03-04T05:11:53.030247
+
+• MERCEDES-BENZ A-200
+  📊 1 neue von 43 Listings
+  🕐 2026-03-04T05:11:36.811563
+
+• MERCEDES-BENZ A-180
+  📊 1 neue von 40 Listings | 💰 63 Preisänderungen
+  🕐 2026-03-04T05:11:17.612833
+
+💰 MODELLE MIT PREISÄNDERUNGEN (12)
+==================================================
+• TESLA MODEL-3: 13 Änderungen
+  📉 2x gesunken (Ø 1,100€)
+
+• BMW X1: 80 Änderungen
+  📈 1x gestiegen (Ø 700€)
+
+• BMW 5: 107 Änderungen
+  📈 2x gestiegen (Ø 1,500€)
+
+• BMW 430: 18 Änderungen
+  📈 1x gestiegen (Ø 1,000€)
+
+• VOLKSWAGEN POLO: 267 Änderungen
+  📉 2x gesunken (Ø 675€)
+
+• VOLKSWAGEN GOLF: 271 Änderungen
+  📈 1x gestiegen (Ø 1,000€)
+  📉 6x gesunken (Ø 3,658€)
+
+• AUDI A1: 163 Änderungen
+  📉 1x gesunken (Ø 500€)
+
+• AUDI A5: 69 Änderungen
+  📉 6x gesunken (Ø 988€)
+
+• AUDI A3: 331 Änderungen
+  📈 1x gestiegen (Ø 1,000€)
+  📉 2x gesunken (Ø 325€)
+
+• BMW 120: 160 Änderungen
+  📈 2x gestiegen (Ø 1,000€)
+
+• MERCEDES-BENZ A-180: 63 Änderungen
+  📈 1x gestiegen (Ø 1,000€)
+  📉 2x gesunken (Ø 500€)
+
+• BMW 530: 34 Änderungen
+
+📋 ALLE ÜBERWACHTEN FAHRZEUGMODELLE
+========================================
+✅ KIA EV9
+   📊 Listings: 1 (0 neu)
+   🕐 Letztes Update: 2026-03-04T05:18:33.664876
+   💶 Preise: Ø €73,990 | €73,990 - €73,990
+
+✅ KIA EV6
+   📊 Listings: 8 (1 neu)
+   🕐 Letztes Update: 2026-03-04T05:18:22.953331
+   💶 Preise: Ø €39,834 | €26,000 - €64,990
+
+✅ KIA EV4
+   📊 Listings: 4 (0 neu)
+   🕐 Letztes Update: 2026-03-04T05:18:05.641639
+   💶 Preise: Ø €49,040 | €42,490 - €52,990
+
+✅ KIA EV3
+   📊 Listings: 5 (0 neu)
+   🕐 Letztes Update: 2026-03-04T05:17:55.382688
+   💶 Preise: Ø €40,970 | €33,990 - €52,890
+
+✅ TESLA MODEL-3
+   📊 Listings: 8 (0 neu) | 💰 13 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:17:44.526231
+   💶 Preise: Ø €29,686 | €23,000 - €42,000
+
+✅ BMW X1
+   📊 Listings: 59 (1 neu) | 💰 80 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:17:33.694111
+   💶 Preise: Ø €36,602 | €7,900 - €64,990
+
+✅ BMW 5
+   📊 Listings: 186 (8 neu) | 💰 107 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:17:12.063816
+   💶 Preise: Ø €42,324 | €1,500 - €122,900
+
+✅ BMW 520
+   📊 Listings: 28 (0 neu)
+   🕐 Letztes Update: 2026-03-04T05:16:30.063622
+   💶 Preise: Ø €36,228 | €5,500 - €74,258
+
+✅ BMW 430
+   📊 Listings: 7 (0 neu) | 💰 18 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:16:15.393754
+   💶 Preise: Ø €39,799 | €24,900 - €49,900
+
+✅ BMW 420
+   📊 Listings: 13 (0 neu)
+   🕐 Letztes Update: 2026-03-04T05:16:04.304878
+   💶 Preise: Ø €39,234 | €23,999 - €54,899
+
+✅ BMW 330
+   📊 Listings: 69 (2 neu)
+   🕐 Letztes Update: 2026-03-04T05:15:50.965558
+   💶 Preise: Ø €35,747 | €7,490 - €76,322
+
+✅ BMW 320
+   📊 Listings: 61 (0 neu)
+   🕐 Letztes Update: 2026-03-04T05:15:27.486562
+   💶 Preise: Ø €28,423 | €1,750 - €63,888
+
+✅ VOLKSWAGEN POLO
+   📊 Listings: 82 (6 neu) | 💰 267 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:15:04.090664
+   💶 Preise: Ø €17,081 | €800 - €40,458
+
+✅ VOLKSWAGEN GOLF
+   📊 Listings: 134 (5 neu) | 💰 271 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:14:37.733792
+   💶 Preise: Ø €24,997 | €1,000 - €64,990
+
+✅ AUDI A1
+   📊 Listings: 53 (1 neu) | 💰 163 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:13:59.014026
+   💶 Preise: Ø €26,641 | €8,500 - €37,790
+
+✅ AUDI A5
+   📊 Listings: 51 (1 neu) | 💰 69 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:13:40.300414
+   💶 Preise: Ø €36,237 | €7,000 - €61,999
+
+✅ AUDI A4
+   📊 Listings: 43 (2 neu)
+   🕐 Letztes Update: 2026-03-04T05:13:21.755188
+   💶 Preise: Ø €21,324 | €2,500 - €37,980
+
+✅ AUDI A3
+   📊 Listings: 136 (8 neu) | 💰 331 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:13:03.526269
+   💶 Preise: Ø €44,903 | €2,650 - €120,000
+
+✅ BMW 120
+   📊 Listings: 52 (0 neu) | 💰 160 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:12:29.339042
+   💶 Preise: Ø €33,606 | €7,500 - €54,238
+
+✅ MERCEDES-BENZ C-220
+   📊 Listings: 43 (1 neu)
+   🕐 Letztes Update: 2026-03-04T05:12:10.815960
+   💶 Preise: Ø €40,538 | €2,500 - €61,990
+
+✅ MERCEDES-BENZ C-200
+   📊 Listings: 27 (1 neu)
+   🕐 Letztes Update: 2026-03-04T05:11:53.030247
+   💶 Preise: Ø €29,371 | €2,200 - €50,890
+
+✅ MERCEDES-BENZ A-200
+   📊 Listings: 43 (1 neu)
+   🕐 Letztes Update: 2026-03-04T05:11:36.811563
+   💶 Preise: Ø €33,049 | €9,999 - €37,480
+
+✅ MERCEDES-BENZ A-180
+   📊 Listings: 40 (1 neu) | 💰 63 Preisänderungen
+   🕐 Letztes Update: 2026-03-04T05:11:17.612833
+   💶 Preise: Ø €22,898 | €2,999 - €34,990
+
+✅ KIA EV5
+   📊 Listings: 1 (0 neu)
+   🕐 Letztes Update: 2026-02-09T05:46:19.517090
+   💶 Preise: Ø €42,490 | €42,490 - €42,490
+
+✅ BMW 530
+   📊 Listings: 10 (0 neu) | 💰 34 Preisänderungen
+   🕐 Letztes Update: 2025-12-04T04:40:56.511083
+   💶 Preise: Ø €26,114 | €12,300 - €57,490
+
+🏆 TOP 10 GÜNSTIGSTE ANGEBOTE (Alle Modelle)
+==================================================
+ 1. €     800 - VOLKSWAGEN POLO
+    Volkswagen PoloPolo 1.2
+
+ 2. €   1,000 - VOLKSWAGEN GOLF
+    Volkswagen GolfGolf 1.9 TDI Individual
+
+ 3. €   1,500 - BMW 5
+    BMW 116
+
+ 4. €   1,750 - BMW 320
+    BMW 320320d
+
+ 5. €   1,850 - VOLKSWAGEN POLO
+    Volkswagen Polo45 Servo
+
+ 6. €   2,200 - MERCEDES-BENZ C-200
+    Mercedes-Benz C 200CDI - 122 Elégance
+
+ 7. €   2,300 - VOLKSWAGEN GOLF
+    Volkswagen Golfgolf 4
+
+ 8. €   2,500 - AUDI A4
+    Audi A41.9 TDI quattro
+
+ 9. €   2,500 - MERCEDES-BENZ C-220
+    Mercedes-Benz C 220T CDI Automatik Elegance
+
+10. €   2,500 - AUDI A4
+    Audi A4Avant 2.0 TDI
+
+
+============================================================
+Generiert am: 2026-03-04 05:18:39
+AutoScout24 Luxembourg Multi-Model Scraper v2.0
