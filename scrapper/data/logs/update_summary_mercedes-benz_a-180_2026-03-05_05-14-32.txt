@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-180
-Datum: 2026-03-04 05:11:17
+Datum: 2026-03-05 05:14:32
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 40
-Neue Listings: 1
+Gesamt gefundene Listings: 41
+Neue Listings: 4
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €22,898
-Median-Preis: €24,400
+Durchschnittspreis: €22,836
+Median-Preis: €23,900
 Günstigstes: €2,999
 Teuerstes: €34,990
 Preisspanne: €31,991
@@ -21,7 +21,7 @@ Preisspanne: €31,991
 TOP 5 GÜNSTIGSTE LISTINGS
 =========================
 • €2,999 - Mercedes-Benz A 180A 180 CDI (169.007)
-• €8,500 - Mercedes-Benz A 180Urban
+• €9,960 - Mercedes-Benz A 180A 180 AMG Line
 • €10,500 - Mercedes-Benz A 180CDI AMG Line
 • €11,900 - Mercedes-Benz A 180d URBAN
 • €13,500 - Mercedes-Benz A 180AMG Line
@@ -30,28 +30,28 @@ PREISÄNDERUNGEN
 ===============
 Preisänderungen heute: 3
 
-📉 PREISSENKUNGEN (2)
-==============================
-• Mercedes-Benz A 180CDI Progressive 8G-DCT CUIR GPS...
-  €27,480 → €26,980 (-€500)
-
-• Mercedes-Benz A 180CDI Progressive 8G-DCT CUIR GPS...
-  €27,480 → €26,980 (-€500)
-
-📈 PREISERHÖHUNGEN (1)
+📉 PREISSENKUNGEN (3)
 ==============================
 • Mercedes-Benz A 180D AMG LINE AUTO PANO CUIR NAVI ...
-  €23,900 → €24,900 (+€1,000)
+  €24,900 → €23,900 (-€1,000)
 
+• Mercedes-Benz A 180D 116, CUIR, NAVI, CAMERA, LED,...
+  €20,900 → €19,900 (-€1,000)
+
+• Mercedes-Benz A 180A 180 d 7G-DCT AMG Line
+  €19,500 → €19,000 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Diesel: 33
-  Benzin: 7
+  Benzin: 8
 
 Verkäufertypen:
-  Händler: 29
-  Privat: 11
+  Händler: 31
+  Privat: 10
 
-Generiert am: 2026-03-04 05:11:17
+Generiert am: 2026-03-05 05:14:32
 AutoScout24 Luxembourg Scraper v2.0
