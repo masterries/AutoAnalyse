@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 5
-Datum: 2026-03-05 05:19:50
+Datum: 2026-03-06 05:17:59
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 169
-Neue Listings: 8
+Gesamt gefundene Listings: 175
+Neue Listings: 5
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €42,210
-Median-Preis: €38,990
+Durchschnittspreis: €43,897
+Median-Preis: €39,990
 Günstigstes: €1,500
 Teuerstes: €115,000
 Preisspanne: €113,500
@@ -28,37 +28,31 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 4
+Preisänderungen heute: 2
 
-📉 PREISSENKUNGEN (4)
+📉 PREISSENKUNGEN (2)
 ==============================
-• BMW M54.4 DKG NIGHT VISION CUIR NAVI
-  €43,900 → €41,900 (-€2,000)
+• BMW X6xDrive 40i M SPORT BVA
+  €82,990 → €78,990 (-€4,000)
 
-• BMW M8COMPETITION CABRIO 4.4 V8 XDRIVE CARBON CORE...
-  €75,900 → €72,900 (-€3,000)
-
-• BMW 118i M SPORT PAKET, 1 HAND, NAVI, LED, COCKPIT...
-  €29,900 → €28,900 (-€1,000)
-
-• BMW 118i M SPORT PAKET, 1 HAND, NAVI, LED, COCKPIT...
-  €30,900 → €29,900 (-€1,000)
+• BMW 540d xDrive MSport M Sportpaket
+  €82,900 → €77,000 (-€5,900)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 82
-  Diesel: 58
-  2: 17
+  Benzin: 89
+  Diesel: 52
+  2: 18
+  3: 7
   Elektro: 7
-  3: 4
-  o: 1
+  o: 2
 
 Verkäufertypen:
-  Händler: 148
-  Privat: 21
+  Händler: 153
+  Privat: 22
 
-Generiert am: 2026-03-05 05:19:50
+Generiert am: 2026-03-06 05:17:59
 AutoScout24 Luxembourg Scraper v2.0
