@@ -1,2 +1,3 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-4157,b549d2ce-0dcc-4703-9a20-22129e615b3b,kia,ev5,"Kia EV581,4 kWh 219 GTLINE",,42490.0,9000,Elektro,12-2025,,,Händler,,2026-02-09T05:46:16.306673,1770615976,1,2026-01-13 04:53:24,2026-02-09 05:46:19
+5954,b003717c-737f-4cd5-932c-36fbaf5b5330,kia,ev5,"Kia EV581,4 KWH BUSINESS PLUS 217",,49790.0,0,Elektro,new,,,Händler,,2026-03-11T05:20:53.963595,1773206453,1,2026-03-11 05:20:57,2026-03-11 05:20:57
+5955,0e9da0e9-cd48-4386-991c-cc748936bc42,kia,ev5,"Kia EV581,4 KWH BUSINESS PLUS 217",,49790.0,0,Elektro,new,,,Händler,,2026-03-11T05:20:53.964215,1773206453,1,2026-03-11 05:20:57,2026-03-11 05:20:57

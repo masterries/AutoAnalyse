@@ -1,22 +1,27 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev9
-Datum: 2026-03-10 05:19:13
+Fahrzeug: kia ev5
+Datum: 2026-03-11 05:20:57
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 2
-Neue Listings: 0
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €75,990
-Median-Preis: €75,990
-Günstigstes: €73,990
-Teuerstes: €77,990
-Preisspanne: €4,000
+Durchschnittspreis: €49,790
+Median-Preis: €49,790
+Günstigstes: €49,790
+Teuerstes: €49,790
+Preisspanne: €0
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €49,790 - Kia EV581,4 KWH BUSINESS PLUS 217
+• €49,790 - Kia EV581,4 KWH BUSINESS PLUS 217
 
 PREISÄNDERUNGEN
 ===============
@@ -30,5 +35,5 @@ Kraftstofftypen:
 Verkäufertypen:
   Händler: 2
 
-Generiert am: 2026-03-10 05:19:13
+Generiert am: 2026-03-11 05:20:57
 AutoScout24 Luxembourg Scraper v2.0
