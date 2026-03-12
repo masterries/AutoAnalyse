@@ -1,0 +1,43 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a5
+Datum: 2026-03-12 05:20:40
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 49
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €36,627
+Median-Preis: €43,990
+Günstigstes: €8,000
+Teuerstes: €61,999
+Preisspanne: €53,999
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Audi A52.0 TFSI 204 CV AVANT S TRONIC S LINE PLUS ...
+  €44,990 → €44,880 (-€110)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 29
+  Benzin: 20
+
+Verkäufertypen:
+  Händler: 35
+  Privat: 14
+
+Generiert am: 2026-03-12 05:20:40
+AutoScout24 Luxembourg Scraper v2.0

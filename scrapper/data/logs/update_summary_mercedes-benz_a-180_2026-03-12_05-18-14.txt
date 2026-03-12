@@ -1,0 +1,72 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz a-180
+Datum: 2026-03-12 05:18:14
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 45
+Neue Listings: 2
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €22,490
+Median-Preis: €22,500
+Günstigstes: €2,999
+Teuerstes: €34,990
+Preisspanne: €31,991
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €2,999 - Mercedes-Benz A 180A 180 CDI (169.007)
+• €9,960 - Mercedes-Benz A 180A 180 AMG Line
+• €11,900 - Mercedes-Benz A 180CDI / d BlueEfficiency
+• €13,500 - Mercedes-Benz A 180AMG Line
+• €14,000 - Mercedes-Benz A 180CDI AMG Line
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 8
+
+📉 PREISSENKUNGEN (8)
+==============================
+• Mercedes-Benz A 180A 180 AMG-Line LED+Kamera+MBUX+...
+  €33,990 → €32,490 (-€1,500)
+
+• Mercedes-Benz A 180A 180 d Progressive LED+SHZ+Kam...
+  €28,990 → €27,890 (-€1,100)
+
+• Mercedes-Benz A 180A 180 d Progressive Kamera+SHZ+...
+  €29,990 → €27,890 (-€2,100)
+
+• Mercedes-Benz A 180A 180 d Progressive Kamera+SHZ+...
+  €29,490 → €27,890 (-€1,600)
+
+• Mercedes-Benz A 180A 180 d Progressive Line Advanc...
+  €32,990 → €29,990 (-€3,000)
+
+• Mercedes-Benz A 180A 180 d AMG-Line Distronic+Totw...
+  €31,890 → €29,990 (-€1,900)
+
+• Mercedes-Benz A 180A 180 d Progressive LED+Kamera+...
+  €28,990 → €26,790 (-€2,200)
+
+• Mercedes-Benz A 180A 180 d Progressive LED+Kamera+...
+  €30,990 → €27,990 (-€3,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 35
+  Benzin: 10
+
+Verkäufertypen:
+  Händler: 34
+  Privat: 11
+
+Generiert am: 2026-03-12 05:18:14
+AutoScout24 Luxembourg Scraper v2.0

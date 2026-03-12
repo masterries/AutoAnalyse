@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2026-03-11 05:15:55
+Datum: 2026-03-12 05:20:02
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 132
-Neue Listings: 2
+Gesamt gefundene Listings: 133
+Neue Listings: 4
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €48,588
-Median-Preis: €30,651
+Durchschnittspreis: €49,332
+Median-Preis: €30,622
 Günstigstes: €2,250
 Teuerstes: €120,000
 Preisspanne: €117,750
@@ -28,33 +28,21 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 8
+Preisänderungen heute: 4
 
-📉 PREISSENKUNGEN (8)
+📉 PREISSENKUNGEN (4)
 ==============================
-• Audi A340 TFSIe Sportback S tronic
-  €30,872 → €30,622 (-€250)
+• Audi A330 TFSI 116ch Hybride Business Executive S ...
+  €27,990 → €27,980 (-€10)
 
-• Audi A3S line
-  €42,918 → €42,648 (-€270)
+• Audi A330 TFSI 116ch Hybride Business Executive S ...
+  €27,990 → €27,980 (-€10)
 
-• Audi A3Sportback
-  €28,890 → €27,890 (-€1,000)
+• Audi A330 TFSI 116ch Hybride Business Executive S ...
+  €27,990 → €27,980 (-€10)
 
-• Audi A3SB+Advanced+S-Tronic+30tfsi
-  €28,990 → €28,490 (-€500)
-
-• Audi A3Sportback S Line
-  €30,980 → €29,980 (-€1,000)
-
-• Audi A3Sportback
-  €26,980 → €25,980 (-€1,000)
-
-• Audi A3Sportback S Line
-  €30,890 → €30,680 (-€210)
-
-• Audi A3Sportback S Line
-  €31,980 → €31,480 (-€500)
+• Audi A330 TFSI 116ch Hybride Business Executive S ...
+  €27,990 → €27,980 (-€10)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
@@ -63,13 +51,13 @@ ZUSÄTZLICHE INFORMATIONEN
 Kraftstofftypen:
   Diesel: 66
   Benzin: 51
-  2: 8
+  2: 9
   o: 6
   unknown: 1
 
 Verkäufertypen:
-  Händler: 75
+  Händler: 76
   Privat: 57
 
-Generiert am: 2026-03-11 05:15:55
+Generiert am: 2026-03-12 05:20:02
 AutoScout24 Luxembourg Scraper v2.0

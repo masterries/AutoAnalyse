@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 430
-Datum: 2026-03-11 05:18:56
+Fahrzeug: tesla model-3
+Datum: 2026-03-12 05:24:41
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 6
+Gesamt gefundene Listings: 7
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €39,277
-Median-Preis: €41,445
+Durchschnittspreis: €27,329
+Median-Preis: €26,500
 Günstigstes: €22,900
-Teuerstes: €47,900
-Preisspanne: €25,000
+Teuerstes: €35,900
+Preisspanne: €13,000
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 6
+  Elektro: 7
 
 Verkäufertypen:
-  Händler: 4
-  Privat: 2
+  Privat: 5
+  Händler: 2
 
-Generiert am: 2026-03-11 05:18:56
+Generiert am: 2026-03-12 05:24:41
 AutoScout24 Luxembourg Scraper v2.0
