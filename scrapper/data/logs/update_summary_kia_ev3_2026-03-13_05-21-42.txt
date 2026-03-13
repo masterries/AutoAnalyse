@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 320
-Datum: 2026-03-12 05:22:24
+Fahrzeug: kia ev3
+Datum: 2026-03-13 05:21:42
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 57
+Gesamt gefundene Listings: 10
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €29,416
-Median-Preis: €31,899
-Günstigstes: €1,750
-Teuerstes: €63,888
-Preisspanne: €62,138
+Durchschnittspreis: €46,780
+Median-Preis: €48,440
+Günstigstes: €36,290
+Teuerstes: €54,390
+Preisspanne: €18,100
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 44
-  Benzin: 10
-  3: 3
+  Elektro: 10
 
 Verkäufertypen:
-  Händler: 30
-  Privat: 27
+  Händler: 10
 
-Generiert am: 2026-03-12 05:22:24
+Generiert am: 2026-03-13 05:21:42
 AutoScout24 Luxembourg Scraper v2.0
