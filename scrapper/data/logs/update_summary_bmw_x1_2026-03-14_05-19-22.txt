@@ -1,0 +1,47 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw x1
+Datum: 2026-03-14 05:19:22
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 61
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €36,833
+Median-Preis: €41,500
+Günstigstes: €7,900
+Teuerstes: €59,500
+Preisspanne: €51,600
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (2)
+==============================
+• BMW X120d M Sport*AHK
+  €42,490 → €41,990 (-€500)
+
+• BMW X1X1 xDrive23d mild-hybrid 211ch. Aut. M Sport...
+  €51,900 → €51,500 (-€400)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 29
+  Diesel: 27
+  2: 5
+
+Verkäufertypen:
+  Händler: 49
+  Privat: 12
+
+Generiert am: 2026-03-14 05:19:22
+AutoScout24 Luxembourg Scraper v2.0

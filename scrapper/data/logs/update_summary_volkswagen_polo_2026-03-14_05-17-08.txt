@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2026-03-13 05:19:09
+Datum: 2026-03-14 05:17:08
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 87
-Neue Listings: 2
+Gesamt gefundene Listings: 89
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €15,977
-Median-Preis: €16,500
+Durchschnittspreis: €15,929
+Median-Preis: €15,700
 Günstigstes: €800
 Teuerstes: €40,458
 Preisspanne: €39,658
@@ -28,24 +28,17 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Volkswagen Polo1.2 TSI 90 BMT DSG7 Beats Audio
-  €13,000 → €12,500 (-€500)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 66
-  Diesel: 21
+  Benzin: 67
+  Diesel: 22
 
 Verkäufertypen:
-  Händler: 64
+  Händler: 66
   Privat: 23
 
-Generiert am: 2026-03-13 05:19:09
+Generiert am: 2026-03-14 05:17:08
 AutoScout24 Luxembourg Scraper v2.0
