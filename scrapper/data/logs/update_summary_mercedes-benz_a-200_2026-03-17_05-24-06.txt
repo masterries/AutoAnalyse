@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 320
-Datum: 2026-03-16 05:55:51
+Fahrzeug: mercedes-benz a-200
+Datum: 2026-03-17 05:24:06
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 55
+Gesamt gefundene Listings: 41
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €29,843
-Median-Preis: €32,000
-Günstigstes: €1,750
-Teuerstes: €63,888
-Preisspanne: €62,138
+Durchschnittspreis: €32,694
+Median-Preis: €34,490
+Günstigstes: €9,999
+Teuerstes: €37,990
+Preisspanne: €27,991
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 320xDrive Touring Kit M Sport
-  €34,000 → €32,000 (-€2,000)
+• Mercedes-Benz A 200A 200 d 8G-DCT AMG Line
+  €24,000 → €23,999 (-€1)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 41
-  Benzin: 11
-  3: 3
+  Diesel: 18
+  Benzin: 14
+  unknown: 9
 
 Verkäufertypen:
-  Händler: 31
-  Privat: 24
+  Händler: 36
+  Privat: 5
 
-Generiert am: 2026-03-16 05:55:51
+Generiert am: 2026-03-17 05:24:06
 AutoScout24 Luxembourg Scraper v2.0
