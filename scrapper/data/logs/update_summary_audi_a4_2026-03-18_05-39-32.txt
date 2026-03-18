@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 430
-Datum: 2026-03-17 05:28:38
+Fahrzeug: audi a4
+Datum: 2026-03-18 05:39:32
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 6
+Gesamt gefundene Listings: 36
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €39,377
-Median-Preis: €41,445
-Günstigstes: €23,500
-Teuerstes: €47,900
-Preisspanne: €24,400
+Durchschnittspreis: €21,929
+Median-Preis: €22,450
+Günstigstes: €2,500
+Teuerstes: €36,980
+Preisspanne: €34,480
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 6
+  Diesel: 25
+  Benzin: 9
+  3: 2
 
 Verkäufertypen:
-  Händler: 4
-  Privat: 2
+  Händler: 19
+  Privat: 17
 
-Generiert am: 2026-03-17 05:28:38
+Generiert am: 2026-03-18 05:39:32
 AutoScout24 Luxembourg Scraper v2.0
