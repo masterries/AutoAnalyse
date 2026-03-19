@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2026-03-18 05:39:19
+Datum: 2026-03-19 05:26:45
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 142
-Neue Listings: 2
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €52,340
-Median-Preis: €31,690
+Durchschnittspreis: €53,094
+Median-Preis: €31,945
 Günstigstes: €6,000
 Teuerstes: €120,000
 Preisspanne: €114,000
@@ -23,47 +23,32 @@ TOP 5 GÜNSTIGSTE LISTINGS
 • €6,000 - Audi A33.2 S line Sportpaket plus quattro
 • €6,499 - Audi A32.0 TDI Quattro Ambiente DPF
 • €9,000 - Audi A3A3 2.0 TDI Sportback DPF S line Sportpaket
-• €11,400 - Audi A3Sportback 2.0 TDI 150 Quattro Ambiente
+• €10,700 - Audi A3Sportback 2.0 TDI 150 Quattro Ambiente
 • €11,500 - Audi A3A3 3.2 quattro (DSG) S tronic S Line Sportpaket plus
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 6
+Preisänderungen heute: 1
 
-📉 PREISSENKUNGEN (6)
+📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A330 TFSI 116ch Hybride Business Executive S ...
-  €27,980 → €27,490 (-€490)
-
-• Audi A330 TFSI 116ch Hybride Business Executive S ...
-  €27,980 → €27,490 (-€490)
-
-• Audi A330 TFSI 116ch Hybride Business Executive S ...
-  €27,980 → €27,490 (-€490)
-
-• Audi A330 TFSI 116ch Hybride Business Executive S ...
-  €27,980 → €27,490 (-€490)
-
-• Audi A3SB+Advanced+30TFSI+S-Tronic
-  €29,990 → €29,490 (-€500)
-
-• Audi A3SB+Advanced+30TFSI+S-Tronic
-  €28,990 → €28,490 (-€500)
+• Audi A3Sportback 2.0 TDI 150 Quattro Ambiente
+  €11,400 → €10,700 (-€700)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 74
+  Diesel: 73
   Benzin: 52
   2: 10
-  o: 5
+  o: 6
   unknown: 1
 
 Verkäufertypen:
-  Händler: 81
-  Privat: 61
+  Händler: 79
+  Privat: 63
 
-Generiert am: 2026-03-18 05:39:19
+Generiert am: 2026-03-19 05:26:45
 AutoScout24 Luxembourg Scraper v2.0
