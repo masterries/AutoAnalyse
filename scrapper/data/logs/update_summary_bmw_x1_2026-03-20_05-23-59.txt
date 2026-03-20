@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev6
-Datum: 2026-03-19 05:31:57
+Fahrzeug: bmw x1
+Datum: 2026-03-20 05:23:59
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 6
+Gesamt gefundene Listings: 59
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,630
-Median-Preis: €33,950
-Günstigstes: €26,000
-Teuerstes: €44,900
-Preisspanne: €18,900
+Durchschnittspreis: €38,011
+Median-Preis: €41,500
+Günstigstes: €7,900
+Teuerstes: €59,500
+Preisspanne: €51,600
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 6
+  Benzin: 31
+  Diesel: 23
+  2: 5
 
 Verkäufertypen:
-  Händler: 4
-  Privat: 2
+  Händler: 49
+  Privat: 10
 
-Generiert am: 2026-03-19 05:31:57
+Generiert am: 2026-03-20 05:23:59
 AutoScout24 Luxembourg Scraper v2.0

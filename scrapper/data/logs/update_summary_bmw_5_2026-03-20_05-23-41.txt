@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 5
-Datum: 2026-03-19 05:30:42
+Datum: 2026-03-20 05:23:41
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 185
-Neue Listings: 6
+Gesamt gefundene Listings: 182
+Neue Listings: 7
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €42,830
-Median-Preis: €39,990
+Durchschnittspreis: €42,316
+Median-Preis: €39,230
 Günstigstes: €1,500
 Teuerstes: €119,900
 Preisspanne: €118,400
@@ -22,34 +22,39 @@ TOP 5 GÜNSTIGSTE LISTINGS
 =========================
 • €1,500 - BMW 116
 • €4,990 - BMW 318318d DPF Touring Aut. Edition Sport
+• €5,000 - BMW 116116i
+• €5,900 - BMW 320320d touring
 • €7,490 - BMW 330CI Coupé 3.0 230 CV BVA
-• €7,800 - BMW 116116i
-• €8,000 - BMW 316316i
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Preisänderungen heute: 3
 
-📉 PREISSENKUNGEN (1)
+📉 PREISSENKUNGEN (2)
 ==============================
-• BMW X5 M50 D /PACK M / CAMERA 360 / 7 PLACES / 381...
-  €36,990 → €34,990 (-€2,000)
+• BMW iX2xDrive30 M Sport CUIR GPS LANE CAM PARK JA1...
+  €41,980 → €41,490 (-€490)
 
-📈 PREISERHÖHUNGEN (0)
+• BMW 116D 116CH SPORT // VIRTUAL COCPIT // LED // A...
+  €18,990 → €17,990 (-€1,000)
+
+📈 PREISERHÖHUNGEN (1)
 ==============================
+• BMW X3 MBMW X3 20D MSport
+  €12,200 → €12,500 (+€300)
+
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 96
-  Diesel: 58
-  2: 19
+  Benzin: 101
+  Diesel: 52
+  2: 18
   Elektro: 6
   3: 5
-  o: 1
 
 Verkäufertypen:
-  Händler: 162
-  Privat: 23
+  Händler: 158
+  Privat: 24
 
-Generiert am: 2026-03-19 05:30:42
+Generiert am: 2026-03-20 05:23:41
 AutoScout24 Luxembourg Scraper v2.0
