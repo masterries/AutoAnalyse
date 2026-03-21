@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a5
-Datum: 2026-03-20 05:20:10
+Datum: 2026-03-21 05:11:42
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €38,971
+Durchschnittspreis: €38,948
 Median-Preis: €44,930
 Günstigstes: €9,500
 Teuerstes: €62,900
@@ -20,8 +20,15 @@ Preisspanne: €53,400
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Audi A5Avant Exclusive interieur
+  €61,999 → €60,999 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -33,5 +40,5 @@ Verkäufertypen:
   Händler: 35
   Privat: 9
 
-Generiert am: 2026-03-20 05:20:10
+Generiert am: 2026-03-21 05:11:42
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a1
-Datum: 2026-03-20 05:20:28
+Fahrzeug: kia ev9
+Datum: 2026-03-21 05:16:18
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 56
+Gesamt gefundene Listings: 2
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,907
-Median-Preis: €26,375
-Günstigstes: €8,000
-Teuerstes: €37,790
-Preisspanne: €29,790
+Durchschnittspreis: €75,990
+Median-Preis: €75,990
+Günstigstes: €73,990
+Teuerstes: €77,990
+Preisspanne: €4,000
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 54
-  Diesel: 2
+  Elektro: 2
 
 Verkäufertypen:
-  Händler: 53
-  Privat: 3
+  Händler: 2
 
-Generiert am: 2026-03-20 05:20:28
+Generiert am: 2026-03-21 05:16:18
 AutoScout24 Luxembourg Scraper v2.0

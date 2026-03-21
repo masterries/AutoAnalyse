@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: kia ev5
-Datum: 2026-03-20 05:24:42
+Datum: 2026-03-21 05:15:58
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -30,5 +30,5 @@ Kraftstofftypen:
 Verkäufertypen:
   Händler: 2
 
-Generiert am: 2026-03-20 05:24:42
+Generiert am: 2026-03-21 05:15:58
 AutoScout24 Luxembourg Scraper v2.0
