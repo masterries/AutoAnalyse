@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 420
-Datum: 2026-03-21 05:13:52
+Fahrzeug: bmw 520
+Datum: 2026-03-22 05:26:34
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 14
+Gesamt gefundene Listings: 33
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,897
-Median-Preis: €37,745
-Günstigstes: €21,000
-Teuerstes: €54,899
-Preisspanne: €33,899
+Durchschnittspreis: €40,149
+Median-Preis: €45,770
+Günstigstes: €8,200
+Teuerstes: €74,258
+Preisspanne: €66,058
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 420420i Coupe M Sport
-  €33,500 → €32,500 (-€1,000)
+• BMW 520520d 184ch 129g Confort A read the descript...
+  €8,400 → €8,200 (-€200)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 9
-  Benzin: 4
-  2: 1
+  Diesel: 19
+  Benzin: 10
+  3: 4
 
 Verkäufertypen:
-  Händler: 7
-  Privat: 7
+  Händler: 24
+  Privat: 9
 
-Generiert am: 2026-03-21 05:13:52
+Generiert am: 2026-03-22 05:26:34
 AutoScout24 Luxembourg Scraper v2.0
