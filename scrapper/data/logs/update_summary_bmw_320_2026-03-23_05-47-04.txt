@@ -1,0 +1,44 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 320
+Datum: 2026-03-23 05:47:04
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 53
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €29,958
+Median-Preis: €30,400
+Günstigstes: €1,750
+Teuerstes: €63,888
+Preisspanne: €62,138
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 320320 d xDrive M Sport AHK StHz Cam
+  €30,900 → €30,400 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 38
+  Benzin: 12
+  3: 3
+
+Verkäufertypen:
+  Privat: 27
+  Händler: 26
+
+Generiert am: 2026-03-23 05:47:04
+AutoScout24 Luxembourg Scraper v2.0

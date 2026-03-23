@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2026-03-22 05:25:16
+Fahrzeug: bmw 330
+Datum: 2026-03-23 05:47:27
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 87
+Gesamt gefundene Listings: 77
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €15,611
-Median-Preis: €15,600
-Günstigstes: €800
-Teuerstes: €40,458
-Preisspanne: €39,658
+Durchschnittspreis: €36,278
+Median-Preis: €39,890
+Günstigstes: €6,790
+Teuerstes: €76,322
+Preisspanne: €69,532
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen Polo1.4 TDI 105 BlueMotion Technology S...
-  €5,700 → €5,499 (-€201)
+• BMW 330330d Touring xDrive Aut. M Sport AHK
+  €38,500 → €36,500 (-€2,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 70
-  Diesel: 17
+  Benzin: 55
+  Diesel: 16
+  2: 5
+  o: 1
 
 Verkäufertypen:
-  Händler: 63
-  Privat: 24
+  Händler: 60
+  Privat: 17
 
-Generiert am: 2026-03-22 05:25:16
+Generiert am: 2026-03-23 05:47:27
 AutoScout24 Luxembourg Scraper v2.0
