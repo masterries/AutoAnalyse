@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen golf
-Datum: 2026-03-23 05:46:17
+Fahrzeug: bmw x1
+Datum: 2026-03-24 05:31:17
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 146
+Gesamt gefundene Listings: 59
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,910
-Median-Preis: €27,245
-Günstigstes: €1,000
-Teuerstes: €64,990
-Preisspanne: €63,990
+Durchschnittspreis: €36,123
+Median-Preis: €40,900
+Günstigstes: €7,900
+Teuerstes: €59,500
+Preisspanne: €51,600
 
 PREISÄNDERUNGEN
 ===============
@@ -24,25 +24,24 @@ Preisänderungen heute: 2
 
 📉 PREISSENKUNGEN (2)
 ==============================
-• Volkswagen Golf5p 1.6 tdi bm Comfortline
-  €4,150 → €4,000 (-€150)
+• BMW X1X1 xDrive18d Aut. xLine
+  €14,900 → €14,500 (-€400)
 
-• Volkswagen GolfGolf 1.5 eTSI OPF DSG R-Line
-  €36,900 → €36,400 (-€500)
+• BMW X1xDrive 18d 143 ch Business
+  €11,000 → €10,000 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 79
-  Diesel: 56
-  2: 10
-  o: 1
+  Benzin: 29
+  Diesel: 26
+  2: 4
 
 Verkäufertypen:
-  Händler: 105
-  Privat: 41
+  Händler: 47
+  Privat: 12
 
-Generiert am: 2026-03-23 05:46:17
+Generiert am: 2026-03-24 05:31:17
 AutoScout24 Luxembourg Scraper v2.0

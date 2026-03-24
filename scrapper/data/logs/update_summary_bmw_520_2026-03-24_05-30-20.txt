@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 330
-Datum: 2026-03-23 05:47:27
+Fahrzeug: bmw 520
+Datum: 2026-03-24 05:30:20
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 77
+Gesamt gefundene Listings: 33
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,278
-Median-Preis: €39,890
-Günstigstes: €6,790
-Teuerstes: €76,322
-Preisspanne: €69,532
+Durchschnittspreis: €40,134
+Median-Preis: €45,770
+Günstigstes: €8,200
+Teuerstes: €74,258
+Preisspanne: €66,058
 
 PREISÄNDERUNGEN
 ===============
@@ -24,22 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 330330d Touring xDrive Aut. M Sport AHK
-  €38,500 → €36,500 (-€2,000)
+• BMW 520520d G30 Pack M
+  €24,900 → €24,400 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 55
-  Diesel: 16
-  2: 5
-  o: 1
+  Diesel: 19
+  Benzin: 10
+  3: 4
 
 Verkäufertypen:
-  Händler: 60
-  Privat: 17
+  Händler: 24
+  Privat: 9
 
-Generiert am: 2026-03-23 05:47:27
+Generiert am: 2026-03-24 05:30:20
 AutoScout24 Luxembourg Scraper v2.0

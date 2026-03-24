@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: kia ev9
-Datum: 2026-03-23 05:50:16
+Datum: 2026-03-24 05:32:17
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -30,5 +30,5 @@ Kraftstofftypen:
 Verkäufertypen:
   Händler: 2
 
-Generiert am: 2026-03-23 05:50:16
+Generiert am: 2026-03-24 05:32:17
 AutoScout24 Luxembourg Scraper v2.0
