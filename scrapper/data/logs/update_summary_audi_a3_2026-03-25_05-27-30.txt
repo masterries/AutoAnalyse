@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2026-03-24 05:27:14
+Datum: 2026-03-25 05:27:30
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 143
-Neue Listings: 1
+Gesamt gefundene Listings: 142
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €53,732
-Median-Preis: €31,480
+Durchschnittspreis: €54,876
+Median-Preis: €31,235
 Günstigstes: €5,400
 Teuerstes: €120,000
 Preisspanne: €114,600
@@ -28,20 +28,33 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 3
 
+📉 PREISSENKUNGEN (3)
+==============================
+• Audi A340 TFSIe Sportback S tronic
+  €30,622 → €30,372 (-€250)
+
+• Audi A3S line
+  €42,648 → €42,378 (-€270)
+
+• Audi A3SB+Advanced+30TFSI+S-Tronic
+  €28,990 → €28,490 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 76
-  Benzin: 52
+  Diesel: 78
+  Benzin: 49
   2: 8
   o: 6
   unknown: 1
 
 Verkäufertypen:
-  Händler: 78
-  Privat: 65
+  Händler: 74
+  Privat: 68
 
-Generiert am: 2026-03-24 05:27:14
+Generiert am: 2026-03-25 05:27:30
 AutoScout24 Luxembourg Scraper v2.0
