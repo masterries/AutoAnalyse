@@ -2,36 +2,43 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a4
-Datum: 2026-03-27 05:46:34
+Datum: 2026-03-28 05:25:17
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 36
+Gesamt gefundene Listings: 34
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €21,180
-Median-Preis: €22,400
+Durchschnittspreis: €20,838
+Median-Preis: €21,450
 Günstigstes: €2,500
 Teuerstes: €35,900
 Preisspanne: €33,400
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Audi A42.0 TDI 177ch S-line Sportpaket
+  €11,950 → €11,850 (-€100)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 25
+  Diesel: 23
   Benzin: 9
   3: 2
 
 Verkäufertypen:
-  Händler: 19
+  Händler: 17
   Privat: 17
 
-Generiert am: 2026-03-27 05:46:34
+Generiert am: 2026-03-28 05:25:17
 AutoScout24 Luxembourg Scraper v2.0

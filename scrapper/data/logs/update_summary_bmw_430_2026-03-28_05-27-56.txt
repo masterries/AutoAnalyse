@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 430
-Datum: 2026-03-27 05:49:13
+Datum: 2026-03-28 05:27:56
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €37,641
+Durchschnittspreis: €37,499
 Median-Preis: €39,990
 Günstigstes: €23,400
 Teuerstes: €49,900
@@ -20,8 +20,15 @@ Preisspanne: €26,500
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 430430i Coupe M Sport
+  €35,500 → €34,500 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -32,5 +39,5 @@ Verkäufertypen:
   Händler: 5
   Privat: 2
 
-Generiert am: 2026-03-27 05:49:13
+Generiert am: 2026-03-28 05:27:56
 AutoScout24 Luxembourg Scraper v2.0
