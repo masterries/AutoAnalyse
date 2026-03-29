@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a4
-Datum: 2026-03-28 05:25:17
+Fahrzeug: bmw x1
+Datum: 2026-03-29 05:51:53
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 34
+Gesamt gefundene Listings: 60
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €20,838
-Median-Preis: €21,450
-Günstigstes: €2,500
-Teuerstes: €35,900
-Preisspanne: €33,400
+Durchschnittspreis: €36,364
+Median-Preis: €41,245
+Günstigstes: €7,900
+Teuerstes: €59,500
+Preisspanne: €51,600
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A42.0 TDI 177ch S-line Sportpaket
-  €11,950 → €11,850 (-€100)
+• BMW X1X1 xDrive23d mild-hybrid 211ch. Aut. M Sport...
+  €51,000 → €49,900 (-€1,100)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 23
-  Benzin: 9
-  3: 2
+  Benzin: 32
+  Diesel: 25
+  2: 3
 
 Verkäufertypen:
-  Händler: 17
-  Privat: 17
+  Händler: 46
+  Privat: 14
 
-Generiert am: 2026-03-28 05:25:17
+Generiert am: 2026-03-29 05:51:53
 AutoScout24 Luxembourg Scraper v2.0

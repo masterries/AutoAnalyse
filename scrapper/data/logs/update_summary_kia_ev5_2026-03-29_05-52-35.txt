@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev6
-Datum: 2026-03-28 05:30:02
+Fahrzeug: kia ev5
+Datum: 2026-03-29 05:52:35
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 4
+Gesamt gefundene Listings: 2
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €35,970
-Median-Preis: €35,495
-Günstigstes: €27,990
-Teuerstes: €44,900
-Preisspanne: €16,910
+Durchschnittspreis: €49,790
+Median-Preis: €49,790
+Günstigstes: €49,790
+Teuerstes: €49,790
+Preisspanne: €0
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 4
+  Elektro: 2
 
 Verkäufertypen:
-  Händler: 3
-  Privat: 1
+  Händler: 2
 
-Generiert am: 2026-03-28 05:30:02
+Generiert am: 2026-03-29 05:52:35
 AutoScout24 Luxembourg Scraper v2.0

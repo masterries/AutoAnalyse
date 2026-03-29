@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: tesla model-3
-Datum: 2026-03-28 05:29:21
+Datum: 2026-03-29 05:52:04
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -31,5 +31,5 @@ Verkäufertypen:
   Privat: 6
   Händler: 2
 
-Generiert am: 2026-03-28 05:29:21
+Generiert am: 2026-03-29 05:52:04
 AutoScout24 Luxembourg Scraper v2.0
