@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-200
-Datum: 2026-03-30 06:02:52
+Fahrzeug: bmw x1
+Datum: 2026-03-31 05:52:22
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 30
+Gesamt gefundene Listings: 58
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €28,728
-Median-Preis: €25,445
-Günstigstes: €2,200
-Teuerstes: €50,890
-Preisspanne: €48,690
+Durchschnittspreis: €36,196
+Median-Preis: €41,245
+Günstigstes: €7,900
+Teuerstes: €59,500
+Preisspanne: €51,600
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Mercedes-Benz C 200C 200 Cabrio 4Matic 9G-TRONIC A...
-  €32,500 → €31,500 (-€1,000)
+• BMW X123i XDRIVE PACK PREMIUM 216 CV 4CYL
+  €46,900 → €44,900 (-€2,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 26
-  Benzin: 4
+  Benzin: 30
+  Diesel: 25
+  2: 3
 
 Verkäufertypen:
-  Händler: 22
-  Privat: 8
+  Händler: 44
+  Privat: 14
 
-Generiert am: 2026-03-30 06:02:52
+Generiert am: 2026-03-31 05:52:22
 AutoScout24 Luxembourg Scraper v2.0

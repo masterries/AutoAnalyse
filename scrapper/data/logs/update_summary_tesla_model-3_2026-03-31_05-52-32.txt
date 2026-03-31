@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw x1
-Datum: 2026-03-30 06:08:06
+Fahrzeug: tesla model-3
+Datum: 2026-03-31 05:52:32
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 60
+Gesamt gefundene Listings: 6
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,364
-Median-Preis: €41,245
-Günstigstes: €7,900
-Teuerstes: €59,500
-Preisspanne: €51,600
+Durchschnittspreis: €30,557
+Median-Preis: €26,250
+Günstigstes: €23,000
+Teuerstes: €48,990
+Preisspanne: €25,990
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 32
-  Diesel: 25
-  2: 3
+  Elektro: 6
 
 Verkäufertypen:
-  Händler: 46
-  Privat: 14
+  Privat: 6
 
-Generiert am: 2026-03-30 06:08:06
+Generiert am: 2026-03-31 05:52:32
 AutoScout24 Luxembourg Scraper v2.0
