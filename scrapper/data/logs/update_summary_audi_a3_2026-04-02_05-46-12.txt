@@ -1,0 +1,92 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a3
+Datum: 2026-04-02 05:46:12
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 162
+Neue Listings: 2
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €55,048
+Median-Preis: €31,990
+Günstigstes: €5,300
+Teuerstes: €120,000
+Preisspanne: €114,700
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €5,300 - Audi A3A3 1.8 TFSI Sportback Ambiente
+• €6,000 - Audi A33.2 S line Sportpaket plus quattro
+• €9,000 - Audi A3A3 2.0 TDI Sportback DPF S line Sportpaket
+• €10,600 - Audi A32.0 TDI Sportback (clean diesel) Ambition
+• €10,999 - Audi A3Sportback 2.0 TDI 150 Quattro Ambiente
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 14
+
+📉 PREISSENKUNGEN (13)
+==============================
+• Audi A3Sportback
+  €33,480 → €31,980 (-€1,500)
+
+• Audi A335 TFSI S Tronic
+  €32,890 → €32,480 (-€410)
+
+• Audi A3Sportback
+  €27,890 → €27,480 (-€410)
+
+• Audi A3Sportback
+  €32,980 → €32,480 (-€500)
+
+• Audi A3Sportback S Line
+  €29,980 → €29,480 (-€500)
+
+• Audi A3Sportback
+  €25,980 → €25,480 (-€500)
+
+• Audi A3Sportback
+  €36,490 → €33,990 (-€2,500)
+
+• Audi A3Sportback S Line
+  €30,680 → €29,980 (-€700)
+
+• Audi A3Sportback S Line
+  €31,480 → €30,980 (-€500)
+
+• Audi A31.5 TFSI cylinder on demand Sportback
+  €17,400 → €17,200 (-€200)
+
+• Audi A3Sportback
+  €33,480 → €32,980 (-€500)
+
+• Audi A3Sportback
+  €33,480 → €32,980 (-€500)
+
+• Audi A3A3 Sportback 35 TFSI Mild Hybrid 150 S tron...
+  €26,400 → €26,000 (-€400)
+
+📈 PREISERHÖHUNGEN (1)
+==============================
+• Audi A32.0 TDI 150 SPORTBACK FACELIFT BI-XENON NAV...
+  €17,900 → €18,900 (+€1,000)
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 86
+  Benzin: 58
+  2: 11
+  o: 7
+
+Verkäufertypen:
+  Händler: 89
+  Privat: 73
+
+Generiert am: 2026-04-02 05:46:12
+AutoScout24 Luxembourg Scraper v2.0
