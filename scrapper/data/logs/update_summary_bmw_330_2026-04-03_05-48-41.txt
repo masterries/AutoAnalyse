@@ -1,0 +1,81 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 330
+Datum: 2026-04-03 05:48:41
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 71
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €35,719
+Median-Preis: €38,990
+Günstigstes: €6,790
+Teuerstes: €76,322
+Preisspanne: €69,532
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 13
+
+📉 PREISSENKUNGEN (13)
+==============================
+• BMW 330D 6 cyl XDRIVE TOURING M SPORT PAKET HEAD U...
+  €36,900 → €35,900 (-€1,000)
+
+• BMW 330PACK M
+  €42,900 → €41,500 (-€1,400)
+
+• BMW 330XDRIVE PACK M
+  €42,900 → €41,500 (-€1,400)
+
+• BMW 330xDrive Touring
+  €42,900 → €41,500 (-€1,400)
+
+• BMW 330xDrive Touring M-SPORT PRO
+  €49,900 → €47,900 (-€2,000)
+
+• BMW 330xDrive Touring
+  €42,900 → €41,500 (-€1,400)
+
+• BMW 330xDrive Touring
+  €42,900 → €41,500 (-€1,400)
+
+• BMW 330xDrive Touring M-SPORT PRO
+  €49,900 → €47,900 (-€2,000)
+
+• BMW 330XDRIVE PACK M
+  €40,900 → €39,500 (-€1,400)
+
+• BMW 330XDRIVE PACK M
+  €40,900 → €39,500 (-€1,400)
+
+• BMW 330PACK M
+  €42,900 → €41,500 (-€1,400)
+
+• BMW 330xDriveTouring
+  €42,900 → €41,500 (-€1,400)
+
+• BMW 330xDrive Touring
+  €42,900 → €41,500 (-€1,400)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 48
+  Diesel: 16
+  2: 6
+  o: 1
+
+Verkäufertypen:
+  Händler: 54
+  Privat: 17
+
+Generiert am: 2026-04-03 05:48:41
+AutoScout24 Luxembourg Scraper v2.0
