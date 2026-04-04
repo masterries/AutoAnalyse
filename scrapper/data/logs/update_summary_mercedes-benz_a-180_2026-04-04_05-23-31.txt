@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev3
-Datum: 2026-04-03 05:50:39
+Fahrzeug: mercedes-benz a-180
+Datum: 2026-04-04 05:23:31
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 10
+Gesamt gefundene Listings: 41
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €46,780
-Median-Preis: €48,440
-Günstigstes: €36,290
-Teuerstes: €54,390
-Preisspanne: €18,100
+Durchschnittspreis: €22,157
+Median-Preis: €21,900
+Günstigstes: €2,999
+Teuerstes: €34,490
+Preisspanne: €31,491
 
 PREISÄNDERUNGEN
 ===============
@@ -25,10 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 10
+  Diesel: 29
+  Benzin: 12
 
 Verkäufertypen:
-  Händler: 10
+  Händler: 30
+  Privat: 11
 
-Generiert am: 2026-04-03 05:50:39
+Generiert am: 2026-04-04 05:23:31
 AutoScout24 Luxembourg Scraper v2.0
