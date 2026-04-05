@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev9
-Datum: 2026-04-04 05:30:20
+Fahrzeug: volkswagen golf
+Datum: 2026-04-05 05:51:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 2
+Gesamt gefundene Listings: 147
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €75,990
-Median-Preis: €75,990
-Günstigstes: €73,990
-Teuerstes: €77,990
-Preisspanne: €4,000
+Durchschnittspreis: €24,740
+Median-Preis: €26,900
+Günstigstes: €1,000
+Teuerstes: €64,990
+Preisspanne: €63,990
 
 PREISÄNDERUNGEN
 ===============
@@ -25,10 +25,15 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 2
+  Benzin: 83
+  Diesel: 51
+  2: 11
+  o: 1
+  unknown: 1
 
 Verkäufertypen:
-  Händler: 2
+  Händler: 111
+  Privat: 36
 
-Generiert am: 2026-04-04 05:30:20
+Generiert am: 2026-04-05 05:51:01
 AutoScout24 Luxembourg Scraper v2.0
