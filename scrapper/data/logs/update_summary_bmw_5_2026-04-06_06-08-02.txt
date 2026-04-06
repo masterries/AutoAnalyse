@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 5
-Datum: 2026-04-05 05:53:29
+Datum: 2026-04-06 06:08:02
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 186
-Neue Listings: 4
+Gesamt gefundene Listings: 171
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €43,553
-Median-Preis: €41,080
+Durchschnittspreis: €44,668
+Median-Preis: €41,500
 Günstigstes: €1,500
 Teuerstes: €129,990
 Preisspanne: €128,490
@@ -33,16 +33,16 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 101
-  Diesel: 56
-  2: 17
-  3: 6
+  Benzin: 89
+  Diesel: 51
+  2: 20
   Elektro: 5
+  3: 5
   o: 1
 
 Verkäufertypen:
-  Händler: 165
-  Privat: 21
+  Händler: 151
+  Privat: 20
 
-Generiert am: 2026-04-05 05:53:29
+Generiert am: 2026-04-06 06:08:02
 AutoScout24 Luxembourg Scraper v2.0
