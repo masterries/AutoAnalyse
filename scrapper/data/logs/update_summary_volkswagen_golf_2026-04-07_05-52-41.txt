@@ -1,0 +1,46 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen golf
+Datum: 2026-04-07 05:52:41
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 145
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €24,556
+Median-Preis: €26,900
+Günstigstes: €1,000
+Teuerstes: €64,990
+Preisspanne: €63,990
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Volkswagen Golf5p 1.4 tsi Gte plug in Hybrid dsg
+  €19,300 → €18,900 (-€400)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 82
+  Diesel: 52
+  2: 9
+  o: 1
+  unknown: 1
+
+Verkäufertypen:
+  Händler: 111
+  Privat: 34
+
+Generiert am: 2026-04-07 05:52:41
+AutoScout24 Luxembourg Scraper v2.0
