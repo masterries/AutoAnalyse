@@ -2,47 +2,53 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 5
-Datum: 2026-04-07 05:54:59
+Datum: 2026-04-08 05:56:27
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 180
-Neue Listings: 1
+Gesamt gefundene Listings: 179
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €43,486
-Median-Preis: €39,900
+Durchschnittspreis: €44,361
+Median-Preis: €41,900
 Günstigstes: €1,500
-Teuerstes: €129,990
-Preisspanne: €128,490
+Teuerstes: €119,900
+Preisspanne: €118,400
 
 TOP 5 GÜNSTIGSTE LISTINGS
 =========================
 • €1,500 - BMW 116
 • €3,990 - BMW 320d Touring**PDC**LEDER**SHZ**PACK M**
 • €5,800 - BMW 316316d Touring Modern
+• €7,490 - BMW 330CI Coupé 3.0 230 CV BVA
 • €7,800 - BMW 116116i
-• €8,990 - BMW 520520d Touring Aut. Luxury Line
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW X2X2 sDrive20i
+  €48,000 → €43,000 (-€5,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 93
-  Diesel: 57
+  Benzin: 97
+  Diesel: 51
   2: 19
+  3: 7
   Elektro: 5
-  3: 5
-  o: 1
 
 Verkäufertypen:
-  Händler: 161
-  Privat: 19
+  Händler: 153
+  Privat: 26
 
-Generiert am: 2026-04-07 05:54:59
+Generiert am: 2026-04-08 05:56:27
 AutoScout24 Luxembourg Scraper v2.0

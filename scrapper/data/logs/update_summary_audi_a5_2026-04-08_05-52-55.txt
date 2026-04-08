@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw x1
-Datum: 2026-04-07 05:55:20
+Fahrzeug: audi a5
+Datum: 2026-04-08 05:52:55
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 62
+Gesamt gefundene Listings: 55
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €35,922
-Median-Preis: €41,500
-Günstigstes: €7,000
-Teuerstes: €59,500
-Preisspanne: €52,500
+Durchschnittspreis: €36,920
+Median-Preis: €42,990
+Günstigstes: €9,800
+Teuerstes: €67,557
+Preisspanne: €57,757
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW X1X1 xDrive25i Aut. xLine
-  €28,000 → €27,000 (-€1,000)
+• Audi A5TDI 150 kW S tronic
+  €46,948 → €46,590 (-€358)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 31
-  Diesel: 28
-  2: 3
+  Diesel: 37
+  Benzin: 16
+  2: 2
 
 Verkäufertypen:
-  Händler: 46
-  Privat: 16
+  Händler: 45
+  Privat: 10
 
-Generiert am: 2026-04-07 05:55:20
+Generiert am: 2026-04-08 05:52:55
 AutoScout24 Luxembourg Scraper v2.0

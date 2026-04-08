@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 320
-Datum: 2026-04-07 05:53:24
+Fahrzeug: tesla model-3
+Datum: 2026-04-08 05:57:00
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 55
+Gesamt gefundene Listings: 14
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €27,956
-Median-Preis: €29,300
-Günstigstes: €1,750
-Teuerstes: €63,888
-Preisspanne: €62,138
+Durchschnittspreis: €30,196
+Median-Preis: €26,950
+Günstigstes: €22,400
+Teuerstes: €48,990
+Preisspanne: €26,590
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 36
-  Benzin: 16
-  3: 3
+  Elektro: 14
 
 Verkäufertypen:
-  Händler: 28
-  Privat: 27
+  Privat: 9
+  Händler: 5
 
-Generiert am: 2026-04-07 05:53:24
+Generiert am: 2026-04-08 05:57:00
 AutoScout24 Luxembourg Scraper v2.0

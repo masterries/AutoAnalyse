@@ -1,0 +1,55 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a1
+Datum: 2026-04-08 05:53:18
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 70
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €26,203
+Median-Preis: €26,490
+Günstigstes: €4,000
+Teuerstes: €39,517
+Preisspanne: €35,517
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 5
+
+📉 PREISSENKUNGEN (5)
+==============================
+• Audi A1AllStreet+30TFSI+Navi+BVM
+  €23,990 → €23,490 (-€500)
+
+• Audi A1SPORTBACK 30 TFSI 116 CITYCARVER VIRTUAL CO...
+  €18,390 → €17,490 (-€900)
+
+• Audi A125 TFSI Sportback S tronic line Ext
+  €18,990 → €17,990 (-€1,000)
+
+• Audi A1S line
+  €34,804 → €34,580 (-€224)
+
+• Audi A1SB+S-Line+S-Tronic+30TFSI+LED
+  €24,990 → €24,490 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 67
+  Diesel: 3
+
+Verkäufertypen:
+  Händler: 67
+  Privat: 3
+
+Generiert am: 2026-04-08 05:53:18
+AutoScout24 Luxembourg Scraper v2.0

@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen golf
-Datum: 2026-04-07 05:52:41
+Fahrzeug: mercedes-benz a-180
+Datum: 2026-04-08 05:50:30
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 145
+Gesamt gefundene Listings: 38
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,556
-Median-Preis: €26,900
-Günstigstes: €1,000
-Teuerstes: €64,990
-Preisspanne: €63,990
+Durchschnittspreis: €22,555
+Median-Preis: €22,250
+Günstigstes: €2,999
+Teuerstes: €34,490
+Preisspanne: €31,491
 
 PREISÄNDERUNGEN
 ===============
@@ -24,23 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen Golf5p 1.4 tsi Gte plug in Hybrid dsg
-  €19,300 → €18,900 (-€400)
+• Mercedes-Benz A 180116 CV AMG GPS CLASSE A
+  €25,490 → €24,990 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 82
-  Diesel: 52
-  2: 9
-  o: 1
-  unknown: 1
+  Diesel: 27
+  Benzin: 11
 
 Verkäufertypen:
-  Händler: 111
-  Privat: 34
+  Händler: 29
+  Privat: 9
 
-Generiert am: 2026-04-07 05:52:41
+Generiert am: 2026-04-08 05:50:30
 AutoScout24 Luxembourg Scraper v2.0
