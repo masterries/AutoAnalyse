@@ -1,0 +1,44 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a1
+Datum: 2026-04-09 05:54:35
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 70
+Neue Listings: 1
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €26,191
+Median-Preis: €26,490
+Günstigstes: €4,000
+Teuerstes: €39,517
+Preisspanne: €35,517
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €4,000 - Audi A1A1 1.4 TDI (ultra) Sportback design
+• €8,500 - Audi A1S line Sportpaket
+• €8,990 - Audi A1Sportback sport**NAVI**PDC**
+• €15,490 - Audi A1A1 1.0 TFSI ultra Sportback sport
+• €15,900 - Audi A1A1 Sportback 25 TFSI (EU6AP) Garantie 12 Mois✅✅✅
+
+PREISÄNDERUNGEN
+===============
+Keine Preisänderungen verfügbar.
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 67
+  Diesel: 3
+
+Verkäufertypen:
+  Händler: 67
+  Privat: 3
+
+Generiert am: 2026-04-09 05:54:35
+AutoScout24 Luxembourg Scraper v2.0
