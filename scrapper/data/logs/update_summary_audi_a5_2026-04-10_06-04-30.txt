@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-180
-Datum: 2026-04-09 05:51:53
+Fahrzeug: audi a5
+Datum: 2026-04-10 06:04:30
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 37
+Gesamt gefundene Listings: 54
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €22,541
-Median-Preis: €21,900
-Günstigstes: €2,999
-Teuerstes: €34,490
-Preisspanne: €31,491
+Durchschnittspreis: €36,755
+Median-Preis: €42,490
+Günstigstes: €9,800
+Teuerstes: €67,557
+Preisspanne: €57,757
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 26
-  Benzin: 11
+  Diesel: 36
+  Benzin: 16
+  2: 2
 
 Verkäufertypen:
-  Händler: 29
-  Privat: 8
+  Händler: 44
+  Privat: 10
 
-Generiert am: 2026-04-09 05:51:53
+Generiert am: 2026-04-10 06:04:30
 AutoScout24 Luxembourg Scraper v2.0

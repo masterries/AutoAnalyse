@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a5
-Datum: 2026-04-09 05:54:14
+Fahrzeug: volkswagen golf
+Datum: 2026-04-10 06:05:31
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 55
+Gesamt gefundene Listings: 150
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,913
-Median-Preis: €42,990
-Günstigstes: €9,800
-Teuerstes: €67,557
-Preisspanne: €57,757
+Durchschnittspreis: €24,683
+Median-Preis: €26,945
+Günstigstes: €1,000
+Teuerstes: €64,990
+Preisspanne: €63,990
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,23 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A5Avant TDI 150 kW S tronic
-  €53,881 → €53,538 (-€343)
+• Volkswagen Golf1.6 Tdi 105 comfortline BlueMotion
+  €5,600 → €5,200 (-€400)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 37
-  Benzin: 16
-  2: 2
+  Benzin: 87
+  Diesel: 50
+  2: 11
+  o: 1
+  unknown: 1
 
 Verkäufertypen:
-  Händler: 45
-  Privat: 10
+  Händler: 112
+  Privat: 38
 
-Generiert am: 2026-04-09 05:54:14
+Generiert am: 2026-04-10 06:05:31
 AutoScout24 Luxembourg Scraper v2.0
