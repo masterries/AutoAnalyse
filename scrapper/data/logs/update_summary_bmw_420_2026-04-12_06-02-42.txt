@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-220
-Datum: 2026-04-11 05:27:44
+Fahrzeug: bmw 420
+Datum: 2026-04-12 06:02:42
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 36
+Gesamt gefundene Listings: 18
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €41,895
-Median-Preis: €46,990
-Günstigstes: €3,990
-Teuerstes: €60,990
-Preisspanne: €57,000
+Durchschnittspreis: €38,553
+Median-Preis: €37,990
+Günstigstes: €18,500
+Teuerstes: €54,899
+Preisspanne: €36,399
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 34
-  3: 2
+  Diesel: 11
+  Benzin: 6
+  2: 1
 
 Verkäufertypen:
-  Händler: 25
-  Privat: 11
+  Händler: 11
+  Privat: 7
 
-Generiert am: 2026-04-11 05:27:44
+Generiert am: 2026-04-12 06:02:42
 AutoScout24 Luxembourg Scraper v2.0

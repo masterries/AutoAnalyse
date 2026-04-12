@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 5
-Datum: 2026-04-11 05:32:33
+Datum: 2026-04-12 06:03:50
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 169
-Neue Listings: 6
+Gesamt gefundene Listings: 181
+Neue Listings: 8
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €41,917
-Median-Preis: €38,990
+Durchschnittspreis: €41,920
+Median-Preis: €39,490
 Günstigstes: €1,500
 Teuerstes: €129,990
 Preisspanne: €128,490
@@ -28,21 +28,28 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 318Touring 318i Automatique // Garantie 12 Moi...
+  €21,900 → €20,999 (-€901)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 94
+  Benzin: 103
   Diesel: 51
-  2: 15
-  3: 4
-  Elektro: 4
+  2: 16
+  3: 5
+  Elektro: 5
   o: 1
 
 Verkäufertypen:
-  Händler: 145
-  Privat: 24
+  Händler: 152
+  Privat: 29
 
-Generiert am: 2026-04-11 05:32:33
+Generiert am: 2026-04-12 06:03:50
 AutoScout24 Luxembourg Scraper v2.0
