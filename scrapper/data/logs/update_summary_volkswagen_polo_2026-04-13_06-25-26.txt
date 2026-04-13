@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-220
-Datum: 2026-04-12 05:59:05
+Fahrzeug: volkswagen polo
+Datum: 2026-04-13 06:25:26
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 33
+Gesamt gefundene Listings: 80
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €41,053
-Median-Preis: €46,990
-Günstigstes: €3,990
-Teuerstes: €59,990
-Preisspanne: €56,000
+Durchschnittspreis: €15,283
+Median-Preis: €16,695
+Günstigstes: €50
+Teuerstes: €40,458
+Preisspanne: €40,408
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 31
-  3: 2
+  Benzin: 65
+  Diesel: 15
 
 Verkäufertypen:
-  Händler: 22
-  Privat: 11
+  Händler: 59
+  Privat: 21
 
-Generiert am: 2026-04-12 05:59:05
+Generiert am: 2026-04-13 06:25:26
 AutoScout24 Luxembourg Scraper v2.0
