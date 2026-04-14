@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a1
-Datum: 2026-04-13 06:24:17
+Fahrzeug: bmw 330
+Datum: 2026-04-14 06:08:43
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 67
+Gesamt gefundene Listings: 62
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €26,284
-Median-Preis: €26,500
-Günstigstes: €8,500
-Teuerstes: €39,517
-Preisspanne: €31,017
+Durchschnittspreis: €36,296
+Median-Preis: €38,990
+Günstigstes: €6,790
+Teuerstes: €76,322
+Preisspanne: €69,532
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A1Sportback 25 TFSI
-  €15,000 → €14,000 (-€1,000)
+• BMW 330BMW 330 d Xdrive Sportline Panorama Head UP...
+  €25,490 → €24,990 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 64
-  Diesel: 3
+  Benzin: 43
+  Diesel: 13
+  2: 5
+  o: 1
 
 Verkäufertypen:
-  Händler: 64
-  Privat: 3
+  Händler: 48
+  Privat: 14
 
-Generiert am: 2026-04-13 06:24:17
+Generiert am: 2026-04-14 06:08:43
 AutoScout24 Luxembourg Scraper v2.0

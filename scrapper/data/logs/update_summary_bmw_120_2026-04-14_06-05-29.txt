@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a5
-Datum: 2026-04-13 06:23:55
+Fahrzeug: bmw 120
+Datum: 2026-04-14 06:05:29
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 54
+Gesamt gefundene Listings: 48
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,916
-Median-Preis: €43,490
-Günstigstes: €9,800
-Teuerstes: €67,557
-Preisspanne: €57,757
+Durchschnittspreis: €34,644
+Median-Preis: €33,990
+Günstigstes: €10,500
+Teuerstes: €54,238
+Preisspanne: €43,738
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 37
-  Benzin: 15
-  2: 2
+  Benzin: 23
+  Diesel: 18
+  2: 4
+  3: 3
 
 Verkäufertypen:
   Händler: 44
-  Privat: 10
+  Privat: 4
 
-Generiert am: 2026-04-13 06:23:55
+Generiert am: 2026-04-14 06:05:29
 AutoScout24 Luxembourg Scraper v2.0
