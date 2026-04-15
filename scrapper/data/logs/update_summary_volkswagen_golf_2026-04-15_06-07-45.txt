@@ -1,0 +1,105 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen golf
+Datum: 2026-04-15 06:07:45
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 143
+Neue Listings: 4
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €24,339
+Median-Preis: €26,900
+Günstigstes: €1,000
+Teuerstes: €64,990
+Preisspanne: €63,990
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,000 - Volkswagen GolfGolf 1.9 TDI Individual
+• €1,499 - Volkswagen GolfGolf 1.6 Special
+• €2,550 - Volkswagen GolfGolf 1.6 FSI Sportline
+• €2,750 - Volkswagen Golf1.9 TDI
+• €2,800 - Volkswagen Golf2.0 TDI 110 FAP CR Confortline
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 18
+
+📉 PREISSENKUNGEN (18)
+==============================
+• Volkswagen GolfGTI+DSG+Matrix-LED+RearView
+  €28,990 → €27,990 (-€1,000)
+
+• Volkswagen GolfLife+DSG+LM17+LED
+  €23,990 → €23,490 (-€500)
+
+• Volkswagen GolfR-line+DSG
+  €28,490 → €27,990 (-€500)
+
+• Volkswagen GolfGTI-Clubsport+DSG+Pano+Navi
+  €33,490 → €32,990 (-€500)
+
+• Volkswagen GolfStyle+DSG+360+P.Ass.
+  €30,490 → €28,990 (-€1,500)
+
+• Volkswagen Golf2.0 TDI 110 FAP CR Confortline
+  €3,000 → €2,800 (-€200)
+
+• Volkswagen GolfGTI+DSG+Pano+Matrix-LED+Navi
+  €32,490 → €30,990 (-€1,500)
+
+• Volkswagen GolfLife+DSG+LED+NAVI
+  €29,490 → €28,990 (-€500)
+
+• Volkswagen GolfR+DSG+4M+P.Leder+Akra.
+  €38,990 → €36,990 (-€2,000)
+
+• Volkswagen GolfLife+DSG+LED+Navi+DIGI+
+  €25,990 → €24,990 (-€1,000)
+
+• Volkswagen GolfGTI+DSG+LED+NAVI+DIGI+
+  €33,990 → €32,490 (-€1,500)
+
+• Volkswagen GolfGTI+DSG+LM19+Pano+MatrixLED
+  €37,990 → €37,490 (-€500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €27,990 → €26,990 (-€1,000)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €27,990 → €26,990 (-€1,000)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €29,490 → €28,490 (-€1,000)
+
+• Volkswagen GolfR-Line+BVM+Navi+LED
+  €28,490 → €27,990 (-€500)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €29,490 → €28,990 (-€500)
+
+• Volkswagen GolfR-Perfomance+4M+DSG+LM19
+  €38,990 → €38,490 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 80
+  Diesel: 50
+  2: 11
+  o: 1
+  unknown: 1
+
+Verkäufertypen:
+  Händler: 106
+  Privat: 37
+
+Generiert am: 2026-04-15 06:07:45
+AutoScout24 Luxembourg Scraper v2.0
