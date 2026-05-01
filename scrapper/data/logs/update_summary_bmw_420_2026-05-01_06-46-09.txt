@@ -1,0 +1,37 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 420
+Datum: 2026-05-01 06:46:09
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 22
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €37,515
+Median-Preis: €37,990
+Günstigstes: €15,500
+Teuerstes: €54,899
+Preisspanne: €39,399
+
+PREISÄNDERUNGEN
+===============
+Keine Preisänderungen verfügbar.
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 13
+  Benzin: 8
+  2: 1
+
+Verkäufertypen:
+  Händler: 13
+  Privat: 9
+
+Generiert am: 2026-05-01 06:46:09
+AutoScout24 Luxembourg Scraper v2.0
