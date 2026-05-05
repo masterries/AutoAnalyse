@@ -1,0 +1,56 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen golf
+Datum: 2026-05-05 06:26:58
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 190
+Neue Listings: 10
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €25,299
+Median-Preis: €27,240
+Günstigstes: €1,499
+Teuerstes: €64,990
+Preisspanne: €63,491
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,499 - Volkswagen GolfGolf 1.6 Special
+• €2,550 - Volkswagen GolfGolf 1.6 FSI Sportline
+• €2,600 - Volkswagen Golf2.0 TDI 110 FAP CR Confortline
+• €3,800 - Volkswagen GolfGolf 1.9 TDI
+• €3,850 - Volkswagen Golf1.9 TDI Trendline
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (2)
+==============================
+• Volkswagen GolfGTI CLUBSPORT 2.0 DSG 300 H/K HEAD ...
+  €29,900 → €28,900 (-€1,000)
+
+• Volkswagen Golf1.5 eTSI 150 Style
+  €21,900 → €21,400 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 102
+  Diesel: 72
+  2: 15
+  o: 1
+
+Verkäufertypen:
+  Händler: 150
+  Privat: 40
+
+Generiert am: 2026-05-05 06:26:58
+AutoScout24 Luxembourg Scraper v2.0
