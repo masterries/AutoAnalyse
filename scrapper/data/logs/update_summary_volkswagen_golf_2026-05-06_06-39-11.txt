@@ -1,0 +1,95 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen golf
+Datum: 2026-05-06 06:39:11
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 186
+Neue Listings: 2
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €25,537
+Median-Preis: €27,240
+Günstigstes: €1,499
+Teuerstes: €64,990
+Preisspanne: €63,491
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,499 - Volkswagen GolfGolf 1.6 Special
+• €2,600 - Volkswagen Golf2.0 TDI 110 FAP CR Confortline
+• €3,800 - Volkswagen GolfGolf 1.9 TDI
+• €4,550 - Volkswagen GolfGolf 1.6 Comfortline
+• €4,600 - Volkswagen GolfGolf 2.0 TDI DPF Comfortline 119 g
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 15
+
+📉 PREISSENKUNGEN (15)
+==============================
+• Volkswagen GolfStyle+DSG+PHEV+Led+Navi
+  €22,490 → €21,990 (-€500)
+
+• Volkswagen GolfR+DSG+4M+P.Leder+Akra+Pano
+  €35,490 → €34,990 (-€500)
+
+• Volkswagen GolfLife+DSG+LED+NAVI
+  €28,490 → €27,990 (-€500)
+
+• Volkswagen GolfGTI+DSG+Pano+Matrix-LED+Navi
+  €30,490 → €29,990 (-€500)
+
+• Volkswagen Golf2.0 TDI Life TO ACC LANE SIDE GPS C...
+  €25,980 → €25,780 (-€200)
+
+• Volkswagen GolfLife+DSG+LED+NAVI
+  €28,490 → €27,990 (-€500)
+
+• Volkswagen GolfLife+DSG+Led+Navi+digi+
+  €28,990 → €28,490 (-€500)
+
+• Volkswagen Golf1.4 TSI DSG Sound Facelift VII
+  €17,400 → €16,990 (-€410)
+
+• Volkswagen GolfGolf 1.0 TSI OPF Trendline
+  €12,500 → €10,500 (-€2,000)
+
+• Volkswagen GolfGTE+DSG+AHK
+  €34,490 → €33,990 (-€500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €29,990 → €29,490 (-€500)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €29,990 → €29,490 (-€500)
+
+• Volkswagen GolfGTI
+  €16,000 → €15,000 (-€1,000)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €28,490 → €27,990 (-€500)
+
+• Volkswagen GolfR BLACK EDITION
+  €49,990 → €48,990 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 99
+  Diesel: 71
+  2: 15
+  o: 1
+
+Verkäufertypen:
+  Händler: 148
+  Privat: 38
+
+Generiert am: 2026-05-06 06:39:11
+AutoScout24 Luxembourg Scraper v2.0
