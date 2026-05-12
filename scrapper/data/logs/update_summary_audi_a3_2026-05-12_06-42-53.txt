@@ -1,0 +1,46 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a3
+Datum: 2026-05-12 06:42:53
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 160
+Neue Listings: 2
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €48,840
+Median-Preis: €30,990
+Günstigstes: €5,350
+Teuerstes: €120,000
+Preisspanne: €114,650
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €5,350 - Audi A32.0 TDI DPF S tronic line Sportpaket (plus)
+• €5,999 - Audi A32.0 TDI Quattro Ambiente DPF
+• €9,999 - Audi A3A3 3.2 quattro (DSG) S tronic S Line Sportpaket plus
+• €10,499 - Audi A3Sportback 2.0 TDI 150 Quattro Ambiente
+• €11,800 - Audi A3Sportback ambiente**NAVI**LEDER**PDC**
+
+PREISÄNDERUNGEN
+===============
+Keine Preisänderungen verfügbar.
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 75
+  Benzin: 70
+  2: 11
+  o: 4
+
+Verkäufertypen:
+  Händler: 101
+  Privat: 59
+
+Generiert am: 2026-05-12 06:42:53
+AutoScout24 Luxembourg Scraper v2.0
