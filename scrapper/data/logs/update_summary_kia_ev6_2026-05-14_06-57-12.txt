@@ -1,0 +1,34 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: kia ev6
+Datum: 2026-05-14 06:57:12
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 2
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €39,935
+Median-Preis: €39,935
+Günstigstes: €34,970
+Teuerstes: €44,900
+Preisspanne: €9,930
+
+PREISÄNDERUNGEN
+===============
+Keine Preisänderungen verfügbar.
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Elektro: 2
+
+Verkäufertypen:
+  Händler: 2
+
+Generiert am: 2026-05-14 06:57:12
+AutoScout24 Luxembourg Scraper v2.0
