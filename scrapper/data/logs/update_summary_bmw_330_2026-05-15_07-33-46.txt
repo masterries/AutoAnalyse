@@ -1,0 +1,38 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 330
+Datum: 2026-05-15 07:33:46
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 68
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €35,309
+Median-Preis: €37,994
+Günstigstes: €6,790
+Teuerstes: €76,322
+Preisspanne: €69,532
+
+PREISÄNDERUNGEN
+===============
+Keine Preisänderungen verfügbar.
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 51
+  Diesel: 10
+  2: 6
+  o: 1
+
+Verkäufertypen:
+  Händler: 51
+  Privat: 17
+
+Generiert am: 2026-05-15 07:33:46
+AutoScout24 Luxembourg Scraper v2.0
