@@ -1,0 +1,55 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 5
+Datum: 2026-05-20 07:57:11
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 161
+Neue Listings: 8
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €45,031
+Median-Preis: €39,990
+Günstigstes: €7,200
+Teuerstes: €154,499
+Preisspanne: €147,299
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €7,200 - BMW 116116i
+• €8,900 - BMW 320320d e92
+• €10,480 - BMW 320320i Edition Lifestyle
+• €10,900 - BMW 118D COUPE M SPORT PAKET BI-XENON
+• €10,950 - BMW 118118i Cabrio
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 116ADVANTAGE DKG7
+  €21,990 → €21,490 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 84
+  Diesel: 54
+  2: 8
+  3: 8
+  Elektro: 6
+  o: 1
+
+Verkäufertypen:
+  Händler: 136
+  Privat: 25
+
+Generiert am: 2026-05-20 07:57:11
+AutoScout24 Luxembourg Scraper v2.0

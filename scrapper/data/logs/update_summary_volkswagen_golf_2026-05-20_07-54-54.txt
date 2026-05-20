@@ -1,0 +1,98 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen golf
+Datum: 2026-05-20 07:54:54
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 169
+Neue Listings: 8
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €25,359
+Median-Preis: €26,990
+Günstigstes: €1,499
+Teuerstes: €64,990
+Preisspanne: €63,491
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,499 - Volkswagen GolfGolf 1.6 Special
+• €3,800 - Volkswagen GolfGolf 1.9 TDI
+• €3,850 - Volkswagen Golf1.9 TDI Trendline
+• €4,550 - Volkswagen GolfGolf 1.6 Comfortline
+• €4,899 - Volkswagen Golf2.0 TDI DPF DSG Style
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 16
+
+📉 PREISSENKUNGEN (16)
+==============================
+• Volkswagen GolfVIII R AKRAPOVIC *HK
+  €34,990 → €34,490 (-€500)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €30,990 → €30,490 (-€500)
+
+• Volkswagen Golf2.0 TDI Life TO ACC LANE SIDE GPS C...
+  €25,780 → €24,990 (-€790)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €30,990 → €30,490 (-€500)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €30,490 → €29,990 (-€500)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €30,990 → €30,490 (-€500)
+
+• Volkswagen GolfLife+DSG+Led+Navi+digi+
+  €28,490 → €27,990 (-€500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €29,490 → €28,990 (-€500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €30,490 → €29,990 (-€500)
+
+• Volkswagen GolfR-Line
+  €33,900 → €32,900 (-€1,000)
+
+• Volkswagen GolfR-Line
+  €36,900 → €36,400 (-€500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €29,990 → €29,490 (-€500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €30,490 → €29,990 (-€500)
+
+• Volkswagen Golf2.0 TDI Life GARANTIE 2028 TRAVEL S...
+  €26,980 → €25,980 (-€1,000)
+
+• Volkswagen Golf2.0 TDI BlueMotion Technology DSG C...
+  €15,000 → €14,000 (-€1,000)
+
+• Volkswagen GolfGolf 1.4 TSI Highline
+  €6,200 → €6,000 (-€200)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 89
+  Diesel: 65
+  2: 14
+  o: 1
+
+Verkäufertypen:
+  Händler: 135
+  Privat: 34
+
+Generiert am: 2026-05-20 07:54:54
+AutoScout24 Luxembourg Scraper v2.0
