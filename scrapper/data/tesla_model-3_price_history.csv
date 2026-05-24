@@ -1,4 +1,5 @@
 id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+3129,fdeb7385-3a37-4f1b-ad35-b81ecba8af3f,tesla,model-3,Tesla Model 3Model 3 Allradantrieb Dual Motor Performance,25400.0,24500.0,-900.0,-3.543307086614173,PREIS_GESUNKEN,2026-05-24T07:32:13.212853,1779607933,2026-05-23T06:45:28.868921,2026-05-24 07:32:13
 3096,e9b4820a-d83e-4c7f-9028-9404f7e67658,tesla,model-3,Tesla Model 3Model 3 Langstreckenbatt. Allradantrieb Dual Motor,30400.0,29600.0,-800.0,-2.631578947368421,PREIS_GESUNKEN,2026-05-21T08:05:07.837172,1779350707,2026-05-20T07:57:38.961957,2026-05-21 08:05:07
 3097,1b265e72-50f9-403c-967c-6dd7f91d2602,tesla,model-3,Tesla Model 3Model 3 Langstreckenbatt. Allradantrieb Dual Motor,28400.0,27800.0,-600.0,-2.112676056338028,PREIS_GESUNKEN,2026-05-21T08:05:07.837452,1779350707,2026-05-20T07:57:38.961443,2026-05-21 08:05:07
 3019,66f5a139-e819-41da-a0bb-6507bc5f0c27,tesla,model-3,Tesla Model 3Dual Motor Performance,47990.0,46799.0,-1191.0,-2.4817670347989167,PREIS_GESUNKEN,2026-05-16T06:34:01.552654,1778913241,2026-05-15T07:35:33.064032,2026-05-16 06:34:01
