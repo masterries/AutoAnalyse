@@ -1,0 +1,43 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a1
+Datum: 2026-05-25 08:27:44
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 75
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €25,406
+Median-Preis: €25,990
+Günstigstes: €8,099
+Teuerstes: €38,656
+Preisspanne: €30,557
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Audi A140 TFSI Sportback S tronic line
+  €21,000 → €20,500 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 70
+  Diesel: 5
+
+Verkäufertypen:
+  Händler: 67
+  Privat: 8
+
+Generiert am: 2026-05-25 08:27:44
+AutoScout24 Luxembourg Scraper v2.0
