@@ -1,0 +1,55 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 5
+Datum: 2026-05-27 08:13:30
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 173
+Neue Listings: 6
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €40,893
+Median-Preis: €39,900
+Günstigstes: €4,900
+Teuerstes: €93,000
+Preisspanne: €88,100
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €4,900 - BMW 320E46
+• €8,000 - BMW 316316i
+• €9,500 - BMW X1xDrive25d Aut. M-Packet Panoramic
+• €10,480 - BMW 320320i Edition Lifestyle
+• €10,700 - BMW X1X1 xDrive18d Aut.
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW X1sDrive20i Pack M Pro
+  €47,900 → €46,900 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 89
+  Diesel: 51
+  2: 13
+  3: 13
+  Elektro: 6
+  o: 1
+
+Verkäufertypen:
+  Händler: 146
+  Privat: 27
+
+Generiert am: 2026-05-27 08:13:30
+AutoScout24 Luxembourg Scraper v2.0
