@@ -1,0 +1,107 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen golf
+Datum: 2026-05-29 08:06:17
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 173
+Neue Listings: 1
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €25,234
+Median-Preis: €25,990
+Günstigstes: €1,499
+Teuerstes: €64,990
+Preisspanne: €63,491
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,499 - Volkswagen GolfGolf 1.6 Special
+• €3,850 - Volkswagen Golf1.9 TDI Trendline
+• €4,550 - Volkswagen GolfGolf 1.6 Comfortline
+• €4,899 - Volkswagen Golf2.0 TDI DPF DSG Style
+• €5,750 - Volkswagen GolfGolf 1.4
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 19
+
+📉 PREISSENKUNGEN (19)
+==============================
+• Volkswagen GolfStyle+DSG+RearView+LED
+  €22,490 → €21,490 (-€1,000)
+
+• Volkswagen GolfStyle+DSG+PHEV+Pano+Navi+RearView
+  €23,490 → €21,490 (-€2,000)
+
+• Volkswagen GolfStyle+DSG+PHEV+Led+Navi
+  €21,990 → €20,990 (-€1,000)
+
+• Volkswagen GolfR-line+DSG
+  €26,490 → €25,490 (-€1,000)
+
+• Volkswagen GolfR-Line+DSG+Matrix-LED+RearView+IQ-D...
+  €28,990 → €26,490 (-€2,500)
+
+• Volkswagen GolfGTI-Clubsport+Edition45+DSG+
+  €37,990 → €36,990 (-€1,000)
+
+• Volkswagen GolfLife+DSG+Navi
+  €28,990 → €27,990 (-€1,000)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €30,490 → €28,990 (-€1,500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €30,490 → €28,990 (-€1,500)
+
+• Volkswagen GolfGTI-Clubsport+DSG+RearView+Matrix-L...
+  €32,990 → €29,990 (-€3,000)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €29,990 → €26,990 (-€3,000)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €29,990 → €28,490 (-€1,500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €28,990 → €27,490 (-€1,500)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €28,990 → €27,490 (-€1,500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €29,490 → €27,990 (-€1,500)
+
+• Volkswagen GolfGTI-Clubsport+DSG+Pano+Navi
+  €31,990 → €30,990 (-€1,000)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €30,990 → €28,490 (-€2,500)
+
+• Volkswagen GolfGTI-Clubsport+DSG+Pano+RearView
+  €34,490 → €32,990 (-€1,500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €29,990 → €26,990 (-€3,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 94
+  Diesel: 67
+  2: 11
+  o: 1
+
+Verkäufertypen:
+  Händler: 140
+  Privat: 33
+
+Generiert am: 2026-05-29 08:06:17
+AutoScout24 Luxembourg Scraper v2.0

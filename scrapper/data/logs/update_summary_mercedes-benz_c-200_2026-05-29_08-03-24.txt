@@ -1,0 +1,44 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz c-200
+Datum: 2026-05-29 08:03:24
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 28
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €28,614
+Median-Preis: €24,945
+Günstigstes: €2,200
+Teuerstes: €57,389
+Preisspanne: €55,189
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-Benz C 200Break AMG LINE Premium / Essenc...
+  €24,990 → €23,990 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 24
+  Benzin: 3
+  2: 1
+
+Verkäufertypen:
+  Händler: 19
+  Privat: 9
+
+Generiert am: 2026-05-29 08:03:24
+AutoScout24 Luxembourg Scraper v2.0
