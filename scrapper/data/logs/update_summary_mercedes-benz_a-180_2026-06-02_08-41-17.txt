@@ -1,0 +1,44 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz a-180
+Datum: 2026-06-02 08:41:17
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 43
+Neue Listings: 1
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €21,928
+Median-Preis: €22,500
+Günstigstes: €1,800
+Teuerstes: €42,705
+Preisspanne: €40,905
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,800 - Mercedes-Benz A 180CDI Autotronic Elegance
+• €1,999 - Mercedes-Benz A 180A 180 CDI (169.007)
+• €3,900 - Mercedes-Benz A 180CDI Autotronic Avantgarde DPF Edition 10
+• €7,900 - Mercedes-Benz A 180A 180 CDI Autotronic Avantgarde DPF
+• €10,900 - Mercedes-Benz A 180(BlueEFFICIENCY)
+
+PREISÄNDERUNGEN
+===============
+Keine Preisänderungen verfügbar.
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 32
+  Benzin: 11
+
+Verkäufertypen:
+  Händler: 29
+  Privat: 14
+
+Generiert am: 2026-06-02 08:41:17
+AutoScout24 Luxembourg Scraper v2.0
