@@ -1,0 +1,50 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: tesla model-3
+Datum: 2026-06-05 08:17:31
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 6
+Neue Listings: 1
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €28,823
+Median-Preis: €29,750
+Günstigstes: €23,000
+Teuerstes: €33,950
+Preisspanne: €10,950
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €23,000 - Tesla Model 3Model 3 Langstreckenbatt. Allradantrieb Dual Mo...
+• €24,500 - Tesla Model 3Standard Reichweite Plus Hinterradantrieb
+• €27,600 - Tesla Model 3Model 3 Langstreckenbatt. Allradantrieb Dual Mo...
+• €31,900 - Tesla Model 3Model 3 RWD Premium
+• €31,990 - Tesla Model 3Long Range Dual Motor
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Tesla Model 3Model 3 Langstreckenbatt. Allradantri...
+  €27,800 → €27,600 (-€200)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Elektro: 6
+
+Verkäufertypen:
+  Privat: 4
+  Händler: 2
+
+Generiert am: 2026-06-05 08:17:31
+AutoScout24 Luxembourg Scraper v2.0

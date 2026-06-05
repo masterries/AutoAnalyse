@@ -1,0 +1,89 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a3
+Datum: 2026-06-05 08:13:05
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 173
+Neue Listings: 5
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €60,537
+Median-Preis: €31,900
+Günstigstes: €3,990
+Teuerstes: €999,999
+Preisspanne: €996,009
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €3,990 - Audi A3Sportback 2.0 TDI 140 DPF Ambition Luxe
+• €4,540 - Audi A32.0 TFSI S Line Sportpaket plus
+• €5,350 - Audi A32.0 TDI DPF S tronic line Sportpaket (plus)
+• €8,900 - Audi A32.0 Tdi 150 Sportback S-Line S-Tronic
+• €10,999 - Audi A3Sportback 2.0 TDI 150 Quattro Ambiente
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 13
+
+📉 PREISSENKUNGEN (13)
+==============================
+• Audi A3Limo+S-Line+35TFSI+P.Premium
+  €34,490 → €33,990 (-€500)
+
+• Audi A3S line
+  €41,298 → €41,028 (-€270)
+
+• Audi A3Sportback
+  €31,980 → €30,980 (-€1,000)
+
+• Audi A3Sportback S-Line
+  €29,990 → €27,990 (-€2,000)
+
+• Audi A3Sportback
+  €32,480 → €31,980 (-€500)
+
+• Audi A3SB+S-Line+35TFSI+S-Tronic
+  €31,990 → €31,490 (-€500)
+
+• Audi A3SB+S-Line+35TDI+S-Tronic+Led+DAB
+  €33,990 → €33,490 (-€500)
+
+• Audi A3SB+Advanced+40TFSIe+S-Tronic
+  €34,490 → €33,990 (-€500)
+
+• Audi A330 TFSI 116 SPORTBACK S-TRONIC DESIGN, CUIR...
+  €19,900 → €18,900 (-€1,000)
+
+• Audi A3Sportback
+  €32,980 → €32,480 (-€500)
+
+• Audi A3Sportback
+  €32,980 → €32,480 (-€500)
+
+• Audi A3SB+S-line+S-Tronic+35TFSI+Led
+  €35,990 → €35,490 (-€500)
+
+• Audi A335 TDI Limousine S tronic line
+  €20,000 → €19,999 (-€1)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 92
+  Benzin: 67
+  2: 10
+  o: 4
+
+Verkäufertypen:
+  Händler: 96
+  Privat: 77
+
+Generiert am: 2026-06-05 08:13:05
+AutoScout24 Luxembourg Scraper v2.0
