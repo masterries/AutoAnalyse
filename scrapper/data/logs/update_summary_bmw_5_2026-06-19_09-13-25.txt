@@ -1,0 +1,55 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 5
+Datum: 2026-06-19 09:13:25
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 173
+Neue Listings: 7
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €40,907
+Median-Preis: €36,990
+Günstigstes: €6,900
+Teuerstes: €125,990
+Preisspanne: €119,090
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €6,900 - BMW 318318i Touring Aut. Edition Exclusive
+• €7,900 - BMW 116
+• €8,500 - BMW 530530d Touring Aut. Pak M nouveau moteur 158000km
+• €8,500 - BMW 520520d Edition Fleet
+• €8,700 - BMW 116116d EfficientDynamics Edition Advantage
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 440M440i xDrive JUSQU'A 48 MOIS DE GARANTIE
+  €64,900 → €61,900 (-€3,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 89
+  Diesel: 52
+  3: 12
+  2: 8
+  o: 6
+  Elektro: 6
+
+Verkäufertypen:
+  Händler: 139
+  Privat: 34
+
+Generiert am: 2026-06-19 09:13:25
+AutoScout24 Luxembourg Scraper v2.0
