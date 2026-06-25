@@ -1,0 +1,52 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz a-200
+Datum: 2026-06-25 07:50:49
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 48
+Neue Listings: 2
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €32,663
+Median-Preis: €33,985
+Günstigstes: €17,900
+Teuerstes: €44,990
+Preisspanne: €27,090
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €17,900 - Mercedes-Benz A 200AMG line
+• €18,250 - Mercedes-Benz A 200A 200 7G-DCT AMG Line
+• €22,350 - Mercedes-Benz A 200Mercedes A200d AMG Line Pano / Sièges Ele...
+• €22,900 - Mercedes-Benz A 200AMG Line
+• €23,900 - Mercedes-Benz A 200d Progressive Business-Paket 1. Main
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-Benz A 200A 200 1.4T 7G-DCT FULL/AMG/PANO...
+  €37,490 → €37,400 (-€90)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 26
+  Diesel: 19
+  2: 3
+
+Verkäufertypen:
+  Händler: 39
+  Privat: 9
+
+Generiert am: 2026-06-25 07:50:49
+AutoScout24 Luxembourg Scraper v2.0
