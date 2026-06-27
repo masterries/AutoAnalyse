@@ -1,0 +1,45 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 120
+Datum: 2026-06-27 07:22:52
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 54
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €34,123
+Median-Preis: €34,110
+Günstigstes: €9,500
+Teuerstes: €57,374
+Preisspanne: €47,874
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 120120dA 2.0 190cv Auto M-SPORT
+  €26,900 → €26,500 (-€400)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 18
+  Diesel: 15
+  2: 12
+  3: 9
+
+Verkäufertypen:
+  Händler: 49
+  Privat: 5
+
+Generiert am: 2026-06-27 07:22:52
+AutoScout24 Luxembourg Scraper v2.0
