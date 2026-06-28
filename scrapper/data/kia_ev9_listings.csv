@@ -1,2 +1,2 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-7568,d011b472-faac-4620-af1a-23e1948a7ace,kia,ev9,"Kia EV9EV9 99,8-kWh AWD GT-line Launch Edition",,61900.0,33000,Elektro,06-2024,,,Privat,,2026-06-27T07:29:00.867028,1782545340,1,2026-05-18 08:16:56,2026-06-27 07:29:04
+7568,d011b472-faac-4620-af1a-23e1948a7ace,kia,ev9,"Kia EV9EV9 99,8-kWh AWD GT-line Launch Edition",,61900.0,33000,Elektro,06-2024,,,Privat,,2026-06-28T08:01:43.376127,1782633703,1,2026-05-18 08:16:56,2026-06-28 08:01:47
