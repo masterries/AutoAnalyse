@@ -1,0 +1,46 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 420
+Datum: 2026-07-03 07:34:13
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 20
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €37,644
+Median-Preis: €37,945
+Günstigstes: €15,500
+Teuerstes: €52,990
+Preisspanne: €37,490
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (2)
+==============================
+• BMW 420i
+  €42,899 → €41,990 (-€909)
+
+• BMW 420420d xdrive
+  €38,990 → €35,990 (-€3,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 11
+  Benzin: 9
+
+Verkäufertypen:
+  Händler: 15
+  Privat: 5
+
+Generiert am: 2026-07-03 07:34:13
+AutoScout24 Luxembourg Scraper v2.0
