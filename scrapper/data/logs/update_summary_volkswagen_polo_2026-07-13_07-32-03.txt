@@ -1,0 +1,43 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen polo
+Datum: 2026-07-13 07:32:03
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 93
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €15,926
+Median-Preis: €17,900
+Günstigstes: €50
+Teuerstes: €27,990
+Preisspanne: €27,940
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Volkswagen PoloPolo 1.6 TDI SCR Highline
+  €15,500 → €15,400 (-€100)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 77
+  Diesel: 16
+
+Verkäufertypen:
+  Händler: 68
+  Privat: 25
+
+Generiert am: 2026-07-13 07:32:03
+AutoScout24 Luxembourg Scraper v2.0
