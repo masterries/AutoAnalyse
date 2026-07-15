@@ -1,3 +1,2 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-4848,60714319-6df7-4aa1-9372-fb40689decc3,kia,ev6,"Kia EV6GT 77,4 kWh AWD",,44900.0,12000,Elektro,06-2024,,,Händler,,2026-05-18T08:16:42.684268,1779092202,1,2026-01-31 05:11:29,2026-05-18 08:16:46
-6750,a8086cd9-0742-48d2-9366-d2df873e1201,kia,ev6,Kia EV6EV6 229cv Auto FWD BUSINESS,,34970.0,39000,Elektro,06-2024,,,Händler,,2026-05-18T08:16:42.684856,1779092202,1,2026-04-15 06:11:24,2026-05-18 08:16:46
+9085,fc6ccf89-0adb-4ae3-92dd-de5c119a44c7,kia,ev6,"Kia EV6EV6 77,4-kWh AWD GT-line",,32000.0,69500,Elektro,06-2022,,,Privat,,2026-07-15T06:27:35.351781,1784096855,1,2026-07-15 06:27:38,2026-07-15 06:27:38
