@@ -1,0 +1,76 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz a-200
+Datum: 2026-07-16 06:24:42
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 45
+Neue Listings: 1
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €32,942
+Median-Preis: €34,990
+Günstigstes: €18,000
+Teuerstes: €44,990
+Preisspanne: €26,990
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €18,000 - Mercedes-Benz A 200A 200 7G-DCT Edition 19
+• €18,250 - Mercedes-Benz A 200A 200 7G-DCT AMG Line
+• €23,500 - Mercedes-Benz A 200d Progressive Business-Paket 1. Main
+• €23,900 - Mercedes-Benz A 200AMG LINE - JUSQU'A 48 MOIS DE GARANTIE
+• €24,000 - Mercedes-Benz A 200d 8G-DCT AMG Line
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 9
+
+📉 PREISSENKUNGEN (9)
+==============================
+• Mercedes-Benz A 200A 200  AMG Line Navi/Pano.-Dach...
+  €27,990 → €27,790 (-€200)
+
+• Mercedes-Benz A 200A 200 MUlti+Kamera+Night+19"+Am...
+  €36,990 → €36,690 (-€300)
+
+• Mercedes-Benz A 200A 200 d Multi+Kamera+Night+AHK+...
+  €37,990 → €37,490 (-€500)
+
+• Mercedes-Benz A 200A 200 d Multi+Kamera+Night+Dist...
+  €36,990 → €36,790 (-€200)
+
+• Mercedes-Benz A 200A 200 d AMG-Line Multi+Kamera+N...
+  €37,490 → €36,790 (-€700)
+
+• Mercedes-Benz A 200A 200 AMG-Line Multi+Kamera+Dis...
+  €36,990 → €36,790 (-€200)
+
+• Mercedes-Benz A 200A 200 AMG-Line Multi+Kamera+Nig...
+  €37,990 → €37,290 (-€700)
+
+• Mercedes-Benz A 200A 200 AMG-Line Multi+Kamera+Dis...
+  €36,690 → €35,990 (-€700)
+
+• Mercedes-Benz A 200A 200 d AMG-Line Multi+Kamera+N...
+  €37,990 → €36,790 (-€1,200)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 23
+  Diesel: 19
+  2: 3
+
+Verkäufertypen:
+  Händler: 37
+  Privat: 8
+
+Generiert am: 2026-07-16 06:24:42
+AutoScout24 Luxembourg Scraper v2.0
