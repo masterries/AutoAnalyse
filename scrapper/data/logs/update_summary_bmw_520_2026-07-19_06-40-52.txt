@@ -1,0 +1,44 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 520
+Datum: 2026-07-19 06:40:52
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 21
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €35,402
+Median-Preis: €29,900
+Günstigstes: €6,000
+Teuerstes: €66,900
+Preisspanne: €60,900
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 520520d xDrive Touring Aut.
+  €72,800 → €66,900 (-€5,900)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 14
+  Benzin: 4
+  3: 3
+
+Verkäufertypen:
+  Händler: 12
+  Privat: 9
+
+Generiert am: 2026-07-19 06:40:52
+AutoScout24 Luxembourg Scraper v2.0
