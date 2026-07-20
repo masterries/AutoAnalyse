@@ -1,0 +1,45 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen golf
+Datum: 2026-07-20 06:56:54
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 169
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €24,334
+Median-Preis: €25,900
+Günstigstes: €1,450
+Teuerstes: €64,990
+Preisspanne: €63,540
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Volkswagen GolfGolf Automatik Fire and Ice
+  €4,500 → €3,999 (-€501)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 84
+  Diesel: 68
+  2: 15
+  o: 2
+
+Verkäufertypen:
+  Händler: 129
+  Privat: 40
+
+Generiert am: 2026-07-20 06:56:54
+AutoScout24 Luxembourg Scraper v2.0
