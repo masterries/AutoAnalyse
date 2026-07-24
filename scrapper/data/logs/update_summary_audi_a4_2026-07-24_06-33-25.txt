@@ -1,0 +1,45 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a4
+Datum: 2026-07-24 06:33:25
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 48
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €14,568
+Median-Preis: €12,500
+Günstigstes: €2,000
+Teuerstes: €34,000
+Preisspanne: €32,000
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Audi A4Cabrio 2.5 TDI Automatique / 1st Owner / **...
+  €6,990 → €5,990 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 34
+  Benzin: 11
+  3: 2
+  CNG: 1
+
+Verkäufertypen:
+  Privat: 34
+  Händler: 14
+
+Generiert am: 2026-07-24 06:33:25
+AutoScout24 Luxembourg Scraper v2.0

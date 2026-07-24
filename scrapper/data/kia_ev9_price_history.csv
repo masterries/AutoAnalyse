@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+3988,d011b472-faac-4620-af1a-23e1948a7ace,kia,ev9,"Kia EV9EV9 99,8-kWh AWD GT-line Launch Edition",61900.0,60000.0,-1900.0,-3.0694668820678515,PREIS_GESUNKEN,2026-07-24T06:37:53.199926,1784875073,2026-07-23T06:40:50.522116,2026-07-24 06:37:53
