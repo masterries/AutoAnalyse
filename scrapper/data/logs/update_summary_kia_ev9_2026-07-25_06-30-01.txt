@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: kia ev9
-Datum: 2026-07-24 06:37:53
+Datum: 2026-07-25 06:30:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €0
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Kia EV9EV9 99,8-kWh AWD GT-line Launch Edition
-  €61,900 → €60,000 (-€1,900)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -37,5 +30,5 @@ Kraftstofftypen:
 Verkäufertypen:
   Privat: 1
 
-Generiert am: 2026-07-24 06:37:53
+Generiert am: 2026-07-25 06:30:01
 AutoScout24 Luxembourg Scraper v2.0
