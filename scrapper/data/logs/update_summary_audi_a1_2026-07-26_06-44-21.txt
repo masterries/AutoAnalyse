@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2026-07-25 06:26:13
+Datum: 2026-07-26 06:44:21
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 103
-Neue Listings: 2
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
@@ -28,15 +28,8 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Audi A1Sportback
-  €34,900 → €31,900 (-€3,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -47,5 +40,5 @@ Verkäufertypen:
   Händler: 92
   Privat: 11
 
-Generiert am: 2026-07-25 06:26:13
+Generiert am: 2026-07-26 06:44:21
 AutoScout24 Luxembourg Scraper v2.0

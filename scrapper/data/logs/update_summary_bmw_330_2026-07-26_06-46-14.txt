@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 330
-Datum: 2026-07-25 06:28:00
+Datum: 2026-07-26 06:46:14
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,18 +20,8 @@ Preisspanne: €57,300
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (2)
-==============================
-• BMW 330330d GT Aut. Luxury Line
-  €16,800 → €15,800 (-€1,000)
-
-• BMW 330330d Aut. Luxury Line
-  €16,500 → €15,800 (-€700)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -45,5 +35,5 @@ Verkäufertypen:
   Händler: 42
   Privat: 16
 
-Generiert am: 2026-07-25 06:28:00
+Generiert am: 2026-07-26 06:46:14
 AutoScout24 Luxembourg Scraper v2.0
