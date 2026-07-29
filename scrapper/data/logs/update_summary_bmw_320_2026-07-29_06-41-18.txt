@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 320
-Datum: 2026-07-28 06:36:08
+Datum: 2026-07-29 06:41:18
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 64
-Neue Listings: 2
+Gesamt gefundene Listings: 65
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €30,414
-Median-Preis: €29,245
+Durchschnittspreis: €30,326
+Median-Preis: €28,500
 Günstigstes: €1,750
 Teuerstes: €57,900
 Preisspanne: €56,150
@@ -34,12 +34,12 @@ ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Diesel: 39
-  Benzin: 19
+  Benzin: 20
   3: 6
 
 Verkäufertypen:
   Händler: 37
-  Privat: 27
+  Privat: 28
 
-Generiert am: 2026-07-28 06:36:08
+Generiert am: 2026-07-29 06:41:18
 AutoScout24 Luxembourg Scraper v2.0
