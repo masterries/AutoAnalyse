@@ -1,0 +1,51 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz c-220
+Datum: 2026-07-30 06:33:51
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 47
+Neue Listings: 2
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €37,890
+Median-Preis: €43,790
+Günstigstes: €2,990
+Teuerstes: €72,054
+Preisspanne: €69,064
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €2,990 - Mercedes-Benz C 220C 220 T CDI DPF Avantgarde
+• €4,800 - Mercedes-Benz C 220T CDI DPF (BlueEFFICIENCY) 7G-TRONIC Eleg...
+• €4,900 - Mercedes-Benz C 220cdi break 170cv
+• €5,500 - Mercedes-Benz C 220C 220 CDI Elegance
+• €5,999 - Mercedes-Benz C 220T CDI 4Matic 7G-TRONIC
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-Benz C 220D T-MODELL AMG-LINE°ACC°KAM°AHK...
+  €35,999 → €34,999 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 45
+  3: 2
+
+Verkäufertypen:
+  Händler: 33
+  Privat: 14
+
+Generiert am: 2026-07-30 06:33:51
+AutoScout24 Luxembourg Scraper v2.0

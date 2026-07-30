@@ -1,0 +1,43 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz c-200
+Datum: 2026-07-30 06:33:32
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 37
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €34,226
+Median-Preis: €39,990
+Günstigstes: €1,800
+Teuerstes: €57,389
+Preisspanne: €55,589
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-Benz C 2004MATIC Cabriolet
+  €29,990 → €27,900 (-€2,090)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 34
+  Benzin: 3
+
+Verkäufertypen:
+  Händler: 28
+  Privat: 9
+
+Generiert am: 2026-07-30 06:33:32
+AutoScout24 Luxembourg Scraper v2.0
