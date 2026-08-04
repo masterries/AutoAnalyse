@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-200
-Datum: 2026-08-03 07:34:57
+Fahrzeug: audi a5
+Datum: 2026-08-04 06:35:30
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 37
+Gesamt gefundene Listings: 68
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,245
-Median-Preis: €39,990
-Günstigstes: €1,800
-Teuerstes: €57,389
-Preisspanne: €55,589
+Durchschnittspreis: €36,133
+Median-Preis: €41,990
+Günstigstes: €5,000
+Teuerstes: €69,900
+Preisspanne: €64,900
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 34
-  Benzin: 3
+  Diesel: 43
+  Benzin: 22
+  2: 3
 
 Verkäufertypen:
-  Händler: 28
-  Privat: 9
+  Händler: 48
+  Privat: 20
 
-Generiert am: 2026-08-03 07:34:57
+Generiert am: 2026-08-04 06:35:30
 AutoScout24 Luxembourg Scraper v2.0
