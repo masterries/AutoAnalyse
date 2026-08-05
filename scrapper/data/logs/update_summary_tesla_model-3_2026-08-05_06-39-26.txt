@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: tesla model-3
-Datum: 2026-08-04 06:39:27
+Datum: 2026-08-05 06:39:26
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 7
+Gesamt gefundene Listings: 6
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €30,829
-Median-Preis: €31,900
+Durchschnittspreis: €30,650
+Median-Preis: €30,950
 Günstigstes: €24,500
 Teuerstes: €37,500
 Preisspanne: €13,000
@@ -25,11 +25,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 7
+  Elektro: 6
 
 Verkäufertypen:
-  Privat: 5
+  Privat: 4
   Händler: 2
 
-Generiert am: 2026-08-04 06:39:27
+Generiert am: 2026-08-05 06:39:26
 AutoScout24 Luxembourg Scraper v2.0
