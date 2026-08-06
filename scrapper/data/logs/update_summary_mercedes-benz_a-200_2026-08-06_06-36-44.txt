@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-200
-Datum: 2026-08-05 06:33:46
+Datum: 2026-08-06 06:36:44
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 46
+Gesamt gefundene Listings: 47
 Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €31,517
-Median-Preis: €33,740
+Durchschnittspreis: €31,846
+Median-Preis: €34,990
 Günstigstes: €3,850
 Teuerstes: €44,990
 Preisspanne: €41,140
@@ -28,28 +28,25 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Preisänderungen heute: 1
 
-📉 PREISSENKUNGEN (2)
+📉 PREISSENKUNGEN (0)
 ==============================
-• Mercedes-Benz A 200A 200 Limousine  Progressive Na...
-  €26,490 → €25,990 (-€500)
-
+📈 PREISERHÖHUNGEN (1)
+==============================
 • Mercedes-Benz A 200A 200 d Multi+Kamera+Distr+Nigh...
-  €35,990 → €25,290 (-€10,700)
+  €25,290 → €35,290 (+€10,000)
 
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 23
+  Diesel: 24
   Benzin: 20
   2: 3
 
 Verkäufertypen:
-  Händler: 37
+  Händler: 38
   Privat: 9
 
-Generiert am: 2026-08-05 06:33:46
+Generiert am: 2026-08-06 06:36:44
 AutoScout24 Luxembourg Scraper v2.0
