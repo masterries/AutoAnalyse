@@ -1,8 +1,8 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev9
-Datum: 2026-08-08 05:10:10
+Fahrzeug: kia ev6
+Datum: 2026-08-09 05:17:55
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,10 +12,10 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €60,000
-Median-Preis: €60,000
-Günstigstes: €60,000
-Teuerstes: €60,000
+Durchschnittspreis: €32,000
+Median-Preis: €32,000
+Günstigstes: €32,000
+Teuerstes: €32,000
 Preisspanne: €0
 
 PREISÄNDERUNGEN
@@ -30,5 +30,5 @@ Kraftstofftypen:
 Verkäufertypen:
   Privat: 1
 
-Generiert am: 2026-08-08 05:10:10
+Generiert am: 2026-08-09 05:17:55
 AutoScout24 Luxembourg Scraper v2.0
