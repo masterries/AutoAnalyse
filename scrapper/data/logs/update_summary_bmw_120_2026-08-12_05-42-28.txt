@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 120
-Datum: 2026-08-11 05:15:33
+Datum: 2026-08-12 05:42:28
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,21 +20,8 @@ Preisspanne: €44,150
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 3
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (3)
-==============================
-• BMW 120120i
-  €33,500 → €32,500 (-€1,000)
-
-• BMW 120d M Sport M Sportpaket HK HiFi DAB LED RFK
-  €41,900 → €34,700 (-€7,200)
-
-• BMW 120d M Sport M Sportpaket Garantie Usine bis 2...
-  €37,500 → €35,300 (-€2,200)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -47,5 +34,5 @@ Verkäufertypen:
   Händler: 55
   Privat: 6
 
-Generiert am: 2026-08-11 05:15:33
+Generiert am: 2026-08-12 05:42:28
 AutoScout24 Luxembourg Scraper v2.0
