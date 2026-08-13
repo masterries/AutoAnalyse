@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen golf
-Datum: 2026-08-12 05:44:52
+Datum: 2026-08-13 05:47:37
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 162
+Gesamt gefundene Listings: 164
 Neue Listings: 4
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €22,762
-Median-Preis: €24,295
+Durchschnittspreis: €22,490
+Median-Preis: €23,990
 Günstigstes: €1,000
 Teuerstes: €54,990
 Preisspanne: €53,990
@@ -21,51 +21,36 @@ Preisspanne: €53,990
 TOP 5 GÜNSTIGSTE LISTINGS
 =========================
 • €1,000 - Volkswagen GolfGolf 1.6 Special
+• €1,300 - Volkswagen GolfPROBLÈME MOTEUR ! 1.4i 75ch comfortline
 • €3,500 - Volkswagen GolfGolf 1.4 TSI DSG Comfortline
 • €3,850 - Volkswagen Golf1.9 TDI Trendline
 • €3,999 - Volkswagen GolfGolf Automatik Fire and Ice
-• €4,000 - Volkswagen Golf2.0 TDI 110 FAP CR Trendline
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 7
+Preisänderungen heute: 2
 
-📉 PREISSENKUNGEN (6)
+📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen GolfGTI+DSG+Black-Style+Matrix-LED+Navi
-  €31,990 → €31,490 (-€500)
-
-• Volkswagen GolfR-Line
-  €36,340 → €35,600 (-€740)
-
-• Volkswagen GolfGolf VIII Lim. 1.5 eTSI R-Line
-  €27,500 → €26,800 (-€700)
-
 • Volkswagen GolfLife
-  €30,900 → €30,670 (-€230)
-
-• Volkswagen GolfLife
-  €29,900 → €29,675 (-€225)
-
-• Volkswagen GolfLife
-  €36,900 → €36,635 (-€265)
+  €36,400 → €35,400 (-€1,000)
 
 📈 PREISERHÖHUNGEN (1)
 ==============================
-• Volkswagen Golf1.5 eTSI OPF 150ch Style DSG7
-  €25,980 → €25,990 (+€10)
+• Volkswagen Golf1.6 TDI DPF BlueMotion Technology C...
+  €9,500 → €9,750 (+€250)
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 85
-  Diesel: 62
+  Benzin: 87
+  Diesel: 63
   2: 13
-  o: 2
+  o: 1
 
 Verkäufertypen:
   Händler: 116
-  Privat: 46
+  Privat: 48
 
-Generiert am: 2026-08-12 05:44:52
+Generiert am: 2026-08-13 05:47:37
 AutoScout24 Luxembourg Scraper v2.0

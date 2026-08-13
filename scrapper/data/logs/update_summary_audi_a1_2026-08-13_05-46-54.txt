@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2026-08-12 05:44:12
+Datum: 2026-08-13 05:46:54
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 110
-Neue Listings: 2
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
@@ -28,21 +28,8 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 3
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (3)
-==============================
-• Audi A1SB+Advanced+25TFSI+S-Tronic+AHK+P.Business
-  €23,990 → €23,490 (-€500)
-
-• Audi A1A1 30 TFSI Sportback advanced
-  €18,000 → €15,000 (-€3,000)
-
-• Audi A1SB+Advanced+25TFSI+S-Tronic
-  €22,490 → €21,990 (-€500)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -53,5 +40,5 @@ Verkäufertypen:
   Händler: 98
   Privat: 12
 
-Generiert am: 2026-08-12 05:44:12
+Generiert am: 2026-08-13 05:46:54
 AutoScout24 Luxembourg Scraper v2.0
