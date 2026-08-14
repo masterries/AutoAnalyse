@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2026-08-13 05:45:41
+Datum: 2026-08-14 05:43:11
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 145
-Neue Listings: 3
+Gesamt gefundene Listings: 143
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,882
+Durchschnittspreis: €25,782
 Median-Preis: €27,990
 Günstigstes: €2,000
 Teuerstes: €49,990
@@ -28,26 +28,19 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Audi A3A3 1.6 TDI DPF Ambiente Cuir /Alcantara
-  €9,490 → €8,490 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 83
+  Benzin: 81
   Diesel: 49
   2: 9
   o: 4
 
 Verkäufertypen:
-  Händler: 113
+  Händler: 111
   Privat: 32
 
-Generiert am: 2026-08-13 05:45:41
+Generiert am: 2026-08-14 05:43:11
 AutoScout24 Luxembourg Scraper v2.0

@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 120
-Datum: 2026-08-13 05:45:03
+Datum: 2026-08-14 05:42:34
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 61
-Neue Listings: 0
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
@@ -17,6 +17,14 @@ Median-Preis: €35,300
 Günstigstes: €6,500
 Teuerstes: €50,650
 Preisspanne: €44,150
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €6,500 - BMW 120120d 177 ch Confort A
+• €9,500 - BMW 120120d 177 ch Edition M Sport
+• €15,890 - BMW 120120d M Sport
+• €16,900 - BMW 120i FACELIFT AUTO LED NAVI
+• €21,970 - BMW 120120iA 2.0 178cv Auto HATCH Navi/ClimaA/Park/ALU1
 
 PREISÄNDERUNGEN
 ===============
@@ -34,5 +42,5 @@ Verkäufertypen:
   Händler: 55
   Privat: 6
 
-Generiert am: 2026-08-13 05:45:03
+Generiert am: 2026-08-14 05:42:34
 AutoScout24 Luxembourg Scraper v2.0
