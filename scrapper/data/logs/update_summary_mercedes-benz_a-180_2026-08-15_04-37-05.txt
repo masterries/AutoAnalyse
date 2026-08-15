@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-220
-Datum: 2026-08-14 05:42:12
+Fahrzeug: mercedes-benz a-180
+Datum: 2026-08-15 04:37:05
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 48
+Gesamt gefundene Listings: 42
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €38,627
-Median-Preis: €44,990
-Günstigstes: €2,990
-Teuerstes: €66,990
-Preisspanne: €64,000
+Durchschnittspreis: €21,637
+Median-Preis: €22,245
+Günstigstes: €1,799
+Teuerstes: €42,705
+Preisspanne: €40,906
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Mercedes-Benz C 220Classe Break d 9G-Tronic AMG Li...
-  €36,500 → €35,000 (-€1,500)
+• Mercedes-Benz A 180A180 7G-DCT AMG Line - JUSQU'A ...
+  €23,500 → €22,900 (-€600)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 45
-  3: 3
+  Diesel: 30
+  Benzin: 12
 
 Verkäufertypen:
-  Händler: 33
-  Privat: 15
+  Händler: 29
+  Privat: 13
 
-Generiert am: 2026-08-14 05:42:12
+Generiert am: 2026-08-15 04:37:05
 AutoScout24 Luxembourg Scraper v2.0

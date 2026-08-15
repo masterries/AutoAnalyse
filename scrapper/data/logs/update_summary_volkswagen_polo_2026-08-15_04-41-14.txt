@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-200
-Datum: 2026-08-14 05:41:40
+Fahrzeug: volkswagen polo
+Datum: 2026-08-15 04:41:14
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 47
+Gesamt gefundene Listings: 98
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €32,359
-Median-Preis: €34,990
-Günstigstes: €17,200
-Teuerstes: €44,990
-Preisspanne: €27,790
+Durchschnittspreis: €16,841
+Median-Preis: €18,695
+Günstigstes: €50
+Teuerstes: €30,600
+Preisspanne: €30,550
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Mercedes-Benz A 200A 200 7G-DCT AMG Line
-  €17,500 → €17,200 (-€300)
+• Volkswagen Polo1.2 TSI Comfortline
+  €6,500 → €6,100 (-€400)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 25
-  Benzin: 19
-  2: 3
+  Benzin: 86
+  Diesel: 12
 
 Verkäufertypen:
-  Händler: 39
-  Privat: 8
+  Händler: 76
+  Privat: 22
 
-Generiert am: 2026-08-14 05:41:40
+Generiert am: 2026-08-15 04:41:14
 AutoScout24 Luxembourg Scraper v2.0
