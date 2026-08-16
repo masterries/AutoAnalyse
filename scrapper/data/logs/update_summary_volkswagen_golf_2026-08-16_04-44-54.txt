@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen golf
-Datum: 2026-08-15 04:40:45
+Datum: 2026-08-16 04:44:54
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €22,486
+Durchschnittspreis: €22,495
 Median-Preis: €23,990
 Günstigstes: €1,000
 Teuerstes: €54,990
@@ -28,7 +28,17 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (1)
+==============================
+• Volkswagen Golf1.4 TSI Highline
+  €5,900 → €5,500 (-€400)
+
+📈 PREISERHÖHUNGEN (1)
+==============================
+• Volkswagen GolfGolf 7 TSI FACELIFT
+  €13,900 → €15,900 (+€2,000)
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -42,5 +52,5 @@ Verkäufertypen:
   Händler: 115
   Privat: 48
 
-Generiert am: 2026-08-15 04:40:45
+Generiert am: 2026-08-16 04:44:54
 AutoScout24 Luxembourg Scraper v2.0

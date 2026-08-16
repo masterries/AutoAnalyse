@@ -1,44 +1,44 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 420
-Datum: 2026-08-15 04:42:09
+Fahrzeug: bmw 320
+Datum: 2026-08-16 04:45:44
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 24
+Gesamt gefundene Listings: 63
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €33,876
-Median-Preis: €35,945
-Günstigstes: €15,500
-Teuerstes: €52,990
-Preisspanne: €37,490
+Durchschnittspreis: €30,365
+Median-Preis: €29,990
+Günstigstes: €2,499
+Teuerstes: €58,800
+Preisspanne: €56,301
 
 PREISÄNDERUNGEN
 ===============
 Preisänderungen heute: 1
 
-📉 PREISSENKUNGEN (1)
+📉 PREISSENKUNGEN (0)
 ==============================
-• BMW 420Coupe Sport Line
-  €17,000 → €16,000 (-€1,000)
+📈 PREISERHÖHUNGEN (1)
+==============================
+• BMW 320320d e92
+  €8,000 → €8,500 (+€500)
 
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 14
-  Benzin: 9
-  3: 1
+  Diesel: 39
+  Benzin: 19
+  3: 5
 
 Verkäufertypen:
-  Händler: 17
-  Privat: 7
+  Händler: 36
+  Privat: 27
 
-Generiert am: 2026-08-15 04:42:09
+Generiert am: 2026-08-16 04:45:44
 AutoScout24 Luxembourg Scraper v2.0

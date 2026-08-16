@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a4
-Datum: 2026-08-15 04:39:12
+Datum: 2026-08-16 04:43:12
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €15,183
+Durchschnittspreis: €15,203
 Median-Preis: €13,990
 Günstigstes: €1,000
 Teuerstes: €35,990
@@ -20,7 +20,14 @@ Preisspanne: €34,990
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (0)
+==============================
+📈 PREISERHÖHUNGEN (1)
+==============================
+• Audi A4Avant 2.0 TDI 204 CV Quattro 3X S-line Navi...
+  €25,900 → €26,900 (+€1,000)
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -34,5 +41,5 @@ Verkäufertypen:
   Privat: 34
   Händler: 17
 
-Generiert am: 2026-08-15 04:39:12
+Generiert am: 2026-08-16 04:43:12
 AutoScout24 Luxembourg Scraper v2.0
