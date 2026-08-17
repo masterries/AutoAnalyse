@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a5
-Datum: 2026-08-16 04:43:34
+Datum: 2026-08-17 04:52:33
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,14 +20,7 @@ Preisspanne: €64,900
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
-
-📉 PREISSENKUNGEN (0)
-==============================
-📈 PREISERHÖHUNGEN (1)
-==============================
-• Audi A5CABRIO 2.0 TDI 190 QUATTRO 3X S-LINE FACELI...
-  €10,900 → €12,900 (+€2,000)
+Keine Preisänderungen verfügbar.
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -40,5 +33,5 @@ Verkäufertypen:
   Händler: 48
   Privat: 21
 
-Generiert am: 2026-08-16 04:43:34
+Generiert am: 2026-08-17 04:52:33
 AutoScout24 Luxembourg Scraper v2.0

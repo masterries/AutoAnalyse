@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev6
-Datum: 2026-08-16 04:48:09
+Fahrzeug: volkswagen polo
+Datum: 2026-08-17 04:54:07
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 2
+Gesamt gefundene Listings: 98
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €33,750
-Median-Preis: €33,750
-Günstigstes: €32,000
-Teuerstes: €35,500
-Preisspanne: €3,500
+Durchschnittspreis: €16,886
+Median-Preis: €18,695
+Günstigstes: €50
+Teuerstes: €30,600
+Preisspanne: €30,550
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 2
+  Benzin: 86
+  Diesel: 12
 
 Verkäufertypen:
-  Privat: 1
-  Händler: 1
+  Händler: 76
+  Privat: 22
 
-Generiert am: 2026-08-16 04:48:09
+Generiert am: 2026-08-17 04:54:07
 AutoScout24 Luxembourg Scraper v2.0

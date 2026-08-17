@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw x1
-Datum: 2026-08-16 04:47:26
+Datum: 2026-08-17 04:56:03
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,17 +20,7 @@ Preisspanne: €57,800
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
-
-📉 PREISSENKUNGEN (0)
-==============================
-📈 PREISERHÖHUNGEN (2)
-==============================
-• BMW X123D XDRIVE M SPORT PAKET AUTO BI-XENON 1 HAN...
-  €13,900 → €15,900 (+€2,000)
-
-• BMW X1SDRIVE 18iA, 1 HAND, KM 63000, CUIR, NAVI, P...
-  €20,900 → €21,900 (+€1,000)
+Keine Preisänderungen verfügbar.
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -44,5 +34,5 @@ Verkäufertypen:
   Händler: 75
   Privat: 22
 
-Generiert am: 2026-08-16 04:47:26
+Generiert am: 2026-08-17 04:56:03
 AutoScout24 Luxembourg Scraper v2.0
