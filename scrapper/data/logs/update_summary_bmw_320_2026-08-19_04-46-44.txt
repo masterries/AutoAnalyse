@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev6
-Datum: 2026-08-18 04:48:11
+Fahrzeug: bmw 320
+Datum: 2026-08-19 04:46:44
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 2
+Gesamt gefundene Listings: 64
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €33,750
-Median-Preis: €33,750
-Günstigstes: €32,000
-Teuerstes: €35,500
-Preisspanne: €3,500
+Durchschnittspreis: €29,795
+Median-Preis: €28,450
+Günstigstes: €2,499
+Teuerstes: €58,800
+Preisspanne: €56,301
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 2
+  Diesel: 38
+  Benzin: 21
+  3: 5
 
 Verkäufertypen:
-  Privat: 1
-  Händler: 1
+  Händler: 36
+  Privat: 28
 
-Generiert am: 2026-08-18 04:48:11
+Generiert am: 2026-08-19 04:46:44
 AutoScout24 Luxembourg Scraper v2.0
