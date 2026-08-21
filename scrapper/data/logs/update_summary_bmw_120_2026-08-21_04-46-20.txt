@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 120
-Datum: 2026-08-20 04:44:08
+Datum: 2026-08-21 04:46:20
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,8 +12,8 @@ Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €33,907
-Median-Preis: €35,385
+Durchschnittspreis: €33,690
+Median-Preis: €35,145
 Günstigstes: €4,500
 Teuerstes: €50,650
 Preisspanne: €46,150
@@ -33,8 +33,8 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 26
-  Diesel: 16
+  Benzin: 25
+  Diesel: 17
   2: 10
   3: 8
 
@@ -42,5 +42,5 @@ Verkäufertypen:
   Händler: 53
   Privat: 7
 
-Generiert am: 2026-08-20 04:44:08
+Generiert am: 2026-08-21 04:46:20
 AutoScout24 Luxembourg Scraper v2.0
