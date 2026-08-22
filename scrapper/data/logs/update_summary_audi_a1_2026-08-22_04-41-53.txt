@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2026-08-21 04:48:14
+Datum: 2026-08-22 04:41:53
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 115
+Gesamt gefundene Listings: 113
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €25,986
+Durchschnittspreis: €25,907
 Median-Preis: €27,980
 Günstigstes: €4,850
 Teuerstes: €40,915
@@ -25,12 +25,12 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 109
+  Benzin: 107
   Diesel: 6
 
 Verkäufertypen:
-  Händler: 104
+  Händler: 102
   Privat: 11
 
-Generiert am: 2026-08-21 04:48:14
+Generiert am: 2026-08-22 04:41:53
 AutoScout24 Luxembourg Scraper v2.0
