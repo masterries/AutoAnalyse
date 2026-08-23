@@ -1,0 +1,51 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 120
+Datum: 2026-08-23 04:44:10
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 59
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €33,625
+Median-Preis: €35,470
+Günstigstes: €4,500
+Teuerstes: €50,650
+Preisspanne: €46,150
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 3
+
+📉 PREISSENKUNGEN (3)
+==============================
+• BMW 120d HK HiFi DAB LED Komfortzg.
+  €38,990 → €36,990 (-€2,000)
+
+• BMW 120d Head-Up HK HiFi DAB LED RFK
+  €38,990 → €36,990 (-€2,000)
+
+• BMW 120d Head-Up HK HiFi DAB LED RFK
+  €39,990 → €37,990 (-€2,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 24
+  Diesel: 17
+  2: 10
+  3: 8
+
+Verkäufertypen:
+  Händler: 52
+  Privat: 7
+
+Generiert am: 2026-08-23 04:44:10
+AutoScout24 Luxembourg Scraper v2.0

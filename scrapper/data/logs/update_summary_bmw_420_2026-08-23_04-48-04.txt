@@ -1,0 +1,47 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 420
+Datum: 2026-08-23 04:48:04
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 23
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €33,502
+Median-Preis: €35,990
+Günstigstes: €14,990
+Teuerstes: €49,990
+Preisspanne: €35,000
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (2)
+==============================
+• BMW 420d HK HiFi DAB LED RFK Klimaaut.
+  €51,990 → €47,990 (-€4,000)
+
+• BMW 420d xDrive HiFi DAB RFK Tempomat
+  €52,990 → €49,990 (-€3,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 13
+  Benzin: 9
+  3: 1
+
+Verkäufertypen:
+  Händler: 16
+  Privat: 7
+
+Generiert am: 2026-08-23 04:48:04
+AutoScout24 Luxembourg Scraper v2.0
