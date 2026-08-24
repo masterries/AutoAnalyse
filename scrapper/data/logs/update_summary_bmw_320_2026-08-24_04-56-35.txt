@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 320
-Datum: 2026-08-23 04:47:29
+Datum: 2026-08-24 04:56:35
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,18 +20,8 @@ Preisspanne: €56,800
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (2)
-==============================
-• BMW 320d xDrive HiFi DAB LED GSD RFK
-  €45,990 → €42,990 (-€3,000)
-
-• BMW 320d xDrive Head-Up HiFi DAB LED RFK Shz
-  €46,990 → €45,990 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -43,5 +33,5 @@ Verkäufertypen:
   Händler: 36
   Privat: 29
 
-Generiert am: 2026-08-23 04:47:29
+Generiert am: 2026-08-24 04:56:35
 AutoScout24 Luxembourg Scraper v2.0

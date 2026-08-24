@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 420
-Datum: 2026-08-23 04:48:04
+Datum: 2026-08-24 04:57:12
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,18 +20,8 @@ Preisspanne: €35,000
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (2)
-==============================
-• BMW 420d HK HiFi DAB LED RFK Klimaaut.
-  €51,990 → €47,990 (-€4,000)
-
-• BMW 420d xDrive HiFi DAB RFK Tempomat
-  €52,990 → €49,990 (-€3,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -43,5 +33,5 @@ Verkäufertypen:
   Händler: 16
   Privat: 7
 
-Generiert am: 2026-08-23 04:48:04
+Generiert am: 2026-08-24 04:57:12
 AutoScout24 Luxembourg Scraper v2.0

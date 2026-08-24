@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2026-08-23 04:47:09
+Fahrzeug: tesla model-3
+Datum: 2026-08-24 04:58:28
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 101
+Gesamt gefundene Listings: 7
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €16,744
-Median-Preis: €17,990
-Günstigstes: €2,000
-Teuerstes: €30,600
-Preisspanne: €28,600
+Durchschnittspreis: €31,684
+Median-Preis: €33,900
+Günstigstes: €25,400
+Teuerstes: €37,500
+Preisspanne: €12,100
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 88
-  Diesel: 13
+  Elektro: 7
 
 Verkäufertypen:
-  Händler: 77
-  Privat: 24
+  Händler: 4
+  Privat: 3
 
-Generiert am: 2026-08-23 04:47:09
+Generiert am: 2026-08-24 04:58:28
 AutoScout24 Luxembourg Scraper v2.0
