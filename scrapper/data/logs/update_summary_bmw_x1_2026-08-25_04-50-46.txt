@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2026-08-24 04:56:12
+Fahrzeug: bmw x1
+Datum: 2026-08-25 04:50:46
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 101
+Gesamt gefundene Listings: 96
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €16,740
-Median-Preis: €17,990
-Günstigstes: €2,000
-Teuerstes: €30,600
-Preisspanne: €28,600
+Durchschnittspreis: €33,175
+Median-Preis: €35,500
+Günstigstes: €4,650
+Teuerstes: €62,750
+Preisspanne: €58,100
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen PoloPolo 1.4 TDI (Blue Motion ) Highlin...
-  €11,900 → €11,500 (-€400)
+• BMW X1X1 sDrive20d
+  €16,500 → €15,900 (-€600)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 88
-  Diesel: 13
+  Benzin: 45
+  Diesel: 34
+  2: 10
+  3: 7
 
 Verkäufertypen:
-  Händler: 77
-  Privat: 24
+  Händler: 74
+  Privat: 22
 
-Generiert am: 2026-08-24 04:56:12
+Generiert am: 2026-08-25 04:50:46
 AutoScout24 Luxembourg Scraper v2.0

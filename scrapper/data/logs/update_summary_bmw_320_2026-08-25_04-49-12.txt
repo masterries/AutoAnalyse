@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 320
-Datum: 2026-08-24 04:56:35
+Datum: 2026-08-25 04:49:12
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,16 +12,26 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €29,301
-Median-Preis: €28,400
+Durchschnittspreis: €29,292
+Median-Preis: €28,000
 Günstigstes: €2,000
 Teuerstes: €58,800
 Preisspanne: €56,800
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 2
 
+📉 PREISSENKUNGEN (2)
+==============================
+• BMW 320320d DPF Touring
+  €4,600 → €4,500 (-€100)
+
+• BMW 320320d Touring Aut. M JUSQU'A 36 MOIS DE GARA...
+  €28,400 → €27,900 (-€500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -33,5 +43,5 @@ Verkäufertypen:
   Händler: 36
   Privat: 29
 
-Generiert am: 2026-08-24 04:56:35
+Generiert am: 2026-08-25 04:49:12
 AutoScout24 Luxembourg Scraper v2.0
