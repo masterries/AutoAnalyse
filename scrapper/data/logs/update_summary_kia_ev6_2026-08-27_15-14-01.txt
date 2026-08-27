@@ -1,26 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev3
-Datum: 2026-08-26 04:52:37
+Fahrzeug: kia ev6
+Datum: 2026-08-27 15:14:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 1
-Neue Listings: 1
+Gesamt gefundene Listings: 2
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €42,874
-Median-Preis: €42,874
-Günstigstes: €42,874
-Teuerstes: €42,874
-Preisspanne: €0
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €42,874 - Kia EV3BEV 58,3 kWH Business Plus
+Durchschnittspreis: €48,664
+Median-Preis: €48,664
+Günstigstes: €32,000
+Teuerstes: €65,327
+Preisspanne: €33,327
 
 PREISÄNDERUNGEN
 ===============
@@ -29,10 +25,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 1
+  Elektro: 2
 
 Verkäufertypen:
+  Privat: 1
   Händler: 1
 
-Generiert am: 2026-08-26 04:52:37
+Generiert am: 2026-08-27 15:14:01
 AutoScout24 Luxembourg Scraper v2.0

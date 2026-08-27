@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: kia ev5
-Datum: 2026-08-26 04:52:58
+Datum: 2026-08-27 15:13:50
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 1
-Neue Listings: 1
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,10 +17,6 @@ Median-Preis: €53,994
 Günstigstes: €53,994
 Teuerstes: €53,994
 Preisspanne: €0
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €53,994 - Kia EV5BEV 81,4 kWH GT Line
 
 PREISÄNDERUNGEN
 ===============
@@ -34,5 +30,5 @@ Kraftstofftypen:
 Verkäufertypen:
   Händler: 1
 
-Generiert am: 2026-08-26 04:52:58
+Generiert am: 2026-08-27 15:13:50
 AutoScout24 Luxembourg Scraper v2.0

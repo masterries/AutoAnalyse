@@ -1,0 +1,44 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw 320
+Datum: 2026-08-27 15:11:28
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 64
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €29,562
+Median-Preis: €28,250
+Günstigstes: €2,000
+Teuerstes: €58,800
+Preisspanne: €56,800
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 1
+
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 320d xDrive Head-Up HiFi DAB LED
+  €50,990 → €48,990 (-€2,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 39
+  Benzin: 20
+  3: 5
+
+Verkäufertypen:
+  Händler: 35
+  Privat: 29
+
+Generiert am: 2026-08-27 15:11:28
+AutoScout24 Luxembourg Scraper v2.0
