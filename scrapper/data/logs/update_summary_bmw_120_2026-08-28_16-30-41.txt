@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 120
-Datum: 2026-08-27 15:07:26
+Datum: 2026-08-28 16:30:41
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 56
+Gesamt gefundene Listings: 55
 Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €33,643
-Median-Preis: €35,385
+Durchschnittspreis: €33,611
+Median-Preis: €35,470
 Günstigstes: €6,500
 Teuerstes: €50,650
 Preisspanne: €44,150
@@ -28,29 +28,19 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (2)
-==============================
-• BMW 120M STEPTRONIC - JUSQU'A 36 MOIS DE GARANTIE
-  €28,900 → €26,400 (-€2,500)
-
-• BMW 120d HK HiFi DAB LED Komfortzg.
-  €37,899 → €36,990 (-€909)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Benzin: 22
-  Diesel: 17
-  2: 9
+  Diesel: 15
+  2: 10
   3: 8
 
 Verkäufertypen:
-  Händler: 49
+  Händler: 48
   Privat: 7
 
-Generiert am: 2026-08-27 15:07:26
+Generiert am: 2026-08-28 16:30:41
 AutoScout24 Luxembourg Scraper v2.0
