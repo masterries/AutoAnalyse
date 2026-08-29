@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-220
-Datum: 2026-08-28 16:30:21
+Datum: 2026-08-29 10:58:31
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 47
-Neue Listings: 2
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €38,825
+Durchschnittspreis: €38,952
 Median-Preis: €44,990
 Günstigstes: €2,990
 Teuerstes: €66,990
@@ -28,8 +28,15 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-Benz C 2204MATIC / AUTOMATIQUE / TOIT OUV...
+  €27,999 → €25,990 (-€2,009)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -40,5 +47,5 @@ Verkäufertypen:
   Händler: 35
   Privat: 12
 
-Generiert am: 2026-08-28 16:30:21
+Generiert am: 2026-08-29 10:58:31
 AutoScout24 Luxembourg Scraper v2.0

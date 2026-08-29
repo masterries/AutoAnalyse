@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-180
-Datum: 2026-08-28 16:29:27
+Datum: 2026-08-29 10:57:42
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €40,706
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Mercedes-Benz A 180A 180 d 7G-DCT GARANTIE JUSQU'A...
-  €20,900 → €19,900 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -39,5 +32,5 @@ Verkäufertypen:
   Händler: 28
   Privat: 14
 
-Generiert am: 2026-08-28 16:29:27
+Generiert am: 2026-08-29 10:57:42
 AutoScout24 Luxembourg Scraper v2.0
