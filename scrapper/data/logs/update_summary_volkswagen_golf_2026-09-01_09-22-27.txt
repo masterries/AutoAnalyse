@@ -1,0 +1,47 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen golf
+Datum: 2026-09-01 09:22:27
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 163
+Neue Listings: 0
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €22,236
+Median-Preis: €22,790
+Günstigstes: €900
+Teuerstes: €43,990
+Preisspanne: €43,090
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 2
+
+📉 PREISSENKUNGEN (2)
+==============================
+• Volkswagen GolfR-Line
+  €35,200 → €34,500 (-€700)
+
+• Volkswagen GolfGolf R 4Motion (BlueMotion Technolo...
+  €34,000 → €32,500 (-€1,500)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 93
+  Diesel: 56
+  2: 14
+
+Verkäufertypen:
+  Händler: 124
+  Privat: 39
+
+Generiert am: 2026-09-01 09:22:27
+AutoScout24 Luxembourg Scraper v2.0
