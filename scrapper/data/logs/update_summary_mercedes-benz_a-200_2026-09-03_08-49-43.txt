@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-200
-Datum: 2026-09-02 08:40:57
+Datum: 2026-09-03 08:49:43
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 60
-Neue Listings: 4
+Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
@@ -41,5 +41,5 @@ Verkäufertypen:
   Händler: 48
   Privat: 12
 
-Generiert am: 2026-09-02 08:40:57
+Generiert am: 2026-09-03 08:49:43
 AutoScout24 Luxembourg Scraper v2.0

@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 120
-Datum: 2026-09-02 08:41:47
+Datum: 2026-09-03 08:50:32
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 59
-Neue Listings: 3
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
@@ -42,5 +42,5 @@ Verkäufertypen:
   Händler: 52
   Privat: 7
 
-Generiert am: 2026-09-02 08:41:47
+Generiert am: 2026-09-03 08:50:32
 AutoScout24 Luxembourg Scraper v2.0
