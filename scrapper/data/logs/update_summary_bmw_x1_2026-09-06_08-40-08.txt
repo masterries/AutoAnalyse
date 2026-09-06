@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw x1
-Datum: 2026-09-05 08:21:42
+Datum: 2026-09-06 08:40:08
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €55,600
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW X1Sport 20d 184 SDrive
-  €13,900 → €12,900 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -41,5 +34,5 @@ Verkäufertypen:
   Händler: 69
   Privat: 22
 
-Generiert am: 2026-09-05 08:21:42
+Generiert am: 2026-09-06 08:40:08
 AutoScout24 Luxembourg Scraper v2.0
