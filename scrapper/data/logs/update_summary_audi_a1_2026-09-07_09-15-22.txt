@@ -1,0 +1,44 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a1
+Datum: 2026-09-07 09:15:22
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 124
+Neue Listings: 1
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €24,791
+Median-Preis: €25,985
+Günstigstes: €4,490
+Teuerstes: €40,915
+Preisspanne: €36,425
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €4,490 - Audi A11.2 TFSI 86 Ambition
+• €4,500 - Audi A1A1 2.0 TDI Ambition
+• €4,850 - Audi A1ambition
+• €7,900 - Audi A11.2 TSI 85CV
+• €8,099 - Audi A11.4 TDI (ultra)
+
+PREISÄNDERUNGEN
+===============
+Keine Preisänderungen verfügbar.
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 116
+  Diesel: 8
+
+Verkäufertypen:
+  Händler: 109
+  Privat: 15
+
+Generiert am: 2026-09-07 09:15:22
+AutoScout24 Luxembourg Scraper v2.0
