@@ -1,4 +1,4 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-9828,3e8a8a7b-7431-46df-979e-bef42e1c6c09,kia,ev4,"Kia EV4BEV 81,4 kWH Business Plus",,52652.0,unknown,Elektro,01-2026,,,Händler,,2026-09-07T09:19:08.526770,1788772748,1,2026-08-26 04:52:48,2026-09-07 09:19:12
-9829,1caa06cd-9f3e-4cba-9cf3-da76a5749ee8,kia,ev4,"Kia EV4BEV 81,4 kWH BUSINESS PLUS",,53429.0,unknown,Elektro,01-2026,,,Händler,,2026-09-07T09:19:08.527443,1788772748,1,2026-08-26 04:52:48,2026-09-07 09:19:12
-9830,c3f136d2-69ac-494d-8dad-4adbb091e3de,kia,ev4,"Kia EV4BEV 81,4 kWH GT Line",,56290.0,20000,Elektro,07-2025,,,Händler,,2026-09-07T09:19:08.527924,1788772748,1,2026-08-26 04:52:48,2026-09-07 09:19:12
+9828,3e8a8a7b-7431-46df-979e-bef42e1c6c09,kia,ev4,"Kia EV4BEV 81,4 kWH Business Plus",,52652.0,unknown,Elektro,01-2026,,,Händler,,2026-09-08T08:53:07.290733,1788857587,1,2026-08-26 04:52:48,2026-09-08 08:53:10
+9829,1caa06cd-9f3e-4cba-9cf3-da76a5749ee8,kia,ev4,"Kia EV4BEV 81,4 kWH BUSINESS PLUS",,53429.0,unknown,Elektro,01-2026,,,Händler,,2026-09-08T08:53:07.291220,1788857587,1,2026-08-26 04:52:48,2026-09-08 08:53:10
+9830,c3f136d2-69ac-494d-8dad-4adbb091e3de,kia,ev4,"Kia EV4BEV 81,4 kWH GT Line",,56290.0,20000,Elektro,07-2025,,,Händler,,2026-09-08T08:53:07.291599,1788857587,1,2026-08-26 04:52:48,2026-09-08 08:53:10
