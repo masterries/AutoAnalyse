@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: kia ev6
-Datum: 2026-09-08 08:53:32
+Datum: 2026-09-09 08:59:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -31,5 +31,5 @@ Verkäufertypen:
   Privat: 1
   Händler: 1
 
-Generiert am: 2026-09-08 08:53:32
+Generiert am: 2026-09-09 08:59:40
 AutoScout24 Luxembourg Scraper v2.0

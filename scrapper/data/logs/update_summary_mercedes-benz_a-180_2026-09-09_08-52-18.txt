@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a1
-Datum: 2026-09-08 08:49:38
+Fahrzeug: mercedes-benz a-180
+Datum: 2026-09-09 08:52:18
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 124
+Gesamt gefundene Listings: 38
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,783
-Median-Preis: €25,985
-Günstigstes: €3,500
-Teuerstes: €40,915
-Preisspanne: €37,415
+Durchschnittspreis: €21,002
+Median-Preis: €21,700
+Günstigstes: €2,000
+Teuerstes: €42,705
+Preisspanne: €40,705
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A1A1 2.0 TDI Ambition
-  €4,500 → €3,500 (-€1,000)
+• Mercedes-Benz A 180BlueEFFICIENCY
+  €14,000 → €11,100 (-€2,900)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 116
-  Diesel: 8
+  Diesel: 27
+  Benzin: 10
+  2: 1
 
 Verkäufertypen:
-  Händler: 109
-  Privat: 15
+  Händler: 21
+  Privat: 17
 
-Generiert am: 2026-09-08 08:49:38
+Generiert am: 2026-09-09 08:52:18
 AutoScout24 Luxembourg Scraper v2.0
