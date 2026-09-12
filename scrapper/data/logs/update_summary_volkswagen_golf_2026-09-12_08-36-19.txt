@@ -1,0 +1,91 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen golf
+Datum: 2026-09-12 08:36:19
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 159
+Neue Listings: 1
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €22,516
+Median-Preis: €23,990
+Günstigstes: €1,000
+Teuerstes: €43,990
+Preisspanne: €42,990
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,000 - Volkswagen GolfGolf 1.6 Special
+• €1,500 - Volkswagen Golf1.4i Base Edition
+• €2,500 - Volkswagen Golf2.0 TDI DPF Comfortline
+• €3,200 - Volkswagen Golf1.3 CL
+• €3,900 - Volkswagen Golf1.4 VI TSi 122
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 14
+
+📉 PREISSENKUNGEN (14)
+==============================
+• Volkswagen GolfStyle+BVM+Matrix-LED+Navi
+  €18,990 → €17,990 (-€1,000)
+
+• Volkswagen GolfLife+DSG+LM17+LED
+  €22,990 → €21,990 (-€1,000)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €26,990 → €25,990 (-€1,000)
+
+• Volkswagen GolfClubsport+DSG+Pano+RearView
+  €32,990 → €31,990 (-€1,000)
+
+• Volkswagen Golf1.6 TDI 115 BlueMotion Technology F...
+  €8,999 → €8,900 (-€99)
+
+• Volkswagen GolfR-line+DSG+LED+Navi+RearView
+  €22,990 → €21,990 (-€1,000)
+
+• Volkswagen GolfStyle+DSG+RearView+LED
+  €21,490 → €20,990 (-€500)
+
+• Volkswagen GolfR-Line+BVM+Navi+LED
+  €27,990 → €26,990 (-€1,000)
+
+• Volkswagen GolfLife+DSG+LED+Navi
+  €27,490 → €25,990 (-€1,500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €30,990 → €26,990 (-€4,000)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €27,490 → €26,990 (-€500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €27,490 → €26,990 (-€500)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €29,990 → €27,990 (-€2,000)
+
+• Volkswagen GolfLife+DSG+Navi+LED
+  €29,990 → €27,990 (-€2,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 94
+  Diesel: 52
+  2: 13
+
+Verkäufertypen:
+  Händler: 125
+  Privat: 34
+
+Generiert am: 2026-09-12 08:36:19
+AutoScout24 Luxembourg Scraper v2.0

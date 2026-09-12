@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2026-09-11 08:53:11
+Datum: 2026-09-12 08:36:51
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,8 +12,8 @@ Neue Listings: 2
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €16,253
-Median-Preis: €17,990
+Durchschnittspreis: €16,349
+Median-Preis: €18,445
 Günstigstes: €2,000
 Teuerstes: €30,600
 Preisspanne: €28,600
@@ -24,19 +24,37 @@ TOP 5 GÜNSTIGSTE LISTINGS
 • €2,600 - Volkswagen PoloPolo 1.4 TDI Trendline
 • €2,850 - Volkswagen PoloPolo 1.2 Trendline
 • €2,999 - Volkswagen PoloPolo 1.4 TDI United
-• €2,999 - Volkswagen PoloTDI 75 Match
+• €3,200 - Volkswagen PoloTDI 75 Match CT 12 Mois
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Preisänderungen heute: 7
 
-📉 PREISSENKUNGEN (1)
+📉 PREISSENKUNGEN (5)
 ==============================
-• Volkswagen PoloV R-line 1.0 90ch/Clim/GPS
-  €11,990 → €10,990 (-€1,000)
+• Volkswagen Polo1.0 DSG Life
+  €15,990 → €15,490 (-€500)
 
-📈 PREISERHÖHUNGEN (0)
+• Volkswagen Polo1.0 DSG Life
+  €16,490 → €15,990 (-€500)
+
+• Volkswagen Polo1.0 DSG Life
+  €16,490 → €15,990 (-€500)
+
+• Volkswagen PoloR-Line+DSG+Led+CarPlay
+  €23,990 → €21,990 (-€2,000)
+
+• Volkswagen PoloStyle+DSG+Park&Comfort+IQ-Drive+LED
+  €22,490 → €21,990 (-€500)
+
+📈 PREISERHÖHUNGEN (2)
 ==============================
+• Volkswagen Polo1.0 MPI SG CHFF APP-CONNECT PDC LED...
+  €19,480 → €19,950 (+€470)
+
+• Volkswagen PoloTDI 75 Match CT 12 Mois
+  €2,999 → €3,200 (+€201)
+
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -47,5 +65,5 @@ Verkäufertypen:
   Händler: 80
   Privat: 20
 
-Generiert am: 2026-09-11 08:53:11
+Generiert am: 2026-09-12 08:36:51
 AutoScout24 Luxembourg Scraper v2.0
