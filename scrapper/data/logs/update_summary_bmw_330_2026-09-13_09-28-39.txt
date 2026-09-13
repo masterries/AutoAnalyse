@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz a-200
-Datum: 2026-09-12 08:32:43
+Fahrzeug: bmw 330
+Datum: 2026-09-13 09:28:39
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 55
+Gesamt gefundene Listings: 57
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €30,113
-Median-Preis: €35,290
-Günstigstes: €2,800
-Teuerstes: €44,990
-Preisspanne: €42,190
+Durchschnittspreis: €40,480
+Median-Preis: €39,900
+Günstigstes: €6,500
+Teuerstes: €63,800
+Preisspanne: €57,300
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,15 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 31
-  Benzin: 22
-  2: 2
+  Benzin: 31
+  Diesel: 14
+  2: 8
+  3: 3
+  o: 1
 
 Verkäufertypen:
-  Händler: 43
-  Privat: 12
+  Händler: 47
+  Privat: 10
 
-Generiert am: 2026-09-12 08:32:43
+Generiert am: 2026-09-13 09:28:39
 AutoScout24 Luxembourg Scraper v2.0

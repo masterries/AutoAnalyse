@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: tesla model-3
-Datum: 2026-09-12 08:38:56
+Fahrzeug: audi a3
+Datum: 2026-09-13 09:25:36
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 8
+Gesamt gefundene Listings: 137
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,468
-Median-Preis: €33,950
-Günstigstes: €25,400
-Teuerstes: €53,950
-Preisspanne: €28,550
+Durchschnittspreis: €24,278
+Median-Preis: €25,990
+Günstigstes: €800
+Teuerstes: €46,900
+Preisspanne: €46,100
 
 PREISÄNDERUNGEN
 ===============
@@ -24,19 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Tesla Model 3Model 3 Highland Performance + FSD in...
-  €54,950 → €53,950 (-€1,000)
+• Audi A31.4 TFSI 140ch
+  €8,900 → €8,500 (-€400)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 8
+  Benzin: 72
+  Diesel: 52
+  2: 10
+  o: 3
 
 Verkäufertypen:
-  Privat: 4
-  Händler: 4
+  Händler: 106
+  Privat: 31
 
-Generiert am: 2026-09-12 08:38:56
+Generiert am: 2026-09-13 09:25:36
 AutoScout24 Luxembourg Scraper v2.0
