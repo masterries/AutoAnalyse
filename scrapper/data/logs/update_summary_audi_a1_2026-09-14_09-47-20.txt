@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a1
-Datum: 2026-09-13 09:26:51
+Datum: 2026-09-14 09:47:20
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -40,5 +40,5 @@ Verkäufertypen:
   Händler: 112
   Privat: 13
 
-Generiert am: 2026-09-13 09:26:51
+Generiert am: 2026-09-14 09:47:20
 AutoScout24 Luxembourg Scraper v2.0
