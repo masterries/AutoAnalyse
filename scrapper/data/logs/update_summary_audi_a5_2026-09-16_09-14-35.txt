@@ -1,0 +1,73 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: audi a5
+Datum: 2026-09-16 09:14:35
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 84
+Neue Listings: 2
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €34,680
+Median-Preis: €40,494
+Günstigstes: €7,000
+Teuerstes: €69,900
+Preisspanne: €62,900
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €7,000 - Audi A5A5 2.0 TFSI Sportback multitronic
+• €7,990 - Audi A52.0 TDI S-Line Sportback*NAVI*LEDER*SHZ*PDC*
+• €8,000 - Audi A5A5 2.0 TDI Sportback DPF
+• €8,900 - Audi A5Cabrio 2.7 TDI DPF multitronic
+• €8,990 - Audi A5Coupé 2.7 TDI DPF S line
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 8
+
+📉 PREISSENKUNGEN (6)
+==============================
+• Audi A5Cabrio 2.0 TDI DPF
+  €12,500 → €11,500 (-€1,000)
+
+• Audi A5A5 Cabrio 1.8 TFSI multitronic
+  €16,499 → €15,900 (-€599)
+
+• Audi A5Sportback S line Extérieur 3.0L 245ch/Toit ...
+  €24,990 → €23,990 (-€1,000)
+
+• Audi A5Sportback 1.8 tfsi Business Plus 177cv mult...
+  €15,500 → €14,500 (-€1,000)
+
+• Audi A5Sportback 1.8 tfsi Business 177cv multitron...
+  €15,500 → €14,500 (-€1,000)
+
+• Audi A5TDI quattro 150 kW S tronic
+  €58,834 → €58,335 (-€499)
+
+📈 PREISERHÖHUNGEN (2)
+==============================
+• Audi A5S-Line 2.0 TDI
+  €15,900 → €16,900 (+€1,000)
+
+• Audi A5A5 Cabrio 3.0 TDI DPF quattro S tronic
+  €9,900 → €10,900 (+€1,000)
+
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 50
+  Benzin: 30
+  2: 4
+
+Verkäufertypen:
+  Händler: 59
+  Privat: 25
+
+Generiert am: 2026-09-16 09:14:35
+AutoScout24 Luxembourg Scraper v2.0
