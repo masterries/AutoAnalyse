@@ -1,0 +1,99 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: mercedes-benz c-220
+Datum: 2026-09-17 09:21:23
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 42
+Neue Listings: 1
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €41,009
+Median-Preis: €45,240
+Günstigstes: €4,900
+Teuerstes: €65,990
+Preisspanne: €61,090
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €4,900 - Mercedes-Benz C 220cdi break 170cv
+• €5,999 - Mercedes-Benz C 220T CDI 4Matic 7G-TRONIC
+• €7,000 - Mercedes-Benz C 220T CDI DPF (BlueEFFICIENCY) 7G-TRONIC Eleg...
+• €12,500 - Mercedes-Benz C 220
+• €16,000 - Mercedes-Benz C 220d 4Matic T 9G-TRONIC Avantgarde
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 17
+
+📉 PREISSENKUNGEN (17)
+==============================
+• Mercedes-Benz C 220C 220 d Avantgarde  Navi/KEYLES...
+  €41,990 → €40,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d AMG-Line  AMG Line Navi...
+  €54,990 → €53,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d 4MATIC T-Modell verkauf...
+  €59,990 → €58,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d 4MATIC AMG-Line  AMG Li...
+  €54,990 → €53,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d 4MATIC T-Modell AMG-Lin...
+  €46,490 → €45,490 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d T-Modell AMG-Line  AMG ...
+  €56,990 → €55,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d 4MATIC T-Modell AMG-Lin...
+  €44,990 → €43,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d 4MATIC T-Modell Verkauf...
+  €60,990 → €59,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d AMG-Line Premium
+  €52,990 → €51,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d 4MATIC T-Modell AMG-Lin...
+  €55,990 → €54,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d 4MATIC T-Modell AMG-Lin...
+  €59,990 → €58,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d 4MATIC AMG-Line Premium...
+  €66,990 → €65,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d AMG-Line Premium Plus
+  €51,990 → €50,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d 4MATIC T-Modell AMG-Lin...
+  €47,990 → €46,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d T-Modell AMG-Line  AMG ...
+  €56,990 → €55,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d T-Modell AMG-Line Premi...
+  €54,990 → €53,990 (-€1,000)
+
+• Mercedes-Benz C 220C 220 d T-Modell AMG Line Premi...
+  €52,990 → €51,990 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Diesel: 40
+  3: 2
+
+Verkäufertypen:
+  Händler: 33
+  Privat: 9
+
+Generiert am: 2026-09-17 09:21:23
+AutoScout24 Luxembourg Scraper v2.0
