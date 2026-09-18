@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 420
-Datum: 2026-09-17 09:25:28
+Fahrzeug: tesla model-3
+Datum: 2026-09-18 09:01:38
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 24
+Gesamt gefundene Listings: 5
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,537
-Median-Preis: €35,990
-Günstigstes: €14,990
-Teuerstes: €49,990
-Preisspanne: €35,000
+Durchschnittspreis: €35,050
+Median-Preis: €33,900
+Günstigstes: €25,400
+Teuerstes: €53,950
+Preisspanne: €28,550
 
 PREISÄNDERUNGEN
 ===============
@@ -25,13 +25,11 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 12
-  Diesel: 11
-  3: 1
+  Elektro: 5
 
 Verkäufertypen:
-  Händler: 19
-  Privat: 5
+  Händler: 3
+  Privat: 2
 
-Generiert am: 2026-09-17 09:25:28
+Generiert am: 2026-09-18 09:01:38
 AutoScout24 Luxembourg Scraper v2.0
