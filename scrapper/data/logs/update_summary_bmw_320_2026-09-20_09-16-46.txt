@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: volkswagen polo
-Datum: 2026-09-19 08:46:48
+Fahrzeug: bmw 320
+Datum: 2026-09-20 09:16:46
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 98
+Gesamt gefundene Listings: 69
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €15,891
-Median-Preis: €16,945
+Durchschnittspreis: €31,375
+Median-Preis: €32,990
 Günstigstes: €2,000
-Teuerstes: €27,800
-Preisspanne: €25,800
+Teuerstes: €58,800
+Preisspanne: €56,800
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,21 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Volkswagen Polo1.4 TDI Trendline
-  €9,400 → €9,300 (-€100)
+• BMW 320320i Aut. Sport Line
+  €21,900 → €20,500 (-€1,400)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 85
-  Diesel: 13
+  Diesel: 46
+  Benzin: 18
+  3: 5
 
 Verkäufertypen:
-  Händler: 80
-  Privat: 18
+  Händler: 43
+  Privat: 26
 
-Generiert am: 2026-09-19 08:46:48
+Generiert am: 2026-09-20 09:16:46
 AutoScout24 Luxembourg Scraper v2.0
