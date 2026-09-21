@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: tesla model-3
-Datum: 2026-09-20 09:18:32
+Fahrzeug: kia ev4
+Datum: 2026-09-21 09:55:06
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 3
+Gesamt gefundene Listings: 2
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €29,133
-Median-Preis: €28,000
-Günstigstes: €25,400
-Teuerstes: €34,000
-Preisspanne: €8,600
+Durchschnittspreis: €54,471
+Median-Preis: €54,471
+Günstigstes: €52,652
+Teuerstes: €56,290
+Preisspanne: €3,638
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 3
+  Elektro: 2
 
 Verkäufertypen:
   Händler: 2
-  Privat: 1
 
-Generiert am: 2026-09-20 09:18:32
+Generiert am: 2026-09-21 09:55:06
 AutoScout24 Luxembourg Scraper v2.0
