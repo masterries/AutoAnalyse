@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen golf
-Datum: 2026-09-21 09:52:15
+Datum: 2026-09-22 09:15:59
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 163
-Neue Listings: 1
+Gesamt gefundene Listings: 170
+Neue Listings: 10
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €21,923
-Median-Preis: €23,500
+Durchschnittspreis: €22,126
+Median-Preis: €23,990
 Günstigstes: €500
 Teuerstes: €43,990
 Preisspanne: €43,490
@@ -28,25 +28,18 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Volkswagen GolfGoal 2.0 TDI DSG7 150 CV ** Attelag...
-  €27,990 → €26,990 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 93
-  Diesel: 56
+  Benzin: 101
+  Diesel: 55
   2: 14
 
 Verkäufertypen:
-  Händler: 123
+  Händler: 130
   Privat: 40
 
-Generiert am: 2026-09-21 09:52:15
+Generiert am: 2026-09-22 09:15:59
 AutoScout24 Luxembourg Scraper v2.0

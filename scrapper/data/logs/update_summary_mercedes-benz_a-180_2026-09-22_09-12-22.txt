@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 430
-Datum: 2026-09-21 09:53:48
+Fahrzeug: mercedes-benz a-180
+Datum: 2026-09-22 09:12:22
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 14
+Gesamt gefundene Listings: 39
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €46,897
-Median-Preis: €46,945
-Günstigstes: €19,900
-Teuerstes: €59,990
-Preisspanne: €40,090
+Durchschnittspreis: €20,692
+Median-Preis: €21,900
+Günstigstes: €2,000
+Teuerstes: €41,705
+Preisspanne: €39,705
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 11
-  Diesel: 3
+  Diesel: 29
+  Benzin: 9
+  2: 1
 
 Verkäufertypen:
-  Händler: 12
-  Privat: 2
+  Händler: 21
+  Privat: 18
 
-Generiert am: 2026-09-21 09:53:48
+Generiert am: 2026-09-22 09:12:22
 AutoScout24 Luxembourg Scraper v2.0

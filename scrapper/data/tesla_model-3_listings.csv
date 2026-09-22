@@ -1,4 +1,4 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-8322,e65d5d8e-7c84-4057-956f-31d5b35759b2,tesla,model-3,Tesla Model 3Model 3 Langstreckenbatterie Hinterradantrieb,,28000.0,112000,Elektro,02-2020,,,Händler,,2026-09-21T09:54:41.257857,1789984481,1,2026-06-12 08:43:34,2026-09-21 09:54:44
-9128,0bab7180-2e17-415d-9d8d-0ec8d6b2b121,tesla,model-3,Tesla Model 3Model 3 RWD Hinterradantrieb,,34000.0,29000,Elektro,12-2024,,,Privat,,2026-09-21T09:54:41.258195,1789984481,1,2026-07-17 06:28:27,2026-09-21 09:54:44
-9789,c2dddb09-681c-456e-9480-ec757da90e01,tesla,model-3,Tesla Model 3Model 3  JUSQU'A 36MOIS DE GARANTIE POSSIBLE,,25400.0,90000,Elektro,06-2020,,,Händler,,2026-09-21T09:54:41.257511,1789984481,1,2026-08-23 04:49:16,2026-09-21 09:54:44
+8322,e65d5d8e-7c84-4057-956f-31d5b35759b2,tesla,model-3,Tesla Model 3Model 3 Langstreckenbatterie Hinterradantrieb,,28000.0,112000,Elektro,02-2020,,,Händler,,2026-09-22T09:18:22.715580,1790068702,1,2026-06-12 08:43:34,2026-09-22 09:18:25
+9128,0bab7180-2e17-415d-9d8d-0ec8d6b2b121,tesla,model-3,Tesla Model 3Model 3 RWD Hinterradantrieb,,34000.0,29500,Elektro,12-2024,,,Privat,,2026-09-22T09:18:22.714632,1790068702,1,2026-07-17 06:28:27,2026-09-22 09:18:25
+9789,c2dddb09-681c-456e-9480-ec757da90e01,tesla,model-3,Tesla Model 3Model 3  JUSQU'A 36MOIS DE GARANTIE POSSIBLE,,25400.0,90000,Elektro,06-2020,,,Händler,,2026-09-22T09:18:22.715143,1790068702,1,2026-08-23 04:49:16,2026-09-22 09:18:25

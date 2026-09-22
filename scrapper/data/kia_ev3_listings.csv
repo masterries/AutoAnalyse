@@ -1,2 +1,2 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-9827,608d38b5-bd9d-4b9c-a75e-7a5320a57bbe,kia,ev3,"Kia EV3BEV 58,3 kWH Business Plus",,42874.0,unknown,Elektro,01-2026,,,Händler,,2026-09-21T09:54:52.228994,1789984492,1,2026-08-26 04:52:37,2026-09-21 09:54:55
+9827,608d38b5-bd9d-4b9c-a75e-7a5320a57bbe,kia,ev3,"Kia EV3BEV 58,3 kWH Business Plus",,42874.0,unknown,Elektro,01-2026,,,Händler,,2026-09-22T09:18:33.132964,1790068713,1,2026-08-26 04:52:37,2026-09-22 09:18:36
