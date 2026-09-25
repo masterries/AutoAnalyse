@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 420
-Datum: 2026-09-24 09:16:15
+Fahrzeug: audi a3
+Datum: 2026-09-25 09:32:28
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 23
+Gesamt gefundene Listings: 134
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €32,927
-Median-Preis: €35,000
-Günstigstes: €14,990
-Teuerstes: €49,990
-Preisspanne: €35,000
+Durchschnittspreis: €23,970
+Median-Preis: €24,990
+Günstigstes: €800
+Teuerstes: €46,900
+Preisspanne: €46,100
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 420420D M-SPORT BVA / JUSQU'A 36 MOIS DE GARAN...
-  €35,900 → €34,900 (-€1,000)
+• Audi A330 TDI Sportback S tronic
+  €14,990 → €14,490 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 11
-  Diesel: 11
-  3: 1
+  Benzin: 66
+  Diesel: 56
+  2: 9
+  o: 3
 
 Verkäufertypen:
-  Händler: 18
-  Privat: 5
+  Händler: 97
+  Privat: 37
 
-Generiert am: 2026-09-24 09:16:15
+Generiert am: 2026-09-25 09:32:28
 AutoScout24 Luxembourg Scraper v2.0
