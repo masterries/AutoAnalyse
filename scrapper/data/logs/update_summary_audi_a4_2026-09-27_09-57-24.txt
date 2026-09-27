@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a4
-Datum: 2026-09-26 09:17:41
+Datum: 2026-09-27 09:57:24
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €16,531
+Durchschnittspreis: €16,255
 Median-Preis: €14,800
 Günstigstes: €1,200
 Teuerstes: €34,000
@@ -33,8 +33,8 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 30
-  Benzin: 13
+  Diesel: 29
+  Benzin: 14
   3: 5
   CNG: 1
 
@@ -42,5 +42,5 @@ Verkäufertypen:
   Privat: 31
   Händler: 18
 
-Generiert am: 2026-09-26 09:17:41
+Generiert am: 2026-09-27 09:57:24
 AutoScout24 Luxembourg Scraper v2.0
