@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: tesla model-3
-Datum: 2026-09-29 10:39:17
+Fahrzeug: bmw 120
+Datum: 2026-09-30 10:24:24
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 4
+Gesamt gefundene Listings: 58
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €27,598
-Median-Preis: €26,700
-Günstigstes: €24,990
-Teuerstes: €32,000
-Preisspanne: €7,010
+Durchschnittspreis: €32,607
+Median-Preis: €34,990
+Günstigstes: €4,650
+Teuerstes: €50,650
+Preisspanne: €46,000
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 4
+  Benzin: 23
+  Diesel: 18
+  2: 10
+  3: 7
 
 Verkäufertypen:
-  Händler: 3
-  Privat: 1
+  Händler: 50
+  Privat: 8
 
-Generiert am: 2026-09-29 10:39:17
+Generiert am: 2026-09-30 10:24:24
 AutoScout24 Luxembourg Scraper v2.0

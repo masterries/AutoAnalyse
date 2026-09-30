@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-220
-Datum: 2026-09-29 10:33:54
+Datum: 2026-09-30 10:24:07
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,14 +20,7 @@ Preisspanne: €61,090
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
-
-📉 PREISSENKUNGEN (0)
-==============================
-📈 PREISERHÖHUNGEN (1)
-==============================
-• Mercedes-Benz C 220(BlueTEC) d BlueEFFICIENCY Edit...
-  €17,000 → €18,000 (+€1,000)
+Keine Preisänderungen verfügbar.
 
 ZUSÄTZLICHE INFORMATIONEN
 =========================
@@ -39,5 +32,5 @@ Verkäufertypen:
   Händler: 31
   Privat: 9
 
-Generiert am: 2026-09-29 10:33:54
+Generiert am: 2026-09-30 10:24:07
 AutoScout24 Luxembourg Scraper v2.0
