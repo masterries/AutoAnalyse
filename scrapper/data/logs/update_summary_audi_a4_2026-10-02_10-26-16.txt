@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a4
-Datum: 2026-10-01 10:52:55
+Datum: 2026-10-02 10:26:16
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 50
+Gesamt gefundene Listings: 49
 Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €16,008
+Durchschnittspreis: €16,060
 Median-Preis: €14,800
 Günstigstes: €1,200
 Teuerstes: €34,000
@@ -28,26 +28,19 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Audi A4Avant g-tron S tronic
-  €21,900 → €20,900 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 30
+  Diesel: 29
   Benzin: 14
   3: 5
   CNG: 1
 
 Verkäufertypen:
-  Privat: 32
+  Privat: 31
   Händler: 18
 
-Generiert am: 2026-10-01 10:52:55
+Generiert am: 2026-10-02 10:26:16
 AutoScout24 Luxembourg Scraper v2.0
