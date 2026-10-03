@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 430
-Datum: 2026-10-02 10:29:18
+Fahrzeug: bmw x1
+Datum: 2026-10-03 09:52:17
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 15
+Gesamt gefundene Listings: 83
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €47,804
-Median-Preis: €49,900
-Günstigstes: €19,900
-Teuerstes: €59,990
-Preisspanne: €40,090
+Durchschnittspreis: €32,799
+Median-Preis: €34,770
+Günstigstes: €5,500
+Teuerstes: €62,750
+Preisspanne: €57,250
 
 PREISÄNDERUNGEN
 ===============
@@ -25,12 +25,14 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 12
-  Diesel: 3
+  Benzin: 35
+  Diesel: 31
+  2: 11
+  3: 6
 
 Verkäufertypen:
-  Händler: 13
-  Privat: 2
+  Händler: 68
+  Privat: 15
 
-Generiert am: 2026-10-02 10:29:18
+Generiert am: 2026-10-03 09:52:17
 AutoScout24 Luxembourg Scraper v2.0
