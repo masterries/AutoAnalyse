@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev6
-Datum: 2026-10-03 09:53:10
+Fahrzeug: mercedes-benz a-200
+Datum: 2026-10-04 10:30:14
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 2
+Gesamt gefundene Listings: 42
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €48,414
-Median-Preis: €48,414
-Günstigstes: €31,500
-Teuerstes: €65,327
-Preisspanne: €33,827
+Durchschnittspreis: €30,573
+Median-Preis: €33,345
+Günstigstes: €4,000
+Teuerstes: €43,990
+Preisspanne: €39,990
 
 PREISÄNDERUNGEN
 ===============
@@ -25,11 +25,13 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Elektro: 2
+  Diesel: 22
+  Benzin: 18
+  2: 2
 
 Verkäufertypen:
-  Privat: 1
-  Händler: 1
+  Händler: 34
+  Privat: 8
 
-Generiert am: 2026-10-03 09:53:10
+Generiert am: 2026-10-04 10:30:14
 AutoScout24 Luxembourg Scraper v2.0

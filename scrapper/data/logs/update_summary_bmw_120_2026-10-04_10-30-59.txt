@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 120
-Datum: 2026-10-03 09:47:24
+Datum: 2026-10-04 10:30:59
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -12,7 +12,7 @@ Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €32,313
+Durchschnittspreis: €32,295
 Median-Preis: €34,480
 Günstigstes: €4,650
 Teuerstes: €50,650
@@ -20,8 +20,15 @@ Preisspanne: €46,000
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• BMW 120i FACELIFT AUTO LED NAVI
+  €17,900 → €16,900 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -34,5 +41,5 @@ Verkäufertypen:
   Händler: 47
   Privat: 8
 
-Generiert am: 2026-10-03 09:47:24
+Generiert am: 2026-10-04 10:30:59
 AutoScout24 Luxembourg Scraper v2.0

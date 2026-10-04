@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a5
-Datum: 2026-10-03 09:48:41
+Fahrzeug: bmw 420
+Datum: 2026-10-04 10:35:16
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 82
+Gesamt gefundene Listings: 22
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €34,625
-Median-Preis: €39,994
-Günstigstes: €7,000
-Teuerstes: €69,900
-Preisspanne: €62,900
+Durchschnittspreis: €33,287
+Median-Preis: €35,495
+Günstigstes: €14,990
+Teuerstes: €49,990
+Preisspanne: €35,000
 
 PREISÄNDERUNGEN
 ===============
@@ -24,24 +24,24 @@ Preisänderungen heute: 2
 
 📉 PREISSENKUNGEN (2)
 ==============================
-• Audi A5Cabrio 2.0 TDI DPF
-  €8,500 → €8,000 (-€500)
+• BMW 420D LUXURY LINE HEAD UP AUTO CUIR NAVI
+  €17,900 → €15,900 (-€2,000)
 
-• Audi A5Avant
-  €54,980 → €53,980 (-€1,000)
+• BMW 420Gran Coupe D XDRIVE M SPORT PAKET CUIR NAVI
+  €37,900 → €36,900 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 48
-  Benzin: 30
-  2: 4
+  Diesel: 11
+  Benzin: 10
+  3: 1
 
 Verkäufertypen:
-  Händler: 59
-  Privat: 23
+  Händler: 17
+  Privat: 5
 
-Generiert am: 2026-10-03 09:48:41
+Generiert am: 2026-10-04 10:35:16
 AutoScout24 Luxembourg Scraper v2.0
