@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 420
-Datum: 2026-10-04 10:35:16
+Datum: 2026-10-05 11:24:24
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,18 +20,8 @@ Preisspanne: €35,000
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (2)
-==============================
-• BMW 420D LUXURY LINE HEAD UP AUTO CUIR NAVI
-  €17,900 → €15,900 (-€2,000)
-
-• BMW 420Gran Coupe D XDRIVE M SPORT PAKET CUIR NAVI
-  €37,900 → €36,900 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -43,5 +33,5 @@ Verkäufertypen:
   Händler: 17
   Privat: 5
 
-Generiert am: 2026-10-04 10:35:16
+Generiert am: 2026-10-05 11:24:24
 AutoScout24 Luxembourg Scraper v2.0
