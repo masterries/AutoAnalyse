@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2026-10-05 11:23:28
+Datum: 2026-10-06 11:12:52
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 106
-Neue Listings: 2
+Gesamt gefundene Listings: 108
+Neue Listings: 5
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,255
-Median-Preis: €19,240
+Durchschnittspreis: €17,079
+Median-Preis: €18,990
 Günstigstes: €1,550
 Teuerstes: €33,290
 Preisspanne: €31,740
@@ -28,18 +28,25 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Volkswagen Polo1.0 GOAL 80 S&S apple carplay  (GAR...
+  €17,500 → €16,500 (-€1,000)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 89
-  Diesel: 15
+  Benzin: 90
+  Diesel: 16
   Elektro: 2
 
 Verkäufertypen:
-  Händler: 87
+  Händler: 89
   Privat: 19
 
-Generiert am: 2026-10-05 11:23:28
+Generiert am: 2026-10-06 11:12:52
 AutoScout24 Luxembourg Scraper v2.0
