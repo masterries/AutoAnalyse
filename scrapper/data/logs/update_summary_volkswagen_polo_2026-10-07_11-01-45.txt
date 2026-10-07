@@ -1,0 +1,85 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen polo
+Datum: 2026-10-07 11:01:45
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 106
+Neue Listings: 3
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €17,297
+Median-Preis: €19,240
+Günstigstes: €1,550
+Teuerstes: €33,290
+Preisspanne: €31,740
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,550 - Volkswagen PoloPolo 1.9 TDI Trendline
+• €2,000 - Volkswagen Polo1.4 FSI Goal
+• €2,450 - Volkswagen PoloPolo Classic 60
+• €3,200 - Volkswagen PoloTDI 75 Match CT 12 Mois
+• €3,500 - Volkswagen PoloPolo Classic 90 TDI Comfortline
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 12
+
+📉 PREISSENKUNGEN (12)
+==============================
+• Volkswagen PoloStyle+BVM+Park&Comf.+IQ-Drive
+  €20,490 → €20,240 (-€250)
+
+• Volkswagen PoloLife+BVM+Park&Comf.+IQ-Drive
+  €19,490 → €19,240 (-€250)
+
+• Volkswagen PoloComfortline+DSG+Pano+P.Drive+LED+Na...
+  €17,990 → €17,490 (-€500)
+
+• Volkswagen Polo1.0 TSI 95 LIFE, 1 HAND, DIGITAL CO...
+  €18,900 → €17,900 (-€1,000)
+
+• Volkswagen PoloLife+P.ASS+P.Lumiere+TSI+DAB
+  €19,490 → €19,240 (-€250)
+
+• Volkswagen PoloStyle+BVM+Park&Com.+IQ-Drive+LED
+  €19,490 → €19,240 (-€250)
+
+• Volkswagen PoloStyle+BVM+Led+CarPlay
+  €19,490 → €19,240 (-€250)
+
+• Volkswagen PoloStyle+BVM+Park&Com.+IQ-Drive+LED
+  €19,490 → €19,240 (-€250)
+
+• Volkswagen PoloStyle+BVM+Park&Comf.+IQ-Drive+LED
+  €19,490 → €19,240 (-€250)
+
+• Volkswagen PoloR-Line+DSG+P.Assisted+P.Lumiere
+  €22,990 → €22,740 (-€250)
+
+• Volkswagen PoloStyle+P.Assistance+P.Lumiere+Air-Ca...
+  €19,990 → €19,490 (-€500)
+
+• Volkswagen PoloR-Line
+  €27,490 → €27,235 (-€255)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 89
+  Diesel: 15
+  Elektro: 2
+
+Verkäufertypen:
+  Händler: 87
+  Privat: 19
+
+Generiert am: 2026-10-07 11:01:45
+AutoScout24 Luxembourg Scraper v2.0

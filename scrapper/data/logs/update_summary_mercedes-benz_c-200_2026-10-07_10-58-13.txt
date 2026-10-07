@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz c-200
-Datum: 2026-10-06 11:09:34
+Datum: 2026-10-07 10:58:13
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 29
+Gesamt gefundene Listings: 30
 Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €33,195
-Median-Preis: €34,980
+Durchschnittspreis: €33,121
+Median-Preis: €34,735
 Günstigstes: €4,000
 Teuerstes: €56,388
 Preisspanne: €52,388
@@ -34,11 +34,12 @@ ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
   Diesel: 28
+  2: 1
   Benzin: 1
 
 Verkäufertypen:
-  Händler: 25
+  Händler: 26
   Privat: 4
 
-Generiert am: 2026-10-06 11:09:34
+Generiert am: 2026-10-07 10:58:13
 AutoScout24 Luxembourg Scraper v2.0
