@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 320
-Datum: 2026-10-08 11:19:14
+Datum: 2026-10-09 11:17:58
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €57,300
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 320320i Touring Modern Line
-  €11,500 → €10,800 (-€700)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -40,5 +33,5 @@ Verkäufertypen:
   Händler: 42
   Privat: 26
 
-Generiert am: 2026-10-08 11:19:14
+Generiert am: 2026-10-09 11:17:58
 AutoScout24 Luxembourg Scraper v2.0
