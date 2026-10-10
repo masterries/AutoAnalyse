@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 520
-Datum: 2026-10-09 11:18:50
+Fahrzeug: audi a1
+Datum: 2026-10-10 10:33:28
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 28
+Gesamt gefundene Listings: 104
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €35,491
-Median-Preis: €33,400
-Günstigstes: €3,399
-Teuerstes: €66,900
-Preisspanne: €63,501
+Durchschnittspreis: €24,267
+Median-Preis: €25,545
+Günstigstes: €7,999
+Teuerstes: €37,900
+Preisspanne: €29,901
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,20 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 520520d Aut.
-  €9,500 → €9,250 (-€250)
+• Audi A11.6 TDI S tronic sport
+  €8,800 → €8,100 (-€700)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 16
-  Benzin: 9
-  3: 3
+  Benzin: 97
+  Diesel: 7
 
 Verkäufertypen:
-  Händler: 17
-  Privat: 11
+  Händler: 92
+  Privat: 12
 
-Generiert am: 2026-10-09 11:18:50
+Generiert am: 2026-10-10 10:33:28
 AutoScout24 Luxembourg Scraper v2.0
