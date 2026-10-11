@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a1
-Datum: 2026-10-10 10:33:28
+Fahrzeug: bmw 120
+Datum: 2026-10-11 10:44:16
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 104
+Gesamt gefundene Listings: 55
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,267
-Median-Preis: €25,545
-Günstigstes: €7,999
-Teuerstes: €37,900
-Preisspanne: €29,901
+Durchschnittspreis: €32,053
+Median-Preis: €33,990
+Günstigstes: €4,250
+Teuerstes: €50,650
+Preisspanne: €46,400
 
 PREISÄNDERUNGEN
 ===============
@@ -24,20 +24,22 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Audi A11.6 TDI S tronic sport
-  €8,800 → €8,100 (-€700)
+• BMW 120120d Cabrio
+  €4,650 → €4,250 (-€400)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 97
-  Diesel: 7
+  Benzin: 22
+  Diesel: 17
+  2: 9
+  3: 7
 
 Verkäufertypen:
-  Händler: 92
-  Privat: 12
+  Händler: 48
+  Privat: 7
 
-Generiert am: 2026-10-10 10:33:28
+Generiert am: 2026-10-11 10:44:16
 AutoScout24 Luxembourg Scraper v2.0
