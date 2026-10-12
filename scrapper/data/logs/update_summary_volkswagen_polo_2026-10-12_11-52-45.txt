@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2026-10-11 10:47:23
+Datum: 2026-10-12 11:52:45
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 107
-Neue Listings: 2
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,309
-Median-Preis: €19,240
+Durchschnittspreis: €17,103
+Median-Preis: €19,000
 Günstigstes: €1,550
 Teuerstes: €33,290
 Preisspanne: €31,740
@@ -28,25 +28,18 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Volkswagen Polo1.0 TSI DSG Highline Virtuel Led
-  €9,999 → €8,999 (-€1,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 90
-  Diesel: 15
+  Benzin: 89
+  Diesel: 16
   Elektro: 2
 
 Verkäufertypen:
-  Händler: 87
-  Privat: 20
+  Händler: 86
+  Privat: 21
 
-Generiert am: 2026-10-11 10:47:23
+Generiert am: 2026-10-12 11:52:45
 AutoScout24 Luxembourg Scraper v2.0
