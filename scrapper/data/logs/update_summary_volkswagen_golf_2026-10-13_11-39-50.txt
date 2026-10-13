@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen golf
-Datum: 2026-10-12 11:52:15
+Datum: 2026-10-13 11:39:50
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 171
-Neue Listings: 3
+Gesamt gefundene Listings: 177
+Neue Listings: 7
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €22,214
+Durchschnittspreis: €22,240
 Median-Preis: €23,490
 Günstigstes: €500
 Teuerstes: €51,900
@@ -28,19 +28,26 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Volkswagen Golf1.4 eHybrid PHEV Style DSG MEMO TRA...
+  €24,780 → €24,290 (-€490)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 101
-  Diesel: 55
-  2: 14
+  Benzin: 106
+  Diesel: 57
+  2: 13
   o: 1
 
 Verkäufertypen:
-  Händler: 125
+  Händler: 131
   Privat: 46
 
-Generiert am: 2026-10-12 11:52:15
+Generiert am: 2026-10-13 11:39:50
 AutoScout24 Luxembourg Scraper v2.0
