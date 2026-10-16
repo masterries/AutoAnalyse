@@ -1,2 +1,2 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-9830,c3f136d2-69ac-494d-8dad-4adbb091e3de,kia,ev4,"Kia EV4BEV 81,4 kWH GT Line",,56290.0,20000,Elektro,07-2025,,,Händler,,2026-10-15T09:08:35.538412,1792055315,1,2026-08-26 04:52:48,2026-10-15 09:08:39
+9830,c3f136d2-69ac-494d-8dad-4adbb091e3de,kia,ev4,"Kia EV4BEV 81,4 kWH GT Line",,56290.0,20000,Elektro,07-2025,,,Händler,,2026-10-16T09:01:21.604935,1792141281,1,2026-08-26 04:52:48,2026-10-16 09:01:25

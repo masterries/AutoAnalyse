@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: volkswagen polo
-Datum: 2026-10-15 09:06:29
+Datum: 2026-10-16 08:59:02
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 108
-Neue Listings: 5
+Gesamt gefundene Listings: 110
+Neue Listings: 6
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €17,302
-Median-Preis: €18,990
+Durchschnittspreis: €17,691
+Median-Preis: €18,995
 Günstigstes: €1,550
 Teuerstes: €33,290
 Preisspanne: €31,740
@@ -22,31 +22,24 @@ TOP 5 GÜNSTIGSTE LISTINGS
 =========================
 • €1,550 - Volkswagen PoloPolo 1.9 TDI Trendline
 • €2,000 - Volkswagen Polo1.4 FSI Goal
-• €2,450 - Volkswagen PoloPolo Classic 60
 • €3,500 - Volkswagen PoloPolo Classic 90 TDI Comfortline
 • €3,800 - Volkswagen PoloClassic 90 TDI Highline
+• €3,900 - Volkswagen PoloPolo 1.4 TDI Trendline
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• Volkswagen Polo1.0 TSI DSG Comfortline
-  €12,490 → €11,990 (-€500)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 90
+  Benzin: 92
   Diesel: 16
   Elektro: 2
 
 Verkäufertypen:
-  Händler: 91
-  Privat: 17
+  Händler: 94
+  Privat: 16
 
-Generiert am: 2026-10-15 09:06:29
+Generiert am: 2026-10-16 08:59:02
 AutoScout24 Luxembourg Scraper v2.0
