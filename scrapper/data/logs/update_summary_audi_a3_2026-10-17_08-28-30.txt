@@ -2,17 +2,17 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a3
-Datum: 2026-10-16 08:56:26
+Datum: 2026-10-17 08:28:30
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 150
-Neue Listings: 1
+Neue Listings: 3
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €24,968
+Durchschnittspreis: €24,899
 Median-Preis: €24,990
 Günstigstes: €800
 Teuerstes: €51,900
@@ -28,32 +28,29 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 3
+Preisänderungen heute: 2
 
-📉 PREISSENKUNGEN (3)
+📉 PREISSENKUNGEN (2)
 ==============================
-• Audi A3Audi A3 SPORTBACK S LINE 45 TFSI E 245 CV S...
-  €33,000 → €32,000 (-€1,000)
+• Audi A335 TFSI Sportback S line
+  €21,500 → €21,000 (-€500)
 
-• Audi A3A3 40 TDI Sportback quattro S tronic sport
-  €18,900 → €17,500 (-€1,400)
-
-• Audi A3SportBack 35 TFSI 150cv S-Tronic S-Line
-  €33,900 → €31,900 (-€2,000)
+• Audi A3Berline S-Line GA AUDI 04.2027 2.0 TDI 150c...
+  €25,990 → €24,990 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 80
-  Diesel: 50
-  2: 15
+  Benzin: 79
+  Diesel: 52
+  2: 14
   o: 5
 
 Verkäufertypen:
   Händler: 111
   Privat: 39
 
-Generiert am: 2026-10-16 08:56:26
+Generiert am: 2026-10-17 08:28:30
 AutoScout24 Luxembourg Scraper v2.0
