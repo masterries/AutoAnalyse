@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 330
-Datum: 2026-10-18 08:49:47
+Datum: 2026-10-19 09:50:44
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €58,600
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 330330e xDrive M Sport Berline
-  €42,990 → €40,990 (-€2,000)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -42,5 +35,5 @@ Verkäufertypen:
   Händler: 31
   Privat: 11
 
-Generiert am: 2026-10-18 08:49:47
+Generiert am: 2026-10-19 09:50:44
 AutoScout24 Luxembourg Scraper v2.0
