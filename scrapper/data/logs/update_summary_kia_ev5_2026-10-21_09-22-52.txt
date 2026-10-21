@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 120
-Datum: 2026-10-20 09:19:40
+Fahrzeug: kia ev5
+Datum: 2026-10-21 09:22:52
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 53
+Gesamt gefundene Listings: 1
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €31,227
-Median-Preis: €33,890
-Günstigstes: €4,250
-Teuerstes: €50,650
-Preisspanne: €46,400
+Durchschnittspreis: €53,994
+Median-Preis: €53,994
+Günstigstes: €53,994
+Teuerstes: €53,994
+Preisspanne: €0
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Benzin: 23
-  Diesel: 17
-  3: 7
-  2: 6
+  Elektro: 1
 
 Verkäufertypen:
-  Händler: 46
-  Privat: 7
+  Händler: 1
 
-Generiert am: 2026-10-20 09:19:40
+Generiert am: 2026-10-21 09:22:52
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,0 +1,88 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen polo
+Datum: 2026-10-21 09:19:59
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 110
+Neue Listings: 4
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €17,620
+Median-Preis: €18,990
+Günstigstes: €1,550
+Teuerstes: €33,290
+Preisspanne: €31,740
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €1,550 - Volkswagen PoloPolo 1.9 TDI Trendline
+• €2,000 - Volkswagen Polo1.4 FSI Goal
+• €3,500 - Volkswagen PoloPolo Classic 90 TDI Comfortline
+• €3,800 - Volkswagen PoloClassic 90 TDI Highline
+• €3,900 - Volkswagen PoloPolo 1.4 TDI Trendline
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 13
+
+📉 PREISSENKUNGEN (13)
+==============================
+• Volkswagen PoloComfortline+DSG+Pano+P.Drive+LED+Na...
+  €16,990 → €16,490 (-€500)
+
+• Volkswagen PoloStyle+BVM+Park&Comf.+IQ-Drive
+  €19,990 → €19,740 (-€250)
+
+• Volkswagen PoloLife+P.ASS+P.Lumiere+TSI+DAB
+  €18,990 → €18,740 (-€250)
+
+• Volkswagen Polo1.4 85 Confortline
+  €5,850 → €5,500 (-€350)
+
+• Volkswagen PoloPolo 1.4 TDI (Blue Motion ) Highlin...
+  €11,000 → €10,500 (-€500)
+
+• Volkswagen PoloStyle+BVM+Park&Com.+IQ-Drive+LED
+  €18,990 → €18,740 (-€250)
+
+• Volkswagen PoloStyle+BVM+Park&Comf.+IQ-Drive+LED
+  €18,990 → €18,740 (-€250)
+
+• Volkswagen PoloStyle+BVM+Led+CarPlay
+  €18,990 → €18,740 (-€250)
+
+• Volkswagen PoloR-Line+DSG+P.Assisted+P.Lumiere
+  €22,490 → €22,240 (-€250)
+
+• Volkswagen PoloStyle+BVM+Park&Com.+IQ-Drive+LED
+  €18,990 → €18,740 (-€250)
+
+• Volkswagen PoloR-Line+DSG+P.Assistance+P.Lumiere+A...
+  €24,490 → €23,990 (-€500)
+
+• Volkswagen PoloPOLO GTI TSI DSG
+  €25,790 → €23,790 (-€2,000)
+
+• Volkswagen PoloR-Line
+  €27,235 → €26,980 (-€255)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 94
+  Diesel: 14
+  Elektro: 2
+
+Verkäufertypen:
+  Händler: 93
+  Privat: 17
+
+Generiert am: 2026-10-21 09:19:59
+AutoScout24 Luxembourg Scraper v2.0
