@@ -1,0 +1,2 @@
+id,listing_id,make,model,title,price_old,price_new,price_difference,price_change_percent,change_type,change_date,change_timestamp,last_seen,created_at
+5170,5836a9bb-e069-4e87-8f04-1483cae8f549,kia,ev5,"Kia EV5BEV 81,4 kWH GT Line",53994.0,52022.0,-1972.0,-3.652257658258325,PREIS_GESUNKEN,2026-10-22T09:25:11.656869,1792661111,2026-10-21T09:22:45.634350,2026-10-22 09:25:11

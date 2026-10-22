@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: bmw 320
-Datum: 2026-10-21 09:20:23
+Fahrzeug: kia ev4
+Datum: 2026-10-22 09:25:01
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 76
+Gesamt gefundene Listings: 1
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €28,504
-Median-Preis: €27,990
-Günstigstes: €1,500
-Teuerstes: €58,800
-Preisspanne: €57,300
+Durchschnittspreis: €43,990
+Median-Preis: €43,990
+Günstigstes: €43,990
+Teuerstes: €43,990
+Preisspanne: €0
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,18 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• BMW 320Touring 320d 177 ch Sport Design
-  €5,500 → €5,300 (-€200)
+• Kia EV4BEV 81,4 kWH GT Line
+  €56,290 → €43,990 (-€12,300)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 53
-  Benzin: 20
-  3: 3
+  Elektro: 1
 
 Verkäufertypen:
-  Händler: 41
-  Privat: 35
+  Händler: 1
 
-Generiert am: 2026-10-21 09:20:23
+Generiert am: 2026-10-22 09:25:01
 AutoScout24 Luxembourg Scraper v2.0
