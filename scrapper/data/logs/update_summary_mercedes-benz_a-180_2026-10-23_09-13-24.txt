@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: mercedes-benz a-180
-Datum: 2026-10-22 09:18:05
+Datum: 2026-10-23 09:13:24
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 44
+Gesamt gefundene Listings: 43
 Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €21,963
-Median-Preis: €23,250
+Durchschnittspreis: €21,878
+Median-Preis: €23,000
 Günstigstes: €6,555
 Teuerstes: €41,705
 Preisspanne: €35,150
@@ -28,18 +28,25 @@ TOP 5 GÜNSTIGSTE LISTINGS
 
 PREISÄNDERUNGEN
 ===============
-Keine Preisänderungen verfügbar.
+Preisänderungen heute: 1
 
+📉 PREISSENKUNGEN (1)
+==============================
+• Mercedes-Benz A 180CDI Progressive 8G-DCT CUIR GPS...
+  €26,780 → €26,480 (-€300)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 29
+  Diesel: 28
   Benzin: 14
   2: 1
 
 Verkäufertypen:
-  Händler: 27
+  Händler: 26
   Privat: 17
 
-Generiert am: 2026-10-22 09:18:05
+Generiert am: 2026-10-23 09:13:24
 AutoScout24 Luxembourg Scraper v2.0
