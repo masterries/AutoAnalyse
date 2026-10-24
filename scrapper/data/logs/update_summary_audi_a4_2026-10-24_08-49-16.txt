@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a4
-Datum: 2026-10-23 09:15:21
+Datum: 2026-10-24 08:49:16
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,18 +20,8 @@ Preisspanne: €36,790
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 2
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (2)
-==============================
-• Audi A4Avant S-Line 2.0 TDI 150 CV * HAYON * NAVI ...
-  €16,990 → €15,990 (-€1,000)
-
-• Audi A4Avant 40 TDI 190 Quattro
-  €22,600 → €22,300 (-€300)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -44,5 +34,5 @@ Verkäufertypen:
   Privat: 31
   Händler: 20
 
-Generiert am: 2026-10-23 09:15:21
+Generiert am: 2026-10-24 08:49:16
 AutoScout24 Luxembourg Scraper v2.0
