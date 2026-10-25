@@ -2,13 +2,13 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 420
-Datum: 2026-10-24 08:52:17
+Datum: 2026-10-25 09:07:40
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 21
-Neue Listings: 1
+Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
@@ -17,14 +17,6 @@ Median-Preis: €35,990
 Günstigstes: €15,900
 Teuerstes: €47,990
 Preisspanne: €32,090
-
-TOP 5 GÜNSTIGSTE LISTINGS
-=========================
-• €15,900 - BMW 420D LUXURY LINE HEAD UP AUTO CUIR NAVI
-• €16,000 - BMW 420Coupe Sport Line
-• €22,250 - BMW 420420d Cabrio Sport-Aut. Sport Line M PAKET
-• €29,900 - BMW 420Cabrio Aut. M Sport - JUSQU'A 36 MOIS DE GARANTIE
-• €29,990 - BMW 420d xDrive Pack M 2.0L 190ch /GPS/Camera/
 
 PREISÄNDERUNGEN
 ===============
@@ -41,5 +33,5 @@ Verkäufertypen:
   Händler: 17
   Privat: 4
 
-Generiert am: 2026-10-24 08:52:17
+Generiert am: 2026-10-25 09:07:40
 AutoScout24 Luxembourg Scraper v2.0
