@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: mercedes-benz c-200
-Datum: 2026-10-25 09:03:19
+Fahrzeug: bmw 330
+Datum: 2026-10-26 10:02:08
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 28
+Gesamt gefundene Listings: 41
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,970
-Median-Preis: €40,580
-Günstigstes: €6,500
-Teuerstes: €56,388
-Preisspanne: €49,888
+Durchschnittspreis: €35,988
+Median-Preis: €39,900
+Günstigstes: €2,450
+Teuerstes: €61,400
+Preisspanne: €58,950
 
 PREISÄNDERUNGEN
 ===============
@@ -24,21 +24,23 @@ Preisänderungen heute: 1
 
 📉 PREISSENKUNGEN (1)
 ==============================
-• Mercedes-Benz C 200d T - 9GTronic - Avantgarde - N...
-  €16,980 → €14,980 (-€2,000)
+• BMW 330330i GT Aut. M Sport
+  €19,990 → €18,990 (-€1,000)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 26
-  3: 1
-  2: 1
+  Benzin: 17
+  Diesel: 13
+  2: 8
+  3: 2
+  o: 1
 
 Verkäufertypen:
-  Händler: 25
-  Privat: 3
+  Händler: 29
+  Privat: 12
 
-Generiert am: 2026-10-25 09:03:19
+Generiert am: 2026-10-26 10:02:08
 AutoScout24 Luxembourg Scraper v2.0
