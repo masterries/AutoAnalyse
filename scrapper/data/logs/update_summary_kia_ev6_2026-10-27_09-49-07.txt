@@ -1,22 +1,22 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: audi a5
-Datum: 2026-10-26 09:59:51
+Fahrzeug: kia ev6
+Datum: 2026-10-27 09:49:07
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 85
+Gesamt gefundene Listings: 1
 Neue Listings: 0
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €36,632
-Median-Preis: €39,999
-Günstigstes: €7,000
-Teuerstes: €63,900
-Preisspanne: €56,900
+Durchschnittspreis: €31,500
+Median-Preis: €31,500
+Günstigstes: €31,500
+Teuerstes: €31,500
+Preisspanne: €0
 
 PREISÄNDERUNGEN
 ===============
@@ -25,14 +25,10 @@ Keine Preisänderungen verfügbar.
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 48
-  Benzin: 31
-  2: 4
-  3: 2
+  Elektro: 1
 
 Verkäufertypen:
-  Händler: 63
-  Privat: 22
+  Privat: 1
 
-Generiert am: 2026-10-26 09:59:51
+Generiert am: 2026-10-27 09:49:07
 AutoScout24 Luxembourg Scraper v2.0
