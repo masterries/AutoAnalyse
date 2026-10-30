@@ -2,7 +2,7 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: bmw 520
-Datum: 2026-10-29 10:52:58
+Datum: 2026-10-30 10:52:32
 Scraper Version: 2.0
 
 NEUE LISTINGS
@@ -20,15 +20,8 @@ Preisspanne: €63,501
 
 PREISÄNDERUNGEN
 ===============
-Preisänderungen heute: 1
+Keine Preisänderungen verfügbar.
 
-📉 PREISSENKUNGEN (1)
-==============================
-• BMW 520BMW 520d F11 190 cv facelift euro 6
-  €11,900 → €11,200 (-€700)
-
-📈 PREISERHÖHUNGEN (0)
-==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
@@ -40,5 +33,5 @@ Verkäufertypen:
   Händler: 26
   Privat: 12
 
-Generiert am: 2026-10-29 10:52:58
+Generiert am: 2026-10-30 10:52:32
 AutoScout24 Luxembourg Scraper v2.0
