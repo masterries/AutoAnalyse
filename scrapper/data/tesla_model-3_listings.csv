@@ -1,4 +1,5 @@
 id,listing_id,make,model,title,url,price,mileage,fuel_type,first_registration,power,transmission,seller_type,location,scraped_date,scraped_timestamp,is_active,created_at,updated_at
-9789,c2dddb09-681c-456e-9480-ec757da90e01,tesla,model-3,Tesla Model 3Model 3  JUSQU'A 36MOIS DE GARANTIE POSSIBLE,,25400.0,90000,Elektro,06-2020,,,Händler,,2026-11-01T11:12:39.435064,1793531559,1,2026-08-23 04:49:16,2026-11-01 11:12:43
-10769,3401d062-a88f-45a3-9e1e-39051716c4c0,tesla,model-3,Tesla Model 3Model 3 Langstreckenbatt. Allradantrieb Dual Motor,,34300.0,43559,Elektro,08-2023,,,Händler,,2026-11-01T11:12:39.435648,1793531559,1,2026-10-15 09:08:22,2026-11-01 11:12:43
-11058,e168b5ec-5a00-491d-956e-d6ce8fcb91d4,tesla,model-3,Tesla Model 3SR +,,24990.0,0,Elektro,08-2020,,,Händler,,2026-11-01T11:12:39.436104,1793531559,1,2026-11-01 11:12:43,2026-11-01 11:12:43
+9789,c2dddb09-681c-456e-9480-ec757da90e01,tesla,model-3,Tesla Model 3Model 3  JUSQU'A 36MOIS DE GARANTIE POSSIBLE,,25400.0,90000,Elektro,06-2020,,,Händler,,2026-11-08T11:13:38.029758,1794136418,1,2026-08-23 04:49:16,2026-11-08 11:13:42
+11058,e168b5ec-5a00-491d-956e-d6ce8fcb91d4,tesla,model-3,Tesla Model 3SR +,,24990.0,58327,Elektro,08-2020,,,Händler,,2026-11-08T11:13:38.029001,1794136418,1,2026-11-01 11:12:43,2026-11-08 11:13:42
+11177,90737eed-e559-4e1a-b27d-7cdc858352a5,tesla,model-3,Tesla Model 3Model 3 / dual mot / long range / auto pilot/ pano,,18000.0,140000,Elektro,04-2021,,,Händler,,2026-11-08T11:13:38.029443,1794136418,1,2026-11-08 11:13:42,2026-11-08 11:13:42
+11178,f94e11cd-f406-46f4-9adf-add4c8d63e4e,tesla,model-3,Tesla Model 3Premium RWD keramikversiegelt 1. Hand unfallfrei,,33500.0,49800,Elektro,03-2024,,,Privat,,2026-11-08T11:13:38.030088,1794136418,1,2026-11-08 11:13:42,2026-11-08 11:13:42
