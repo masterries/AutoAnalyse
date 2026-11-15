@@ -1,0 +1,74 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: bmw x1
+Datum: 2026-11-15 11:54:27
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 95
+Neue Listings: 15
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €33,765
+Median-Preis: €35,500
+Günstigstes: €6,000
+Teuerstes: €73,303
+Preisspanne: €67,303
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €6,000 - BMW X1xDrive20d
+• €7,150 - BMW X1X1 xDrive18d Aut. xLine
+• €7,990 - BMW X118 i sDrive**NAVI**SHZ**PDC**
+• €8,000 - BMW X1X1 xDrive20d
+• €8,600 - BMW X1X1 xDrive28i
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 8
+
+📉 PREISSENKUNGEN (8)
+==============================
+• BMW X1X1 1.5 d sDrive16 //Révisée Et Garantie 12 M...
+  €16,900 → €15,999 (-€901)
+
+• BMW X1X1 1.5D // Full Black // Garantie 12 Mois✅✅✅
+  €17,900 → €16,900 (-€1,000)
+
+• BMW X1X1 1.5D Automatique//Révisée & Garantie 12 M...
+  €19,900 → €18,999 (-€901)
+
+• BMW X1X1 1.5D Automatique // Garantie 12 Mois✅✅✅
+  €19,900 → €17,999 (-€1,901)
+
+• BMW X118i sDrive M SPORT  Louyet RE-USED Edition 1...
+  €38,490 → €36,990 (-€1,500)
+
+• BMW X118i sDrive M SPORT  Louyet RE-USED Edition 1...
+  €38,490 → €36,990 (-€1,500)
+
+• BMW X1sDrive18d M Sport M Sportpaket DAB Shz
+  €35,500 → €30,600 (-€4,900)
+
+• BMW X1X1 xDrive23d Aut. M Sportpaket
+  €44,750 → €44,450 (-€300)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 40
+  Diesel: 33
+  2: 14
+  3: 8
+
+Verkäufertypen:
+  Händler: 78
+  Privat: 17
+
+Generiert am: 2026-11-15 11:54:27
+AutoScout24 Luxembourg Scraper v2.0

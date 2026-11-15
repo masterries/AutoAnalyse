@@ -2,18 +2,18 @@ AutoScout24 Scraping Update Summary
 =====================================
 
 Fahrzeug: audi a5
-Datum: 2026-11-08 11:09:47
+Datum: 2026-11-15 11:51:06
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
-Gesamt gefundene Listings: 86
-Neue Listings: 10
+Gesamt gefundene Listings: 88
+Neue Listings: 5
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €35,585
-Median-Preis: €39,990
+Durchschnittspreis: €35,567
+Median-Preis: €39,940
 Günstigstes: €4,500
 Teuerstes: €66,990
 Preisspanne: €62,490
@@ -32,43 +32,43 @@ Preisänderungen heute: 8
 
 📉 PREISSENKUNGEN (8)
 ==============================
-• Audi A5Edition one
-  €52,380 → €51,980 (-€400)
+• Audi A5A5 Sportback 2.0 TDI S tronic design
+  €26,900 → €24,900 (-€2,000)
 
-• Audi A5TDI Quattro Sline
-  €46,900 → €44,990 (-€1,910)
-
-• Audi A5Avant+S-Line+S-tronic+P.Business+AHK+LM19
-  €51,990 → €50,990 (-€1,000)
+• Audi A5SPORTBACK 35 TDI 163CV S-TRONIC BUSINESS CA...
+  €27,990 → €27,190 (-€800)
 
 • Audi A5TDI quattro 150 kW S tronic
-  €44,900 → €42,990 (-€1,910)
+  €56,838 → €56,339 (-€499)
 
-• Audi A5Avant+S-Tronic+S-line+P.Business+AHK+LM18
-  €45,990 → €44,990 (-€1,000)
+• Audi A5TFSI 110 kW S tronic
+  €41,900 → €39,990 (-€1,910)
+
+• Audi A5Avant+S-Line+S-tronic+P.Business+AHK+LM19
+  €50,990 → €48,990 (-€2,000)
+
+• Audi A5Avant+S-Line+TDI+Quattro+S-Tronic+AHK+P.Bus...
+  €46,490 → €45,990 (-€500)
+
+• Audi A5Avant+S-Line+TDI+S-Tronic+P.Business+
+  €45,990 → €43,990 (-€2,000)
 
 • Audi A5Avant+S-Tronic+TechPlus+1xS-Line+P.Business...
-  €42,990 → €42,490 (-€500)
-
-• Audi A5Avant TDI 150 kW S tronic
-  €48,736 → €48,393 (-€343)
-
-• Audi A5Avant
-  €42,980 → €41,980 (-€1,000)
+  €42,490 → €41,990 (-€500)
 
 📈 PREISERHÖHUNGEN (0)
 ==============================
 ZUSÄTZLICHE INFORMATIONEN
 =========================
 Kraftstofftypen:
-  Diesel: 50
+  Diesel: 53
   Benzin: 30
   2: 4
-  3: 2
+  3: 1
 
 Verkäufertypen:
-  Händler: 63
-  Privat: 23
+  Händler: 66
+  Privat: 22
 
-Generiert am: 2026-11-08 11:09:47
+Generiert am: 2026-11-15 11:51:06
 AutoScout24 Luxembourg Scraper v2.0

@@ -1,0 +1,80 @@
+AutoScout24 Scraping Update Summary
+=====================================
+
+Fahrzeug: volkswagen golf
+Datum: 2026-11-15 11:52:09
+Scraper Version: 2.0
+
+NEUE LISTINGS
+=============
+Gesamt gefundene Listings: 182
+Neue Listings: 18
+
+PREISSTATISTIKEN
+================
+Durchschnittspreis: €22,469
+Median-Preis: €23,240
+Günstigstes: €500
+Teuerstes: €54,990
+Preisspanne: €54,490
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €500 - Volkswagen GolfGolf 1.8 GL
+• €1,300 - Volkswagen GolfGolf 2.0 TDI 4Motion Trendline
+• €2,000 - Volkswagen Golf1.2 TSI Style
+• €2,350 - Volkswagen Golf1.9 TDI Individual
+• €2,499 - Volkswagen GolfComfortline Golf 1.4 TSI
+
+PREISÄNDERUNGEN
+===============
+Preisänderungen heute: 10
+
+📉 PREISSENKUNGEN (10)
+==============================
+• Volkswagen Golf1.5 eTSI Life dsg automatique//Gara...
+  €19,900 → €18,900 (-€1,000)
+
+• Volkswagen Golf1.6 TDI SCR Comfortline
+  €14,400 → €13,900 (-€500)
+
+• Volkswagen GolfGolf 1.0 TSI OPF Life
+  €16,390 → €15,990 (-€400)
+
+• Volkswagen GolfGTI+BVM+StandHeizung+AHK+Led+Navi+D...
+  €24,990 → €24,490 (-€500)
+
+• Volkswagen GolfAllstar / DSG
+  €14,990 → €14,000 (-€990)
+
+• Volkswagen GolfVIII 1.0 eTSI 110 DSG GPS CARPLAY V...
+  €19,490 → €19,390 (-€100)
+
+• Volkswagen GolfGTI Clubsport+Edition45+DSG+Pano+Re...
+  €34,990 → €30,990 (-€4,000)
+
+• Volkswagen Golf8.5 GTI CS *PANO*AKRA*CUIR *FULL
+  €39,987 → €38,987 (-€1,000)
+
+• Volkswagen GolfGolf RLINE 1.5 eTSI DSG/HEADUP/PANO...
+  €38,999 → €37,999 (-€1,000)
+
+• Volkswagen GolfR-Line
+  €38,940 → €37,600 (-€1,340)
+
+📈 PREISERHÖHUNGEN (0)
+==============================
+ZUSÄTZLICHE INFORMATIONEN
+=========================
+Kraftstofftypen:
+  Benzin: 108
+  Diesel: 54
+  2: 19
+  o: 1
+
+Verkäufertypen:
+  Händler: 127
+  Privat: 55
+
+Generiert am: 2026-11-15 11:52:09
+AutoScout24 Luxembourg Scraper v2.0

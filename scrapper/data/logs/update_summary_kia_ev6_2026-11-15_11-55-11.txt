@@ -1,22 +1,27 @@
 AutoScout24 Scraping Update Summary
 =====================================
 
-Fahrzeug: kia ev9
-Datum: 2026-11-08 11:14:28
+Fahrzeug: kia ev6
+Datum: 2026-11-15 11:55:11
 Scraper Version: 2.0
 
 NEUE LISTINGS
 =============
 Gesamt gefundene Listings: 2
-Neue Listings: 0
+Neue Listings: 1
 
 PREISSTATISTIKEN
 ================
-Durchschnittspreis: €64,950
-Median-Preis: €64,950
-Günstigstes: €60,000
-Teuerstes: €69,900
-Preisspanne: €9,900
+Durchschnittspreis: €35,245
+Median-Preis: €35,245
+Günstigstes: €31,500
+Teuerstes: €38,990
+Preisspanne: €7,490
+
+TOP 5 GÜNSTIGSTE LISTINGS
+=========================
+• €31,500 - Kia EV6EV6 77,4-kWh AWD GT-line
+• €38,990 - Kia EV6EV6 77,4-kWh AWD GT-line
 
 PREISÄNDERUNGEN
 ===============
@@ -28,8 +33,7 @@ Kraftstofftypen:
   Elektro: 2
 
 Verkäufertypen:
-  Privat: 1
-  Händler: 1
+  Privat: 2
 
-Generiert am: 2026-11-08 11:14:28
+Generiert am: 2026-11-15 11:55:11
 AutoScout24 Luxembourg Scraper v2.0
